@@ -36,16 +36,16 @@ Mike Porcaro is the bass voice for the `Toto` pairing label. In the local rankin
 
 | Song | Why Listen |
 |---|---|
-| [Rosanna](https://open.spotify.com/search/Rosanna%20Toto) | Listen for Mike Porcaro's bass role in the `Toto` vocabulary. |
-| [Africa](https://open.spotify.com/search/Africa%20Toto) | Listen for Mike Porcaro's bass role in the `Toto` vocabulary. |
-| [Hold the Line](https://open.spotify.com/search/Hold%20the%20Line%20Toto) | Listen for Mike Porcaro's bass role in the `Toto` vocabulary. |
-| [Georgy Porgy](https://open.spotify.com/search/Georgy%20Porgy%20Toto) | Listen for Mike Porcaro's bass role in the `Toto` vocabulary. |
-| [Pamela](https://open.spotify.com/search/Pamela%20Toto) | Listen for Mike Porcaro's bass role in the `Toto` vocabulary. |
-| [Home of the Brave](https://open.spotify.com/search/Home%20of%20the%20Brave%20Toto) | Listen for Mike Porcaro's bass role in the `Toto` vocabulary. |
-| [I'll Supply the Love](https://open.spotify.com/search/I%27ll%20Supply%20the%20Love%20Toto) | Listen for Mike Porcaro's bass role in the `Toto` vocabulary. |
-| [Stop Loving You](https://open.spotify.com/search/Stop%20Loving%20You%20Toto) | Listen for Mike Porcaro's bass role in the `Toto` vocabulary. |
-| [I Won't Hold You Back](https://open.spotify.com/search/I%20Won%27t%20Hold%20You%20Back%20Toto) | Listen for Mike Porcaro's bass role in the `Toto` vocabulary. |
-| [Jake to the Bone](https://open.spotify.com/search/Jake%20to%20the%20Bone%20Toto) | Listen for Mike Porcaro's bass role in the `Toto` vocabulary. |
+| [Africa](https://open.spotify.com/search/Africa%20Mike%20Porcaro%20Toto) | Focus on movement between chord roots, anticipations, and section lift. |
+| [Hold the Line](https://open.spotify.com/search/Hold%20the%20Line%20Mike%20Porcaro%20Toto) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Georgy Porgy](https://open.spotify.com/search/Georgy%20Porgy%20Mike%20Porcaro%20Toto) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [I'll Supply the Love](https://open.spotify.com/search/I%27ll%20Supply%20the%20Love%20Mike%20Porcaro%20Toto) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Hydra](https://open.spotify.com/search/Hydra%20Mike%20Porcaro%20Toto) | Track the pocket, note length, and how Mike Porcaro grounds the harmony. |
+| [99](https://open.spotify.com/search/99%20Mike%20Porcaro%20Toto) | Focus on movement between chord roots, anticipations, and section lift. |
+| [Goodbye Elenore](https://open.spotify.com/search/Goodbye%20Elenore%20Mike%20Porcaro%20Toto) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Gift with a Golden Gun](https://open.spotify.com/search/Gift%20with%20a%20Golden%20Gun%20Mike%20Porcaro%20Toto) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Jake to the Bone](https://open.spotify.com/search/Jake%20to%20the%20Bone%20Mike%20Porcaro%20Toto) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Pamela](https://open.spotify.com/search/Pamela%20Mike%20Porcaro%20Toto) | Track the pocket, note length, and how Mike Porcaro grounds the harmony. |
 
 ## Steve Lukather
 
@@ -68,16 +68,16 @@ Steve Lukather is the guitar voice for the `Toto` pairing label. In the local ra
 
 | Song | Why Listen |
 |---|---|
-| [Rosanna](https://open.spotify.com/search/Rosanna%20Toto) | Listen for Steve Lukather's guitar role in the `Toto` vocabulary. |
-| [Africa](https://open.spotify.com/search/Africa%20Toto) | Listen for Steve Lukather's guitar role in the `Toto` vocabulary. |
-| [Hold the Line](https://open.spotify.com/search/Hold%20the%20Line%20Toto) | Listen for Steve Lukather's guitar role in the `Toto` vocabulary. |
-| [Georgy Porgy](https://open.spotify.com/search/Georgy%20Porgy%20Toto) | Listen for Steve Lukather's guitar role in the `Toto` vocabulary. |
-| [Pamela](https://open.spotify.com/search/Pamela%20Toto) | Listen for Steve Lukather's guitar role in the `Toto` vocabulary. |
-| [Home of the Brave](https://open.spotify.com/search/Home%20of%20the%20Brave%20Toto) | Listen for Steve Lukather's guitar role in the `Toto` vocabulary. |
-| [I'll Supply the Love](https://open.spotify.com/search/I%27ll%20Supply%20the%20Love%20Toto) | Listen for Steve Lukather's guitar role in the `Toto` vocabulary. |
-| [Stop Loving You](https://open.spotify.com/search/Stop%20Loving%20You%20Toto) | Listen for Steve Lukather's guitar role in the `Toto` vocabulary. |
-| [I Won't Hold You Back](https://open.spotify.com/search/I%20Won%27t%20Hold%20You%20Back%20Toto) | Listen for Steve Lukather's guitar role in the `Toto` vocabulary. |
-| [Jake to the Bone](https://open.spotify.com/search/Jake%20to%20the%20Bone%20Toto) | Listen for Steve Lukather's guitar role in the `Toto` vocabulary. |
+| [Carmen](https://open.spotify.com/search/Carmen%20Steve%20Lukather%20Toto) | Focus on phrasing, tone, bends, and how Steve Lukather shapes the melodic argument. |
+| [Home of the Brave](https://open.spotify.com/search/Home%20of%20the%20Brave%20Steve%20Lukather%20Toto) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
+| [Mushanga](https://open.spotify.com/search/Mushanga%20Steve%20Lukather%20Toto) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [English Eyes](https://open.spotify.com/search/English%20Eyes%20Steve%20Lukather%20Toto) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Child's Anthem](https://open.spotify.com/search/Child%27s%20Anthem%20Steve%20Lukather%20Toto) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Steve%20Lukather%20Toto) | Focus on phrasing, tone, bends, and how Steve Lukather shapes the melodic argument. |
+| [Africa](https://open.spotify.com/search/Africa%20Steve%20Lukather%20Toto) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
+| [Hold the Line](https://open.spotify.com/search/Hold%20the%20Line%20Steve%20Lukather%20Toto) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Georgy Porgy](https://open.spotify.com/search/Georgy%20Porgy%20Steve%20Lukather%20Toto) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [I'll Supply the Love](https://open.spotify.com/search/I%27ll%20Supply%20the%20Love%20Steve%20Lukather%20Toto) | Listen for comping choices and the way guitar defines the ensemble color. |
 
 ## Jeff Porcaro
 
@@ -100,16 +100,16 @@ Jeff Porcaro appears here as the drums voice for the `Toto` pairing label. In th
 
 | Song | Why Listen |
 |---|---|
-| [Rosanna](https://open.spotify.com/search/Rosanna%20Toto) | Listen for Jeff Porcaro's drums role in the `Toto` vocabulary. |
-| [Africa](https://open.spotify.com/search/Africa%20Toto) | Listen for Jeff Porcaro's drums role in the `Toto` vocabulary. |
-| [Hold the Line](https://open.spotify.com/search/Hold%20the%20Line%20Toto) | Listen for Jeff Porcaro's drums role in the `Toto` vocabulary. |
-| [Georgy Porgy](https://open.spotify.com/search/Georgy%20Porgy%20Toto) | Listen for Jeff Porcaro's drums role in the `Toto` vocabulary. |
-| [Pamela](https://open.spotify.com/search/Pamela%20Toto) | Listen for Jeff Porcaro's drums role in the `Toto` vocabulary. |
-| [Home of the Brave](https://open.spotify.com/search/Home%20of%20the%20Brave%20Toto) | Listen for Jeff Porcaro's drums role in the `Toto` vocabulary. |
-| [I'll Supply the Love](https://open.spotify.com/search/I%27ll%20Supply%20the%20Love%20Toto) | Listen for Jeff Porcaro's drums role in the `Toto` vocabulary. |
-| [Stop Loving You](https://open.spotify.com/search/Stop%20Loving%20You%20Toto) | Listen for Jeff Porcaro's drums role in the `Toto` vocabulary. |
-| [I Won't Hold You Back](https://open.spotify.com/search/I%20Won%27t%20Hold%20You%20Back%20Toto) | Listen for Jeff Porcaro's drums role in the `Toto` vocabulary. |
-| [Jake to the Bone](https://open.spotify.com/search/Jake%20to%20the%20Bone%20Toto) | Listen for Jeff Porcaro's drums role in the `Toto` vocabulary. |
+| [Stranger in Town](https://open.spotify.com/search/Stranger%20in%20Town%20Jeff%20Porcaro%20Toto) | Listen for dynamic control and density changes without losing pulse. |
+| [Carmen](https://open.spotify.com/search/Carmen%20Jeff%20Porcaro%20Toto) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Home of the Brave](https://open.spotify.com/search/Home%20of%20the%20Brave%20Jeff%20Porcaro%20Toto) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Mushanga](https://open.spotify.com/search/Mushanga%20Jeff%20Porcaro%20Toto) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [English Eyes](https://open.spotify.com/search/English%20Eyes%20Jeff%20Porcaro%20Toto) | Use this for groove architecture rather than surface-level chops. |
+| [Child's Anthem](https://open.spotify.com/search/Child%27s%20Anthem%20Jeff%20Porcaro%20Toto) | Listen for dynamic control and density changes without losing pulse. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Jeff%20Porcaro%20Toto) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Africa](https://open.spotify.com/search/Africa%20Jeff%20Porcaro%20Toto) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Hold the Line](https://open.spotify.com/search/Hold%20the%20Line%20Jeff%20Porcaro%20Toto) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Georgy Porgy](https://open.spotify.com/search/Georgy%20Porgy%20Jeff%20Porcaro%20Toto) | Use this for groove architecture rather than surface-level chops. |
 
 ## David Paich
 
@@ -132,16 +132,16 @@ David Paich appears here as the keyboards voice for the `Toto` pairing label. In
 
 | Song | Why Listen |
 |---|---|
-| [Rosanna](https://open.spotify.com/search/Rosanna%20Toto) | Listen for David Paich's keyboards role in the `Toto` vocabulary. |
-| [Africa](https://open.spotify.com/search/Africa%20Toto) | Listen for David Paich's keyboards role in the `Toto` vocabulary. |
-| [Hold the Line](https://open.spotify.com/search/Hold%20the%20Line%20Toto) | Listen for David Paich's keyboards role in the `Toto` vocabulary. |
-| [Georgy Porgy](https://open.spotify.com/search/Georgy%20Porgy%20Toto) | Listen for David Paich's keyboards role in the `Toto` vocabulary. |
-| [Pamela](https://open.spotify.com/search/Pamela%20Toto) | Listen for David Paich's keyboards role in the `Toto` vocabulary. |
-| [Home of the Brave](https://open.spotify.com/search/Home%20of%20the%20Brave%20Toto) | Listen for David Paich's keyboards role in the `Toto` vocabulary. |
-| [I'll Supply the Love](https://open.spotify.com/search/I%27ll%20Supply%20the%20Love%20Toto) | Listen for David Paich's keyboards role in the `Toto` vocabulary. |
-| [Stop Loving You](https://open.spotify.com/search/Stop%20Loving%20You%20Toto) | Listen for David Paich's keyboards role in the `Toto` vocabulary. |
-| [I Won't Hold You Back](https://open.spotify.com/search/I%20Won%27t%20Hold%20You%20Back%20Toto) | Listen for David Paich's keyboards role in the `Toto` vocabulary. |
-| [Jake to the Bone](https://open.spotify.com/search/Jake%20to%20the%20Bone%20Toto) | Listen for David Paich's keyboards role in the `Toto` vocabulary. |
+| [Jake to the Bone](https://open.spotify.com/search/Jake%20to%20the%20Bone%20David%20Paich%20Toto) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Pamela](https://open.spotify.com/search/Pamela%20David%20Paich%20Toto) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Stop Loving You](https://open.spotify.com/search/Stop%20Loving%20You%20David%20Paich%20Toto) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [I Won't Hold You Back](https://open.spotify.com/search/I%20Won%27t%20Hold%20You%20Back%20David%20Paich%20Toto) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Make Believe](https://open.spotify.com/search/Make%20Believe%20David%20Paich%20Toto) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Stranger in Town](https://open.spotify.com/search/Stranger%20in%20Town%20David%20Paich%20Toto) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Carmen](https://open.spotify.com/search/Carmen%20David%20Paich%20Toto) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Home of the Brave](https://open.spotify.com/search/Home%20of%20the%20Brave%20David%20Paich%20Toto) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Mushanga](https://open.spotify.com/search/Mushanga%20David%20Paich%20Toto) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [English Eyes](https://open.spotify.com/search/English%20Eyes%20David%20Paich%20Toto) | Use this for comping vocabulary, synth texture, and arrangement support. |
 
 ## References
 

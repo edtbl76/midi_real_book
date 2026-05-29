@@ -8,7 +8,7 @@ This ensemble represents the `Meshuggah / Periphery` pairing label, a stylistic 
 
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
-| [Dick Lövgren](#dick-l-vgren) | Bass | [Wikipedia][dick-l-vgren-wiki] | — |
+| [Dick Lövgren](#dick-lovgren) | Bass | [Wikipedia][dick-l-vgren-wiki] | — |
 | [Misha Mansoor](#misha-mansoor) | Guitar | [Wikipedia][misha-mansoor-wiki] | — |
 | [Tomas Haake](#tomas-haake) | Drums | [Wikipedia][tomas-haake-wiki] | — |
 
@@ -35,16 +35,16 @@ Dick Lövgren is the bass voice for the `Meshuggah / Periphery` pairing label. I
 
 | Song | Why Listen |
 |---|---|
-| [Bleed](https://open.spotify.com/search/Bleed%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Demiurge](https://open.spotify.com/search/Demiurge%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Rational Gaze](https://open.spotify.com/search/Rational%20Gaze%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [New Millennium Cyanide Christ](https://open.spotify.com/search/New%20Millennium%20Cyanide%20Christ%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Future Breed Machine](https://open.spotify.com/search/Future%20Breed%20Machine%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Icarus Lives!](https://open.spotify.com/search/Icarus%20Lives%21%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Make Total Destroy](https://open.spotify.com/search/Make%20Total%20Destroy%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Scarlet](https://open.spotify.com/search/Scarlet%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Marigold](https://open.spotify.com/search/Marigold%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Reptile](https://open.spotify.com/search/Reptile%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
+| [Marigold](https://open.spotify.com/search/Marigold%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Reptile](https://open.spotify.com/search/Reptile%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Bleed](https://open.spotify.com/search/Bleed%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Track the pocket, note length, and how Dick Lövgren makes the harmony feel grounded. |
+| [Demiurge](https://open.spotify.com/search/Demiurge%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Rational Gaze](https://open.spotify.com/search/Rational%20Gaze%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [New Millennium Cyanide Christ](https://open.spotify.com/search/New%20Millennium%20Cyanide%20Christ%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Hair](https://open.spotify.com/search/Hair%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Track the pocket, note length, and how Dick Lövgren makes the harmony feel grounded. |
+| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Peg](https://open.spotify.com/search/Peg%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Listen for how the low end supports the drummer without crowding the arrangement. |
 
 ## Misha Mansoor
 
@@ -67,16 +67,16 @@ Misha Mansoor is the guitar voice for the `Meshuggah / Periphery` pairing label.
 
 | Song | Why Listen |
 |---|---|
-| [Bleed](https://open.spotify.com/search/Bleed%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Demiurge](https://open.spotify.com/search/Demiurge%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Rational Gaze](https://open.spotify.com/search/Rational%20Gaze%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [New Millennium Cyanide Christ](https://open.spotify.com/search/New%20Millennium%20Cyanide%20Christ%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Future Breed Machine](https://open.spotify.com/search/Future%20Breed%20Machine%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Icarus Lives!](https://open.spotify.com/search/Icarus%20Lives%21%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Make Total Destroy](https://open.spotify.com/search/Make%20Total%20Destroy%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Scarlet](https://open.spotify.com/search/Scarlet%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Marigold](https://open.spotify.com/search/Marigold%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Reptile](https://open.spotify.com/search/Reptile%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
+| [Rational Gaze](https://open.spotify.com/search/Rational%20Gaze%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [New Millennium Cyanide Christ](https://open.spotify.com/search/New%20Millennium%20Cyanide%20Christ%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Future Breed Machine](https://open.spotify.com/search/Future%20Breed%20Machine%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Icarus Lives!](https://open.spotify.com/search/Icarus%20Lives%21%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Focus on phrasing, tone, bends, and how Misha Mansoor shapes the melodic argument. |
+| [Make Total Destroy](https://open.spotify.com/search/Make%20Total%20Destroy%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Scarlet](https://open.spotify.com/search/Scarlet%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Aja](https://open.spotify.com/search/Aja%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Focus on phrasing, tone, bends, and how Misha Mansoor shapes the melodic argument. |
+| [Peg](https://open.spotify.com/search/Peg%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
 
 ## Tomas Haake
 
@@ -99,16 +99,16 @@ Tomas Haake appears here as the drums voice for the `Meshuggah / Periphery` pair
 
 | Song | Why Listen |
 |---|---|
-| [Bleed](https://open.spotify.com/search/Bleed%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Demiurge](https://open.spotify.com/search/Demiurge%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Rational Gaze](https://open.spotify.com/search/Rational%20Gaze%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [New Millennium Cyanide Christ](https://open.spotify.com/search/New%20Millennium%20Cyanide%20Christ%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Future Breed Machine](https://open.spotify.com/search/Future%20Breed%20Machine%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Icarus Lives!](https://open.spotify.com/search/Icarus%20Lives%21%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Make Total Destroy](https://open.spotify.com/search/Make%20Total%20Destroy%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Scarlet](https://open.spotify.com/search/Scarlet%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Marigold](https://open.spotify.com/search/Marigold%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
-| [Reptile](https://open.spotify.com/search/Reptile%20Meshuggah%20-%20Periphery) | Idiomatic listening for the `Meshuggah - Periphery` ensemble vocabulary. |
+| [Reptile](https://open.spotify.com/search/Reptile%20Tomas%20Haake%20Meshuggah%20/%20Periphery) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Bleed](https://open.spotify.com/search/Bleed%20Tomas%20Haake%20Meshuggah%20/%20Periphery) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Demiurge](https://open.spotify.com/search/Demiurge%20Tomas%20Haake%20Meshuggah%20/%20Periphery) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Rational Gaze](https://open.spotify.com/search/Rational%20Gaze%20Tomas%20Haake%20Meshuggah%20/%20Periphery) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [New Millennium Cyanide Christ](https://open.spotify.com/search/New%20Millennium%20Cyanide%20Christ%20Tomas%20Haake%20Meshuggah%20/%20Periphery) | Use this for groove architecture rather than just surface-level chops. |
+| [Future Breed Machine](https://open.spotify.com/search/Future%20Breed%20Machine%20Tomas%20Haake%20Meshuggah%20/%20Periphery) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [One Word](https://open.spotify.com/search/One%20Word%20Tomas%20Haake%20Meshuggah%20/%20Periphery) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Larks' Tongues in Aspic, Part Two](https://open.spotify.com/search/Larks%27%20Tongues%20in%20Aspic%2C%20Part%20Two%20Tomas%20Haake%20Meshuggah%20/%20Periphery) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Aja](https://open.spotify.com/search/Aja%20Tomas%20Haake%20Meshuggah%20/%20Periphery) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Tomas%20Haake%20Meshuggah%20/%20Periphery) | Use this for groove architecture rather than just surface-level chops. |
 
 ## References
 

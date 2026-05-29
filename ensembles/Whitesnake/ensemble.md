@@ -36,16 +36,16 @@ Marco Mendoza is the bass voice for the `Whitesnake` pairing label. In the local
 
 | Song | Why Listen |
 |---|---|
-| [Still of the Night](https://open.spotify.com/search/Still%20of%20the%20Night%20Whitesnake) | Listen for Marco Mendoza's role in the `Whitesnake` vocabulary. |
-| [Is This Love](https://open.spotify.com/search/Is%20This%20Love%20Whitesnake) | Listen for Marco Mendoza's role in the `Whitesnake` vocabulary. |
-| [Crying in the Rain](https://open.spotify.com/search/Crying%20in%20the%20Rain%20Whitesnake) | Listen for Marco Mendoza's role in the `Whitesnake` vocabulary. |
-| [Bad Boys](https://open.spotify.com/search/Bad%20Boys%20Whitesnake) | Listen for Marco Mendoza's role in the `Whitesnake` vocabulary. |
-| [Slide It In](https://open.spotify.com/search/Slide%20It%20In%20Whitesnake) | Listen for Marco Mendoza's role in the `Whitesnake` vocabulary. |
-| [Slow an' Easy](https://open.spotify.com/search/Slow%20an%27%20Easy%20Whitesnake) | Listen for Marco Mendoza's role in the `Whitesnake` vocabulary. |
-| [Here I Go Again](https://open.spotify.com/search/Here%20I%20Go%20Again%20Whitesnake) | Listen for Marco Mendoza's role in the `Whitesnake` vocabulary. |
-| [Love Ain't No Stranger](https://open.spotify.com/search/Love%20Ain%27t%20No%20Stranger%20Whitesnake) | Listen for Marco Mendoza's role in the `Whitesnake` vocabulary. |
-| [Give Me All Your Love](https://open.spotify.com/search/Give%20Me%20All%20Your%20Love%20Whitesnake) | Listen for Marco Mendoza's role in the `Whitesnake` vocabulary. |
-| [Judgement Day](https://open.spotify.com/search/Judgement%20Day%20Whitesnake) | Listen for Marco Mendoza's role in the `Whitesnake` vocabulary. |
+| [Here I Go Again](https://open.spotify.com/search/Here%20I%20Go%20Again%20Marco%20Mendoza%20Whitesnake) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Love Ain't No Stranger](https://open.spotify.com/search/Love%20Ain%27t%20No%20Stranger%20Marco%20Mendoza%20Whitesnake) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Give Me All Your Love](https://open.spotify.com/search/Give%20Me%20All%20Your%20Love%20Marco%20Mendoza%20Whitesnake) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Judgement Day](https://open.spotify.com/search/Judgement%20Day%20Marco%20Mendoza%20Whitesnake) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Still of the Night](https://open.spotify.com/search/Still%20of%20the%20Night%20Marco%20Mendoza%20Whitesnake) | Track the pocket, note length, and how Marco Mendoza makes the harmony feel grounded. |
+| [Is This Love](https://open.spotify.com/search/Is%20This%20Love%20Marco%20Mendoza%20Whitesnake) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Peg](https://open.spotify.com/search/Peg%20Marco%20Mendoza%20Whitesnake) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Bernadette](https://open.spotify.com/search/Bernadette%20Marco%20Mendoza%20Whitesnake) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Marco%20Mendoza%20Whitesnake) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Power](https://open.spotify.com/search/Power%20Marco%20Mendoza%20Whitesnake) | Track the pocket, note length, and how Marco Mendoza makes the harmony feel grounded. |
 
 ## Richie Kotzen
 
@@ -68,16 +68,16 @@ Richie Kotzen is the guitar voice for the `Whitesnake` pairing label. In the loc
 
 | Song | Why Listen |
 |---|---|
-| [Still of the Night](https://open.spotify.com/search/Still%20of%20the%20Night%20Whitesnake) | Listen for Richie Kotzen's role in the `Whitesnake` vocabulary. |
-| [Is This Love](https://open.spotify.com/search/Is%20This%20Love%20Whitesnake) | Listen for Richie Kotzen's role in the `Whitesnake` vocabulary. |
-| [Crying in the Rain](https://open.spotify.com/search/Crying%20in%20the%20Rain%20Whitesnake) | Listen for Richie Kotzen's role in the `Whitesnake` vocabulary. |
-| [Bad Boys](https://open.spotify.com/search/Bad%20Boys%20Whitesnake) | Listen for Richie Kotzen's role in the `Whitesnake` vocabulary. |
-| [Slide It In](https://open.spotify.com/search/Slide%20It%20In%20Whitesnake) | Listen for Richie Kotzen's role in the `Whitesnake` vocabulary. |
-| [Slow an' Easy](https://open.spotify.com/search/Slow%20an%27%20Easy%20Whitesnake) | Listen for Richie Kotzen's role in the `Whitesnake` vocabulary. |
-| [Here I Go Again](https://open.spotify.com/search/Here%20I%20Go%20Again%20Whitesnake) | Listen for Richie Kotzen's role in the `Whitesnake` vocabulary. |
-| [Love Ain't No Stranger](https://open.spotify.com/search/Love%20Ain%27t%20No%20Stranger%20Whitesnake) | Listen for Richie Kotzen's role in the `Whitesnake` vocabulary. |
-| [Give Me All Your Love](https://open.spotify.com/search/Give%20Me%20All%20Your%20Love%20Whitesnake) | Listen for Richie Kotzen's role in the `Whitesnake` vocabulary. |
-| [Judgement Day](https://open.spotify.com/search/Judgement%20Day%20Whitesnake) | Listen for Richie Kotzen's role in the `Whitesnake` vocabulary. |
+| [Bad Boys](https://open.spotify.com/search/Bad%20Boys%20Richie%20Kotzen%20Whitesnake) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Slide It In](https://open.spotify.com/search/Slide%20It%20In%20Richie%20Kotzen%20Whitesnake) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Slow an' Easy](https://open.spotify.com/search/Slow%20an%27%20Easy%20Richie%20Kotzen%20Whitesnake) | Focus on phrasing, tone, bends, and how Richie Kotzen shapes the melodic argument. |
+| [Here I Go Again](https://open.spotify.com/search/Here%20I%20Go%20Again%20Richie%20Kotzen%20Whitesnake) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Love Ain't No Stranger](https://open.spotify.com/search/Love%20Ain%27t%20No%20Stranger%20Richie%20Kotzen%20Whitesnake) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Give Me All Your Love](https://open.spotify.com/search/Give%20Me%20All%20Your%20Love%20Richie%20Kotzen%20Whitesnake) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Richie%20Kotzen%20Whitesnake) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [La Grange](https://open.spotify.com/search/La%20Grange%20Richie%20Kotzen%20Whitesnake) | Focus on phrasing, tone, bends, and how Richie Kotzen shapes the melodic argument. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Richie%20Kotzen%20Whitesnake) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Richie%20Kotzen%20Whitesnake) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## John Sykes
 
@@ -100,16 +100,16 @@ John Sykes is the guitar voice for the `Whitesnake` pairing label. In the local 
 
 | Song | Why Listen |
 |---|---|
-| [Still of the Night](https://open.spotify.com/search/Still%20of%20the%20Night%20Whitesnake) | Listen for John Sykes's role in the `Whitesnake` vocabulary. |
-| [Is This Love](https://open.spotify.com/search/Is%20This%20Love%20Whitesnake) | Listen for John Sykes's role in the `Whitesnake` vocabulary. |
-| [Crying in the Rain](https://open.spotify.com/search/Crying%20in%20the%20Rain%20Whitesnake) | Listen for John Sykes's role in the `Whitesnake` vocabulary. |
-| [Bad Boys](https://open.spotify.com/search/Bad%20Boys%20Whitesnake) | Listen for John Sykes's role in the `Whitesnake` vocabulary. |
-| [Slide It In](https://open.spotify.com/search/Slide%20It%20In%20Whitesnake) | Listen for John Sykes's role in the `Whitesnake` vocabulary. |
-| [Slow an' Easy](https://open.spotify.com/search/Slow%20an%27%20Easy%20Whitesnake) | Listen for John Sykes's role in the `Whitesnake` vocabulary. |
-| [Here I Go Again](https://open.spotify.com/search/Here%20I%20Go%20Again%20Whitesnake) | Listen for John Sykes's role in the `Whitesnake` vocabulary. |
-| [Love Ain't No Stranger](https://open.spotify.com/search/Love%20Ain%27t%20No%20Stranger%20Whitesnake) | Listen for John Sykes's role in the `Whitesnake` vocabulary. |
-| [Give Me All Your Love](https://open.spotify.com/search/Give%20Me%20All%20Your%20Love%20Whitesnake) | Listen for John Sykes's role in the `Whitesnake` vocabulary. |
-| [Judgement Day](https://open.spotify.com/search/Judgement%20Day%20Whitesnake) | Listen for John Sykes's role in the `Whitesnake` vocabulary. |
+| [Still of the Night](https://open.spotify.com/search/Still%20of%20the%20Night%20John%20Sykes%20Whitesnake) | Focus on phrasing, tone, bends, and how John Sykes shapes the melodic argument. |
+| [Is This Love](https://open.spotify.com/search/Is%20This%20Love%20John%20Sykes%20Whitesnake) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Crying in the Rain](https://open.spotify.com/search/Crying%20in%20the%20Rain%20John%20Sykes%20Whitesnake) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Bad Boys](https://open.spotify.com/search/Bad%20Boys%20John%20Sykes%20Whitesnake) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Slide It In](https://open.spotify.com/search/Slide%20It%20In%20John%20Sykes%20Whitesnake) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Slow an' Easy](https://open.spotify.com/search/Slow%20an%27%20Easy%20John%20Sykes%20Whitesnake) | Focus on phrasing, tone, bends, and how John Sykes shapes the melodic argument. |
+| [Aja](https://open.spotify.com/search/Aja%20John%20Sykes%20Whitesnake) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Peg](https://open.spotify.com/search/Peg%20John%20Sykes%20Whitesnake) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20John%20Sykes%20Whitesnake) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20John%20Sykes%20Whitesnake) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
 
 ## Tommy Aldridge
 
@@ -132,16 +132,16 @@ Tommy Aldridge appears here as the drums voice for the `Whitesnake` pairing labe
 
 | Song | Why Listen |
 |---|---|
-| [Still of the Night](https://open.spotify.com/search/Still%20of%20the%20Night%20Whitesnake) | Listen for Tommy Aldridge's role in the `Whitesnake` vocabulary. |
-| [Is This Love](https://open.spotify.com/search/Is%20This%20Love%20Whitesnake) | Listen for Tommy Aldridge's role in the `Whitesnake` vocabulary. |
-| [Crying in the Rain](https://open.spotify.com/search/Crying%20in%20the%20Rain%20Whitesnake) | Listen for Tommy Aldridge's role in the `Whitesnake` vocabulary. |
-| [Bad Boys](https://open.spotify.com/search/Bad%20Boys%20Whitesnake) | Listen for Tommy Aldridge's role in the `Whitesnake` vocabulary. |
-| [Slide It In](https://open.spotify.com/search/Slide%20It%20In%20Whitesnake) | Listen for Tommy Aldridge's role in the `Whitesnake` vocabulary. |
-| [Slow an' Easy](https://open.spotify.com/search/Slow%20an%27%20Easy%20Whitesnake) | Listen for Tommy Aldridge's role in the `Whitesnake` vocabulary. |
-| [Here I Go Again](https://open.spotify.com/search/Here%20I%20Go%20Again%20Whitesnake) | Listen for Tommy Aldridge's role in the `Whitesnake` vocabulary. |
-| [Love Ain't No Stranger](https://open.spotify.com/search/Love%20Ain%27t%20No%20Stranger%20Whitesnake) | Listen for Tommy Aldridge's role in the `Whitesnake` vocabulary. |
-| [Give Me All Your Love](https://open.spotify.com/search/Give%20Me%20All%20Your%20Love%20Whitesnake) | Listen for Tommy Aldridge's role in the `Whitesnake` vocabulary. |
-| [Judgement Day](https://open.spotify.com/search/Judgement%20Day%20Whitesnake) | Listen for Tommy Aldridge's role in the `Whitesnake` vocabulary. |
+| [Here I Go Again](https://open.spotify.com/search/Here%20I%20Go%20Again%20Tommy%20Aldridge%20Whitesnake) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Love Ain't No Stranger](https://open.spotify.com/search/Love%20Ain%27t%20No%20Stranger%20Tommy%20Aldridge%20Whitesnake) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Give Me All Your Love](https://open.spotify.com/search/Give%20Me%20All%20Your%20Love%20Tommy%20Aldridge%20Whitesnake) | Use this for groove architecture rather than just surface-level chops. |
+| [Judgement Day](https://open.spotify.com/search/Judgement%20Day%20Tommy%20Aldridge%20Whitesnake) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Still of the Night](https://open.spotify.com/search/Still%20of%20the%20Night%20Tommy%20Aldridge%20Whitesnake) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Is This Love](https://open.spotify.com/search/Is%20This%20Love%20Tommy%20Aldridge%20Whitesnake) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Superstition](https://open.spotify.com/search/Superstition%20Tommy%20Aldridge%20Whitesnake) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Babylon Sisters](https://open.spotify.com/search/Babylon%20Sisters%20Tommy%20Aldridge%20Whitesnake) | Use this for groove architecture rather than just surface-level chops. |
+| [One Word](https://open.spotify.com/search/One%20Word%20Tommy%20Aldridge%20Whitesnake) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Larks' Tongues in Aspic, Part Two](https://open.spotify.com/search/Larks%27%20Tongues%20in%20Aspic%2C%20Part%20Two%20Tommy%20Aldridge%20Whitesnake) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
 
 ## References
 

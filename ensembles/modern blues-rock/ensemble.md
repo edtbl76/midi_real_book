@@ -36,16 +36,16 @@ Dusty Hill is the bass voice for the `modern blues-rock` pairing label. In the l
 
 | Song | Why Listen |
 |---|---|
-| [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Mountain Time](https://open.spotify.com/search/Mountain%20Time%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [The Ballad of John Henry](https://open.spotify.com/search/The%20Ballad%20of%20John%20Henry%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Driving Towards the Daylight](https://open.spotify.com/search/Driving%20Towards%20the%20Daylight%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Blues Deluxe](https://open.spotify.com/search/Blues%20Deluxe%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Dust Bowl](https://open.spotify.com/search/Dust%20Bowl%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Redemption](https://open.spotify.com/search/Redemption%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Slow Train](https://open.spotify.com/search/Slow%20Train%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [No Good Place for the Lonely](https://open.spotify.com/search/No%20Good%20Place%20for%20the%20Lonely%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
+| [Blues Deluxe](https://open.spotify.com/search/Blues%20Deluxe%20Dusty%20Hill%20modern%20blues-rock) | Track the pocket, note length, and how Dusty Hill makes the harmony feel grounded. |
+| [Dust Bowl](https://open.spotify.com/search/Dust%20Bowl%20Dusty%20Hill%20modern%20blues-rock) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Redemption](https://open.spotify.com/search/Redemption%20Dusty%20Hill%20modern%20blues-rock) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Slow Train](https://open.spotify.com/search/Slow%20Train%20Dusty%20Hill%20modern%20blues-rock) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [No Good Place for the Lonely](https://open.spotify.com/search/No%20Good%20Place%20for%20the%20Lonely%20Dusty%20Hill%20modern%20blues-rock) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20Dusty%20Hill%20modern%20blues-rock) | Track the pocket, note length, and how Dusty Hill makes the harmony feel grounded. |
+| [Continuum](https://open.spotify.com/search/Continuum%20Dusty%20Hill%20modern%20blues-rock) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Stratus](https://open.spotify.com/search/Stratus%20Dusty%20Hill%20modern%20blues-rock) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Dusty%20Hill%20modern%20blues-rock) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Dusty%20Hill%20modern%20blues-rock) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Billy Gibbons
 
@@ -68,16 +68,16 @@ Billy Gibbons is the guitar voice for the `modern blues-rock` pairing label. In 
 
 | Song | Why Listen |
 |---|---|
-| [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Mountain Time](https://open.spotify.com/search/Mountain%20Time%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [The Ballad of John Henry](https://open.spotify.com/search/The%20Ballad%20of%20John%20Henry%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Driving Towards the Daylight](https://open.spotify.com/search/Driving%20Towards%20the%20Daylight%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Blues Deluxe](https://open.spotify.com/search/Blues%20Deluxe%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Dust Bowl](https://open.spotify.com/search/Dust%20Bowl%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Redemption](https://open.spotify.com/search/Redemption%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Slow Train](https://open.spotify.com/search/Slow%20Train%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [No Good Place for the Lonely](https://open.spotify.com/search/No%20Good%20Place%20for%20the%20Lonely%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
+| [Redemption](https://open.spotify.com/search/Redemption%20Billy%20Gibbons%20modern%20blues-rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Slow Train](https://open.spotify.com/search/Slow%20Train%20Billy%20Gibbons%20modern%20blues-rock) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [No Good Place for the Lonely](https://open.spotify.com/search/No%20Good%20Place%20for%20the%20Lonely%20Billy%20Gibbons%20modern%20blues-rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20Billy%20Gibbons%20modern%20blues-rock) | Focus on phrasing, tone, bends, and how Billy Gibbons shapes the melodic argument. |
+| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20Billy%20Gibbons%20modern%20blues-rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Mountain Time](https://open.spotify.com/search/Mountain%20Time%20Billy%20Gibbons%20modern%20blues-rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Billy%20Gibbons%20modern%20blues-rock) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Billy%20Gibbons%20modern%20blues-rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [La Grange](https://open.spotify.com/search/La%20Grange%20Billy%20Gibbons%20modern%20blues-rock) | Focus on phrasing, tone, bends, and how Billy Gibbons shapes the melodic argument. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Billy%20Gibbons%20modern%20blues-rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
 
 ## Joe Bonamassa
 
@@ -100,16 +100,16 @@ Joe Bonamassa is the guitar voice for the `modern blues-rock` pairing label. In 
 
 | Song | Why Listen |
 |---|---|
-| [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Mountain Time](https://open.spotify.com/search/Mountain%20Time%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [The Ballad of John Henry](https://open.spotify.com/search/The%20Ballad%20of%20John%20Henry%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Driving Towards the Daylight](https://open.spotify.com/search/Driving%20Towards%20the%20Daylight%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Blues Deluxe](https://open.spotify.com/search/Blues%20Deluxe%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Dust Bowl](https://open.spotify.com/search/Dust%20Bowl%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Redemption](https://open.spotify.com/search/Redemption%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Slow Train](https://open.spotify.com/search/Slow%20Train%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [No Good Place for the Lonely](https://open.spotify.com/search/No%20Good%20Place%20for%20the%20Lonely%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
+| [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20Joe%20Bonamassa%20modern%20blues-rock) | Focus on phrasing, tone, bends, and how Joe Bonamassa shapes the melodic argument. |
+| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Mountain Time](https://open.spotify.com/search/Mountain%20Time%20Joe%20Bonamassa%20modern%20blues-rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [The Ballad of John Henry](https://open.spotify.com/search/The%20Ballad%20of%20John%20Henry%20Joe%20Bonamassa%20modern%20blues-rock) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Driving Towards the Daylight](https://open.spotify.com/search/Driving%20Towards%20the%20Daylight%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blues Deluxe](https://open.spotify.com/search/Blues%20Deluxe%20Joe%20Bonamassa%20modern%20blues-rock) | Focus on phrasing, tone, bends, and how Joe Bonamassa shapes the melodic argument. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Joe%20Bonamassa%20modern%20blues-rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Joe%20Bonamassa%20modern%20blues-rock) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
 
 ## Frank Beard
 
@@ -132,16 +132,16 @@ Frank Beard appears here as the drums voice for the `modern blues-rock` pairing 
 
 | Song | Why Listen |
 |---|---|
-| [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Mountain Time](https://open.spotify.com/search/Mountain%20Time%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [The Ballad of John Henry](https://open.spotify.com/search/The%20Ballad%20of%20John%20Henry%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Driving Towards the Daylight](https://open.spotify.com/search/Driving%20Towards%20the%20Daylight%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Blues Deluxe](https://open.spotify.com/search/Blues%20Deluxe%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Dust Bowl](https://open.spotify.com/search/Dust%20Bowl%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Redemption](https://open.spotify.com/search/Redemption%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [Slow Train](https://open.spotify.com/search/Slow%20Train%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
-| [No Good Place for the Lonely](https://open.spotify.com/search/No%20Good%20Place%20for%20the%20Lonely%20modern%20blues-rock) | Idiomatic listening for the `modern blues-rock` ensemble vocabulary. |
+| [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20Frank%20Beard%20modern%20blues-rock) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20Frank%20Beard%20modern%20blues-rock) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Mountain Time](https://open.spotify.com/search/Mountain%20Time%20Frank%20Beard%20modern%20blues-rock) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [The Ballad of John Henry](https://open.spotify.com/search/The%20Ballad%20of%20John%20Henry%20Frank%20Beard%20modern%20blues-rock) | Use this for groove architecture rather than just surface-level chops. |
+| [Driving Towards the Daylight](https://open.spotify.com/search/Driving%20Towards%20the%20Daylight%20Frank%20Beard%20modern%20blues-rock) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Blues Deluxe](https://open.spotify.com/search/Blues%20Deluxe%20Frank%20Beard%20modern%20blues-rock) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Samba de Orfeu](https://open.spotify.com/search/Samba%20de%20Orfeu%20Frank%20Beard%20modern%20blues-rock) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Superstition](https://open.spotify.com/search/Superstition%20Frank%20Beard%20modern%20blues-rock) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Babylon Sisters](https://open.spotify.com/search/Babylon%20Sisters%20Frank%20Beard%20modern%20blues-rock) | Use this for groove architecture rather than just surface-level chops. |
+| [One Word](https://open.spotify.com/search/One%20Word%20Frank%20Beard%20modern%20blues-rock) | Listen for dynamic control and how the drummer changes density without losing pulse. |
 
 ## References
 

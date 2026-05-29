@@ -38,16 +38,16 @@ Marcel Jacob is the bass voice for the `metal shred` pairing label. In the local
 
 | Song | Why Listen |
 |---|---|
-| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Rising Force](https://open.spotify.com/search/Rising%20Force%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Meltdown](https://open.spotify.com/search/Meltdown%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
+| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20Marcel%20Jacob%20metal%20shred) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Meltdown](https://open.spotify.com/search/Meltdown%20Marcel%20Jacob%20metal%20shred) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20Marcel%20Jacob%20metal%20shred) | Track the pocket, note length, and how Marcel Jacob makes the harmony feel grounded. |
+| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20Marcel%20Jacob%20metal%20shred) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Concerto](https://open.spotify.com/search/Concerto%20Marcel%20Jacob%20metal%20shred) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Marcel%20Jacob%20metal%20shred) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Roundabout](https://open.spotify.com/search/Roundabout%20Marcel%20Jacob%20metal%20shred) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [The Real Me](https://open.spotify.com/search/The%20Real%20Me%20Marcel%20Jacob%20metal%20shred) | Track the pocket, note length, and how Marcel Jacob makes the harmony feel grounded. |
+| [Hysteria](https://open.spotify.com/search/Hysteria%20Marcel%20Jacob%20metal%20shred) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Marcel%20Jacob%20metal%20shred) | Listen for how the low end supports the drummer without crowding the arrangement. |
 
 ## Yngwie Malmsteen
 
@@ -70,16 +70,16 @@ Yngwie Malmsteen is the guitar voice for the `metal shred` pairing label. In the
 
 | Song | Why Listen |
 |---|---|
-| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Rising Force](https://open.spotify.com/search/Rising%20Force%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Meltdown](https://open.spotify.com/search/Meltdown%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Yngwie%20Malmsteen%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20Yngwie%20Malmsteen%20metal%20shred) | Focus on phrasing, tone, bends, and how Yngwie Malmsteen shapes the melodic argument. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Yngwie%20Malmsteen%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Rising Force](https://open.spotify.com/search/Rising%20Force%20Yngwie%20Malmsteen%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20Yngwie%20Malmsteen%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Meltdown](https://open.spotify.com/search/Meltdown%20Yngwie%20Malmsteen%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Eruption](https://open.spotify.com/search/Eruption%20Yngwie%20Malmsteen%20metal%20shred) | Focus on phrasing, tone, bends, and how Yngwie Malmsteen shapes the melodic argument. |
+| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Yngwie%20Malmsteen%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Yngwie%20Malmsteen%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Yngwie%20Malmsteen%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Vinnie Moore
 
@@ -102,16 +102,16 @@ Vinnie Moore is the guitar voice for the `metal shred` pairing label. In the loc
 
 | Song | Why Listen |
 |---|---|
-| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Rising Force](https://open.spotify.com/search/Rising%20Force%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Meltdown](https://open.spotify.com/search/Meltdown%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
+| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20Vinnie%20Moore%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Concerto](https://open.spotify.com/search/Concerto%20Vinnie%20Moore%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Vinnie%20Moore%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Vinnie%20Moore%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20Vinnie%20Moore%20metal%20shred) | Focus on phrasing, tone, bends, and how Vinnie Moore shapes the melodic argument. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Vinnie%20Moore%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Vinnie%20Moore%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Vinnie%20Moore%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Vinnie%20Moore%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Vinnie%20Moore%20metal%20shred) | Focus on phrasing, tone, bends, and how Vinnie Moore shapes the melodic argument. |
 
 ## Joe Stump
 
@@ -134,16 +134,16 @@ Joe Stump is the guitar voice for the `metal shred` pairing label. In the local 
 
 | Song | Why Listen |
 |---|---|
-| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Rising Force](https://open.spotify.com/search/Rising%20Force%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Meltdown](https://open.spotify.com/search/Meltdown%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
+| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20Joe%20Stump%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Concerto](https://open.spotify.com/search/Concerto%20Joe%20Stump%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Joe%20Stump%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Joe%20Stump%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20Joe%20Stump%20metal%20shred) | Focus on phrasing, tone, bends, and how Joe Stump shapes the melodic argument. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Joe%20Stump%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Aja](https://open.spotify.com/search/Aja%20Joe%20Stump%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Peg](https://open.spotify.com/search/Peg%20Joe%20Stump%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Joe%20Stump%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Joe%20Stump%20metal%20shred) | Focus on phrasing, tone, bends, and how Joe Stump shapes the melodic argument. |
 
 ## Ian Haugland
 
@@ -166,16 +166,16 @@ Ian Haugland appears here as the drums voice for the `metal shred` pairing label
 
 | Song | Why Listen |
 |---|---|
-| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Rising Force](https://open.spotify.com/search/Rising%20Force%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Meltdown](https://open.spotify.com/search/Meltdown%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
+| [Meltdown](https://open.spotify.com/search/Meltdown%20Ian%20Haugland%20metal%20shred) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20Ian%20Haugland%20metal%20shred) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20Ian%20Haugland%20metal%20shred) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Concerto](https://open.spotify.com/search/Concerto%20Ian%20Haugland%20metal%20shred) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Ian%20Haugland%20metal%20shred) | Use this for groove architecture rather than just surface-level chops. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Ian%20Haugland%20metal%20shred) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Stratus](https://open.spotify.com/search/Stratus%20Ian%20Haugland%20metal%20shred) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Soul Vaccination](https://open.spotify.com/search/Soul%20Vaccination%20Ian%20Haugland%20metal%20shred) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [The Dance of Maya](https://open.spotify.com/search/The%20Dance%20of%20Maya%20Ian%20Haugland%20metal%20shred) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Bleed](https://open.spotify.com/search/Bleed%20Ian%20Haugland%20metal%20shred) | Use this for groove architecture rather than just surface-level chops. |
 
 ## Jens Johansson
 
@@ -198,16 +198,16 @@ Jens Johansson appears here as the keyboards voice for the `metal shred` pairing
 
 | Song | Why Listen |
 |---|---|
-| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Rising Force](https://open.spotify.com/search/Rising%20Force%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Meltdown](https://open.spotify.com/search/Meltdown%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20metal%20shred) | Idiomatic listening for the `metal shred` ensemble vocabulary. |
+| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20Jens%20Johansson%20metal%20shred) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Jens%20Johansson%20metal%20shred) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Rising Force](https://open.spotify.com/search/Rising%20Force%20Jens%20Johansson%20metal%20shred) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20Jens%20Johansson%20metal%20shred) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Meltdown](https://open.spotify.com/search/Meltdown%20Jens%20Johansson%20metal%20shred) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20Jens%20Johansson%20metal%20shred) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Jens%20Johansson%20metal%20shred) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Jens%20Johansson%20metal%20shred) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Jens%20Johansson%20metal%20shred) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Jens%20Johansson%20metal%20shred) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## References
 

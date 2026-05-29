@@ -36,16 +36,16 @@ Clay Gober is the bass voice for the `Polyphia` pairing label. In the local rank
 
 | Song | Why Listen |
 |---|---|
-| [G.O.A.T.](https://open.spotify.com/search/G.O.A.T.%20Polyphia) | Listen for Clay Gober's role in the `Polyphia` vocabulary. |
-| [40oz](https://open.spotify.com/search/40oz%20Polyphia) | Listen for Clay Gober's role in the `Polyphia` vocabulary. |
-| [Playing God](https://open.spotify.com/search/Playing%20God%20Polyphia) | Listen for Clay Gober's role in the `Polyphia` vocabulary. |
-| [Ego Death](https://open.spotify.com/search/Ego%20Death%20Polyphia) | Listen for Clay Gober's role in the `Polyphia` vocabulary. |
-| [O.D.](https://open.spotify.com/search/O.D.%20Polyphia) | Listen for Clay Gober's role in the `Polyphia` vocabulary. |
-| [Champagne](https://open.spotify.com/search/Champagne%20Polyphia) | Listen for Clay Gober's role in the `Polyphia` vocabulary. |
-| [Crush](https://open.spotify.com/search/Crush%20Polyphia) | Listen for Clay Gober's role in the `Polyphia` vocabulary. |
-| [Goose](https://open.spotify.com/search/Goose%20Polyphia) | Listen for Clay Gober's role in the `Polyphia` vocabulary. |
-| [The Worst](https://open.spotify.com/search/The%20Worst%20Polyphia) | Listen for Clay Gober's role in the `Polyphia` vocabulary. |
-| [Nasty](https://open.spotify.com/search/Nasty%20Polyphia) | Listen for Clay Gober's role in the `Polyphia` vocabulary. |
+| [Goose](https://open.spotify.com/search/Goose%20Clay%20Gober%20Polyphia) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [The Worst](https://open.spotify.com/search/The%20Worst%20Clay%20Gober%20Polyphia) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Nasty](https://open.spotify.com/search/Nasty%20Clay%20Gober%20Polyphia) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [G.O.A.T.](https://open.spotify.com/search/G.O.A.T.%20Clay%20Gober%20Polyphia) | Track the pocket, note length, and how Clay Gober makes the harmony feel grounded. |
+| [40oz](https://open.spotify.com/search/40oz%20Clay%20Gober%20Polyphia) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Playing God](https://open.spotify.com/search/Playing%20God%20Clay%20Gober%20Polyphia) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Clay%20Gober%20Polyphia) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Dean Town](https://open.spotify.com/search/Dean%20Town%20Clay%20Gober%20Polyphia) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Good Times](https://open.spotify.com/search/Good%20Times%20Clay%20Gober%20Polyphia) | Track the pocket, note length, and how Clay Gober makes the harmony feel grounded. |
+| [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Clay%20Gober%20Polyphia) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Tim Henson
 
@@ -68,16 +68,16 @@ Tim Henson is the guitar voice for the `Polyphia` pairing label. In the local ra
 
 | Song | Why Listen |
 |---|---|
-| [G.O.A.T.](https://open.spotify.com/search/G.O.A.T.%20Polyphia) | Listen for Tim Henson's role in the `Polyphia` vocabulary. |
-| [40oz](https://open.spotify.com/search/40oz%20Polyphia) | Listen for Tim Henson's role in the `Polyphia` vocabulary. |
-| [Playing God](https://open.spotify.com/search/Playing%20God%20Polyphia) | Listen for Tim Henson's role in the `Polyphia` vocabulary. |
-| [Ego Death](https://open.spotify.com/search/Ego%20Death%20Polyphia) | Listen for Tim Henson's role in the `Polyphia` vocabulary. |
-| [O.D.](https://open.spotify.com/search/O.D.%20Polyphia) | Listen for Tim Henson's role in the `Polyphia` vocabulary. |
-| [Champagne](https://open.spotify.com/search/Champagne%20Polyphia) | Listen for Tim Henson's role in the `Polyphia` vocabulary. |
-| [Crush](https://open.spotify.com/search/Crush%20Polyphia) | Listen for Tim Henson's role in the `Polyphia` vocabulary. |
-| [Goose](https://open.spotify.com/search/Goose%20Polyphia) | Listen for Tim Henson's role in the `Polyphia` vocabulary. |
-| [The Worst](https://open.spotify.com/search/The%20Worst%20Polyphia) | Listen for Tim Henson's role in the `Polyphia` vocabulary. |
-| [Nasty](https://open.spotify.com/search/Nasty%20Polyphia) | Listen for Tim Henson's role in the `Polyphia` vocabulary. |
+| [G.O.A.T.](https://open.spotify.com/search/G.O.A.T.%20Tim%20Henson%20Polyphia) | Focus on phrasing, tone, bends, and how Tim Henson shapes the melodic argument. |
+| [40oz](https://open.spotify.com/search/40oz%20Tim%20Henson%20Polyphia) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Playing God](https://open.spotify.com/search/Playing%20God%20Tim%20Henson%20Polyphia) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Ego Death](https://open.spotify.com/search/Ego%20Death%20Tim%20Henson%20Polyphia) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [O.D.](https://open.spotify.com/search/O.D.%20Tim%20Henson%20Polyphia) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Champagne](https://open.spotify.com/search/Champagne%20Tim%20Henson%20Polyphia) | Focus on phrasing, tone, bends, and how Tim Henson shapes the melodic argument. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Tim%20Henson%20Polyphia) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Tim%20Henson%20Polyphia) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Tim%20Henson%20Polyphia) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Tim%20Henson%20Polyphia) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
 
 ## Scott LePage
 
@@ -100,16 +100,16 @@ Scott LePage is the guitar voice for the `Polyphia` pairing label. In the local 
 
 | Song | Why Listen |
 |---|---|
-| [G.O.A.T.](https://open.spotify.com/search/G.O.A.T.%20Polyphia) | Listen for Scott LePage's role in the `Polyphia` vocabulary. |
-| [40oz](https://open.spotify.com/search/40oz%20Polyphia) | Listen for Scott LePage's role in the `Polyphia` vocabulary. |
-| [Playing God](https://open.spotify.com/search/Playing%20God%20Polyphia) | Listen for Scott LePage's role in the `Polyphia` vocabulary. |
-| [Ego Death](https://open.spotify.com/search/Ego%20Death%20Polyphia) | Listen for Scott LePage's role in the `Polyphia` vocabulary. |
-| [O.D.](https://open.spotify.com/search/O.D.%20Polyphia) | Listen for Scott LePage's role in the `Polyphia` vocabulary. |
-| [Champagne](https://open.spotify.com/search/Champagne%20Polyphia) | Listen for Scott LePage's role in the `Polyphia` vocabulary. |
-| [Crush](https://open.spotify.com/search/Crush%20Polyphia) | Listen for Scott LePage's role in the `Polyphia` vocabulary. |
-| [Goose](https://open.spotify.com/search/Goose%20Polyphia) | Listen for Scott LePage's role in the `Polyphia` vocabulary. |
-| [The Worst](https://open.spotify.com/search/The%20Worst%20Polyphia) | Listen for Scott LePage's role in the `Polyphia` vocabulary. |
-| [Nasty](https://open.spotify.com/search/Nasty%20Polyphia) | Listen for Scott LePage's role in the `Polyphia` vocabulary. |
+| [Playing God](https://open.spotify.com/search/Playing%20God%20Scott%20LePage%20Polyphia) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Ego Death](https://open.spotify.com/search/Ego%20Death%20Scott%20LePage%20Polyphia) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [O.D.](https://open.spotify.com/search/O.D.%20Scott%20LePage%20Polyphia) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Champagne](https://open.spotify.com/search/Champagne%20Scott%20LePage%20Polyphia) | Focus on phrasing, tone, bends, and how Scott LePage shapes the melodic argument. |
+| [Crush](https://open.spotify.com/search/Crush%20Scott%20LePage%20Polyphia) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Goose](https://open.spotify.com/search/Goose%20Scott%20LePage%20Polyphia) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Peg](https://open.spotify.com/search/Peg%20Scott%20LePage%20Polyphia) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Scott%20LePage%20Polyphia) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Scott%20LePage%20Polyphia) | Focus on phrasing, tone, bends, and how Scott LePage shapes the melodic argument. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Scott%20LePage%20Polyphia) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
 
 ## Clay Aeschliman
 
@@ -132,16 +132,16 @@ Clay Aeschliman appears here as the drums voice for the `Polyphia` pairing label
 
 | Song | Why Listen |
 |---|---|
-| [G.O.A.T.](https://open.spotify.com/search/G.O.A.T.%20Polyphia) | Listen for Clay Aeschliman's role in the `Polyphia` vocabulary. |
-| [40oz](https://open.spotify.com/search/40oz%20Polyphia) | Listen for Clay Aeschliman's role in the `Polyphia` vocabulary. |
-| [Playing God](https://open.spotify.com/search/Playing%20God%20Polyphia) | Listen for Clay Aeschliman's role in the `Polyphia` vocabulary. |
-| [Ego Death](https://open.spotify.com/search/Ego%20Death%20Polyphia) | Listen for Clay Aeschliman's role in the `Polyphia` vocabulary. |
-| [O.D.](https://open.spotify.com/search/O.D.%20Polyphia) | Listen for Clay Aeschliman's role in the `Polyphia` vocabulary. |
-| [Champagne](https://open.spotify.com/search/Champagne%20Polyphia) | Listen for Clay Aeschliman's role in the `Polyphia` vocabulary. |
-| [Crush](https://open.spotify.com/search/Crush%20Polyphia) | Listen for Clay Aeschliman's role in the `Polyphia` vocabulary. |
-| [Goose](https://open.spotify.com/search/Goose%20Polyphia) | Listen for Clay Aeschliman's role in the `Polyphia` vocabulary. |
-| [The Worst](https://open.spotify.com/search/The%20Worst%20Polyphia) | Listen for Clay Aeschliman's role in the `Polyphia` vocabulary. |
-| [Nasty](https://open.spotify.com/search/Nasty%20Polyphia) | Listen for Clay Aeschliman's role in the `Polyphia` vocabulary. |
+| [Nasty](https://open.spotify.com/search/Nasty%20Clay%20Aeschliman%20Polyphia) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [G.O.A.T.](https://open.spotify.com/search/G.O.A.T.%20Clay%20Aeschliman%20Polyphia) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [40oz](https://open.spotify.com/search/40oz%20Clay%20Aeschliman%20Polyphia) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Playing God](https://open.spotify.com/search/Playing%20God%20Clay%20Aeschliman%20Polyphia) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Ego Death](https://open.spotify.com/search/Ego%20Death%20Clay%20Aeschliman%20Polyphia) | Use this for groove architecture rather than just surface-level chops. |
+| [O.D.](https://open.spotify.com/search/O.D.%20Clay%20Aeschliman%20Polyphia) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Larks' Tongues in Aspic, Part Two](https://open.spotify.com/search/Larks%27%20Tongues%20in%20Aspic%2C%20Part%20Two%20Clay%20Aeschliman%20Polyphia) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Aja](https://open.spotify.com/search/Aja%20Clay%20Aeschliman%20Polyphia) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Clay%20Aeschliman%20Polyphia) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Tom Sawyer](https://open.spotify.com/search/Tom%20Sawyer%20Clay%20Aeschliman%20Polyphia) | Use this for groove architecture rather than just surface-level chops. |
 
 ## References
 

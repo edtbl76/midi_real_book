@@ -38,16 +38,16 @@ Billy Sheehan is the bass voice for the `Mr. Big` pairing label. In the local ra
 
 | Song | Why Listen |
 |---|---|
-| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Colorado Bulldog](https://open.spotify.com/search/Colorado%20Bulldog%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%2C%20Brother%2C%20Lover%2C%20Little%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Green-Tinted Sixties Mind](https://open.spotify.com/search/Green-Tinted%20Sixties%20Mind%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Alive and Kickin'](https://open.spotify.com/search/Alive%20and%20Kickin%27%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Shy Boy](https://open.spotify.com/search/Shy%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [The Drill Song](https://open.spotify.com/search/The%20Drill%20Song%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Take Cover](https://open.spotify.com/search/Take%20Cover%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Undertow](https://open.spotify.com/search/Undertow%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
+| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%2C%20Brother%2C%20Lover%2C%20Little%20Boy%20Billy%20Sheehan%20Mr.%20Big) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Green-Tinted Sixties Mind](https://open.spotify.com/search/Green-Tinted%20Sixties%20Mind%20Billy%20Sheehan%20Mr.%20Big) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Billy%20Sheehan%20Mr.%20Big) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Alive and Kickin'](https://open.spotify.com/search/Alive%20and%20Kickin%27%20Billy%20Sheehan%20Mr.%20Big) | Track the pocket, note length, and how Billy Sheehan makes the harmony feel grounded. |
+| [Shy Boy](https://open.spotify.com/search/Shy%20Boy%20Billy%20Sheehan%20Mr.%20Big) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [The Drill Song](https://open.spotify.com/search/The%20Drill%20Song%20Billy%20Sheehan%20Mr.%20Big) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Roundabout](https://open.spotify.com/search/Roundabout%20Billy%20Sheehan%20Mr.%20Big) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [The Real Me](https://open.spotify.com/search/The%20Real%20Me%20Billy%20Sheehan%20Mr.%20Big) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Hysteria](https://open.spotify.com/search/Hysteria%20Billy%20Sheehan%20Mr.%20Big) | Track the pocket, note length, and how Billy Sheehan makes the harmony feel grounded. |
+| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Billy%20Sheehan%20Mr.%20Big) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Steve Vai
 
@@ -71,16 +71,16 @@ American guitarist who emerged from Frank Zappa's band before becoming a major v
 
 | Song | Why Listen |
 |---|---|
-| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Colorado Bulldog](https://open.spotify.com/search/Colorado%20Bulldog%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%2C%20Brother%2C%20Lover%2C%20Little%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Green-Tinted Sixties Mind](https://open.spotify.com/search/Green-Tinted%20Sixties%20Mind%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Alive and Kickin'](https://open.spotify.com/search/Alive%20and%20Kickin%27%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Shy Boy](https://open.spotify.com/search/Shy%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [The Drill Song](https://open.spotify.com/search/The%20Drill%20Song%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Take Cover](https://open.spotify.com/search/Take%20Cover%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Undertow](https://open.spotify.com/search/Undertow%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
+| [Green-Tinted Sixties Mind](https://open.spotify.com/search/Green-Tinted%20Sixties%20Mind%20Steve%20Vai%20Mr.%20Big) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Steve%20Vai%20Mr.%20Big) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Alive and Kickin'](https://open.spotify.com/search/Alive%20and%20Kickin%27%20Steve%20Vai%20Mr.%20Big) | Focus on phrasing, tone, bends, and how Steve Vai shapes the melodic argument. |
+| [Shy Boy](https://open.spotify.com/search/Shy%20Boy%20Steve%20Vai%20Mr.%20Big) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Drill Song](https://open.spotify.com/search/The%20Drill%20Song%20Steve%20Vai%20Mr.%20Big) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Take Cover](https://open.spotify.com/search/Take%20Cover%20Steve%20Vai%20Mr.%20Big) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Steve%20Vai%20Mr.%20Big) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Steve%20Vai%20Mr.%20Big) | Focus on phrasing, tone, bends, and how Steve Vai shapes the melodic argument. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Steve%20Vai%20Mr.%20Big) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Steve%20Vai%20Mr.%20Big) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Paul Gilbert
 
@@ -103,16 +103,16 @@ Paul Gilbert is the guitar voice for the `Mr. Big` pairing label. In the local r
 
 | Song | Why Listen |
 |---|---|
-| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Colorado Bulldog](https://open.spotify.com/search/Colorado%20Bulldog%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%2C%20Brother%2C%20Lover%2C%20Little%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Green-Tinted Sixties Mind](https://open.spotify.com/search/Green-Tinted%20Sixties%20Mind%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Alive and Kickin'](https://open.spotify.com/search/Alive%20and%20Kickin%27%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Shy Boy](https://open.spotify.com/search/Shy%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [The Drill Song](https://open.spotify.com/search/The%20Drill%20Song%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Take Cover](https://open.spotify.com/search/Take%20Cover%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Undertow](https://open.spotify.com/search/Undertow%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
+| [The Drill Song](https://open.spotify.com/search/The%20Drill%20Song%20Paul%20Gilbert%20Mr.%20Big) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Take Cover](https://open.spotify.com/search/Take%20Cover%20Paul%20Gilbert%20Mr.%20Big) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Undertow](https://open.spotify.com/search/Undertow%20Paul%20Gilbert%20Mr.%20Big) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Paul%20Gilbert%20Mr.%20Big) | Focus on phrasing, tone, bends, and how Paul Gilbert shapes the melodic argument. |
+| [Colorado Bulldog](https://open.spotify.com/search/Colorado%20Bulldog%20Paul%20Gilbert%20Mr.%20Big) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%2C%20Brother%2C%20Lover%2C%20Little%20Boy%20Paul%20Gilbert%20Mr.%20Big) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Paul%20Gilbert%20Mr.%20Big) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Paul%20Gilbert%20Mr.%20Big) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [La Grange](https://open.spotify.com/search/La%20Grange%20Paul%20Gilbert%20Mr.%20Big) | Focus on phrasing, tone, bends, and how Paul Gilbert shapes the melodic argument. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Paul%20Gilbert%20Mr.%20Big) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
 
 ## Jason Becker
 
@@ -135,16 +135,16 @@ Jason Becker is the guitar voice for the `Mr. Big` pairing label. In the local r
 
 | Song | Why Listen |
 |---|---|
-| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Colorado Bulldog](https://open.spotify.com/search/Colorado%20Bulldog%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%2C%20Brother%2C%20Lover%2C%20Little%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Green-Tinted Sixties Mind](https://open.spotify.com/search/Green-Tinted%20Sixties%20Mind%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Alive and Kickin'](https://open.spotify.com/search/Alive%20and%20Kickin%27%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Shy Boy](https://open.spotify.com/search/Shy%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [The Drill Song](https://open.spotify.com/search/The%20Drill%20Song%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Take Cover](https://open.spotify.com/search/Take%20Cover%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Undertow](https://open.spotify.com/search/Undertow%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
+| [Undertow](https://open.spotify.com/search/Undertow%20Jason%20Becker%20Mr.%20Big) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Jason%20Becker%20Mr.%20Big) | Focus on phrasing, tone, bends, and how Jason Becker shapes the melodic argument. |
+| [Colorado Bulldog](https://open.spotify.com/search/Colorado%20Bulldog%20Jason%20Becker%20Mr.%20Big) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%2C%20Brother%2C%20Lover%2C%20Little%20Boy%20Jason%20Becker%20Mr.%20Big) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Green-Tinted Sixties Mind](https://open.spotify.com/search/Green-Tinted%20Sixties%20Mind%20Jason%20Becker%20Mr.%20Big) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Jason%20Becker%20Mr.%20Big) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Jason%20Becker%20Mr.%20Big) | Focus on phrasing, tone, bends, and how Jason Becker shapes the melodic argument. |
+| [Aja](https://open.spotify.com/search/Aja%20Jason%20Becker%20Mr.%20Big) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Peg](https://open.spotify.com/search/Peg%20Jason%20Becker%20Mr.%20Big) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Jason%20Becker%20Mr.%20Big) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Mike Mangini
 
@@ -167,16 +167,16 @@ Mike Mangini appears here as the drums voice for the `Mr. Big` pairing label. In
 
 | Song | Why Listen |
 |---|---|
-| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Colorado Bulldog](https://open.spotify.com/search/Colorado%20Bulldog%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%2C%20Brother%2C%20Lover%2C%20Little%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Green-Tinted Sixties Mind](https://open.spotify.com/search/Green-Tinted%20Sixties%20Mind%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Alive and Kickin'](https://open.spotify.com/search/Alive%20and%20Kickin%27%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Shy Boy](https://open.spotify.com/search/Shy%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [The Drill Song](https://open.spotify.com/search/The%20Drill%20Song%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Take Cover](https://open.spotify.com/search/Take%20Cover%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Undertow](https://open.spotify.com/search/Undertow%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
+| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Mike%20Mangini%20Mr.%20Big) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Alive and Kickin'](https://open.spotify.com/search/Alive%20and%20Kickin%27%20Mike%20Mangini%20Mr.%20Big) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Shy Boy](https://open.spotify.com/search/Shy%20Boy%20Mike%20Mangini%20Mr.%20Big) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [The Drill Song](https://open.spotify.com/search/The%20Drill%20Song%20Mike%20Mangini%20Mr.%20Big) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Take Cover](https://open.spotify.com/search/Take%20Cover%20Mike%20Mangini%20Mr.%20Big) | Use this for groove architecture rather than just surface-level chops. |
+| [Undertow](https://open.spotify.com/search/Undertow%20Mike%20Mangini%20Mr.%20Big) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Good Times Bad Times](https://open.spotify.com/search/Good%20Times%20Bad%20Times%20Mike%20Mangini%20Mr.%20Big) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Hot for Teacher](https://open.spotify.com/search/Hot%20for%20Teacher%20Mike%20Mangini%20Mr.%20Big) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Digital Man](https://open.spotify.com/search/Digital%20Man%20Mike%20Mangini%20Mr.%20Big) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Nite Sprite](https://open.spotify.com/search/Nite%20Sprite%20Mike%20Mangini%20Mr.%20Big) | Use this for groove architecture rather than just surface-level chops. |
 
 ## Michael Keneally
 
@@ -199,16 +199,16 @@ Michael Keneally appears here as the keyboards voice for the `Mr. Big` pairing l
 
 | Song | Why Listen |
 |---|---|
-| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Colorado Bulldog](https://open.spotify.com/search/Colorado%20Bulldog%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%2C%20Brother%2C%20Lover%2C%20Little%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Green-Tinted Sixties Mind](https://open.spotify.com/search/Green-Tinted%20Sixties%20Mind%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Alive and Kickin'](https://open.spotify.com/search/Alive%20and%20Kickin%27%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Shy Boy](https://open.spotify.com/search/Shy%20Boy%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [The Drill Song](https://open.spotify.com/search/The%20Drill%20Song%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Take Cover](https://open.spotify.com/search/Take%20Cover%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
-| [Undertow](https://open.spotify.com/search/Undertow%20Mr.%20Big) | Idiomatic listening for the `Mr. Big` ensemble vocabulary. |
+| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Michael%20Keneally%20Mr.%20Big) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Colorado Bulldog](https://open.spotify.com/search/Colorado%20Bulldog%20Michael%20Keneally%20Mr.%20Big) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%2C%20Brother%2C%20Lover%2C%20Little%20Boy%20Michael%20Keneally%20Mr.%20Big) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Green-Tinted Sixties Mind](https://open.spotify.com/search/Green-Tinted%20Sixties%20Mind%20Michael%20Keneally%20Mr.%20Big) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [To Be with You](https://open.spotify.com/search/To%20Be%20with%20You%20Michael%20Keneally%20Mr.%20Big) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Alive and Kickin'](https://open.spotify.com/search/Alive%20and%20Kickin%27%20Michael%20Keneally%20Mr.%20Big) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Michael%20Keneally%20Mr.%20Big) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Michael%20Keneally%20Mr.%20Big) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Tutu](https://open.spotify.com/search/Tutu%20Michael%20Keneally%20Mr.%20Big) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Africa](https://open.spotify.com/search/Africa%20Michael%20Keneally%20Mr.%20Big) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## References
 

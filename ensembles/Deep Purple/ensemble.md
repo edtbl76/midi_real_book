@@ -36,16 +36,16 @@ Roger Glover is the bass voice for the `Deep Purple` pairing label. In the local
 
 | Song | Why Listen |
 |---|---|
-| [Highway Star](https://open.spotify.com/search/Highway%20Star%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Smoke on the Water](https://open.spotify.com/search/Smoke%20on%20the%20Water%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Burn](https://open.spotify.com/search/Burn%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Space Truckin'](https://open.spotify.com/search/Space%20Truckin%27%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Lazy](https://open.spotify.com/search/Lazy%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Black Night](https://open.spotify.com/search/Black%20Night%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Child in Time](https://open.spotify.com/search/Child%20in%20Time%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Woman from Tokyo](https://open.spotify.com/search/Woman%20from%20Tokyo%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Speed King](https://open.spotify.com/search/Speed%20King%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Perfect Strangers](https://open.spotify.com/search/Perfect%20Strangers%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
+| [Child in Time](https://open.spotify.com/search/Child%20in%20Time%20Roger%20Glover%20Deep%20Purple) | Focus on movement between chord roots, anticipations, and section lift. |
+| [Woman from Tokyo](https://open.spotify.com/search/Woman%20from%20Tokyo%20Roger%20Glover%20Deep%20Purple) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Speed King](https://open.spotify.com/search/Speed%20King%20Roger%20Glover%20Deep%20Purple) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Perfect Strangers](https://open.spotify.com/search/Perfect%20Strangers%20Roger%20Glover%20Deep%20Purple) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Mistreated](https://open.spotify.com/search/Mistreated%20Roger%20Glover%20Deep%20Purple) | Track the pocket, note length, and how Roger Glover grounds the harmony. |
+| [Stormbringer](https://open.spotify.com/search/Stormbringer%20Roger%20Glover%20Deep%20Purple) | Focus on movement between chord roots, anticipations, and section lift. |
+| [Fireball](https://open.spotify.com/search/Fireball%20Roger%20Glover%20Deep%20Purple) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Into the Fire](https://open.spotify.com/search/Into%20the%20Fire%20Roger%20Glover%20Deep%20Purple) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Maybe I'm a Leo](https://open.spotify.com/search/Maybe%20I%27m%20a%20Leo%20Roger%20Glover%20Deep%20Purple) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Pictures of Home](https://open.spotify.com/search/Pictures%20of%20Home%20Roger%20Glover%20Deep%20Purple) | Track the pocket, note length, and how Roger Glover grounds the harmony. |
 
 ## Ritchie Blackmore
 
@@ -68,16 +68,16 @@ Ritchie Blackmore is the guitar voice for the `Deep Purple` pairing label. In th
 
 | Song | Why Listen |
 |---|---|
-| [Highway Star](https://open.spotify.com/search/Highway%20Star%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Smoke on the Water](https://open.spotify.com/search/Smoke%20on%20the%20Water%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Burn](https://open.spotify.com/search/Burn%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Space Truckin'](https://open.spotify.com/search/Space%20Truckin%27%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Lazy](https://open.spotify.com/search/Lazy%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Black Night](https://open.spotify.com/search/Black%20Night%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Child in Time](https://open.spotify.com/search/Child%20in%20Time%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Woman from Tokyo](https://open.spotify.com/search/Woman%20from%20Tokyo%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Speed King](https://open.spotify.com/search/Speed%20King%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Perfect Strangers](https://open.spotify.com/search/Perfect%20Strangers%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
+| [Pictures of Home](https://open.spotify.com/search/Pictures%20of%20Home%20Ritchie%20Blackmore%20Deep%20Purple) | Focus on phrasing, tone, bends, and how Ritchie Blackmore shapes the melodic argument. |
+| [Knocking at Your Back Door](https://open.spotify.com/search/Knocking%20at%20Your%20Back%20Door%20Ritchie%20Blackmore%20Deep%20Purple) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
+| [Hush](https://open.spotify.com/search/Hush%20Ritchie%20Blackmore%20Deep%20Purple) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Demon's Eye](https://open.spotify.com/search/Demon%27s%20Eye%20Ritchie%20Blackmore%20Deep%20Purple) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Strange Kind of Woman](https://open.spotify.com/search/Strange%20Kind%20of%20Woman%20Ritchie%20Blackmore%20Deep%20Purple) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Highway Star](https://open.spotify.com/search/Highway%20Star%20Ritchie%20Blackmore%20Deep%20Purple) | Focus on phrasing, tone, bends, and how Ritchie Blackmore shapes the melodic argument. |
+| [Smoke on the Water](https://open.spotify.com/search/Smoke%20on%20the%20Water%20Ritchie%20Blackmore%20Deep%20Purple) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
+| [Burn](https://open.spotify.com/search/Burn%20Ritchie%20Blackmore%20Deep%20Purple) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Space Truckin'](https://open.spotify.com/search/Space%20Truckin%27%20Ritchie%20Blackmore%20Deep%20Purple) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Lazy](https://open.spotify.com/search/Lazy%20Ritchie%20Blackmore%20Deep%20Purple) | Listen for comping choices and the way guitar defines the ensemble color. |
 
 ## Ian Paice
 
@@ -100,16 +100,16 @@ Ian Paice appears here as the drums voice for the `Deep Purple` pairing label. I
 
 | Song | Why Listen |
 |---|---|
-| [Highway Star](https://open.spotify.com/search/Highway%20Star%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Smoke on the Water](https://open.spotify.com/search/Smoke%20on%20the%20Water%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Burn](https://open.spotify.com/search/Burn%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Space Truckin'](https://open.spotify.com/search/Space%20Truckin%27%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Lazy](https://open.spotify.com/search/Lazy%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Black Night](https://open.spotify.com/search/Black%20Night%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Child in Time](https://open.spotify.com/search/Child%20in%20Time%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Woman from Tokyo](https://open.spotify.com/search/Woman%20from%20Tokyo%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Speed King](https://open.spotify.com/search/Speed%20King%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Perfect Strangers](https://open.spotify.com/search/Perfect%20Strangers%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
+| [Knocking at Your Back Door](https://open.spotify.com/search/Knocking%20at%20Your%20Back%20Door%20Ian%20Paice%20Deep%20Purple) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Hush](https://open.spotify.com/search/Hush%20Ian%20Paice%20Deep%20Purple) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Demon's Eye](https://open.spotify.com/search/Demon%27s%20Eye%20Ian%20Paice%20Deep%20Purple) | Use this for groove architecture rather than surface-level chops. |
+| [Strange Kind of Woman](https://open.spotify.com/search/Strange%20Kind%20of%20Woman%20Ian%20Paice%20Deep%20Purple) | Listen for dynamic control and density changes without losing pulse. |
+| [Highway Star](https://open.spotify.com/search/Highway%20Star%20Ian%20Paice%20Deep%20Purple) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Smoke on the Water](https://open.spotify.com/search/Smoke%20on%20the%20Water%20Ian%20Paice%20Deep%20Purple) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Burn](https://open.spotify.com/search/Burn%20Ian%20Paice%20Deep%20Purple) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Space Truckin'](https://open.spotify.com/search/Space%20Truckin%27%20Ian%20Paice%20Deep%20Purple) | Use this for groove architecture rather than surface-level chops. |
+| [Lazy](https://open.spotify.com/search/Lazy%20Ian%20Paice%20Deep%20Purple) | Listen for dynamic control and density changes without losing pulse. |
+| [Pictures of Home](https://open.spotify.com/search/Pictures%20of%20Home%20Ian%20Paice%20Deep%20Purple) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
 
 ## Jon Lord
 
@@ -132,16 +132,16 @@ Jon Lord appears here as the keyboards voice for the `Deep Purple` pairing label
 
 | Song | Why Listen |
 |---|---|
-| [Highway Star](https://open.spotify.com/search/Highway%20Star%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Smoke on the Water](https://open.spotify.com/search/Smoke%20on%20the%20Water%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Burn](https://open.spotify.com/search/Burn%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Space Truckin'](https://open.spotify.com/search/Space%20Truckin%27%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Lazy](https://open.spotify.com/search/Lazy%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Black Night](https://open.spotify.com/search/Black%20Night%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Child in Time](https://open.spotify.com/search/Child%20in%20Time%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Woman from Tokyo](https://open.spotify.com/search/Woman%20from%20Tokyo%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Speed King](https://open.spotify.com/search/Speed%20King%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
-| [Perfect Strangers](https://open.spotify.com/search/Perfect%20Strangers%20Deep%20Purple) | Idiomatic listening for the `Deep Purple` ensemble vocabulary. |
+| [Knocking at Your Back Door](https://open.spotify.com/search/Knocking%20at%20Your%20Back%20Door%20Jon%20Lord%20Deep%20Purple) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Hush](https://open.spotify.com/search/Hush%20Jon%20Lord%20Deep%20Purple) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Demon's Eye](https://open.spotify.com/search/Demon%27s%20Eye%20Jon%20Lord%20Deep%20Purple) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Strange Kind of Woman](https://open.spotify.com/search/Strange%20Kind%20of%20Woman%20Jon%20Lord%20Deep%20Purple) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Highway Star](https://open.spotify.com/search/Highway%20Star%20Jon%20Lord%20Deep%20Purple) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Smoke on the Water](https://open.spotify.com/search/Smoke%20on%20the%20Water%20Jon%20Lord%20Deep%20Purple) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Burn](https://open.spotify.com/search/Burn%20Jon%20Lord%20Deep%20Purple) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Space Truckin'](https://open.spotify.com/search/Space%20Truckin%27%20Jon%20Lord%20Deep%20Purple) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Lazy](https://open.spotify.com/search/Lazy%20Jon%20Lord%20Deep%20Purple) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Black Night](https://open.spotify.com/search/Black%20Night%20Jon%20Lord%20Deep%20Purple) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 
 ## References
 

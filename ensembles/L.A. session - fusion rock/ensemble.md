@@ -37,16 +37,16 @@ Jimmy Earl is the bass voice for the `L.A. session/fusion rock` pairing label. I
 
 | Song | Why Listen |
 |---|---|
-| [Room 335](https://open.spotify.com/search/Room%20335%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Josie](https://open.spotify.com/search/Josie%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Peg](https://open.spotify.com/search/Peg%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Rosanna](https://open.spotify.com/search/Rosanna%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Talk to Ya Later](https://open.spotify.com/search/Talk%20to%20Ya%20Later%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [I Keep Forgettin'](https://open.spotify.com/search/I%20Keep%20Forgettin%27%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [The Pump](https://open.spotify.com/search/The%20Pump%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Dirty Loops Rock You](https://open.spotify.com/search/Dirty%20Loops%20Rock%20You%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
+| [Dirty Loops Rock You](https://open.spotify.com/search/Dirty%20Loops%20Rock%20You%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Track the pocket, note length, and how Jimmy Earl makes the harmony feel grounded. |
+| [Josie](https://open.spotify.com/search/Josie%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Peg](https://open.spotify.com/search/Peg%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Track the pocket, note length, and how Jimmy Earl makes the harmony feel grounded. |
+| [Dean Town](https://open.spotify.com/search/Dean%20Town%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Good Times](https://open.spotify.com/search/Good%20Times%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
 
 ## Mike Miller
 
@@ -69,16 +69,16 @@ Mike Miller is the guitar voice for the `L.A. session/fusion rock` pairing label
 
 | Song | Why Listen |
 |---|---|
-| [Room 335](https://open.spotify.com/search/Room%20335%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Josie](https://open.spotify.com/search/Josie%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Peg](https://open.spotify.com/search/Peg%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Rosanna](https://open.spotify.com/search/Rosanna%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Talk to Ya Later](https://open.spotify.com/search/Talk%20to%20Ya%20Later%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [I Keep Forgettin'](https://open.spotify.com/search/I%20Keep%20Forgettin%27%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [The Pump](https://open.spotify.com/search/The%20Pump%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Dirty Loops Rock You](https://open.spotify.com/search/Dirty%20Loops%20Rock%20You%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
+| [Dirty Loops Rock You](https://open.spotify.com/search/Dirty%20Loops%20Rock%20You%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Focus on phrasing, tone, bends, and how Mike Miller shapes the melodic argument. |
+| [Josie](https://open.spotify.com/search/Josie%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Peg](https://open.spotify.com/search/Peg%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Focus on phrasing, tone, bends, and how Mike Miller shapes the melodic argument. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Europa](https://open.spotify.com/search/Europa%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Michael Landau
 
@@ -101,16 +101,16 @@ Michael Landau is the guitar voice for the `L.A. session/fusion rock` pairing la
 
 | Song | Why Listen |
 |---|---|
-| [Room 335](https://open.spotify.com/search/Room%20335%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Josie](https://open.spotify.com/search/Josie%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Peg](https://open.spotify.com/search/Peg%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Rosanna](https://open.spotify.com/search/Rosanna%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Talk to Ya Later](https://open.spotify.com/search/Talk%20to%20Ya%20Later%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [I Keep Forgettin'](https://open.spotify.com/search/I%20Keep%20Forgettin%27%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [The Pump](https://open.spotify.com/search/The%20Pump%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Dirty Loops Rock You](https://open.spotify.com/search/Dirty%20Loops%20Rock%20You%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Michael%20Landau%20L.A.%20session/fusion%20rock) | Focus on phrasing, tone, bends, and how Michael Landau shapes the melodic argument. |
+| [Josie](https://open.spotify.com/search/Josie%20Michael%20Landau%20L.A.%20session/fusion%20rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Peg](https://open.spotify.com/search/Peg%20Michael%20Landau%20L.A.%20session/fusion%20rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Michael%20Landau%20L.A.%20session/fusion%20rock) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Michael%20Landau%20L.A.%20session/fusion%20rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Talk to Ya Later](https://open.spotify.com/search/Talk%20to%20Ya%20Later%20Michael%20Landau%20L.A.%20session/fusion%20rock) | Focus on phrasing, tone, bends, and how Michael Landau shapes the melodic argument. |
+| [Aja](https://open.spotify.com/search/Aja%20Michael%20Landau%20L.A.%20session/fusion%20rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Michael%20Landau%20L.A.%20session/fusion%20rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Michael%20Landau%20L.A.%20session/fusion%20rock) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Michael%20Landau%20L.A.%20session/fusion%20rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
 
 ## Vinnie Colaiuta
 
@@ -133,16 +133,16 @@ Vinnie Colaiuta appears here as the drums voice for the `L.A. session/fusion roc
 
 | Song | Why Listen |
 |---|---|
-| [Room 335](https://open.spotify.com/search/Room%20335%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Josie](https://open.spotify.com/search/Josie%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Peg](https://open.spotify.com/search/Peg%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Rosanna](https://open.spotify.com/search/Rosanna%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Talk to Ya Later](https://open.spotify.com/search/Talk%20to%20Ya%20Later%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [I Keep Forgettin'](https://open.spotify.com/search/I%20Keep%20Forgettin%27%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [The Pump](https://open.spotify.com/search/The%20Pump%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Dirty Loops Rock You](https://open.spotify.com/search/Dirty%20Loops%20Rock%20You%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
+| [Peg](https://open.spotify.com/search/Peg%20Vinnie%20Colaiuta%20L.A.%20session/fusion%20rock) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Vinnie%20Colaiuta%20L.A.%20session/fusion%20rock) | Use this for groove architecture rather than just surface-level chops. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Vinnie%20Colaiuta%20L.A.%20session/fusion%20rock) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Talk to Ya Later](https://open.spotify.com/search/Talk%20to%20Ya%20Later%20Vinnie%20Colaiuta%20L.A.%20session/fusion%20rock) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [I Keep Forgettin'](https://open.spotify.com/search/I%20Keep%20Forgettin%27%20Vinnie%20Colaiuta%20L.A.%20session/fusion%20rock) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Stratus](https://open.spotify.com/search/Stratus%20Vinnie%20Colaiuta%20L.A.%20session/fusion%20rock) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Funky Drummer](https://open.spotify.com/search/Funky%20Drummer%20Vinnie%20Colaiuta%20L.A.%20session/fusion%20rock) | Use this for groove architecture rather than just surface-level chops. |
+| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Vinnie%20Colaiuta%20L.A.%20session/fusion%20rock) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Come Together](https://open.spotify.com/search/Come%20Together%20Vinnie%20Colaiuta%20L.A.%20session/fusion%20rock) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [YYZ](https://open.spotify.com/search/YYZ%20Vinnie%20Colaiuta%20L.A.%20session/fusion%20rock) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
 
 ## Jeff Babko
 
@@ -165,16 +165,16 @@ Jeff Babko appears here as the keyboards voice for the `L.A. session/fusion rock
 
 | Song | Why Listen |
 |---|---|
-| [Room 335](https://open.spotify.com/search/Room%20335%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Josie](https://open.spotify.com/search/Josie%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Peg](https://open.spotify.com/search/Peg%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Rosanna](https://open.spotify.com/search/Rosanna%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Talk to Ya Later](https://open.spotify.com/search/Talk%20to%20Ya%20Later%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [I Keep Forgettin'](https://open.spotify.com/search/I%20Keep%20Forgettin%27%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [The Pump](https://open.spotify.com/search/The%20Pump%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
-| [Dirty Loops Rock You](https://open.spotify.com/search/Dirty%20Loops%20Rock%20You%20L.A.%20session%20-%20fusion%20rock) | Idiomatic listening for the `L.A. session - fusion rock` ensemble vocabulary. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Jeff%20Babko%20L.A.%20session/fusion%20rock) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Jeff%20Babko%20L.A.%20session/fusion%20rock) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Talk to Ya Later](https://open.spotify.com/search/Talk%20to%20Ya%20Later%20Jeff%20Babko%20L.A.%20session/fusion%20rock) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [I Keep Forgettin'](https://open.spotify.com/search/I%20Keep%20Forgettin%27%20Jeff%20Babko%20L.A.%20session/fusion%20rock) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Stratus](https://open.spotify.com/search/Stratus%20Jeff%20Babko%20L.A.%20session/fusion%20rock) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [The Pump](https://open.spotify.com/search/The%20Pump%20Jeff%20Babko%20L.A.%20session/fusion%20rock) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Jeff%20Babko%20L.A.%20session/fusion%20rock) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Jeff%20Babko%20L.A.%20session/fusion%20rock) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Jeff%20Babko%20L.A.%20session/fusion%20rock) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Jeff%20Babko%20L.A.%20session/fusion%20rock) | Track how the keys share space with guitar and bass without blurring the groove. |
 
 ## References
 

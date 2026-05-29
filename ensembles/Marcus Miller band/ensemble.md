@@ -37,16 +37,16 @@ Marcus Miller is the bass voice for the `Marcus Miller band` pairing label. In t
 
 | Song | Why Listen |
 |---|---|
-| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Marcus%20Miller%20band) | Listen for Marcus Miller's role in the `Marcus Miller band` vocabulary. |
-| [Power](https://open.spotify.com/search/Power%20Marcus%20Miller%20band) | Listen for Marcus Miller's role in the `Marcus Miller band` vocabulary. |
-| [Panther](https://open.spotify.com/search/Panther%20Marcus%20Miller%20band) | Listen for Marcus Miller's role in the `Marcus Miller band` vocabulary. |
-| [Tutu](https://open.spotify.com/search/Tutu%20Marcus%20Miller%20band) | Listen for Marcus Miller's role in the `Marcus Miller band` vocabulary. |
-| [Blast](https://open.spotify.com/search/Blast%20Marcus%20Miller%20band) | Listen for Marcus Miller's role in the `Marcus Miller band` vocabulary. |
-| [Detroit](https://open.spotify.com/search/Detroit%20Marcus%20Miller%20band) | Listen for Marcus Miller's role in the `Marcus Miller band` vocabulary. |
-| [Maputo](https://open.spotify.com/search/Maputo%20Marcus%20Miller%20band) | Listen for Marcus Miller's role in the `Marcus Miller band` vocabulary. |
-| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Marcus%20Miller%20band) | Listen for Marcus Miller's role in the `Marcus Miller band` vocabulary. |
-| [Cousin John](https://open.spotify.com/search/Cousin%20John%20Marcus%20Miller%20band) | Listen for Marcus Miller's role in the `Marcus Miller band` vocabulary. |
-| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Marcus%20Miller%20band) | Listen for Marcus Miller's role in the `Marcus Miller band` vocabulary. |
+| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Marcus%20Miller%20Marcus%20Miller%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Cousin John](https://open.spotify.com/search/Cousin%20John%20Marcus%20Miller%20Marcus%20Miller%20band) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Marcus%20Miller%20Marcus%20Miller%20band) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Marcus%20Miller%20Marcus%20Miller%20band) | Track the pocket, note length, and how Marcus Miller makes the harmony feel grounded. |
+| [Power](https://open.spotify.com/search/Power%20Marcus%20Miller%20Marcus%20Miller%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Panther](https://open.spotify.com/search/Panther%20Marcus%20Miller%20Marcus%20Miller%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Marcus%20Miller%20Marcus%20Miller%20band) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Marcus%20Miller%20Marcus%20Miller%20band) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Continuum](https://open.spotify.com/search/Continuum%20Marcus%20Miller%20Marcus%20Miller%20band) | Track the pocket, note length, and how Marcus Miller makes the harmony feel grounded. |
+| [Stratus](https://open.spotify.com/search/Stratus%20Marcus%20Miller%20Marcus%20Miller%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Hiram Bullock
 
@@ -69,16 +69,16 @@ Hiram Bullock is the guitar voice for the `Marcus Miller band` pairing label. In
 
 | Song | Why Listen |
 |---|---|
-| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Marcus%20Miller%20band) | Listen for Hiram Bullock's role in the `Marcus Miller band` vocabulary. |
-| [Power](https://open.spotify.com/search/Power%20Marcus%20Miller%20band) | Listen for Hiram Bullock's role in the `Marcus Miller band` vocabulary. |
-| [Panther](https://open.spotify.com/search/Panther%20Marcus%20Miller%20band) | Listen for Hiram Bullock's role in the `Marcus Miller band` vocabulary. |
-| [Tutu](https://open.spotify.com/search/Tutu%20Marcus%20Miller%20band) | Listen for Hiram Bullock's role in the `Marcus Miller band` vocabulary. |
-| [Blast](https://open.spotify.com/search/Blast%20Marcus%20Miller%20band) | Listen for Hiram Bullock's role in the `Marcus Miller band` vocabulary. |
-| [Detroit](https://open.spotify.com/search/Detroit%20Marcus%20Miller%20band) | Listen for Hiram Bullock's role in the `Marcus Miller band` vocabulary. |
-| [Maputo](https://open.spotify.com/search/Maputo%20Marcus%20Miller%20band) | Listen for Hiram Bullock's role in the `Marcus Miller band` vocabulary. |
-| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Marcus%20Miller%20band) | Listen for Hiram Bullock's role in the `Marcus Miller band` vocabulary. |
-| [Cousin John](https://open.spotify.com/search/Cousin%20John%20Marcus%20Miller%20band) | Listen for Hiram Bullock's role in the `Marcus Miller band` vocabulary. |
-| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Marcus%20Miller%20band) | Listen for Hiram Bullock's role in the `Marcus Miller band` vocabulary. |
+| [Detroit](https://open.spotify.com/search/Detroit%20Hiram%20Bullock%20Marcus%20Miller%20band) | Focus on phrasing, tone, bends, and how Hiram Bullock shapes the melodic argument. |
+| [Maputo](https://open.spotify.com/search/Maputo%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Hiram%20Bullock%20Marcus%20Miller%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Cousin John](https://open.spotify.com/search/Cousin%20John%20Hiram%20Bullock%20Marcus%20Miller%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Hiram%20Bullock%20Marcus%20Miller%20band) | Focus on phrasing, tone, bends, and how Hiram Bullock shapes the melodic argument. |
+| [Aja](https://open.spotify.com/search/Aja%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Peg](https://open.spotify.com/search/Peg%20Hiram%20Bullock%20Marcus%20Miller%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Hiram%20Bullock%20Marcus%20Miller%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
 
 ## Poogie Bell
 
@@ -101,16 +101,16 @@ Poogie Bell appears here as the drums voice for the `Marcus Miller band` pairing
 
 | Song | Why Listen |
 |---|---|
-| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Marcus%20Miller%20band) | Listen for Poogie Bell's role in the `Marcus Miller band` vocabulary. |
-| [Power](https://open.spotify.com/search/Power%20Marcus%20Miller%20band) | Listen for Poogie Bell's role in the `Marcus Miller band` vocabulary. |
-| [Panther](https://open.spotify.com/search/Panther%20Marcus%20Miller%20band) | Listen for Poogie Bell's role in the `Marcus Miller band` vocabulary. |
-| [Tutu](https://open.spotify.com/search/Tutu%20Marcus%20Miller%20band) | Listen for Poogie Bell's role in the `Marcus Miller band` vocabulary. |
-| [Blast](https://open.spotify.com/search/Blast%20Marcus%20Miller%20band) | Listen for Poogie Bell's role in the `Marcus Miller band` vocabulary. |
-| [Detroit](https://open.spotify.com/search/Detroit%20Marcus%20Miller%20band) | Listen for Poogie Bell's role in the `Marcus Miller band` vocabulary. |
-| [Maputo](https://open.spotify.com/search/Maputo%20Marcus%20Miller%20band) | Listen for Poogie Bell's role in the `Marcus Miller band` vocabulary. |
-| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Marcus%20Miller%20band) | Listen for Poogie Bell's role in the `Marcus Miller band` vocabulary. |
-| [Cousin John](https://open.spotify.com/search/Cousin%20John%20Marcus%20Miller%20band) | Listen for Poogie Bell's role in the `Marcus Miller band` vocabulary. |
-| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Marcus%20Miller%20band) | Listen for Poogie Bell's role in the `Marcus Miller band` vocabulary. |
+| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Poogie%20Bell%20Marcus%20Miller%20band) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Cousin John](https://open.spotify.com/search/Cousin%20John%20Poogie%20Bell%20Marcus%20Miller%20band) | Use this for groove architecture rather than just surface-level chops. |
+| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Poogie%20Bell%20Marcus%20Miller%20band) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Poogie%20Bell%20Marcus%20Miller%20band) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Power](https://open.spotify.com/search/Power%20Poogie%20Bell%20Marcus%20Miller%20band) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Panther](https://open.spotify.com/search/Panther%20Poogie%20Bell%20Marcus%20Miller%20band) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Come Together](https://open.spotify.com/search/Come%20Together%20Poogie%20Bell%20Marcus%20Miller%20band) | Use this for groove architecture rather than just surface-level chops. |
+| [YYZ](https://open.spotify.com/search/YYZ%20Poogie%20Bell%20Marcus%20Miller%20band) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Birdland](https://open.spotify.com/search/Birdland%20Poogie%20Bell%20Marcus%20Miller%20band) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Poogie%20Bell%20Marcus%20Miller%20band) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
 
 ## Herbie Hancock
 
@@ -133,16 +133,16 @@ Herbie Hancock appears here as the keyboards voice for the `Marcus Miller band` 
 
 | Song | Why Listen |
 |---|---|
-| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Marcus%20Miller%20band) | Listen for Herbie Hancock's role in the `Marcus Miller band` vocabulary. |
-| [Power](https://open.spotify.com/search/Power%20Marcus%20Miller%20band) | Listen for Herbie Hancock's role in the `Marcus Miller band` vocabulary. |
-| [Panther](https://open.spotify.com/search/Panther%20Marcus%20Miller%20band) | Listen for Herbie Hancock's role in the `Marcus Miller band` vocabulary. |
-| [Tutu](https://open.spotify.com/search/Tutu%20Marcus%20Miller%20band) | Listen for Herbie Hancock's role in the `Marcus Miller band` vocabulary. |
-| [Blast](https://open.spotify.com/search/Blast%20Marcus%20Miller%20band) | Listen for Herbie Hancock's role in the `Marcus Miller band` vocabulary. |
-| [Detroit](https://open.spotify.com/search/Detroit%20Marcus%20Miller%20band) | Listen for Herbie Hancock's role in the `Marcus Miller band` vocabulary. |
-| [Maputo](https://open.spotify.com/search/Maputo%20Marcus%20Miller%20band) | Listen for Herbie Hancock's role in the `Marcus Miller band` vocabulary. |
-| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Marcus%20Miller%20band) | Listen for Herbie Hancock's role in the `Marcus Miller band` vocabulary. |
-| [Cousin John](https://open.spotify.com/search/Cousin%20John%20Marcus%20Miller%20band) | Listen for Herbie Hancock's role in the `Marcus Miller band` vocabulary. |
-| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Marcus%20Miller%20band) | Listen for Herbie Hancock's role in the `Marcus Miller band` vocabulary. |
+| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Herbie%20Hancock%20Marcus%20Miller%20band) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Herbie%20Hancock%20Marcus%20Miller%20band) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Power](https://open.spotify.com/search/Power%20Herbie%20Hancock%20Marcus%20Miller%20band) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Panther](https://open.spotify.com/search/Panther%20Herbie%20Hancock%20Marcus%20Miller%20band) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Tutu](https://open.spotify.com/search/Tutu%20Herbie%20Hancock%20Marcus%20Miller%20band) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Blast](https://open.spotify.com/search/Blast%20Herbie%20Hancock%20Marcus%20Miller%20band) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [As](https://open.spotify.com/search/As%20Herbie%20Hancock%20Marcus%20Miller%20band) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Herbie%20Hancock%20Marcus%20Miller%20band) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Herbie%20Hancock%20Marcus%20Miller%20band) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Herbie%20Hancock%20Marcus%20Miller%20band) | Use this for comping vocabulary, synth texture, and arrangement support. |
 
 ## David Sanborn
 
@@ -165,16 +165,16 @@ David Sanborn appears here as the saxophone voice for the `Marcus Miller band` p
 
 | Song | Why Listen |
 |---|---|
-| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Marcus%20Miller%20band) | Listen for David Sanborn's role in the `Marcus Miller band` vocabulary. |
-| [Power](https://open.spotify.com/search/Power%20Marcus%20Miller%20band) | Listen for David Sanborn's role in the `Marcus Miller band` vocabulary. |
-| [Panther](https://open.spotify.com/search/Panther%20Marcus%20Miller%20band) | Listen for David Sanborn's role in the `Marcus Miller band` vocabulary. |
-| [Tutu](https://open.spotify.com/search/Tutu%20Marcus%20Miller%20band) | Listen for David Sanborn's role in the `Marcus Miller band` vocabulary. |
-| [Blast](https://open.spotify.com/search/Blast%20Marcus%20Miller%20band) | Listen for David Sanborn's role in the `Marcus Miller band` vocabulary. |
-| [Detroit](https://open.spotify.com/search/Detroit%20Marcus%20Miller%20band) | Listen for David Sanborn's role in the `Marcus Miller band` vocabulary. |
-| [Maputo](https://open.spotify.com/search/Maputo%20Marcus%20Miller%20band) | Listen for David Sanborn's role in the `Marcus Miller band` vocabulary. |
-| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Marcus%20Miller%20band) | Listen for David Sanborn's role in the `Marcus Miller band` vocabulary. |
-| [Cousin John](https://open.spotify.com/search/Cousin%20John%20Marcus%20Miller%20band) | Listen for David Sanborn's role in the `Marcus Miller band` vocabulary. |
-| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Marcus%20Miller%20band) | Listen for David Sanborn's role in the `Marcus Miller band` vocabulary. |
+| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20David%20Sanborn%20Marcus%20Miller%20band) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
+| [Power](https://open.spotify.com/search/Power%20David%20Sanborn%20Marcus%20Miller%20band) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
+| [Panther](https://open.spotify.com/search/Panther%20David%20Sanborn%20Marcus%20Miller%20band) | Track how the saxophone line changes the ensemble from groove to conversation. |
+| [Tutu](https://open.spotify.com/search/Tutu%20David%20Sanborn%20Marcus%20Miller%20band) | Use this for tone, attack, and phrase endings inside the idiom. |
+| [Blast](https://open.spotify.com/search/Blast%20David%20Sanborn%20Marcus%20Miller%20band) | Listen for melodic contrast against bass and guitar figures. |
+| [Detroit](https://open.spotify.com/search/Detroit%20David%20Sanborn%20Marcus%20Miller%20band) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
+| [Watermelon Man](https://open.spotify.com/search/Watermelon%20Man%20David%20Sanborn%20Marcus%20Miller%20band) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
+| [Moanin'](https://open.spotify.com/search/Moanin%27%20David%20Sanborn%20Marcus%20Miller%20band) | Track how the saxophone line changes the ensemble from groove to conversation. |
+| [Compared to What](https://open.spotify.com/search/Compared%20to%20What%20David%20Sanborn%20Marcus%20Miller%20band) | Use this for tone, attack, and phrase endings inside the idiom. |
+| [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20David%20Sanborn%20Marcus%20Miller%20band) | Listen for melodic contrast against bass and guitar figures. |
 
 ## References
 

@@ -40,16 +40,16 @@ Tony Levin is the bass voice for the `Peter Gabriel` pairing label. In the local
 
 | Song | Why Listen |
 |---|---|
-| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Peter%20Gabriel) | Listen for Tony Levin's role in the `Peter Gabriel` vocabulary. |
-| [Big Time](https://open.spotify.com/search/Big%20Time%20Peter%20Gabriel) | Listen for Tony Levin's role in the `Peter Gabriel` vocabulary. |
-| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Peter%20Gabriel) | Listen for Tony Levin's role in the `Peter Gabriel` vocabulary. |
-| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Peter%20Gabriel) | Listen for Tony Levin's role in the `Peter Gabriel` vocabulary. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Peter%20Gabriel) | Listen for Tony Levin's role in the `Peter Gabriel` vocabulary. |
-| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Peter%20Gabriel) | Listen for Tony Levin's role in the `Peter Gabriel` vocabulary. |
-| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Peter%20Gabriel) | Listen for Tony Levin's role in the `Peter Gabriel` vocabulary. |
-| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Peter%20Gabriel) | Listen for Tony Levin's role in the `Peter Gabriel` vocabulary. |
-| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Peter%20Gabriel) | Listen for Tony Levin's role in the `Peter Gabriel` vocabulary. |
-| [Secret World](https://open.spotify.com/search/Secret%20World%20Peter%20Gabriel) | Listen for Tony Levin's role in the `Peter Gabriel` vocabulary. |
+| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Tony%20Levin%20Peter%20Gabriel) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Tony%20Levin%20Peter%20Gabriel) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Tony%20Levin%20Peter%20Gabriel) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Secret World](https://open.spotify.com/search/Secret%20World%20Tony%20Levin%20Peter%20Gabriel) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Tony%20Levin%20Peter%20Gabriel) | Track the pocket, note length, and how Tony Levin makes the harmony feel grounded. |
+| [Big Time](https://open.spotify.com/search/Big%20Time%20Tony%20Levin%20Peter%20Gabriel) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Continuum](https://open.spotify.com/search/Continuum%20Tony%20Levin%20Peter%20Gabriel) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Stratus](https://open.spotify.com/search/Stratus%20Tony%20Levin%20Peter%20Gabriel) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Tony%20Levin%20Peter%20Gabriel) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Tony%20Levin%20Peter%20Gabriel) | Track the pocket, note length, and how Tony Levin makes the harmony feel grounded. |
 
 ## John Petrucci
 
@@ -72,16 +72,16 @@ John Petrucci is the guitar voice for the `Peter Gabriel` pairing label. In the 
 
 | Song | Why Listen |
 |---|---|
-| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Peter%20Gabriel) | Listen for John Petrucci's role in the `Peter Gabriel` vocabulary. |
-| [Big Time](https://open.spotify.com/search/Big%20Time%20Peter%20Gabriel) | Listen for John Petrucci's role in the `Peter Gabriel` vocabulary. |
-| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Peter%20Gabriel) | Listen for John Petrucci's role in the `Peter Gabriel` vocabulary. |
-| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Peter%20Gabriel) | Listen for John Petrucci's role in the `Peter Gabriel` vocabulary. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Peter%20Gabriel) | Listen for John Petrucci's role in the `Peter Gabriel` vocabulary. |
-| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Peter%20Gabriel) | Listen for John Petrucci's role in the `Peter Gabriel` vocabulary. |
-| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Peter%20Gabriel) | Listen for John Petrucci's role in the `Peter Gabriel` vocabulary. |
-| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Peter%20Gabriel) | Listen for John Petrucci's role in the `Peter Gabriel` vocabulary. |
-| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Peter%20Gabriel) | Listen for John Petrucci's role in the `Peter Gabriel` vocabulary. |
-| [Secret World](https://open.spotify.com/search/Secret%20World%20Peter%20Gabriel) | Listen for John Petrucci's role in the `Peter Gabriel` vocabulary. |
+| [Big Time](https://open.spotify.com/search/Big%20Time%20John%20Petrucci%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Red Rain](https://open.spotify.com/search/Red%20Rain%20John%20Petrucci%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20John%20Petrucci%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20John%20Petrucci%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20John%20Petrucci%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how John Petrucci shapes the melodic argument. |
+| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20John%20Petrucci%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [La Grange](https://open.spotify.com/search/La%20Grange%20John%20Petrucci%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20John%20Petrucci%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20John%20Petrucci%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20John%20Petrucci%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how John Petrucci shapes the melodic argument. |
 
 ## Adrian Belew
 
@@ -105,16 +105,16 @@ American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, T
 
 | Song | Why Listen |
 |---|---|
-| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Peter%20Gabriel) | Listen for Adrian Belew's role in the `Peter Gabriel` vocabulary. |
-| [Big Time](https://open.spotify.com/search/Big%20Time%20Peter%20Gabriel) | Listen for Adrian Belew's role in the `Peter Gabriel` vocabulary. |
-| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Peter%20Gabriel) | Listen for Adrian Belew's role in the `Peter Gabriel` vocabulary. |
-| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Peter%20Gabriel) | Listen for Adrian Belew's role in the `Peter Gabriel` vocabulary. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Peter%20Gabriel) | Listen for Adrian Belew's role in the `Peter Gabriel` vocabulary. |
-| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Peter%20Gabriel) | Listen for Adrian Belew's role in the `Peter Gabriel` vocabulary. |
-| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Peter%20Gabriel) | Listen for Adrian Belew's role in the `Peter Gabriel` vocabulary. |
-| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Peter%20Gabriel) | Listen for Adrian Belew's role in the `Peter Gabriel` vocabulary. |
-| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Peter%20Gabriel) | Listen for Adrian Belew's role in the `Peter Gabriel` vocabulary. |
-| [Secret World](https://open.spotify.com/search/Secret%20World%20Peter%20Gabriel) | Listen for Adrian Belew's role in the `Peter Gabriel` vocabulary. |
+| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Adrian%20Belew%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how Adrian Belew shapes the melodic argument. |
+| [Big Time](https://open.spotify.com/search/Big%20Time%20Adrian%20Belew%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Adrian%20Belew%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Adrian%20Belew%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Adrian%20Belew%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Adrian%20Belew%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how Adrian Belew shapes the melodic argument. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Adrian%20Belew%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Adrian%20Belew%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Adrian%20Belew%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Europa](https://open.spotify.com/search/Europa%20Adrian%20Belew%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
 
 ## David Rhodes
 
@@ -137,16 +137,16 @@ David Rhodes is the guitar voice for the `Peter Gabriel` pairing label. In the l
 
 | Song | Why Listen |
 |---|---|
-| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Peter%20Gabriel) | Listen for David Rhodes's role in the `Peter Gabriel` vocabulary. |
-| [Big Time](https://open.spotify.com/search/Big%20Time%20Peter%20Gabriel) | Listen for David Rhodes's role in the `Peter Gabriel` vocabulary. |
-| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Peter%20Gabriel) | Listen for David Rhodes's role in the `Peter Gabriel` vocabulary. |
-| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Peter%20Gabriel) | Listen for David Rhodes's role in the `Peter Gabriel` vocabulary. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Peter%20Gabriel) | Listen for David Rhodes's role in the `Peter Gabriel` vocabulary. |
-| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Peter%20Gabriel) | Listen for David Rhodes's role in the `Peter Gabriel` vocabulary. |
-| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Peter%20Gabriel) | Listen for David Rhodes's role in the `Peter Gabriel` vocabulary. |
-| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Peter%20Gabriel) | Listen for David Rhodes's role in the `Peter Gabriel` vocabulary. |
-| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Peter%20Gabriel) | Listen for David Rhodes's role in the `Peter Gabriel` vocabulary. |
-| [Secret World](https://open.spotify.com/search/Secret%20World%20Peter%20Gabriel) | Listen for David Rhodes's role in the `Peter Gabriel` vocabulary. |
+| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20David%20Rhodes%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Secret World](https://open.spotify.com/search/Secret%20World%20David%20Rhodes%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20David%20Rhodes%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how David Rhodes shapes the melodic argument. |
+| [Big Time](https://open.spotify.com/search/Big%20Time%20David%20Rhodes%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Red Rain](https://open.spotify.com/search/Red%20Rain%20David%20Rhodes%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20David%20Rhodes%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20David%20Rhodes%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red House](https://open.spotify.com/search/Red%20House%20David%20Rhodes%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how David Rhodes shapes the melodic argument. |
+| [La Grange](https://open.spotify.com/search/La%20Grange%20David%20Rhodes%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20David%20Rhodes%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Mike Portnoy
 
@@ -169,16 +169,16 @@ Mike Portnoy appears here as the drums voice for the `Peter Gabriel` pairing lab
 
 | Song | Why Listen |
 |---|---|
-| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Peter%20Gabriel) | Listen for Mike Portnoy's role in the `Peter Gabriel` vocabulary. |
-| [Big Time](https://open.spotify.com/search/Big%20Time%20Peter%20Gabriel) | Listen for Mike Portnoy's role in the `Peter Gabriel` vocabulary. |
-| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Peter%20Gabriel) | Listen for Mike Portnoy's role in the `Peter Gabriel` vocabulary. |
-| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Peter%20Gabriel) | Listen for Mike Portnoy's role in the `Peter Gabriel` vocabulary. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Peter%20Gabriel) | Listen for Mike Portnoy's role in the `Peter Gabriel` vocabulary. |
-| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Peter%20Gabriel) | Listen for Mike Portnoy's role in the `Peter Gabriel` vocabulary. |
-| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Peter%20Gabriel) | Listen for Mike Portnoy's role in the `Peter Gabriel` vocabulary. |
-| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Peter%20Gabriel) | Listen for Mike Portnoy's role in the `Peter Gabriel` vocabulary. |
-| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Peter%20Gabriel) | Listen for Mike Portnoy's role in the `Peter Gabriel` vocabulary. |
-| [Secret World](https://open.spotify.com/search/Secret%20World%20Peter%20Gabriel) | Listen for Mike Portnoy's role in the `Peter Gabriel` vocabulary. |
+| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Mike%20Portnoy%20Peter%20Gabriel) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Mike%20Portnoy%20Peter%20Gabriel) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Mike%20Portnoy%20Peter%20Gabriel) | Use this for groove architecture rather than just surface-level chops. |
+| [Secret World](https://open.spotify.com/search/Secret%20World%20Mike%20Portnoy%20Peter%20Gabriel) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Mike%20Portnoy%20Peter%20Gabriel) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Big Time](https://open.spotify.com/search/Big%20Time%20Mike%20Portnoy%20Peter%20Gabriel) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Come Together](https://open.spotify.com/search/Come%20Together%20Mike%20Portnoy%20Peter%20Gabriel) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [YYZ](https://open.spotify.com/search/YYZ%20Mike%20Portnoy%20Peter%20Gabriel) | Use this for groove architecture rather than just surface-level chops. |
+| [Birdland](https://open.spotify.com/search/Birdland%20Mike%20Portnoy%20Peter%20Gabriel) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Mike%20Portnoy%20Peter%20Gabriel) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
 
 ## Pat Mastelotto
 
@@ -201,16 +201,16 @@ Pat Mastelotto appears here as the drums voice for the `Peter Gabriel` pairing l
 
 | Song | Why Listen |
 |---|---|
-| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Peter%20Gabriel) | Listen for Pat Mastelotto's role in the `Peter Gabriel` vocabulary. |
-| [Big Time](https://open.spotify.com/search/Big%20Time%20Peter%20Gabriel) | Listen for Pat Mastelotto's role in the `Peter Gabriel` vocabulary. |
-| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Peter%20Gabriel) | Listen for Pat Mastelotto's role in the `Peter Gabriel` vocabulary. |
-| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Peter%20Gabriel) | Listen for Pat Mastelotto's role in the `Peter Gabriel` vocabulary. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Peter%20Gabriel) | Listen for Pat Mastelotto's role in the `Peter Gabriel` vocabulary. |
-| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Peter%20Gabriel) | Listen for Pat Mastelotto's role in the `Peter Gabriel` vocabulary. |
-| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Peter%20Gabriel) | Listen for Pat Mastelotto's role in the `Peter Gabriel` vocabulary. |
-| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Peter%20Gabriel) | Listen for Pat Mastelotto's role in the `Peter Gabriel` vocabulary. |
-| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Peter%20Gabriel) | Listen for Pat Mastelotto's role in the `Peter Gabriel` vocabulary. |
-| [Secret World](https://open.spotify.com/search/Secret%20World%20Peter%20Gabriel) | Listen for Pat Mastelotto's role in the `Peter Gabriel` vocabulary. |
+| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Pat%20Mastelotto%20Peter%20Gabriel) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Pat%20Mastelotto%20Peter%20Gabriel) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Pat%20Mastelotto%20Peter%20Gabriel) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Pat%20Mastelotto%20Peter%20Gabriel) | Use this for groove architecture rather than just surface-level chops. |
+| [Secret World](https://open.spotify.com/search/Secret%20World%20Pat%20Mastelotto%20Peter%20Gabriel) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Pat%20Mastelotto%20Peter%20Gabriel) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Babylon Sisters](https://open.spotify.com/search/Babylon%20Sisters%20Pat%20Mastelotto%20Peter%20Gabriel) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [One Word](https://open.spotify.com/search/One%20Word%20Pat%20Mastelotto%20Peter%20Gabriel) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Larks' Tongues in Aspic, Part Two](https://open.spotify.com/search/Larks%27%20Tongues%20in%20Aspic%2C%20Part%20Two%20Pat%20Mastelotto%20Peter%20Gabriel) | Use this for groove architecture rather than just surface-level chops. |
+| [Aja](https://open.spotify.com/search/Aja%20Pat%20Mastelotto%20Peter%20Gabriel) | Listen for dynamic control and how the drummer changes density without losing pulse. |
 
 ## Jordan Rudess
 
@@ -233,16 +233,16 @@ Jordan Rudess appears here as the keyboards voice for the `Peter Gabriel` pairin
 
 | Song | Why Listen |
 |---|---|
-| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Peter%20Gabriel) | Listen for Jordan Rudess's role in the `Peter Gabriel` vocabulary. |
-| [Big Time](https://open.spotify.com/search/Big%20Time%20Peter%20Gabriel) | Listen for Jordan Rudess's role in the `Peter Gabriel` vocabulary. |
-| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Peter%20Gabriel) | Listen for Jordan Rudess's role in the `Peter Gabriel` vocabulary. |
-| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Peter%20Gabriel) | Listen for Jordan Rudess's role in the `Peter Gabriel` vocabulary. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Peter%20Gabriel) | Listen for Jordan Rudess's role in the `Peter Gabriel` vocabulary. |
-| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Peter%20Gabriel) | Listen for Jordan Rudess's role in the `Peter Gabriel` vocabulary. |
-| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Peter%20Gabriel) | Listen for Jordan Rudess's role in the `Peter Gabriel` vocabulary. |
-| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Peter%20Gabriel) | Listen for Jordan Rudess's role in the `Peter Gabriel` vocabulary. |
-| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Peter%20Gabriel) | Listen for Jordan Rudess's role in the `Peter Gabriel` vocabulary. |
-| [Secret World](https://open.spotify.com/search/Secret%20World%20Peter%20Gabriel) | Listen for Jordan Rudess's role in the `Peter Gabriel` vocabulary. |
+| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Jordan%20Rudess%20Peter%20Gabriel) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Big Time](https://open.spotify.com/search/Big%20Time%20Jordan%20Rudess%20Peter%20Gabriel) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Jordan%20Rudess%20Peter%20Gabriel) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Jordan%20Rudess%20Peter%20Gabriel) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Jordan%20Rudess%20Peter%20Gabriel) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Jordan%20Rudess%20Peter%20Gabriel) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Jordan%20Rudess%20Peter%20Gabriel) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Jordan%20Rudess%20Peter%20Gabriel) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Jordan%20Rudess%20Peter%20Gabriel) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Tutu](https://open.spotify.com/search/Tutu%20Jordan%20Rudess%20Peter%20Gabriel) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## Mel Collins
 
@@ -265,16 +265,16 @@ Mel Collins appears here as the saxophone voice for the `Peter Gabriel` pairing 
 
 | Song | Why Listen |
 |---|---|
-| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Peter%20Gabriel) | Listen for Mel Collins's role in the `Peter Gabriel` vocabulary. |
-| [Big Time](https://open.spotify.com/search/Big%20Time%20Peter%20Gabriel) | Listen for Mel Collins's role in the `Peter Gabriel` vocabulary. |
-| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Peter%20Gabriel) | Listen for Mel Collins's role in the `Peter Gabriel` vocabulary. |
-| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Peter%20Gabriel) | Listen for Mel Collins's role in the `Peter Gabriel` vocabulary. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Peter%20Gabriel) | Listen for Mel Collins's role in the `Peter Gabriel` vocabulary. |
-| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Peter%20Gabriel) | Listen for Mel Collins's role in the `Peter Gabriel` vocabulary. |
-| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Peter%20Gabriel) | Listen for Mel Collins's role in the `Peter Gabriel` vocabulary. |
-| [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Peter%20Gabriel) | Listen for Mel Collins's role in the `Peter Gabriel` vocabulary. |
-| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Peter%20Gabriel) | Listen for Mel Collins's role in the `Peter Gabriel` vocabulary. |
-| [Secret World](https://open.spotify.com/search/Secret%20World%20Peter%20Gabriel) | Listen for Mel Collins's role in the `Peter Gabriel` vocabulary. |
+| [Secret World](https://open.spotify.com/search/Secret%20World%20Mel%20Collins%20Peter%20Gabriel) | Listen for melodic contrast against bass and guitar figures. |
+| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Mel%20Collins%20Peter%20Gabriel) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
+| [Big Time](https://open.spotify.com/search/Big%20Time%20Mel%20Collins%20Peter%20Gabriel) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
+| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Mel%20Collins%20Peter%20Gabriel) | Track how the saxophone line changes the ensemble from groove to conversation. |
+| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Mel%20Collins%20Peter%20Gabriel) | Use this for tone, attack, and phrase endings inside the idiom. |
+| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Mel%20Collins%20Peter%20Gabriel) | Listen for melodic contrast against bass and guitar figures. |
+| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Mel%20Collins%20Peter%20Gabriel) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
+| [Pick Up the Pieces](https://open.spotify.com/search/Pick%20Up%20the%20Pieces%20Mel%20Collins%20Peter%20Gabriel) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
+| [Mercy, Mercy, Mercy](https://open.spotify.com/search/Mercy%2C%20Mercy%2C%20Mercy%20Mel%20Collins%20Peter%20Gabriel) | Track how the saxophone line changes the ensemble from groove to conversation. |
+| [Song for My Father](https://open.spotify.com/search/Song%20for%20My%20Father%20Mel%20Collins%20Peter%20Gabriel) | Use this for tone, attack, and phrase endings inside the idiom. |
 
 ## References
 

@@ -35,16 +35,16 @@ Justin Chancellor is the bass voice for the `Tool` pairing label. In the local r
 
 | Song | Why Listen |
 |---|---|
-| [Schism](https://open.spotify.com/search/Schism%20Tool) | Listen for Justin Chancellor's role in the `Tool` vocabulary. |
-| [Lateralus](https://open.spotify.com/search/Lateralus%20Tool) | Listen for Justin Chancellor's role in the `Tool` vocabulary. |
-| [The Pot](https://open.spotify.com/search/The%20Pot%20Tool) | Listen for Justin Chancellor's role in the `Tool` vocabulary. |
-| [Forty Six & 2](https://open.spotify.com/search/Forty%20Six%20%26%202%20Tool) | Listen for Justin Chancellor's role in the `Tool` vocabulary. |
-| [Sober](https://open.spotify.com/search/Sober%20Tool) | Listen for Justin Chancellor's role in the `Tool` vocabulary. |
-| [Parabola](https://open.spotify.com/search/Parabola%20Tool) | Listen for Justin Chancellor's role in the `Tool` vocabulary. |
-| [Jambi](https://open.spotify.com/search/Jambi%20Tool) | Listen for Justin Chancellor's role in the `Tool` vocabulary. |
-| [Vicarious](https://open.spotify.com/search/Vicarious%20Tool) | Listen for Justin Chancellor's role in the `Tool` vocabulary. |
-| [Pneuma](https://open.spotify.com/search/Pneuma%20Tool) | Listen for Justin Chancellor's role in the `Tool` vocabulary. |
-| [The Grudge](https://open.spotify.com/search/The%20Grudge%20Tool) | Listen for Justin Chancellor's role in the `Tool` vocabulary. |
+| [Jambi](https://open.spotify.com/search/Jambi%20Justin%20Chancellor%20Tool) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Eulogy](https://open.spotify.com/search/Eulogy%20Justin%20Chancellor%20Tool) | Track the pocket, note length, and how Justin Chancellor grounds the harmony. |
+| [H.](https://open.spotify.com/search/H.%20Justin%20Chancellor%20Tool) | Focus on movement between chord roots, anticipations, and section lift. |
+| [The Grudge](https://open.spotify.com/search/The%20Grudge%20Justin%20Chancellor%20Tool) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Ticks & Leeches](https://open.spotify.com/search/Ticks%20%26%20Leeches%20Justin%20Chancellor%20Tool) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Rosetta Stoned](https://open.spotify.com/search/Rosetta%20Stoned%20Justin%20Chancellor%20Tool) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Pneuma](https://open.spotify.com/search/Pneuma%20Justin%20Chancellor%20Tool) | Track the pocket, note length, and how Justin Chancellor grounds the harmony. |
+| [Fear Inoculum](https://open.spotify.com/search/Fear%20Inoculum%20Justin%20Chancellor%20Tool) | Focus on movement between chord roots, anticipations, and section lift. |
+| [Descending](https://open.spotify.com/search/Descending%20Justin%20Chancellor%20Tool) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Pushit](https://open.spotify.com/search/Pushit%20Justin%20Chancellor%20Tool) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
 
 ## Adam Jones
 
@@ -67,16 +67,16 @@ Adam Jones is the guitar voice for the `Tool` pairing label. In the local rankin
 
 | Song | Why Listen |
 |---|---|
-| [Schism](https://open.spotify.com/search/Schism%20Tool) | Listen for Adam Jones's role in the `Tool` vocabulary. |
-| [Lateralus](https://open.spotify.com/search/Lateralus%20Tool) | Listen for Adam Jones's role in the `Tool` vocabulary. |
-| [The Pot](https://open.spotify.com/search/The%20Pot%20Tool) | Listen for Adam Jones's role in the `Tool` vocabulary. |
-| [Forty Six & 2](https://open.spotify.com/search/Forty%20Six%20%26%202%20Tool) | Listen for Adam Jones's role in the `Tool` vocabulary. |
-| [Sober](https://open.spotify.com/search/Sober%20Tool) | Listen for Adam Jones's role in the `Tool` vocabulary. |
-| [Parabola](https://open.spotify.com/search/Parabola%20Tool) | Listen for Adam Jones's role in the `Tool` vocabulary. |
-| [Jambi](https://open.spotify.com/search/Jambi%20Tool) | Listen for Adam Jones's role in the `Tool` vocabulary. |
-| [Vicarious](https://open.spotify.com/search/Vicarious%20Tool) | Listen for Adam Jones's role in the `Tool` vocabulary. |
-| [Pneuma](https://open.spotify.com/search/Pneuma%20Tool) | Listen for Adam Jones's role in the `Tool` vocabulary. |
-| [The Grudge](https://open.spotify.com/search/The%20Grudge%20Tool) | Listen for Adam Jones's role in the `Tool` vocabulary. |
+| [Parabola](https://open.spotify.com/search/Parabola%20Adam%20Jones%20Tool) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Vicarious](https://open.spotify.com/search/Vicarious%20Adam%20Jones%20Tool) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Jambi](https://open.spotify.com/search/Jambi%20Adam%20Jones%20Tool) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Eulogy](https://open.spotify.com/search/Eulogy%20Adam%20Jones%20Tool) | Focus on phrasing, tone, bends, and how Adam Jones shapes the melodic argument. |
+| [H.](https://open.spotify.com/search/H.%20Adam%20Jones%20Tool) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
+| [The Grudge](https://open.spotify.com/search/The%20Grudge%20Adam%20Jones%20Tool) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Ticks & Leeches](https://open.spotify.com/search/Ticks%20%26%20Leeches%20Adam%20Jones%20Tool) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Rosetta Stoned](https://open.spotify.com/search/Rosetta%20Stoned%20Adam%20Jones%20Tool) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Pneuma](https://open.spotify.com/search/Pneuma%20Adam%20Jones%20Tool) | Focus on phrasing, tone, bends, and how Adam Jones shapes the melodic argument. |
+| [Fear Inoculum](https://open.spotify.com/search/Fear%20Inoculum%20Adam%20Jones%20Tool) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 
 ## Danny Carey
 
@@ -99,16 +99,16 @@ Danny Carey appears here as the drums voice for the `Tool` pairing label. In thi
 
 | Song | Why Listen |
 |---|---|
-| [Schism](https://open.spotify.com/search/Schism%20Tool) | Listen for Danny Carey's role in the `Tool` vocabulary. |
-| [Lateralus](https://open.spotify.com/search/Lateralus%20Tool) | Listen for Danny Carey's role in the `Tool` vocabulary. |
-| [The Pot](https://open.spotify.com/search/The%20Pot%20Tool) | Listen for Danny Carey's role in the `Tool` vocabulary. |
-| [Forty Six & 2](https://open.spotify.com/search/Forty%20Six%20%26%202%20Tool) | Listen for Danny Carey's role in the `Tool` vocabulary. |
-| [Sober](https://open.spotify.com/search/Sober%20Tool) | Listen for Danny Carey's role in the `Tool` vocabulary. |
-| [Parabola](https://open.spotify.com/search/Parabola%20Tool) | Listen for Danny Carey's role in the `Tool` vocabulary. |
-| [Jambi](https://open.spotify.com/search/Jambi%20Tool) | Listen for Danny Carey's role in the `Tool` vocabulary. |
-| [Vicarious](https://open.spotify.com/search/Vicarious%20Tool) | Listen for Danny Carey's role in the `Tool` vocabulary. |
-| [Pneuma](https://open.spotify.com/search/Pneuma%20Tool) | Listen for Danny Carey's role in the `Tool` vocabulary. |
-| [The Grudge](https://open.spotify.com/search/The%20Grudge%20Tool) | Listen for Danny Carey's role in the `Tool` vocabulary. |
+| [Eulogy](https://open.spotify.com/search/Eulogy%20Danny%20Carey%20Tool) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [H.](https://open.spotify.com/search/H.%20Danny%20Carey%20Tool) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [The Grudge](https://open.spotify.com/search/The%20Grudge%20Danny%20Carey%20Tool) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Ticks & Leeches](https://open.spotify.com/search/Ticks%20%26%20Leeches%20Danny%20Carey%20Tool) | Use this for groove architecture rather than surface-level chops. |
+| [Rosetta Stoned](https://open.spotify.com/search/Rosetta%20Stoned%20Danny%20Carey%20Tool) | Listen for dynamic control and density changes without losing pulse. |
+| [Pneuma](https://open.spotify.com/search/Pneuma%20Danny%20Carey%20Tool) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Fear Inoculum](https://open.spotify.com/search/Fear%20Inoculum%20Danny%20Carey%20Tool) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Descending](https://open.spotify.com/search/Descending%20Danny%20Carey%20Tool) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Pushit](https://open.spotify.com/search/Pushit%20Danny%20Carey%20Tool) | Use this for groove architecture rather than surface-level chops. |
+| [Intolerance](https://open.spotify.com/search/Intolerance%20Danny%20Carey%20Tool) | Listen for dynamic control and density changes without losing pulse. |
 
 ## References
 

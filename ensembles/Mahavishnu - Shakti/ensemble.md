@@ -37,16 +37,16 @@ Dominique Di Piazza is the bass voice for the `Mahavishnu / Shakti` pairing labe
 
 | Song | Why Listen |
 |---|---|
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Mahavishnu%20/%20Shakti) | Listen for Dominique Di Piazza's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Mahavishnu%20/%20Shakti) | Listen for Dominique Di Piazza's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Dance of Maya](https://open.spotify.com/search/Dance%20of%20Maya%20Mahavishnu%20/%20Shakti) | Listen for Dominique Di Piazza's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Lotus Feet](https://open.spotify.com/search/Lotus%20Feet%20Mahavishnu%20/%20Shakti) | Listen for Dominique Di Piazza's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Joy](https://open.spotify.com/search/Joy%20Mahavishnu%20/%20Shakti) | Listen for Dominique Di Piazza's role in the `Mahavishnu / Shakti` vocabulary. |
-| [What Need Have I for This](https://open.spotify.com/search/What%20Need%20Have%20I%20for%20This%20Mahavishnu%20/%20Shakti) | Listen for Dominique Di Piazza's role in the `Mahavishnu / Shakti` vocabulary. |
-| [La Danse du Bonheur](https://open.spotify.com/search/La%20Danse%20du%20Bonheur%20Mahavishnu%20/%20Shakti) | Listen for Dominique Di Piazza's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20Mahavishnu%20/%20Shakti) | Listen for Dominique Di Piazza's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20Mahavishnu%20/%20Shakti) | Listen for Dominique Di Piazza's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20Mahavishnu%20/%20Shakti) | Listen for Dominique Di Piazza's role in the `Mahavishnu / Shakti` vocabulary. |
+| [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Track the pocket, note length, and how Dominique Di Piazza makes the harmony feel grounded. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Dance of Maya](https://open.spotify.com/search/Dance%20of%20Maya%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [I Want You Back](https://open.spotify.com/search/I%20Want%20You%20Back%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Track the pocket, note length, and how Dominique Di Piazza makes the harmony feel grounded. |
+| [Chameleon](https://open.spotify.com/search/Chameleon%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## John McLaughlin
 
@@ -69,16 +69,16 @@ John McLaughlin is the guitar voice for the `Mahavishnu / Shakti` pairing label.
 
 | Song | Why Listen |
 |---|---|
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Mahavishnu%20/%20Shakti) | Listen for John McLaughlin's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Mahavishnu%20/%20Shakti) | Listen for John McLaughlin's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Dance of Maya](https://open.spotify.com/search/Dance%20of%20Maya%20Mahavishnu%20/%20Shakti) | Listen for John McLaughlin's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Lotus Feet](https://open.spotify.com/search/Lotus%20Feet%20Mahavishnu%20/%20Shakti) | Listen for John McLaughlin's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Joy](https://open.spotify.com/search/Joy%20Mahavishnu%20/%20Shakti) | Listen for John McLaughlin's role in the `Mahavishnu / Shakti` vocabulary. |
-| [What Need Have I for This](https://open.spotify.com/search/What%20Need%20Have%20I%20for%20This%20Mahavishnu%20/%20Shakti) | Listen for John McLaughlin's role in the `Mahavishnu / Shakti` vocabulary. |
-| [La Danse du Bonheur](https://open.spotify.com/search/La%20Danse%20du%20Bonheur%20Mahavishnu%20/%20Shakti) | Listen for John McLaughlin's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20Mahavishnu%20/%20Shakti) | Listen for John McLaughlin's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20Mahavishnu%20/%20Shakti) | Listen for John McLaughlin's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20Mahavishnu%20/%20Shakti) | Listen for John McLaughlin's role in the `Mahavishnu / Shakti` vocabulary. |
+| [What Need Have I for This](https://open.spotify.com/search/What%20Need%20Have%20I%20for%20This%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
+| [La Danse du Bonheur](https://open.spotify.com/search/La%20Danse%20du%20Bonheur%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Scarified](https://open.spotify.com/search/Scarified%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
 
 ## Trilok Gurtu
 
@@ -101,16 +101,16 @@ Trilok Gurtu appears here as the drums voice for the `Mahavishnu / Shakti` pairi
 
 | Song | Why Listen |
 |---|---|
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Mahavishnu%20/%20Shakti) | Listen for Trilok Gurtu's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Mahavishnu%20/%20Shakti) | Listen for Trilok Gurtu's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Dance of Maya](https://open.spotify.com/search/Dance%20of%20Maya%20Mahavishnu%20/%20Shakti) | Listen for Trilok Gurtu's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Lotus Feet](https://open.spotify.com/search/Lotus%20Feet%20Mahavishnu%20/%20Shakti) | Listen for Trilok Gurtu's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Joy](https://open.spotify.com/search/Joy%20Mahavishnu%20/%20Shakti) | Listen for Trilok Gurtu's role in the `Mahavishnu / Shakti` vocabulary. |
-| [What Need Have I for This](https://open.spotify.com/search/What%20Need%20Have%20I%20for%20This%20Mahavishnu%20/%20Shakti) | Listen for Trilok Gurtu's role in the `Mahavishnu / Shakti` vocabulary. |
-| [La Danse du Bonheur](https://open.spotify.com/search/La%20Danse%20du%20Bonheur%20Mahavishnu%20/%20Shakti) | Listen for Trilok Gurtu's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20Mahavishnu%20/%20Shakti) | Listen for Trilok Gurtu's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20Mahavishnu%20/%20Shakti) | Listen for Trilok Gurtu's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20Mahavishnu%20/%20Shakti) | Listen for Trilok Gurtu's role in the `Mahavishnu / Shakti` vocabulary. |
+| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20Trilok%20Gurtu%20Mahavishnu%20/%20Shakti) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Trilok%20Gurtu%20Mahavishnu%20/%20Shakti) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Trilok%20Gurtu%20Mahavishnu%20/%20Shakti) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Dance of Maya](https://open.spotify.com/search/Dance%20of%20Maya%20Trilok%20Gurtu%20Mahavishnu%20/%20Shakti) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Lotus Feet](https://open.spotify.com/search/Lotus%20Feet%20Trilok%20Gurtu%20Mahavishnu%20/%20Shakti) | Use this for groove architecture rather than just surface-level chops. |
+| [Joy](https://open.spotify.com/search/Joy%20Trilok%20Gurtu%20Mahavishnu%20/%20Shakti) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [One Word](https://open.spotify.com/search/One%20Word%20Trilok%20Gurtu%20Mahavishnu%20/%20Shakti) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Larks' Tongues in Aspic, Part Two](https://open.spotify.com/search/Larks%27%20Tongues%20in%20Aspic%2C%20Part%20Two%20Trilok%20Gurtu%20Mahavishnu%20/%20Shakti) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Aja](https://open.spotify.com/search/Aja%20Trilok%20Gurtu%20Mahavishnu%20/%20Shakti) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Trilok%20Gurtu%20Mahavishnu%20/%20Shakti) | Use this for groove architecture rather than just surface-level chops. |
 
 ## L. Shankar
 
@@ -133,16 +133,16 @@ L. Shankar appears here as the violin voice for the `Mahavishnu / Shakti` pairin
 
 | Song | Why Listen |
 |---|---|
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Mahavishnu%20/%20Shakti) | Listen for L. Shankar's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Mahavishnu%20/%20Shakti) | Listen for L. Shankar's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Dance of Maya](https://open.spotify.com/search/Dance%20of%20Maya%20Mahavishnu%20/%20Shakti) | Listen for L. Shankar's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Lotus Feet](https://open.spotify.com/search/Lotus%20Feet%20Mahavishnu%20/%20Shakti) | Listen for L. Shankar's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Joy](https://open.spotify.com/search/Joy%20Mahavishnu%20/%20Shakti) | Listen for L. Shankar's role in the `Mahavishnu / Shakti` vocabulary. |
-| [What Need Have I for This](https://open.spotify.com/search/What%20Need%20Have%20I%20for%20This%20Mahavishnu%20/%20Shakti) | Listen for L. Shankar's role in the `Mahavishnu / Shakti` vocabulary. |
-| [La Danse du Bonheur](https://open.spotify.com/search/La%20Danse%20du%20Bonheur%20Mahavishnu%20/%20Shakti) | Listen for L. Shankar's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20Mahavishnu%20/%20Shakti) | Listen for L. Shankar's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20Mahavishnu%20/%20Shakti) | Listen for L. Shankar's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20Mahavishnu%20/%20Shakti) | Listen for L. Shankar's role in the `Mahavishnu / Shakti` vocabulary. |
+| [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
+| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Use this for modal color, melodic contour, and textural contrast. |
+| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Listen for how the violin functions as lead voice without losing ensemble balance. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Listen for long-line phrasing against denser rhythm-section motion. |
+| [Dance of Maya](https://open.spotify.com/search/Dance%20of%20Maya%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
+| [The Dance of Maya](https://open.spotify.com/search/The%20Dance%20of%20Maya%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Use this for modal color, melodic contour, and textural contrast. |
+| [Hymn to Him](https://open.spotify.com/search/Hymn%20to%20Him%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Listen for how the violin functions as lead voice without losing ensemble balance. |
+| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [Caesar's Palace Blues](https://open.spotify.com/search/Caesar%27s%20Palace%20Blues%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Listen for long-line phrasing against denser rhythm-section motion. |
 
 ## Zakir Hussain
 
@@ -165,16 +165,16 @@ Zakir Hussain appears here as the tabla voice for the `Mahavishnu / Shakti` pair
 
 | Song | Why Listen |
 |---|---|
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Mahavishnu%20/%20Shakti) | Listen for Zakir Hussain's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Mahavishnu%20/%20Shakti) | Listen for Zakir Hussain's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Dance of Maya](https://open.spotify.com/search/Dance%20of%20Maya%20Mahavishnu%20/%20Shakti) | Listen for Zakir Hussain's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Lotus Feet](https://open.spotify.com/search/Lotus%20Feet%20Mahavishnu%20/%20Shakti) | Listen for Zakir Hussain's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Joy](https://open.spotify.com/search/Joy%20Mahavishnu%20/%20Shakti) | Listen for Zakir Hussain's role in the `Mahavishnu / Shakti` vocabulary. |
-| [What Need Have I for This](https://open.spotify.com/search/What%20Need%20Have%20I%20for%20This%20Mahavishnu%20/%20Shakti) | Listen for Zakir Hussain's role in the `Mahavishnu / Shakti` vocabulary. |
-| [La Danse du Bonheur](https://open.spotify.com/search/La%20Danse%20du%20Bonheur%20Mahavishnu%20/%20Shakti) | Listen for Zakir Hussain's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20Mahavishnu%20/%20Shakti) | Listen for Zakir Hussain's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20Mahavishnu%20/%20Shakti) | Listen for Zakir Hussain's role in the `Mahavishnu / Shakti` vocabulary. |
-| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20Mahavishnu%20/%20Shakti) | Listen for Zakir Hussain's role in the `Mahavishnu / Shakti` vocabulary. |
+| [Joy](https://open.spotify.com/search/Joy%20Zakir%20Hussain%20Mahavishnu%20/%20Shakti) | Listen for how auxiliary rhythm changes the feel of the whole ensemble. |
+| [What Need Have I for This](https://open.spotify.com/search/What%20Need%20Have%20I%20for%20This%20Zakir%20Hussain%20Mahavishnu%20/%20Shakti) | Focus on subdivision, syncopation, and how percussion widens the groove grid. |
+| [La Danse du Bonheur](https://open.spotify.com/search/La%20Danse%20du%20Bonheur%20Zakir%20Hussain%20Mahavishnu%20/%20Shakti) | Listen for hand percussion as arrangement glue rather than decoration. |
+| [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20Zakir%20Hussain%20Mahavishnu%20/%20Shakti) | Track the interaction with bass and drums: pushes, answers, and density changes. |
+| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20Zakir%20Hussain%20Mahavishnu%20/%20Shakti) | Use this for pocket detail, clave awareness, and layered rhythmic color. |
+| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20Zakir%20Hussain%20Mahavishnu%20/%20Shakti) | Listen for how auxiliary rhythm changes the feel of the whole ensemble. |
+| [Getaway](https://open.spotify.com/search/Getaway%20Zakir%20Hussain%20Mahavishnu%20/%20Shakti) | Focus on subdivision, syncopation, and how percussion widens the groove grid. |
+| [Soul Sacrifice](https://open.spotify.com/search/Soul%20Sacrifice%20Zakir%20Hussain%20Mahavishnu%20/%20Shakti) | Listen for hand percussion as arrangement glue rather than decoration. |
+| [Oye Como Va](https://open.spotify.com/search/Oye%20Como%20Va%20Zakir%20Hussain%20Mahavishnu%20/%20Shakti) | Track the interaction with bass and drums: pushes, answers, and density changes. |
+| [Jingo](https://open.spotify.com/search/Jingo%20Zakir%20Hussain%20Mahavishnu%20/%20Shakti) | Use this for pocket detail, clave awareness, and layered rhythmic color. |
 
 ## References
 

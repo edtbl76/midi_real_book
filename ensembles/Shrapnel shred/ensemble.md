@@ -38,16 +38,16 @@ Billy Sheehan is the bass voice for the `Shrapnel shred` pairing label. In the l
 
 | Song | Why Listen |
 |---|---|
-| [Altitudes](https://open.spotify.com/search/Altitudes%20Shrapnel%20shred) | Listen for Billy Sheehan's role in the `Shrapnel shred` vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20Shrapnel%20shred) | Listen for Billy Sheehan's role in the `Shrapnel shred` vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Shrapnel%20shred) | Listen for Billy Sheehan's role in the `Shrapnel shred` vocabulary. |
-| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Shrapnel%20shred) | Listen for Billy Sheehan's role in the `Shrapnel shred` vocabulary. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Shrapnel%20shred) | Listen for Billy Sheehan's role in the `Shrapnel shred` vocabulary. |
-| [Images](https://open.spotify.com/search/Images%20Shrapnel%20shred) | Listen for Billy Sheehan's role in the `Shrapnel shred` vocabulary. |
-| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Shrapnel%20shred) | Listen for Billy Sheehan's role in the `Shrapnel shred` vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Shrapnel%20shred) | Listen for Billy Sheehan's role in the `Shrapnel shred` vocabulary. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Shrapnel%20shred) | Listen for Billy Sheehan's role in the `Shrapnel shred` vocabulary. |
-| [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Shrapnel%20shred) | Listen for Billy Sheehan's role in the `Shrapnel shred` vocabulary. |
+| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Billy%20Sheehan%20Shrapnel%20shred) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Billy%20Sheehan%20Shrapnel%20shred) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Billy%20Sheehan%20Shrapnel%20shred) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Billy%20Sheehan%20Shrapnel%20shred) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Altitudes](https://open.spotify.com/search/Altitudes%20Billy%20Sheehan%20Shrapnel%20shred) | Track the pocket, note length, and how Billy Sheehan makes the harmony feel grounded. |
+| [Concerto](https://open.spotify.com/search/Concerto%20Billy%20Sheehan%20Shrapnel%20shred) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Billy%20Sheehan%20Shrapnel%20shred) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Dean Town](https://open.spotify.com/search/Dean%20Town%20Billy%20Sheehan%20Shrapnel%20shred) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Good Times](https://open.spotify.com/search/Good%20Times%20Billy%20Sheehan%20Shrapnel%20shred) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Billy%20Sheehan%20Shrapnel%20shred) | Track the pocket, note length, and how Billy Sheehan makes the harmony feel grounded. |
 
 ## Steve Vai
 
@@ -71,16 +71,16 @@ American guitarist who emerged from Frank Zappa's band before becoming a major v
 
 | Song | Why Listen |
 |---|---|
-| [Altitudes](https://open.spotify.com/search/Altitudes%20Shrapnel%20shred) | Listen for Steve Vai's role in the `Shrapnel shred` vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20Shrapnel%20shred) | Listen for Steve Vai's role in the `Shrapnel shred` vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Shrapnel%20shred) | Listen for Steve Vai's role in the `Shrapnel shred` vocabulary. |
-| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Shrapnel%20shred) | Listen for Steve Vai's role in the `Shrapnel shred` vocabulary. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Shrapnel%20shred) | Listen for Steve Vai's role in the `Shrapnel shred` vocabulary. |
-| [Images](https://open.spotify.com/search/Images%20Shrapnel%20shred) | Listen for Steve Vai's role in the `Shrapnel shred` vocabulary. |
-| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Shrapnel%20shred) | Listen for Steve Vai's role in the `Shrapnel shred` vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Shrapnel%20shred) | Listen for Steve Vai's role in the `Shrapnel shred` vocabulary. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Shrapnel%20shred) | Listen for Steve Vai's role in the `Shrapnel shred` vocabulary. |
-| [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Shrapnel%20shred) | Listen for Steve Vai's role in the `Shrapnel shred` vocabulary. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Steve%20Vai%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Steve%20Vai%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Steve%20Vai%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Images](https://open.spotify.com/search/Images%20Steve%20Vai%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Steve Vai shapes the melodic argument. |
+| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Steve%20Vai%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Steve%20Vai%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Crossroads](https://open.spotify.com/search/Crossroads%20Steve%20Vai%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Steve%20Vai%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Steve%20Vai%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Steve Vai shapes the melodic argument. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Steve%20Vai%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
 
 ## Paul Gilbert
 
@@ -103,16 +103,16 @@ Paul Gilbert is the guitar voice for the `Shrapnel shred` pairing label. In the 
 
 | Song | Why Listen |
 |---|---|
-| [Altitudes](https://open.spotify.com/search/Altitudes%20Shrapnel%20shred) | Listen for Paul Gilbert's role in the `Shrapnel shred` vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20Shrapnel%20shred) | Listen for Paul Gilbert's role in the `Shrapnel shred` vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Shrapnel%20shred) | Listen for Paul Gilbert's role in the `Shrapnel shred` vocabulary. |
-| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Shrapnel%20shred) | Listen for Paul Gilbert's role in the `Shrapnel shred` vocabulary. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Shrapnel%20shred) | Listen for Paul Gilbert's role in the `Shrapnel shred` vocabulary. |
-| [Images](https://open.spotify.com/search/Images%20Shrapnel%20shred) | Listen for Paul Gilbert's role in the `Shrapnel shred` vocabulary. |
-| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Shrapnel%20shred) | Listen for Paul Gilbert's role in the `Shrapnel shred` vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Shrapnel%20shred) | Listen for Paul Gilbert's role in the `Shrapnel shred` vocabulary. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Shrapnel%20shred) | Listen for Paul Gilbert's role in the `Shrapnel shred` vocabulary. |
-| [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Shrapnel%20shred) | Listen for Paul Gilbert's role in the `Shrapnel shred` vocabulary. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Paul%20Gilbert%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Paul%20Gilbert%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Images](https://open.spotify.com/search/Images%20Paul%20Gilbert%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Paul Gilbert shapes the melodic argument. |
+| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Paul%20Gilbert%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Paul%20Gilbert%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Paul%20Gilbert%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Paul Gilbert shapes the melodic argument. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
 
 ## Jason Becker
 
@@ -135,16 +135,16 @@ Jason Becker is the guitar voice for the `Shrapnel shred` pairing label. In the 
 
 | Song | Why Listen |
 |---|---|
-| [Altitudes](https://open.spotify.com/search/Altitudes%20Shrapnel%20shred) | Listen for Jason Becker's role in the `Shrapnel shred` vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20Shrapnel%20shred) | Listen for Jason Becker's role in the `Shrapnel shred` vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Shrapnel%20shred) | Listen for Jason Becker's role in the `Shrapnel shred` vocabulary. |
-| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Shrapnel%20shred) | Listen for Jason Becker's role in the `Shrapnel shred` vocabulary. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Shrapnel%20shred) | Listen for Jason Becker's role in the `Shrapnel shred` vocabulary. |
-| [Images](https://open.spotify.com/search/Images%20Shrapnel%20shred) | Listen for Jason Becker's role in the `Shrapnel shred` vocabulary. |
-| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Shrapnel%20shred) | Listen for Jason Becker's role in the `Shrapnel shred` vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Shrapnel%20shred) | Listen for Jason Becker's role in the `Shrapnel shred` vocabulary. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Shrapnel%20shred) | Listen for Jason Becker's role in the `Shrapnel shred` vocabulary. |
-| [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Shrapnel%20shred) | Listen for Jason Becker's role in the `Shrapnel shred` vocabulary. |
+| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Jason%20Becker%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Jason%20Becker%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Images](https://open.spotify.com/search/Images%20Jason%20Becker%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Jason Becker shapes the melodic argument. |
+| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Jason%20Becker%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Jason%20Becker%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Jason%20Becker%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Jason%20Becker%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Jason%20Becker%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Jason Becker shapes the melodic argument. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Jason%20Becker%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Jason%20Becker%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Mike Mangini
 
@@ -167,16 +167,16 @@ Mike Mangini appears here as the drums voice for the `Shrapnel shred` pairing la
 
 | Song | Why Listen |
 |---|---|
-| [Altitudes](https://open.spotify.com/search/Altitudes%20Shrapnel%20shred) | Listen for Mike Mangini's role in the `Shrapnel shred` vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20Shrapnel%20shred) | Listen for Mike Mangini's role in the `Shrapnel shred` vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Shrapnel%20shred) | Listen for Mike Mangini's role in the `Shrapnel shred` vocabulary. |
-| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Shrapnel%20shred) | Listen for Mike Mangini's role in the `Shrapnel shred` vocabulary. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Shrapnel%20shred) | Listen for Mike Mangini's role in the `Shrapnel shred` vocabulary. |
-| [Images](https://open.spotify.com/search/Images%20Shrapnel%20shred) | Listen for Mike Mangini's role in the `Shrapnel shred` vocabulary. |
-| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Shrapnel%20shred) | Listen for Mike Mangini's role in the `Shrapnel shred` vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Shrapnel%20shred) | Listen for Mike Mangini's role in the `Shrapnel shred` vocabulary. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Shrapnel%20shred) | Listen for Mike Mangini's role in the `Shrapnel shred` vocabulary. |
-| [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Shrapnel%20shred) | Listen for Mike Mangini's role in the `Shrapnel shred` vocabulary. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Mike%20Mangini%20Shrapnel%20shred) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Mike%20Mangini%20Shrapnel%20shred) | Use this for groove architecture rather than just surface-level chops. |
+| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Mike%20Mangini%20Shrapnel%20shred) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Images](https://open.spotify.com/search/Images%20Mike%20Mangini%20Shrapnel%20shred) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Mike%20Mangini%20Shrapnel%20shred) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Mike%20Mangini%20Shrapnel%20shred) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [One Word](https://open.spotify.com/search/One%20Word%20Mike%20Mangini%20Shrapnel%20shred) | Use this for groove architecture rather than just surface-level chops. |
+| [Larks' Tongues in Aspic, Part Two](https://open.spotify.com/search/Larks%27%20Tongues%20in%20Aspic%2C%20Part%20Two%20Mike%20Mangini%20Shrapnel%20shred) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Aja](https://open.spotify.com/search/Aja%20Mike%20Mangini%20Shrapnel%20shred) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Mike%20Mangini%20Shrapnel%20shred) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
 
 ## Michael Keneally
 
@@ -199,16 +199,16 @@ Michael Keneally appears here as the keyboards voice for the `Shrapnel shred` pa
 
 | Song | Why Listen |
 |---|---|
-| [Altitudes](https://open.spotify.com/search/Altitudes%20Shrapnel%20shred) | Listen for Michael Keneally's role in the `Shrapnel shred` vocabulary. |
-| [Concerto](https://open.spotify.com/search/Concerto%20Shrapnel%20shred) | Listen for Michael Keneally's role in the `Shrapnel shred` vocabulary. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Shrapnel%20shred) | Listen for Michael Keneally's role in the `Shrapnel shred` vocabulary. |
-| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Shrapnel%20shred) | Listen for Michael Keneally's role in the `Shrapnel shred` vocabulary. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Shrapnel%20shred) | Listen for Michael Keneally's role in the `Shrapnel shred` vocabulary. |
-| [Images](https://open.spotify.com/search/Images%20Shrapnel%20shred) | Listen for Michael Keneally's role in the `Shrapnel shred` vocabulary. |
-| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Shrapnel%20shred) | Listen for Michael Keneally's role in the `Shrapnel shred` vocabulary. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Shrapnel%20shred) | Listen for Michael Keneally's role in the `Shrapnel shred` vocabulary. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Shrapnel%20shred) | Listen for Michael Keneally's role in the `Shrapnel shred` vocabulary. |
-| [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Shrapnel%20shred) | Listen for Michael Keneally's role in the `Shrapnel shred` vocabulary. |
+| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Michael%20Keneally%20Shrapnel%20shred) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Michael%20Keneally%20Shrapnel%20shred) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Images](https://open.spotify.com/search/Images%20Michael%20Keneally%20Shrapnel%20shred) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Michael%20Keneally%20Shrapnel%20shred) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Michael%20Keneally%20Shrapnel%20shred) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Michael%20Keneally%20Shrapnel%20shred) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Lingus](https://open.spotify.com/search/Lingus%20Michael%20Keneally%20Shrapnel%20shred) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [The Way It Is](https://open.spotify.com/search/The%20Way%20It%20Is%20Michael%20Keneally%20Shrapnel%20shred) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [You Are the Sunshine of My Life](https://open.spotify.com/search/You%20Are%20the%20Sunshine%20of%20My%20Life%20Michael%20Keneally%20Shrapnel%20shred) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Michael%20Keneally%20Shrapnel%20shred) | Track how the keys share space with guitar and bass without blurring the groove. |
 
 ## References
 

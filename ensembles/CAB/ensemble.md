@@ -37,16 +37,16 @@ Bunny Brunel is the bass voice for the `CAB` pairing label. In the local ranking
 
 | Song | Why Listen |
 |---|---|
-| [Cab](https://open.spotify.com/search/Cab%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Bernard](https://open.spotify.com/search/Bernard%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Jam & Toast](https://open.spotify.com/search/Jam%20%26%20Toast%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Tony Mac](https://open.spotify.com/search/Tony%20Mac%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Miso Soup](https://open.spotify.com/search/Miso%20Soup%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Katputli](https://open.spotify.com/search/Katputli%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [For Joe](https://open.spotify.com/search/For%20Joe%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Alphonse](https://open.spotify.com/search/Alphonse%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
+| [For Joe](https://open.spotify.com/search/For%20Joe%20Bunny%20Brunel%20CAB) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Alphonse](https://open.spotify.com/search/Alphonse%20Bunny%20Brunel%20CAB) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20Bunny%20Brunel%20CAB) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Cab](https://open.spotify.com/search/Cab%20Bunny%20Brunel%20CAB) | Track the pocket, note length, and how Bunny Brunel makes the harmony feel grounded. |
+| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20Bunny%20Brunel%20CAB) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Bernard](https://open.spotify.com/search/Bernard%20Bunny%20Brunel%20CAB) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Bunny%20Brunel%20CAB) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Peg](https://open.spotify.com/search/Peg%20Bunny%20Brunel%20CAB) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Bernadette](https://open.spotify.com/search/Bernadette%20Bunny%20Brunel%20CAB) | Track the pocket, note length, and how Bunny Brunel makes the harmony feel grounded. |
+| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Bunny%20Brunel%20CAB) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Tony MacAlpine
 
@@ -69,16 +69,16 @@ Tony MacAlpine is the guitar voice for the `CAB` pairing label. In the local ran
 
 | Song | Why Listen |
 |---|---|
-| [Cab](https://open.spotify.com/search/Cab%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Bernard](https://open.spotify.com/search/Bernard%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Jam & Toast](https://open.spotify.com/search/Jam%20%26%20Toast%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Tony Mac](https://open.spotify.com/search/Tony%20Mac%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Miso Soup](https://open.spotify.com/search/Miso%20Soup%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Katputli](https://open.spotify.com/search/Katputli%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [For Joe](https://open.spotify.com/search/For%20Joe%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Alphonse](https://open.spotify.com/search/Alphonse%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
+| [Jam & Toast](https://open.spotify.com/search/Jam%20%26%20Toast%20Tony%20MacAlpine%20CAB) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Tony Mac](https://open.spotify.com/search/Tony%20Mac%20Tony%20MacAlpine%20CAB) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Miso Soup](https://open.spotify.com/search/Miso%20Soup%20Tony%20MacAlpine%20CAB) | Focus on phrasing, tone, bends, and how Tony MacAlpine shapes the melodic argument. |
+| [Katputli](https://open.spotify.com/search/Katputli%20Tony%20MacAlpine%20CAB) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [For Joe](https://open.spotify.com/search/For%20Joe%20Tony%20MacAlpine%20CAB) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Alphonse](https://open.spotify.com/search/Alphonse%20Tony%20MacAlpine%20CAB) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Tony%20MacAlpine%20CAB) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Europa](https://open.spotify.com/search/Europa%20Tony%20MacAlpine%20CAB) | Focus on phrasing, tone, bends, and how Tony MacAlpine shapes the melodic argument. |
+| [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Tony%20MacAlpine%20CAB) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Crossroads](https://open.spotify.com/search/Crossroads%20Tony%20MacAlpine%20CAB) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Jon Finn
 
@@ -101,16 +101,16 @@ Jon Finn is the guitar voice for the `CAB` pairing label. In the local ranking c
 
 | Song | Why Listen |
 |---|---|
-| [Cab](https://open.spotify.com/search/Cab%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Bernard](https://open.spotify.com/search/Bernard%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Jam & Toast](https://open.spotify.com/search/Jam%20%26%20Toast%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Tony Mac](https://open.spotify.com/search/Tony%20Mac%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Miso Soup](https://open.spotify.com/search/Miso%20Soup%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Katputli](https://open.spotify.com/search/Katputli%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [For Joe](https://open.spotify.com/search/For%20Joe%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Alphonse](https://open.spotify.com/search/Alphonse%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
+| [Bernard](https://open.spotify.com/search/Bernard%20Jon%20Finn%20CAB) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Jam & Toast](https://open.spotify.com/search/Jam%20%26%20Toast%20Jon%20Finn%20CAB) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Tony Mac](https://open.spotify.com/search/Tony%20Mac%20Jon%20Finn%20CAB) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Miso Soup](https://open.spotify.com/search/Miso%20Soup%20Jon%20Finn%20CAB) | Focus on phrasing, tone, bends, and how Jon Finn shapes the melodic argument. |
+| [Katputli](https://open.spotify.com/search/Katputli%20Jon%20Finn%20CAB) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [For Joe](https://open.spotify.com/search/For%20Joe%20Jon%20Finn%20CAB) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Jon%20Finn%20CAB) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Jon%20Finn%20CAB) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Jon%20Finn%20CAB) | Focus on phrasing, tone, bends, and how Jon Finn shapes the melodic argument. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Jon%20Finn%20CAB) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
 
 ## Dennis Chambers
 
@@ -133,16 +133,16 @@ Dennis Chambers appears here as the drums voice for the `CAB` pairing label. In 
 
 | Song | Why Listen |
 |---|---|
-| [Cab](https://open.spotify.com/search/Cab%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Bernard](https://open.spotify.com/search/Bernard%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Jam & Toast](https://open.spotify.com/search/Jam%20%26%20Toast%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Tony Mac](https://open.spotify.com/search/Tony%20Mac%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Miso Soup](https://open.spotify.com/search/Miso%20Soup%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Katputli](https://open.spotify.com/search/Katputli%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [For Joe](https://open.spotify.com/search/For%20Joe%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Alphonse](https://open.spotify.com/search/Alphonse%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
+| [For Joe](https://open.spotify.com/search/For%20Joe%20Dennis%20Chambers%20CAB) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Alphonse](https://open.spotify.com/search/Alphonse%20Dennis%20Chambers%20CAB) | Use this for groove architecture rather than just surface-level chops. |
+| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20Dennis%20Chambers%20CAB) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Cab](https://open.spotify.com/search/Cab%20Dennis%20Chambers%20CAB) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20Dennis%20Chambers%20CAB) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Bernard](https://open.spotify.com/search/Bernard%20Dennis%20Chambers%20CAB) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Bleed](https://open.spotify.com/search/Bleed%20Dennis%20Chambers%20CAB) | Use this for groove architecture rather than just surface-level chops. |
+| [Schism](https://open.spotify.com/search/Schism%20Dennis%20Chambers%20CAB) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Dennis%20Chambers%20CAB) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Seven Days](https://open.spotify.com/search/Seven%20Days%20Dennis%20Chambers%20CAB) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
 
 ## Chick Corea
 
@@ -165,16 +165,16 @@ Chick Corea appears here as the keyboards voice for the `CAB` pairing label. In 
 
 | Song | Why Listen |
 |---|---|
-| [Cab](https://open.spotify.com/search/Cab%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Bernard](https://open.spotify.com/search/Bernard%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Jam & Toast](https://open.spotify.com/search/Jam%20%26%20Toast%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Tony Mac](https://open.spotify.com/search/Tony%20Mac%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Miso Soup](https://open.spotify.com/search/Miso%20Soup%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Katputli](https://open.spotify.com/search/Katputli%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [For Joe](https://open.spotify.com/search/For%20Joe%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Alphonse](https://open.spotify.com/search/Alphonse%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
-| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20CAB) | Idiomatic listening for the `CAB` ensemble vocabulary. |
+| [For Joe](https://open.spotify.com/search/For%20Joe%20Chick%20Corea%20CAB) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Alphonse](https://open.spotify.com/search/Alphonse%20Chick%20Corea%20CAB) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20Chick%20Corea%20CAB) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Cab](https://open.spotify.com/search/Cab%20Chick%20Corea%20CAB) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20Chick%20Corea%20CAB) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Bernard](https://open.spotify.com/search/Bernard%20Chick%20Corea%20CAB) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Carry On Wayward Son](https://open.spotify.com/search/Carry%20On%20Wayward%20Son%20Chick%20Corea%20CAB) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Karn Evil 9](https://open.spotify.com/search/Karn%20Evil%209%20Chick%20Corea%20CAB) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Spain](https://open.spotify.com/search/Spain%20Chick%20Corea%20CAB) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Birdland](https://open.spotify.com/search/Birdland%20Chick%20Corea%20CAB) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 
 ## References
 

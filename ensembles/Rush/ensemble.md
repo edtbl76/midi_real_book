@@ -35,16 +35,16 @@ Geddy Lee is the bass voice for the `Rush` pairing label. In the local ranking c
 
 | Song | Why Listen |
 |---|---|
-| [YYZ](https://open.spotify.com/search/YYZ%20Rush) | Listen for Geddy Lee's bass role in the `Rush` vocabulary. |
-| [Tom Sawyer](https://open.spotify.com/search/Tom%20Sawyer%20Rush) | Listen for Geddy Lee's bass role in the `Rush` vocabulary. |
-| [La Villa Strangiato](https://open.spotify.com/search/La%20Villa%20Strangiato%20Rush) | Listen for Geddy Lee's bass role in the `Rush` vocabulary. |
-| [Freewill](https://open.spotify.com/search/Freewill%20Rush) | Listen for Geddy Lee's bass role in the `Rush` vocabulary. |
-| [The Spirit of Radio](https://open.spotify.com/search/The%20Spirit%20of%20Radio%20Rush) | Listen for Geddy Lee's bass role in the `Rush` vocabulary. |
-| [Red Barchetta](https://open.spotify.com/search/Red%20Barchetta%20Rush) | Listen for Geddy Lee's bass role in the `Rush` vocabulary. |
-| [Xanadu](https://open.spotify.com/search/Xanadu%20Rush) | Listen for Geddy Lee's bass role in the `Rush` vocabulary. |
-| [Limelight](https://open.spotify.com/search/Limelight%20Rush) | Listen for Geddy Lee's bass role in the `Rush` vocabulary. |
-| [Cygnus X-1](https://open.spotify.com/search/Cygnus%20X-1%20Rush) | Listen for Geddy Lee's bass role in the `Rush` vocabulary. |
-| [Subdivisions](https://open.spotify.com/search/Subdivisions%20Rush) | Listen for Geddy Lee's bass role in the `Rush` vocabulary. |
+| [The Spirit of Radio](https://open.spotify.com/search/The%20Spirit%20of%20Radio%20Geddy%20Lee%20Rush) | Track the pocket, note length, and how Geddy Lee grounds the harmony. |
+| [Red Barchetta](https://open.spotify.com/search/Red%20Barchetta%20Geddy%20Lee%20Rush) | Focus on movement between chord roots, anticipations, and section lift. |
+| [Subdivisions](https://open.spotify.com/search/Subdivisions%20Geddy%20Lee%20Rush) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Digital Man](https://open.spotify.com/search/Digital%20Man%20Geddy%20Lee%20Rush) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Xanadu](https://open.spotify.com/search/Xanadu%20Geddy%20Lee%20Rush) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [2112 Overture](https://open.spotify.com/search/2112%20Overture%20Geddy%20Lee%20Rush) | Track the pocket, note length, and how Geddy Lee grounds the harmony. |
+| [Closer to the Heart](https://open.spotify.com/search/Closer%20to%20the%20Heart%20Geddy%20Lee%20Rush) | Focus on movement between chord roots, anticipations, and section lift. |
+| [Natural Science](https://open.spotify.com/search/Natural%20Science%20Geddy%20Lee%20Rush) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [The Trees](https://open.spotify.com/search/The%20Trees%20Geddy%20Lee%20Rush) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Anthem](https://open.spotify.com/search/Anthem%20Geddy%20Lee%20Rush) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Alex Lifeson
 
@@ -67,16 +67,16 @@ Alex Lifeson is the guitar voice for the `Rush` pairing label. In the local rank
 
 | Song | Why Listen |
 |---|---|
-| [YYZ](https://open.spotify.com/search/YYZ%20Rush) | Listen for Alex Lifeson's guitar role in the `Rush` vocabulary. |
-| [Tom Sawyer](https://open.spotify.com/search/Tom%20Sawyer%20Rush) | Listen for Alex Lifeson's guitar role in the `Rush` vocabulary. |
-| [La Villa Strangiato](https://open.spotify.com/search/La%20Villa%20Strangiato%20Rush) | Listen for Alex Lifeson's guitar role in the `Rush` vocabulary. |
-| [Freewill](https://open.spotify.com/search/Freewill%20Rush) | Listen for Alex Lifeson's guitar role in the `Rush` vocabulary. |
-| [The Spirit of Radio](https://open.spotify.com/search/The%20Spirit%20of%20Radio%20Rush) | Listen for Alex Lifeson's guitar role in the `Rush` vocabulary. |
-| [Red Barchetta](https://open.spotify.com/search/Red%20Barchetta%20Rush) | Listen for Alex Lifeson's guitar role in the `Rush` vocabulary. |
-| [Xanadu](https://open.spotify.com/search/Xanadu%20Rush) | Listen for Alex Lifeson's guitar role in the `Rush` vocabulary. |
-| [Limelight](https://open.spotify.com/search/Limelight%20Rush) | Listen for Alex Lifeson's guitar role in the `Rush` vocabulary. |
-| [Cygnus X-1](https://open.spotify.com/search/Cygnus%20X-1%20Rush) | Listen for Alex Lifeson's guitar role in the `Rush` vocabulary. |
-| [Subdivisions](https://open.spotify.com/search/Subdivisions%20Rush) | Listen for Alex Lifeson's guitar role in the `Rush` vocabulary. |
+| [The Trees](https://open.spotify.com/search/The%20Trees%20Alex%20Lifeson%20Rush) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Anthem](https://open.spotify.com/search/Anthem%20Alex%20Lifeson%20Rush) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Bastille Day](https://open.spotify.com/search/Bastille%20Day%20Alex%20Lifeson%20Rush) | Focus on phrasing, tone, bends, and how Alex Lifeson shapes the melodic argument. |
+| [Cygnus X-1](https://open.spotify.com/search/Cygnus%20X-1%20Alex%20Lifeson%20Rush) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
+| [Working Man](https://open.spotify.com/search/Working%20Man%20Alex%20Lifeson%20Rush) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Distant Early Warning](https://open.spotify.com/search/Distant%20Early%20Warning%20Alex%20Lifeson%20Rush) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Marathon](https://open.spotify.com/search/Marathon%20Alex%20Lifeson%20Rush) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Tom Sawyer](https://open.spotify.com/search/Tom%20Sawyer%20Alex%20Lifeson%20Rush) | Focus on phrasing, tone, bends, and how Alex Lifeson shapes the melodic argument. |
+| [YYZ](https://open.spotify.com/search/YYZ%20Alex%20Lifeson%20Rush) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
+| [Limelight](https://open.spotify.com/search/Limelight%20Alex%20Lifeson%20Rush) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Neil Peart
 
@@ -99,16 +99,16 @@ Neil Peart appears here as the drums voice for the `Rush` pairing label. In this
 
 | Song | Why Listen |
 |---|---|
-| [YYZ](https://open.spotify.com/search/YYZ%20Rush) | Listen for Neil Peart's drums role in the `Rush` vocabulary. |
-| [Tom Sawyer](https://open.spotify.com/search/Tom%20Sawyer%20Rush) | Listen for Neil Peart's drums role in the `Rush` vocabulary. |
-| [La Villa Strangiato](https://open.spotify.com/search/La%20Villa%20Strangiato%20Rush) | Listen for Neil Peart's drums role in the `Rush` vocabulary. |
-| [Freewill](https://open.spotify.com/search/Freewill%20Rush) | Listen for Neil Peart's drums role in the `Rush` vocabulary. |
-| [The Spirit of Radio](https://open.spotify.com/search/The%20Spirit%20of%20Radio%20Rush) | Listen for Neil Peart's drums role in the `Rush` vocabulary. |
-| [Red Barchetta](https://open.spotify.com/search/Red%20Barchetta%20Rush) | Listen for Neil Peart's drums role in the `Rush` vocabulary. |
-| [Xanadu](https://open.spotify.com/search/Xanadu%20Rush) | Listen for Neil Peart's drums role in the `Rush` vocabulary. |
-| [Limelight](https://open.spotify.com/search/Limelight%20Rush) | Listen for Neil Peart's drums role in the `Rush` vocabulary. |
-| [Cygnus X-1](https://open.spotify.com/search/Cygnus%20X-1%20Rush) | Listen for Neil Peart's drums role in the `Rush` vocabulary. |
-| [Subdivisions](https://open.spotify.com/search/Subdivisions%20Rush) | Listen for Neil Peart's drums role in the `Rush` vocabulary. |
+| [Bastille Day](https://open.spotify.com/search/Bastille%20Day%20Neil%20Peart%20Rush) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Cygnus X-1](https://open.spotify.com/search/Cygnus%20X-1%20Neil%20Peart%20Rush) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Working Man](https://open.spotify.com/search/Working%20Man%20Neil%20Peart%20Rush) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Distant Early Warning](https://open.spotify.com/search/Distant%20Early%20Warning%20Neil%20Peart%20Rush) | Use this for groove architecture rather than surface-level chops. |
+| [Marathon](https://open.spotify.com/search/Marathon%20Neil%20Peart%20Rush) | Listen for dynamic control and density changes without losing pulse. |
+| [Tom Sawyer](https://open.spotify.com/search/Tom%20Sawyer%20Neil%20Peart%20Rush) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [YYZ](https://open.spotify.com/search/YYZ%20Neil%20Peart%20Rush) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Limelight](https://open.spotify.com/search/Limelight%20Neil%20Peart%20Rush) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Freewill](https://open.spotify.com/search/Freewill%20Neil%20Peart%20Rush) | Use this for groove architecture rather than surface-level chops. |
+| [La Villa Strangiato](https://open.spotify.com/search/La%20Villa%20Strangiato%20Neil%20Peart%20Rush) | Listen for dynamic control and density changes without losing pulse. |
 
 ## References
 

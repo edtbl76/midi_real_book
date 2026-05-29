@@ -38,16 +38,16 @@ Gary Willis is the bass voice for the `abstract fusion` pairing label. In the lo
 
 | Song | Why Listen |
 |---|---|
-| [Face First](https://open.spotify.com/search/Face%20First%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Big Wave](https://open.spotify.com/search/Big%20Wave%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Black Market](https://open.spotify.com/search/Black%20Market%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Chank](https://open.spotify.com/search/Chank%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
+| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20Gary%20Willis%20abstract%20fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20Gary%20Willis%20abstract%20fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Big Wave](https://open.spotify.com/search/Big%20Wave%20Gary%20Willis%20abstract%20fusion) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20Gary%20Willis%20abstract%20fusion) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Gary%20Willis%20abstract%20fusion) | Track the pocket, note length, and how Gary Willis makes the harmony feel grounded. |
+| [Black Market](https://open.spotify.com/search/Black%20Market%20Gary%20Willis%20abstract%20fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Roundabout](https://open.spotify.com/search/Roundabout%20Gary%20Willis%20abstract%20fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [The Real Me](https://open.spotify.com/search/The%20Real%20Me%20Gary%20Willis%20abstract%20fusion) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Hysteria](https://open.spotify.com/search/Hysteria%20Gary%20Willis%20abstract%20fusion) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Gary%20Willis%20abstract%20fusion) | Track the pocket, note length, and how Gary Willis makes the harmony feel grounded. |
 
 ## Scott Henderson
 
@@ -70,16 +70,16 @@ Scott Henderson is the guitar voice for the `abstract fusion` pairing label. In 
 
 | Song | Why Listen |
 |---|---|
-| [Face First](https://open.spotify.com/search/Face%20First%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Big Wave](https://open.spotify.com/search/Big%20Wave%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Black Market](https://open.spotify.com/search/Black%20Market%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Chank](https://open.spotify.com/search/Chank%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
+| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20Scott%20Henderson%20abstract%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20Scott%20Henderson%20abstract%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Big Wave](https://open.spotify.com/search/Big%20Wave%20Scott%20Henderson%20abstract%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20Scott%20Henderson%20abstract%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Scott%20Henderson%20abstract%20fusion) | Focus on phrasing, tone, bends, and how Scott Henderson shapes the melodic argument. |
+| [Black Market](https://open.spotify.com/search/Black%20Market%20Scott%20Henderson%20abstract%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Scott%20Henderson%20abstract%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Scott%20Henderson%20abstract%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Scott%20Henderson%20abstract%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Scott%20Henderson%20abstract%20fusion) | Focus on phrasing, tone, bends, and how Scott Henderson shapes the melodic argument. |
 
 ## Wayne Krantz
 
@@ -102,16 +102,16 @@ Wayne Krantz is the guitar voice for the `abstract fusion` pairing label. In the
 
 | Song | Why Listen |
 |---|---|
-| [Face First](https://open.spotify.com/search/Face%20First%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Big Wave](https://open.spotify.com/search/Big%20Wave%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Black Market](https://open.spotify.com/search/Black%20Market%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Chank](https://open.spotify.com/search/Chank%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
+| [Face First](https://open.spotify.com/search/Face%20First%20Wayne%20Krantz%20abstract%20fusion) | Focus on phrasing, tone, bends, and how Wayne Krantz shapes the melodic argument. |
+| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20Wayne%20Krantz%20abstract%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20Wayne%20Krantz%20abstract%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Big Wave](https://open.spotify.com/search/Big%20Wave%20Wayne%20Krantz%20abstract%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20Wayne%20Krantz%20abstract%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Wayne%20Krantz%20abstract%20fusion) | Focus on phrasing, tone, bends, and how Wayne Krantz shapes the melodic argument. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Wayne%20Krantz%20abstract%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Europa](https://open.spotify.com/search/Europa%20Wayne%20Krantz%20abstract%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Wayne%20Krantz%20abstract%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Crossroads](https://open.spotify.com/search/Crossroads%20Wayne%20Krantz%20abstract%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
 
 ## Dean Brown
 
@@ -134,16 +134,16 @@ Dean Brown is the guitar voice for the `abstract fusion` pairing label. In the l
 
 | Song | Why Listen |
 |---|---|
-| [Face First](https://open.spotify.com/search/Face%20First%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Big Wave](https://open.spotify.com/search/Big%20Wave%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Black Market](https://open.spotify.com/search/Black%20Market%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Chank](https://open.spotify.com/search/Chank%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
+| [Black Market](https://open.spotify.com/search/Black%20Market%20Dean%20Brown%20abstract%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Stratus](https://open.spotify.com/search/Stratus%20Dean%20Brown%20abstract%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Dean%20Brown%20abstract%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Chank](https://open.spotify.com/search/Chank%20Dean%20Brown%20abstract%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Face First](https://open.spotify.com/search/Face%20First%20Dean%20Brown%20abstract%20fusion) | Focus on phrasing, tone, bends, and how Dean Brown shapes the melodic argument. |
+| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20Dean%20Brown%20abstract%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Dean%20Brown%20abstract%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Dean%20Brown%20abstract%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Dean%20Brown%20abstract%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Europa](https://open.spotify.com/search/Europa%20Dean%20Brown%20abstract%20fusion) | Focus on phrasing, tone, bends, and how Dean Brown shapes the melodic argument. |
 
 ## Kirk Covington
 
@@ -166,16 +166,16 @@ Kirk Covington appears here as the drums voice for the `abstract fusion` pairing
 
 | Song | Why Listen |
 |---|---|
-| [Face First](https://open.spotify.com/search/Face%20First%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Big Wave](https://open.spotify.com/search/Big%20Wave%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Black Market](https://open.spotify.com/search/Black%20Market%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Chank](https://open.spotify.com/search/Chank%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
+| [Chank](https://open.spotify.com/search/Chank%20Kirk%20Covington%20abstract%20fusion) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Face First](https://open.spotify.com/search/Face%20First%20Kirk%20Covington%20abstract%20fusion) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20Kirk%20Covington%20abstract%20fusion) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20Kirk%20Covington%20abstract%20fusion) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Big Wave](https://open.spotify.com/search/Big%20Wave%20Kirk%20Covington%20abstract%20fusion) | Use this for groove architecture rather than just surface-level chops. |
+| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20Kirk%20Covington%20abstract%20fusion) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Kirk%20Covington%20abstract%20fusion) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Tom Sawyer](https://open.spotify.com/search/Tom%20Sawyer%20Kirk%20Covington%20abstract%20fusion) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Funky Drummer](https://open.spotify.com/search/Funky%20Drummer%20Kirk%20Covington%20abstract%20fusion) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Kirk%20Covington%20abstract%20fusion) | Use this for groove architecture rather than just surface-level chops. |
 
 ## Scott Kinsey
 
@@ -198,16 +198,16 @@ Scott Kinsey appears here as the keyboards voice for the `abstract fusion` pairi
 
 | Song | Why Listen |
 |---|---|
-| [Face First](https://open.spotify.com/search/Face%20First%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Big Wave](https://open.spotify.com/search/Big%20Wave%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Black Market](https://open.spotify.com/search/Black%20Market%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Stratus](https://open.spotify.com/search/Stratus%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
-| [Chank](https://open.spotify.com/search/Chank%20abstract%20fusion) | Idiomatic listening for the `abstract fusion` ensemble vocabulary. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Scott%20Kinsey%20abstract%20fusion) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Chank](https://open.spotify.com/search/Chank%20Scott%20Kinsey%20abstract%20fusion) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Face First](https://open.spotify.com/search/Face%20First%20Scott%20Kinsey%20abstract%20fusion) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20Scott%20Kinsey%20abstract%20fusion) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20Scott%20Kinsey%20abstract%20fusion) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Big Wave](https://open.spotify.com/search/Big%20Wave%20Scott%20Kinsey%20abstract%20fusion) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Scott%20Kinsey%20abstract%20fusion) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Scott%20Kinsey%20abstract%20fusion) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Scott%20Kinsey%20abstract%20fusion) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Scott%20Kinsey%20abstract%20fusion) | Track how the keys share space with guitar and bass without blurring the groove. |
 
 ## References
 

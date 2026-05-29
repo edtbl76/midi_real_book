@@ -40,16 +40,16 @@ Stanley Clarke is the bass voice for the `Return to Forever` pairing label. In t
 
 | Song | Why Listen |
 |---|---|
-| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Return%20to%20Forever) | Listen for Stanley Clarke's role in the `Return to Forever` vocabulary. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Return%20to%20Forever) | Listen for Stanley Clarke's role in the `Return to Forever` vocabulary. |
-| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Return%20to%20Forever) | Listen for Stanley Clarke's role in the `Return to Forever` vocabulary. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Return%20to%20Forever) | Listen for Stanley Clarke's role in the `Return to Forever` vocabulary. |
-| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Return%20to%20Forever) | Listen for Stanley Clarke's role in the `Return to Forever` vocabulary. |
-| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Return%20to%20Forever) | Listen for Stanley Clarke's role in the `Return to Forever` vocabulary. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Return%20to%20Forever) | Listen for Stanley Clarke's role in the `Return to Forever` vocabulary. |
-| [Sorceress](https://open.spotify.com/search/Sorceress%20Return%20to%20Forever) | Listen for Stanley Clarke's role in the `Return to Forever` vocabulary. |
-| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Return%20to%20Forever) | Listen for Stanley Clarke's role in the `Return to Forever` vocabulary. |
-| [Dayride](https://open.spotify.com/search/Dayride%20Return%20to%20Forever) | Listen for Stanley Clarke's role in the `Return to Forever` vocabulary. |
+| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Stanley%20Clarke%20Return%20to%20Forever) | Track the pocket, note length, and how Stanley Clarke makes the harmony feel grounded. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Stanley%20Clarke%20Return%20to%20Forever) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Sorceress](https://open.spotify.com/search/Sorceress%20Stanley%20Clarke%20Return%20to%20Forever) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Stanley%20Clarke%20Return%20to%20Forever) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Dayride](https://open.spotify.com/search/Dayride%20Stanley%20Clarke%20Return%20to%20Forever) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Stanley%20Clarke%20Return%20to%20Forever) | Track the pocket, note length, and how Stanley Clarke makes the harmony feel grounded. |
+| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Stanley%20Clarke%20Return%20to%20Forever) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Chameleon](https://open.spotify.com/search/Chameleon%20Stanley%20Clarke%20Return%20to%20Forever) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [YYZ](https://open.spotify.com/search/YYZ%20Stanley%20Clarke%20Return%20to%20Forever) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Roundabout](https://open.spotify.com/search/Roundabout%20Stanley%20Clarke%20Return%20to%20Forever) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## John McLaughlin
 
@@ -72,16 +72,16 @@ John McLaughlin is the guitar voice for the `Return to Forever` pairing label. I
 
 | Song | Why Listen |
 |---|---|
-| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Return%20to%20Forever) | Listen for John McLaughlin's role in the `Return to Forever` vocabulary. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Return%20to%20Forever) | Listen for John McLaughlin's role in the `Return to Forever` vocabulary. |
-| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Return%20to%20Forever) | Listen for John McLaughlin's role in the `Return to Forever` vocabulary. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Return%20to%20Forever) | Listen for John McLaughlin's role in the `Return to Forever` vocabulary. |
-| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Return%20to%20Forever) | Listen for John McLaughlin's role in the `Return to Forever` vocabulary. |
-| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Return%20to%20Forever) | Listen for John McLaughlin's role in the `Return to Forever` vocabulary. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Return%20to%20Forever) | Listen for John McLaughlin's role in the `Return to Forever` vocabulary. |
-| [Sorceress](https://open.spotify.com/search/Sorceress%20Return%20to%20Forever) | Listen for John McLaughlin's role in the `Return to Forever` vocabulary. |
-| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Return%20to%20Forever) | Listen for John McLaughlin's role in the `Return to Forever` vocabulary. |
-| [Dayride](https://open.spotify.com/search/Dayride%20Return%20to%20Forever) | Listen for John McLaughlin's role in the `Return to Forever` vocabulary. |
+| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20John%20McLaughlin%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20John%20McLaughlin%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
+| [School Days](https://open.spotify.com/search/School%20Days%20John%20McLaughlin%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Sorceress](https://open.spotify.com/search/Sorceress%20John%20McLaughlin%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20John%20McLaughlin%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Dayride](https://open.spotify.com/search/Dayride%20John%20McLaughlin%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Peg](https://open.spotify.com/search/Peg%20John%20McLaughlin%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20John%20McLaughlin%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20John%20McLaughlin%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20John%20McLaughlin%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Al Di Meola
 
@@ -104,16 +104,16 @@ Al Di Meola is the guitar voice for the `Return to Forever` pairing label. In th
 
 | Song | Why Listen |
 |---|---|
-| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Return%20to%20Forever) | Listen for Al Di Meola's role in the `Return to Forever` vocabulary. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Return%20to%20Forever) | Listen for Al Di Meola's role in the `Return to Forever` vocabulary. |
-| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Return%20to%20Forever) | Listen for Al Di Meola's role in the `Return to Forever` vocabulary. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Return%20to%20Forever) | Listen for Al Di Meola's role in the `Return to Forever` vocabulary. |
-| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Return%20to%20Forever) | Listen for Al Di Meola's role in the `Return to Forever` vocabulary. |
-| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Return%20to%20Forever) | Listen for Al Di Meola's role in the `Return to Forever` vocabulary. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Return%20to%20Forever) | Listen for Al Di Meola's role in the `Return to Forever` vocabulary. |
-| [Sorceress](https://open.spotify.com/search/Sorceress%20Return%20to%20Forever) | Listen for Al Di Meola's role in the `Return to Forever` vocabulary. |
-| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Return%20to%20Forever) | Listen for Al Di Meola's role in the `Return to Forever` vocabulary. |
-| [Dayride](https://open.spotify.com/search/Dayride%20Return%20to%20Forever) | Listen for Al Di Meola's role in the `Return to Forever` vocabulary. |
+| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Al%20Di%20Meola%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how Al Di Meola shapes the melodic argument. |
+| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Al%20Di%20Meola%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Al%20Di%20Meola%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Al%20Di%20Meola%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how Al Di Meola shapes the melodic argument. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Al%20Di%20Meola%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Al%20Di%20Meola%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
 
 ## Bill Connors
 
@@ -136,16 +136,16 @@ Bill Connors is the guitar voice for the `Return to Forever` pairing label. In t
 
 | Song | Why Listen |
 |---|---|
-| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Return%20to%20Forever) | Listen for Bill Connors's role in the `Return to Forever` vocabulary. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Return%20to%20Forever) | Listen for Bill Connors's role in the `Return to Forever` vocabulary. |
-| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Return%20to%20Forever) | Listen for Bill Connors's role in the `Return to Forever` vocabulary. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Return%20to%20Forever) | Listen for Bill Connors's role in the `Return to Forever` vocabulary. |
-| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Return%20to%20Forever) | Listen for Bill Connors's role in the `Return to Forever` vocabulary. |
-| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Return%20to%20Forever) | Listen for Bill Connors's role in the `Return to Forever` vocabulary. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Return%20to%20Forever) | Listen for Bill Connors's role in the `Return to Forever` vocabulary. |
-| [Sorceress](https://open.spotify.com/search/Sorceress%20Return%20to%20Forever) | Listen for Bill Connors's role in the `Return to Forever` vocabulary. |
-| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Return%20to%20Forever) | Listen for Bill Connors's role in the `Return to Forever` vocabulary. |
-| [Dayride](https://open.spotify.com/search/Dayride%20Return%20to%20Forever) | Listen for Bill Connors's role in the `Return to Forever` vocabulary. |
+| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Bill%20Connors%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Dayride](https://open.spotify.com/search/Dayride%20Bill%20Connors%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Bill%20Connors%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how Bill Connors shapes the melodic argument. |
+| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Bill%20Connors%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Bill%20Connors%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Bill%20Connors%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Bill%20Connors%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Bill%20Connors%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how Bill Connors shapes the melodic argument. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Bill%20Connors%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Bill%20Connors%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Lenny White
 
@@ -168,16 +168,16 @@ Lenny White appears here as the drums voice for the `Return to Forever` pairing 
 
 | Song | Why Listen |
 |---|---|
-| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Return%20to%20Forever) | Listen for Lenny White's role in the `Return to Forever` vocabulary. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Return%20to%20Forever) | Listen for Lenny White's role in the `Return to Forever` vocabulary. |
-| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Return%20to%20Forever) | Listen for Lenny White's role in the `Return to Forever` vocabulary. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Return%20to%20Forever) | Listen for Lenny White's role in the `Return to Forever` vocabulary. |
-| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Return%20to%20Forever) | Listen for Lenny White's role in the `Return to Forever` vocabulary. |
-| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Return%20to%20Forever) | Listen for Lenny White's role in the `Return to Forever` vocabulary. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Return%20to%20Forever) | Listen for Lenny White's role in the `Return to Forever` vocabulary. |
-| [Sorceress](https://open.spotify.com/search/Sorceress%20Return%20to%20Forever) | Listen for Lenny White's role in the `Return to Forever` vocabulary. |
-| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Return%20to%20Forever) | Listen for Lenny White's role in the `Return to Forever` vocabulary. |
-| [Dayride](https://open.spotify.com/search/Dayride%20Return%20to%20Forever) | Listen for Lenny White's role in the `Return to Forever` vocabulary. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Lenny%20White%20Return%20to%20Forever) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Sorceress](https://open.spotify.com/search/Sorceress%20Lenny%20White%20Return%20to%20Forever) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Lenny%20White%20Return%20to%20Forever) | Use this for groove architecture rather than just surface-level chops. |
+| [Dayride](https://open.spotify.com/search/Dayride%20Lenny%20White%20Return%20to%20Forever) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Lenny%20White%20Return%20to%20Forever) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Lenny%20White%20Return%20to%20Forever) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Digital Man](https://open.spotify.com/search/Digital%20Man%20Lenny%20White%20Return%20to%20Forever) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Nite Sprite](https://open.spotify.com/search/Nite%20Sprite%20Lenny%20White%20Return%20to%20Forever) | Use this for groove architecture rather than just surface-level chops. |
+| [Spain](https://open.spotify.com/search/Spain%20Lenny%20White%20Return%20to%20Forever) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Samba de Orfeu](https://open.spotify.com/search/Samba%20de%20Orfeu%20Lenny%20White%20Return%20to%20Forever) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
 
 ## Chick Corea
 
@@ -200,16 +200,16 @@ Chick Corea appears here as the keyboards voice for the `Return to Forever` pair
 
 | Song | Why Listen |
 |---|---|
-| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Return%20to%20Forever) | Listen for Chick Corea's role in the `Return to Forever` vocabulary. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Return%20to%20Forever) | Listen for Chick Corea's role in the `Return to Forever` vocabulary. |
-| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Return%20to%20Forever) | Listen for Chick Corea's role in the `Return to Forever` vocabulary. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Return%20to%20Forever) | Listen for Chick Corea's role in the `Return to Forever` vocabulary. |
-| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Return%20to%20Forever) | Listen for Chick Corea's role in the `Return to Forever` vocabulary. |
-| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Return%20to%20Forever) | Listen for Chick Corea's role in the `Return to Forever` vocabulary. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Return%20to%20Forever) | Listen for Chick Corea's role in the `Return to Forever` vocabulary. |
-| [Sorceress](https://open.spotify.com/search/Sorceress%20Return%20to%20Forever) | Listen for Chick Corea's role in the `Return to Forever` vocabulary. |
-| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Return%20to%20Forever) | Listen for Chick Corea's role in the `Return to Forever` vocabulary. |
-| [Dayride](https://open.spotify.com/search/Dayride%20Return%20to%20Forever) | Listen for Chick Corea's role in the `Return to Forever` vocabulary. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Chick%20Corea%20Return%20to%20Forever) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Chick%20Corea%20Return%20to%20Forever) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Chick%20Corea%20Return%20to%20Forever) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Chick%20Corea%20Return%20to%20Forever) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Sorceress](https://open.spotify.com/search/Sorceress%20Chick%20Corea%20Return%20to%20Forever) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Chick%20Corea%20Return%20to%20Forever) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Birdland](https://open.spotify.com/search/Birdland%20Chick%20Corea%20Return%20to%20Forever) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Chameleon](https://open.spotify.com/search/Chameleon%20Chick%20Corea%20Return%20to%20Forever) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Chick%20Corea%20Return%20to%20Forever) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Green Onions](https://open.spotify.com/search/Green%20Onions%20Chick%20Corea%20Return%20to%20Forever) | Track how the keys share space with guitar and bass without blurring the groove. |
 
 ## Jean-Luc Ponty
 
@@ -232,16 +232,16 @@ Jean-Luc Ponty appears here as the violin voice for the `Return to Forever` pair
 
 | Song | Why Listen |
 |---|---|
-| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Return%20to%20Forever) | Listen for Jean-Luc Ponty's role in the `Return to Forever` vocabulary. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Return%20to%20Forever) | Listen for Jean-Luc Ponty's role in the `Return to Forever` vocabulary. |
-| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Return%20to%20Forever) | Listen for Jean-Luc Ponty's role in the `Return to Forever` vocabulary. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Return%20to%20Forever) | Listen for Jean-Luc Ponty's role in the `Return to Forever` vocabulary. |
-| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Return%20to%20Forever) | Listen for Jean-Luc Ponty's role in the `Return to Forever` vocabulary. |
-| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Return%20to%20Forever) | Listen for Jean-Luc Ponty's role in the `Return to Forever` vocabulary. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Return%20to%20Forever) | Listen for Jean-Luc Ponty's role in the `Return to Forever` vocabulary. |
-| [Sorceress](https://open.spotify.com/search/Sorceress%20Return%20to%20Forever) | Listen for Jean-Luc Ponty's role in the `Return to Forever` vocabulary. |
-| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Return%20to%20Forever) | Listen for Jean-Luc Ponty's role in the `Return to Forever` vocabulary. |
-| [Dayride](https://open.spotify.com/search/Dayride%20Return%20to%20Forever) | Listen for Jean-Luc Ponty's role in the `Return to Forever` vocabulary. |
+| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Listen for long-line phrasing against denser rhythm-section motion. |
+| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Use this for modal color, melodic contour, and textural contrast. |
+| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Listen for how the violin functions as lead voice without losing ensemble balance. |
+| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [Ashokan Farewell](https://open.spotify.com/search/Ashokan%20Farewell%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Listen for long-line phrasing against denser rhythm-section motion. |
+| [Orange Blossom Special](https://open.spotify.com/search/Orange%20Blossom%20Special%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
+| [Minor Swing](https://open.spotify.com/search/Minor%20Swing%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Use this for modal color, melodic contour, and textural contrast. |
+| [Daphne](https://open.spotify.com/search/Daphne%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Listen for how the violin functions as lead voice without losing ensemble balance. |
 
 ## Airto Moreira
 
@@ -264,16 +264,16 @@ Airto Moreira appears here as the percussion voice for the `Return to Forever` p
 
 | Song | Why Listen |
 |---|---|
-| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Return%20to%20Forever) | Listen for Airto Moreira's role in the `Return to Forever` vocabulary. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Return%20to%20Forever) | Listen for Airto Moreira's role in the `Return to Forever` vocabulary. |
-| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Return%20to%20Forever) | Listen for Airto Moreira's role in the `Return to Forever` vocabulary. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Return%20to%20Forever) | Listen for Airto Moreira's role in the `Return to Forever` vocabulary. |
-| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Return%20to%20Forever) | Listen for Airto Moreira's role in the `Return to Forever` vocabulary. |
-| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Return%20to%20Forever) | Listen for Airto Moreira's role in the `Return to Forever` vocabulary. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Return%20to%20Forever) | Listen for Airto Moreira's role in the `Return to Forever` vocabulary. |
-| [Sorceress](https://open.spotify.com/search/Sorceress%20Return%20to%20Forever) | Listen for Airto Moreira's role in the `Return to Forever` vocabulary. |
-| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Return%20to%20Forever) | Listen for Airto Moreira's role in the `Return to Forever` vocabulary. |
-| [Dayride](https://open.spotify.com/search/Dayride%20Return%20to%20Forever) | Listen for Airto Moreira's role in the `Return to Forever` vocabulary. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Airto%20Moreira%20Return%20to%20Forever) | Listen for hand percussion as arrangement glue rather than decoration. |
+| [Sorceress](https://open.spotify.com/search/Sorceress%20Airto%20Moreira%20Return%20to%20Forever) | Track the interaction with bass and drums: pushes, answers, and density changes. |
+| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Airto%20Moreira%20Return%20to%20Forever) | Use this for pocket detail, clave awareness, and layered rhythmic color. |
+| [Dayride](https://open.spotify.com/search/Dayride%20Airto%20Moreira%20Return%20to%20Forever) | Listen for how auxiliary rhythm changes the feel of the whole ensemble. |
+| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Airto%20Moreira%20Return%20to%20Forever) | Focus on subdivision, syncopation, and how percussion widens the groove grid. |
+| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Airto%20Moreira%20Return%20to%20Forever) | Listen for hand percussion as arrangement glue rather than decoration. |
+| [Come On, Come Over](https://open.spotify.com/search/Come%20On%2C%20Come%20Over%20Airto%20Moreira%20Return%20to%20Forever) | Track the interaction with bass and drums: pushes, answers, and density changes. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Airto%20Moreira%20Return%20to%20Forever) | Use this for pocket detail, clave awareness, and layered rhythmic color. |
+| [Aja](https://open.spotify.com/search/Aja%20Airto%20Moreira%20Return%20to%20Forever) | Listen for how auxiliary rhythm changes the feel of the whole ensemble. |
+| [Peg](https://open.spotify.com/search/Peg%20Airto%20Moreira%20Return%20to%20Forever) | Focus on subdivision, syncopation, and how percussion widens the groove grid. |
 
 ## References
 

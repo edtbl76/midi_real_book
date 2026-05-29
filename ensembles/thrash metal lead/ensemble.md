@@ -37,16 +37,16 @@ Cliff Burton is the bass voice for the `thrash metal lead` pairing label. In the
 
 | Song | Why Listen |
 |---|---|
-| [Master of Puppets](https://open.spotify.com/search/Master%20of%20Puppets%20thrash%20metal%20lead) | Listen for Cliff Burton's bass role in the `thrash metal lead` vocabulary. |
-| [For Whom the Bell Tolls](https://open.spotify.com/search/For%20Whom%20the%20Bell%20Tolls%20thrash%20metal%20lead) | Listen for Cliff Burton's bass role in the `thrash metal lead` vocabulary. |
-| [Orion](https://open.spotify.com/search/Orion%20thrash%20metal%20lead) | Listen for Cliff Burton's bass role in the `thrash metal lead` vocabulary. |
-| [Battery](https://open.spotify.com/search/Battery%20thrash%20metal%20lead) | Listen for Cliff Burton's bass role in the `thrash metal lead` vocabulary. |
-| [Disposable Heroes](https://open.spotify.com/search/Disposable%20Heroes%20thrash%20metal%20lead) | Listen for Cliff Burton's bass role in the `thrash metal lead` vocabulary. |
-| [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20thrash%20metal%20lead) | Listen for Cliff Burton's bass role in the `thrash metal lead` vocabulary. |
-| [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20thrash%20metal%20lead) | Listen for Cliff Burton's bass role in the `thrash metal lead` vocabulary. |
-| [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20thrash%20metal%20lead) | Listen for Cliff Burton's bass role in the `thrash metal lead` vocabulary. |
-| [The Call of Ktulu](https://open.spotify.com/search/The%20Call%20of%20Ktulu%20thrash%20metal%20lead) | Listen for Cliff Burton's bass role in the `thrash metal lead` vocabulary. |
-| [Damage, Inc.](https://open.spotify.com/search/Damage%2C%20Inc.%20thrash%20metal%20lead) | Listen for Cliff Burton's bass role in the `thrash metal lead` vocabulary. |
+| [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20Cliff%20Burton%20thrash%20metal%20lead) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [The Call of Ktulu](https://open.spotify.com/search/The%20Call%20of%20Ktulu%20Cliff%20Burton%20thrash%20metal%20lead) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Damage, Inc.](https://open.spotify.com/search/Damage%2C%20Inc.%20Cliff%20Burton%20thrash%20metal%20lead) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Master of Puppets](https://open.spotify.com/search/Master%20of%20Puppets%20Cliff%20Burton%20thrash%20metal%20lead) | Track the pocket, note length, and how Cliff Burton makes the harmony feel grounded. |
+| [For Whom the Bell Tolls](https://open.spotify.com/search/For%20Whom%20the%20Bell%20Tolls%20Cliff%20Burton%20thrash%20metal%20lead) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Orion](https://open.spotify.com/search/Orion%20Cliff%20Burton%20thrash%20metal%20lead) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Hysteria](https://open.spotify.com/search/Hysteria%20Cliff%20Burton%20thrash%20metal%20lead) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Cliff%20Burton%20thrash%20metal%20lead) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Cliff%20Burton%20thrash%20metal%20lead) | Track the pocket, note length, and how Cliff Burton makes the harmony feel grounded. |
+| [Hair](https://open.spotify.com/search/Hair%20Cliff%20Burton%20thrash%20metal%20lead) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## James Hetfield
 
@@ -69,16 +69,16 @@ James Hetfield is the guitar voice for the `thrash metal lead` pairing label. In
 
 | Song | Why Listen |
 |---|---|
-| [Master of Puppets](https://open.spotify.com/search/Master%20of%20Puppets%20thrash%20metal%20lead) | Listen for James Hetfield's guitar role in the `thrash metal lead` vocabulary. |
-| [For Whom the Bell Tolls](https://open.spotify.com/search/For%20Whom%20the%20Bell%20Tolls%20thrash%20metal%20lead) | Listen for James Hetfield's guitar role in the `thrash metal lead` vocabulary. |
-| [Orion](https://open.spotify.com/search/Orion%20thrash%20metal%20lead) | Listen for James Hetfield's guitar role in the `thrash metal lead` vocabulary. |
-| [Battery](https://open.spotify.com/search/Battery%20thrash%20metal%20lead) | Listen for James Hetfield's guitar role in the `thrash metal lead` vocabulary. |
-| [Disposable Heroes](https://open.spotify.com/search/Disposable%20Heroes%20thrash%20metal%20lead) | Listen for James Hetfield's guitar role in the `thrash metal lead` vocabulary. |
-| [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20thrash%20metal%20lead) | Listen for James Hetfield's guitar role in the `thrash metal lead` vocabulary. |
-| [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20thrash%20metal%20lead) | Listen for James Hetfield's guitar role in the `thrash metal lead` vocabulary. |
-| [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20thrash%20metal%20lead) | Listen for James Hetfield's guitar role in the `thrash metal lead` vocabulary. |
-| [The Call of Ktulu](https://open.spotify.com/search/The%20Call%20of%20Ktulu%20thrash%20metal%20lead) | Listen for James Hetfield's guitar role in the `thrash metal lead` vocabulary. |
-| [Damage, Inc.](https://open.spotify.com/search/Damage%2C%20Inc.%20thrash%20metal%20lead) | Listen for James Hetfield's guitar role in the `thrash metal lead` vocabulary. |
+| [Battery](https://open.spotify.com/search/Battery%20James%20Hetfield%20thrash%20metal%20lead) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Disposable Heroes](https://open.spotify.com/search/Disposable%20Heroes%20James%20Hetfield%20thrash%20metal%20lead) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20James%20Hetfield%20thrash%20metal%20lead) | Focus on phrasing, tone, bends, and how James Hetfield shapes the melodic argument. |
+| [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20James%20Hetfield%20thrash%20metal%20lead) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20James%20Hetfield%20thrash%20metal%20lead) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [The Call of Ktulu](https://open.spotify.com/search/The%20Call%20of%20Ktulu%20James%20Hetfield%20thrash%20metal%20lead) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20James%20Hetfield%20thrash%20metal%20lead) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20James%20Hetfield%20thrash%20metal%20lead) | Focus on phrasing, tone, bends, and how James Hetfield shapes the melodic argument. |
+| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20James%20Hetfield%20thrash%20metal%20lead) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20James%20Hetfield%20thrash%20metal%20lead) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Kirk Hammett
 
@@ -101,16 +101,16 @@ Kirk Hammett is the guitar voice for the `thrash metal lead` pairing label. In t
 
 | Song | Why Listen |
 |---|---|
-| [Master of Puppets](https://open.spotify.com/search/Master%20of%20Puppets%20thrash%20metal%20lead) | Listen for Kirk Hammett's guitar role in the `thrash metal lead` vocabulary. |
-| [For Whom the Bell Tolls](https://open.spotify.com/search/For%20Whom%20the%20Bell%20Tolls%20thrash%20metal%20lead) | Listen for Kirk Hammett's guitar role in the `thrash metal lead` vocabulary. |
-| [Orion](https://open.spotify.com/search/Orion%20thrash%20metal%20lead) | Listen for Kirk Hammett's guitar role in the `thrash metal lead` vocabulary. |
-| [Battery](https://open.spotify.com/search/Battery%20thrash%20metal%20lead) | Listen for Kirk Hammett's guitar role in the `thrash metal lead` vocabulary. |
-| [Disposable Heroes](https://open.spotify.com/search/Disposable%20Heroes%20thrash%20metal%20lead) | Listen for Kirk Hammett's guitar role in the `thrash metal lead` vocabulary. |
-| [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20thrash%20metal%20lead) | Listen for Kirk Hammett's guitar role in the `thrash metal lead` vocabulary. |
-| [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20thrash%20metal%20lead) | Listen for Kirk Hammett's guitar role in the `thrash metal lead` vocabulary. |
-| [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20thrash%20metal%20lead) | Listen for Kirk Hammett's guitar role in the `thrash metal lead` vocabulary. |
-| [The Call of Ktulu](https://open.spotify.com/search/The%20Call%20of%20Ktulu%20thrash%20metal%20lead) | Listen for Kirk Hammett's guitar role in the `thrash metal lead` vocabulary. |
-| [Damage, Inc.](https://open.spotify.com/search/Damage%2C%20Inc.%20thrash%20metal%20lead) | Listen for Kirk Hammett's guitar role in the `thrash metal lead` vocabulary. |
+| [The Call of Ktulu](https://open.spotify.com/search/The%20Call%20of%20Ktulu%20Kirk%20Hammett%20thrash%20metal%20lead) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Damage, Inc.](https://open.spotify.com/search/Damage%2C%20Inc.%20Kirk%20Hammett%20thrash%20metal%20lead) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Master of Puppets](https://open.spotify.com/search/Master%20of%20Puppets%20Kirk%20Hammett%20thrash%20metal%20lead) | Focus on phrasing, tone, bends, and how Kirk Hammett shapes the melodic argument. |
+| [For Whom the Bell Tolls](https://open.spotify.com/search/For%20Whom%20the%20Bell%20Tolls%20Kirk%20Hammett%20thrash%20metal%20lead) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Orion](https://open.spotify.com/search/Orion%20Kirk%20Hammett%20thrash%20metal%20lead) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Battery](https://open.spotify.com/search/Battery%20Kirk%20Hammett%20thrash%20metal%20lead) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Kirk%20Hammett%20thrash%20metal%20lead) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Kirk%20Hammett%20thrash%20metal%20lead) | Focus on phrasing, tone, bends, and how Kirk Hammett shapes the melodic argument. |
+| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Kirk%20Hammett%20thrash%20metal%20lead) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Eruption](https://open.spotify.com/search/Eruption%20Kirk%20Hammett%20thrash%20metal%20lead) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Marty Friedman
 
@@ -133,16 +133,16 @@ Marty Friedman is the guitar voice for the `thrash metal lead` pairing label. In
 
 | Song | Why Listen |
 |---|---|
-| [Master of Puppets](https://open.spotify.com/search/Master%20of%20Puppets%20thrash%20metal%20lead) | Listen for Marty Friedman's guitar role in the `thrash metal lead` vocabulary. |
-| [For Whom the Bell Tolls](https://open.spotify.com/search/For%20Whom%20the%20Bell%20Tolls%20thrash%20metal%20lead) | Listen for Marty Friedman's guitar role in the `thrash metal lead` vocabulary. |
-| [Orion](https://open.spotify.com/search/Orion%20thrash%20metal%20lead) | Listen for Marty Friedman's guitar role in the `thrash metal lead` vocabulary. |
-| [Battery](https://open.spotify.com/search/Battery%20thrash%20metal%20lead) | Listen for Marty Friedman's guitar role in the `thrash metal lead` vocabulary. |
-| [Disposable Heroes](https://open.spotify.com/search/Disposable%20Heroes%20thrash%20metal%20lead) | Listen for Marty Friedman's guitar role in the `thrash metal lead` vocabulary. |
-| [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20thrash%20metal%20lead) | Listen for Marty Friedman's guitar role in the `thrash metal lead` vocabulary. |
-| [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20thrash%20metal%20lead) | Listen for Marty Friedman's guitar role in the `thrash metal lead` vocabulary. |
-| [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20thrash%20metal%20lead) | Listen for Marty Friedman's guitar role in the `thrash metal lead` vocabulary. |
-| [The Call of Ktulu](https://open.spotify.com/search/The%20Call%20of%20Ktulu%20thrash%20metal%20lead) | Listen for Marty Friedman's guitar role in the `thrash metal lead` vocabulary. |
-| [Damage, Inc.](https://open.spotify.com/search/Damage%2C%20Inc.%20thrash%20metal%20lead) | Listen for Marty Friedman's guitar role in the `thrash metal lead` vocabulary. |
+| [For Whom the Bell Tolls](https://open.spotify.com/search/For%20Whom%20the%20Bell%20Tolls%20Marty%20Friedman%20thrash%20metal%20lead) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Orion](https://open.spotify.com/search/Orion%20Marty%20Friedman%20thrash%20metal%20lead) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Battery](https://open.spotify.com/search/Battery%20Marty%20Friedman%20thrash%20metal%20lead) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Disposable Heroes](https://open.spotify.com/search/Disposable%20Heroes%20Marty%20Friedman%20thrash%20metal%20lead) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20Marty%20Friedman%20thrash%20metal%20lead) | Focus on phrasing, tone, bends, and how Marty Friedman shapes the melodic argument. |
+| [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20Marty%20Friedman%20thrash%20metal%20lead) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Marty%20Friedman%20thrash%20metal%20lead) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Marty%20Friedman%20thrash%20metal%20lead) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Marty%20Friedman%20thrash%20metal%20lead) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Marty%20Friedman%20thrash%20metal%20lead) | Focus on phrasing, tone, bends, and how Marty Friedman shapes the melodic argument. |
 
 ## Lars Ulrich
 
@@ -165,16 +165,16 @@ Lars Ulrich appears here as the drums voice for the `thrash metal lead` pairing 
 
 | Song | Why Listen |
 |---|---|
-| [Master of Puppets](https://open.spotify.com/search/Master%20of%20Puppets%20thrash%20metal%20lead) | Listen for Lars Ulrich's drums role in the `thrash metal lead` vocabulary. |
-| [For Whom the Bell Tolls](https://open.spotify.com/search/For%20Whom%20the%20Bell%20Tolls%20thrash%20metal%20lead) | Listen for Lars Ulrich's drums role in the `thrash metal lead` vocabulary. |
-| [Orion](https://open.spotify.com/search/Orion%20thrash%20metal%20lead) | Listen for Lars Ulrich's drums role in the `thrash metal lead` vocabulary. |
-| [Battery](https://open.spotify.com/search/Battery%20thrash%20metal%20lead) | Listen for Lars Ulrich's drums role in the `thrash metal lead` vocabulary. |
-| [Disposable Heroes](https://open.spotify.com/search/Disposable%20Heroes%20thrash%20metal%20lead) | Listen for Lars Ulrich's drums role in the `thrash metal lead` vocabulary. |
-| [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20thrash%20metal%20lead) | Listen for Lars Ulrich's drums role in the `thrash metal lead` vocabulary. |
-| [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20thrash%20metal%20lead) | Listen for Lars Ulrich's drums role in the `thrash metal lead` vocabulary. |
-| [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20thrash%20metal%20lead) | Listen for Lars Ulrich's drums role in the `thrash metal lead` vocabulary. |
-| [The Call of Ktulu](https://open.spotify.com/search/The%20Call%20of%20Ktulu%20thrash%20metal%20lead) | Listen for Lars Ulrich's drums role in the `thrash metal lead` vocabulary. |
-| [Damage, Inc.](https://open.spotify.com/search/Damage%2C%20Inc.%20thrash%20metal%20lead) | Listen for Lars Ulrich's drums role in the `thrash metal lead` vocabulary. |
+| [Battery](https://open.spotify.com/search/Battery%20Lars%20Ulrich%20thrash%20metal%20lead) | Use this for groove architecture rather than just surface-level chops. |
+| [Disposable Heroes](https://open.spotify.com/search/Disposable%20Heroes%20Lars%20Ulrich%20thrash%20metal%20lead) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20Lars%20Ulrich%20thrash%20metal%20lead) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20Lars%20Ulrich%20thrash%20metal%20lead) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20Lars%20Ulrich%20thrash%20metal%20lead) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [The Call of Ktulu](https://open.spotify.com/search/The%20Call%20of%20Ktulu%20Lars%20Ulrich%20thrash%20metal%20lead) | Use this for groove architecture rather than just surface-level chops. |
+| [Aja](https://open.spotify.com/search/Aja%20Lars%20Ulrich%20thrash%20metal%20lead) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Lars%20Ulrich%20thrash%20metal%20lead) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Tom Sawyer](https://open.spotify.com/search/Tom%20Sawyer%20Lars%20Ulrich%20thrash%20metal%20lead) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Funky Drummer](https://open.spotify.com/search/Funky%20Drummer%20Lars%20Ulrich%20thrash%20metal%20lead) | Track the transitions: fills, pushes, setups, and how sections are announced. |
 
 ## References
 

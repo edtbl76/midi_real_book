@@ -38,16 +38,16 @@ Carol Kaye is the bass voice for the `L.A. jazz-session` pairing label. In the l
 
 | Song | Why Listen |
 |---|---|
-| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Shadow of Your Smile](https://open.spotify.com/search/The%20Shadow%20of%20Your%20Smile%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
+| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20Carol%20Kaye%20L.A.%20jazz-session) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [The Shadow of Your Smile](https://open.spotify.com/search/The%20Shadow%20of%20Your%20Smile%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20Carol%20Kaye%20L.A.%20jazz-session) | Track the pocket, note length, and how Carol Kaye makes the harmony feel grounded. |
+| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20Carol%20Kaye%20L.A.%20jazz-session) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Peg](https://open.spotify.com/search/Peg%20Carol%20Kaye%20L.A.%20jazz-session) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Bernadette](https://open.spotify.com/search/Bernadette%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Carol%20Kaye%20L.A.%20jazz-session) | Track the pocket, note length, and how Carol Kaye makes the harmony feel grounded. |
+| [Power](https://open.spotify.com/search/Power%20Carol%20Kaye%20L.A.%20jazz-session) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Tommy Tedesco
 
@@ -70,16 +70,16 @@ Tommy Tedesco is the guitar voice for the `L.A. jazz-session` pairing label. In 
 
 | Song | Why Listen |
 |---|---|
-| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Shadow of Your Smile](https://open.spotify.com/search/The%20Shadow%20of%20Your%20Smile%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
+| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Tommy%20Tedesco%20L.A.%20jazz-session) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Tommy%20Tedesco%20L.A.%20jazz-session) | Focus on phrasing, tone, bends, and how Tommy Tedesco shapes the melodic argument. |
+| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20Tommy%20Tedesco%20L.A.%20jazz-session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20Tommy%20Tedesco%20L.A.%20jazz-session) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Peg](https://open.spotify.com/search/Peg%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Tommy%20Tedesco%20L.A.%20jazz-session) | Focus on phrasing, tone, bends, and how Tommy Tedesco shapes the melodic argument. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Tommy%20Tedesco%20L.A.%20jazz-session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Barney Kessel
 
@@ -102,16 +102,16 @@ Barney Kessel is the guitar voice for the `L.A. jazz-session` pairing label. In 
 
 | Song | Why Listen |
 |---|---|
-| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Shadow of Your Smile](https://open.spotify.com/search/The%20Shadow%20of%20Your%20Smile%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
+| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20Barney%20Kessel%20L.A.%20jazz-session) | Focus on phrasing, tone, bends, and how Barney Kessel shapes the melodic argument. |
+| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20Barney%20Kessel%20L.A.%20jazz-session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Barney%20Kessel%20L.A.%20jazz-session) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Barney%20Kessel%20L.A.%20jazz-session) | Focus on phrasing, tone, bends, and how Barney Kessel shapes the melodic argument. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Barney%20Kessel%20L.A.%20jazz-session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Barney%20Kessel%20L.A.%20jazz-session) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
 
 ## Hal Blaine
 
@@ -134,16 +134,16 @@ Hal Blaine appears here as the drums voice for the `L.A. jazz-session` pairing l
 
 | Song | Why Listen |
 |---|---|
-| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Shadow of Your Smile](https://open.spotify.com/search/The%20Shadow%20of%20Your%20Smile%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
+| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20Hal%20Blaine%20L.A.%20jazz-session) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20Hal%20Blaine%20L.A.%20jazz-session) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20Hal%20Blaine%20L.A.%20jazz-session) | Use this for groove architecture rather than just surface-level chops. |
+| [The Shadow of Your Smile](https://open.spotify.com/search/The%20Shadow%20of%20Your%20Smile%20Hal%20Blaine%20L.A.%20jazz-session) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20Hal%20Blaine%20L.A.%20jazz-session) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20Hal%20Blaine%20L.A.%20jazz-session) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Tom Sawyer](https://open.spotify.com/search/Tom%20Sawyer%20Hal%20Blaine%20L.A.%20jazz-session) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Funky Drummer](https://open.spotify.com/search/Funky%20Drummer%20Hal%20Blaine%20L.A.%20jazz-session) | Use this for groove architecture rather than just surface-level chops. |
+| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Hal%20Blaine%20L.A.%20jazz-session) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Come Together](https://open.spotify.com/search/Come%20Together%20Hal%20Blaine%20L.A.%20jazz-session) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
 
 ## Leon Russell
 
@@ -166,16 +166,16 @@ Leon Russell appears here as the keyboards voice for the `L.A. jazz-session` pai
 
 | Song | Why Listen |
 |---|---|
-| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Shadow of Your Smile](https://open.spotify.com/search/The%20Shadow%20of%20Your%20Smile%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
+| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20Leon%20Russell%20L.A.%20jazz-session) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20Leon%20Russell%20L.A.%20jazz-session) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20Leon%20Russell%20L.A.%20jazz-session) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Leon%20Russell%20L.A.%20jazz-session) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20Leon%20Russell%20L.A.%20jazz-session) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Leon%20Russell%20L.A.%20jazz-session) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Leon%20Russell%20L.A.%20jazz-session) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [As](https://open.spotify.com/search/As%20Leon%20Russell%20L.A.%20jazz-session) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Leon%20Russell%20L.A.%20jazz-session) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Leon%20Russell%20L.A.%20jazz-session) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## Plas Johnson
 
@@ -198,16 +198,16 @@ Plas Johnson appears here as the saxophone voice for the `L.A. jazz-session` pai
 
 | Song | Why Listen |
 |---|---|
-| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
-| [The Shadow of Your Smile](https://open.spotify.com/search/The%20Shadow%20of%20Your%20Smile%20L.A.%20jazz-session) | Idiomatic listening for the `L.A. jazz-session` ensemble vocabulary. |
+| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Plas%20Johnson%20L.A.%20jazz-session) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
+| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20Plas%20Johnson%20L.A.%20jazz-session) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
+| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20Plas%20Johnson%20L.A.%20jazz-session) | Track how the saxophone line changes the ensemble from groove to conversation. |
+| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20Plas%20Johnson%20L.A.%20jazz-session) | Use this for tone, attack, and phrase endings inside the idiom. |
+| [The Shadow of Your Smile](https://open.spotify.com/search/The%20Shadow%20of%20Your%20Smile%20Plas%20Johnson%20L.A.%20jazz-session) | Listen for melodic contrast against bass and guitar figures. |
+| [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20Plas%20Johnson%20L.A.%20jazz-session) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
+| [Respect](https://open.spotify.com/search/Respect%20Plas%20Johnson%20L.A.%20jazz-session) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
+| [Giant Steps](https://open.spotify.com/search/Giant%20Steps%20Plas%20Johnson%20L.A.%20jazz-session) | Track how the saxophone line changes the ensemble from groove to conversation. |
+| [A Love Supreme, Pt. I: Acknowledgement](https://open.spotify.com/search/A%20Love%20Supreme%2C%20Pt.%20I%3A%20Acknowledgement%20Plas%20Johnson%20L.A.%20jazz-session) | Use this for tone, attack, and phrase endings inside the idiom. |
+| [So What](https://open.spotify.com/search/So%20What%20Plas%20Johnson%20L.A.%20jazz-session) | Listen for melodic contrast against bass and guitar figures. |
 
 ## References
 

@@ -37,16 +37,16 @@ Jimmy Garrison is the bass voice for the `modal jazz reinterpretation` pairing l
 
 | Song | Why Listen |
 |---|---|
-| [So What](https://open.spotify.com/search/So%20What%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Impressions](https://open.spotify.com/search/Impressions%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [My Favorite Things](https://open.spotify.com/search/My%20Favorite%20Things%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [A Love Supreme, Pt. I: Acknowledgement](https://open.spotify.com/search/A%20Love%20Supreme%2C%20Pt.%20I%3A%20Acknowledgement%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Naima](https://open.spotify.com/search/Naima%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Equinox](https://open.spotify.com/search/Equinox%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [India](https://open.spotify.com/search/India%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Crescent](https://open.spotify.com/search/Crescent%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Spiritual](https://open.spotify.com/search/Spiritual%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
+| [India](https://open.spotify.com/search/India%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Crescent](https://open.spotify.com/search/Crescent%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Spiritual](https://open.spotify.com/search/Spiritual%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [So What](https://open.spotify.com/search/So%20What%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Track the pocket, note length, and how Jimmy Garrison makes the harmony feel grounded. |
+| [Impressions](https://open.spotify.com/search/Impressions%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Listen for how the low end supports the drummer without crowding the arrangement. |
+| [Hair](https://open.spotify.com/search/Hair%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Track the pocket, note length, and how Jimmy Garrison makes the harmony feel grounded. |
 
 ## Bill Frisell
 
@@ -69,16 +69,16 @@ Bill Frisell is the guitar voice for the `modal jazz reinterpretation` pairing l
 
 | Song | Why Listen |
 |---|---|
-| [So What](https://open.spotify.com/search/So%20What%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Impressions](https://open.spotify.com/search/Impressions%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [My Favorite Things](https://open.spotify.com/search/My%20Favorite%20Things%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [A Love Supreme, Pt. I: Acknowledgement](https://open.spotify.com/search/A%20Love%20Supreme%2C%20Pt.%20I%3A%20Acknowledgement%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Naima](https://open.spotify.com/search/Naima%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Equinox](https://open.spotify.com/search/Equinox%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [India](https://open.spotify.com/search/India%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Crescent](https://open.spotify.com/search/Crescent%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Spiritual](https://open.spotify.com/search/Spiritual%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
+| [A Love Supreme, Pt. I: Acknowledgement](https://open.spotify.com/search/A%20Love%20Supreme%2C%20Pt.%20I%3A%20Acknowledgement%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Naima](https://open.spotify.com/search/Naima%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Equinox](https://open.spotify.com/search/Equinox%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Focus on phrasing, tone, bends, and how Bill Frisell shapes the melodic argument. |
+| [India](https://open.spotify.com/search/India%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Crescent](https://open.spotify.com/search/Crescent%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Spiritual](https://open.spotify.com/search/Spiritual%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Focus on phrasing, tone, bends, and how Bill Frisell shapes the melodic argument. |
+| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Eruption](https://open.spotify.com/search/Eruption%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Elvin Jones
 
@@ -101,16 +101,16 @@ Elvin Jones appears here as the drums voice for the `modal jazz reinterpretation
 
 | Song | Why Listen |
 |---|---|
-| [So What](https://open.spotify.com/search/So%20What%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Impressions](https://open.spotify.com/search/Impressions%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [My Favorite Things](https://open.spotify.com/search/My%20Favorite%20Things%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [A Love Supreme, Pt. I: Acknowledgement](https://open.spotify.com/search/A%20Love%20Supreme%2C%20Pt.%20I%3A%20Acknowledgement%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Naima](https://open.spotify.com/search/Naima%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Equinox](https://open.spotify.com/search/Equinox%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [India](https://open.spotify.com/search/India%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Crescent](https://open.spotify.com/search/Crescent%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Spiritual](https://open.spotify.com/search/Spiritual%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
+| [Crescent](https://open.spotify.com/search/Crescent%20Elvin%20Jones%20modal%20jazz%20reinterpretation) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Spiritual](https://open.spotify.com/search/Spiritual%20Elvin%20Jones%20modal%20jazz%20reinterpretation) | Use this for groove architecture rather than just surface-level chops. |
+| [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20Elvin%20Jones%20modal%20jazz%20reinterpretation) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [So What](https://open.spotify.com/search/So%20What%20Elvin%20Jones%20modal%20jazz%20reinterpretation) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Impressions](https://open.spotify.com/search/Impressions%20Elvin%20Jones%20modal%20jazz%20reinterpretation) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [My Favorite Things](https://open.spotify.com/search/My%20Favorite%20Things%20Elvin%20Jones%20modal%20jazz%20reinterpretation) | Track the transitions: fills, pushes, setups, and how sections are announced. |
+| [Hot for Teacher](https://open.spotify.com/search/Hot%20for%20Teacher%20Elvin%20Jones%20modal%20jazz%20reinterpretation) | Use this for groove architecture rather than just surface-level chops. |
+| [Digital Man](https://open.spotify.com/search/Digital%20Man%20Elvin%20Jones%20modal%20jazz%20reinterpretation) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Nite Sprite](https://open.spotify.com/search/Nite%20Sprite%20Elvin%20Jones%20modal%20jazz%20reinterpretation) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Spain](https://open.spotify.com/search/Spain%20Elvin%20Jones%20modal%20jazz%20reinterpretation) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
 
 ## McCoy Tyner
 
@@ -133,16 +133,16 @@ McCoy Tyner appears here as the keyboards voice for the `modal jazz reinterpreta
 
 | Song | Why Listen |
 |---|---|
-| [So What](https://open.spotify.com/search/So%20What%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Impressions](https://open.spotify.com/search/Impressions%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [My Favorite Things](https://open.spotify.com/search/My%20Favorite%20Things%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [A Love Supreme, Pt. I: Acknowledgement](https://open.spotify.com/search/A%20Love%20Supreme%2C%20Pt.%20I%3A%20Acknowledgement%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Naima](https://open.spotify.com/search/Naima%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Equinox](https://open.spotify.com/search/Equinox%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [India](https://open.spotify.com/search/India%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Crescent](https://open.spotify.com/search/Crescent%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Spiritual](https://open.spotify.com/search/Spiritual%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
+| [Naima](https://open.spotify.com/search/Naima%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Equinox](https://open.spotify.com/search/Equinox%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [India](https://open.spotify.com/search/India%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Crescent](https://open.spotify.com/search/Crescent%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Spiritual](https://open.spotify.com/search/Spiritual%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Aja](https://open.spotify.com/search/Aja%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
+| [Peg](https://open.spotify.com/search/Peg%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Riders on the Storm](https://open.spotify.com/search/Riders%20on%20the%20Storm%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Frankenstein](https://open.spotify.com/search/Frankenstein%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Use this for comping vocabulary, synth texture, and arrangement support. |
 
 ## John Coltrane
 
@@ -165,16 +165,16 @@ John Coltrane appears here as the saxophone voice for the `modal jazz reinterpre
 
 | Song | Why Listen |
 |---|---|
-| [So What](https://open.spotify.com/search/So%20What%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Impressions](https://open.spotify.com/search/Impressions%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [My Favorite Things](https://open.spotify.com/search/My%20Favorite%20Things%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [A Love Supreme, Pt. I: Acknowledgement](https://open.spotify.com/search/A%20Love%20Supreme%2C%20Pt.%20I%3A%20Acknowledgement%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Naima](https://open.spotify.com/search/Naima%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Equinox](https://open.spotify.com/search/Equinox%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [India](https://open.spotify.com/search/India%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Crescent](https://open.spotify.com/search/Crescent%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Spiritual](https://open.spotify.com/search/Spiritual%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
-| [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20modal%20jazz%20reinterpretation) | Idiomatic listening for the `modal jazz reinterpretation` ensemble vocabulary. |
+| [Crescent](https://open.spotify.com/search/Crescent%20John%20Coltrane%20modal%20jazz%20reinterpretation) | Track how the saxophone line changes the ensemble from groove to conversation. |
+| [Spiritual](https://open.spotify.com/search/Spiritual%20John%20Coltrane%20modal%20jazz%20reinterpretation) | Use this for tone, attack, and phrase endings inside the idiom. |
+| [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20John%20Coltrane%20modal%20jazz%20reinterpretation) | Listen for melodic contrast against bass and guitar figures. |
+| [So What](https://open.spotify.com/search/So%20What%20John%20Coltrane%20modal%20jazz%20reinterpretation) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
+| [Impressions](https://open.spotify.com/search/Impressions%20John%20Coltrane%20modal%20jazz%20reinterpretation) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
+| [My Favorite Things](https://open.spotify.com/search/My%20Favorite%20Things%20John%20Coltrane%20modal%20jazz%20reinterpretation) | Track how the saxophone line changes the ensemble from groove to conversation. |
+| [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20John%20Coltrane%20modal%20jazz%20reinterpretation) | Use this for tone, attack, and phrase endings inside the idiom. |
+| [Respect](https://open.spotify.com/search/Respect%20John%20Coltrane%20modal%20jazz%20reinterpretation) | Listen for melodic contrast against bass and guitar figures. |
+| [Giant Steps](https://open.spotify.com/search/Giant%20Steps%20John%20Coltrane%20modal%20jazz%20reinterpretation) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
+| [A Love Supreme, Pt. I: Acknowledgement](https://open.spotify.com/search/A%20Love%20Supreme%2C%20Pt.%20I%3A%20Acknowledgement%20John%20Coltrane%20modal%20jazz%20reinterpretation) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
 
 ## References
 
