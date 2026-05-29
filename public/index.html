@@ -1,89 +1,154 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome to Firebase Hosting</title>
-
-    <!-- update the version number as needed -->
-    <script defer src="/__/firebase/12.14.0/firebase-app-compat.js"></script>
-    <!-- include only the Firebase features as you need -->
-    <script defer src="/__/firebase/12.14.0/firebase-auth-compat.js"></script>
-    <script defer src="/__/firebase/12.14.0/firebase-database-compat.js"></script>
-    <script defer src="/__/firebase/12.14.0/firebase-firestore-compat.js"></script>
-    <script defer src="/__/firebase/12.14.0/firebase-functions-compat.js"></script>
-    <script defer src="/__/firebase/12.14.0/firebase-messaging-compat.js"></script>
-    <script defer src="/__/firebase/12.14.0/firebase-storage-compat.js"></script>
-    <script defer src="/__/firebase/12.14.0/firebase-analytics-compat.js"></script>
-    <script defer src="/__/firebase/12.14.0/firebase-remote-config-compat.js"></script>
-    <script defer src="/__/firebase/12.14.0/firebase-performance-compat.js"></script>
-    <!-- 
-      initialize the SDK after all desired features are loaded, set useEmulator to false
-      to avoid connecting the SDK to running emulators.
-    -->
-    <script defer src="/__/firebase/init.js?useEmulator=true"></script>
-
-    <style media="screen">
-      body { background: #ECEFF1; color: rgba(0,0,0,0.87); font-family: Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; }
-      #message { background: white; max-width: 360px; margin: 100px auto 16px; padding: 32px 24px; border-radius: 3px; }
-      #message h2 { color: #ffa100; font-weight: bold; font-size: 16px; margin: 0 0 8px; }
-      #message h1 { font-size: 22px; font-weight: 300; color: rgba(0,0,0,0.6); margin: 0 0 16px;}
-      #message p { line-height: 140%; margin: 16px 0 24px; font-size: 14px; }
-      #message a { display: block; text-align: center; background: #039be5; text-transform: uppercase; text-decoration: none; color: white; padding: 16px; border-radius: 4px; }
-      #message, #message a { box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); }
-      #load { color: rgba(0,0,0,0.4); text-align: center; font-size: 13px; }
-      @media (max-width: 600px) {
-        body, #message { margin-top: 0; background: white; box-shadow: none; }
-        body { border-top: 16px solid #ffa100; }
-      }
-    </style>
-  </head>
-  <body>
-    <div id="message">
-      <h2>Welcome</h2>
-      <h1>Firebase Hosting Setup Complete</h1>
-      <p>You're seeing this because you've successfully setup Firebase Hosting. Now it's time to go build something extraordinary!</p>
-      <a target="_blank" href="https://firebase.google.com/docs/hosting/">Open Hosting Documentation</a>
-    </div>
-    <p id="load">Firebase SDK Loading&hellip;</p>
-
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        const loadEl = document.querySelector('#load');
-        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-        // // The Firebase SDK is initialized and available here!
-        //
-        // firebase.auth().onAuthStateChanged(user => { });
-        // firebase.database().ref('/path/to/ref').on('value', snapshot => { });
-        // firebase.firestore().doc('/foo/bar').get().then(() => { });
-        // firebase.functions().httpsCallable('yourFunction')().then(() => { });
-        // firebase.messaging().requestPermission().then(() => { });
-        // firebase.storage().ref('/path/to/ref').getDownloadURL().then(() => { });
-        // firebase.analytics(); // call to activate
-        // firebase.analytics().logEvent('tutorial_completed');
-        // firebase.performance(); // call to activate
-        //
-        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-
-        try {
-          let app = firebase.app();
-          let features = [
-            'auth', 
-            'database', 
-            'firestore',
-            'functions',
-            'messaging', 
-            'storage', 
-            'analytics', 
-            'remoteConfig',
-            'performance',
-          ].filter(feature => typeof app[feature] === 'function');
-          loadEl.textContent = `Firebase SDK loaded with ${features.join(', ')}`;
-        } catch (e) {
-          console.error(e);
-          loadEl.textContent = 'Error loading the Firebase SDK, check the console.';
-        }
-      });
-    </script>
-  </body>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MIDI Real Book</title>
+  <link rel="stylesheet" href="site.css">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="home-header">
+      <h1>MIDI Real Book</h1>
+      <p>Ensemble records for the bassist-centered pairing corpus. Open a record to browse the players, timelines, gear notes, and idiomatic listening list.</p>
+    </header>
+    <main class="home-main">
+      <div class="home-tools">
+        <input class="search-box" data-record-search type="search" placeholder="Search ensembles" aria-label="Search ensembles">
+        <span class="count" data-record-count>128 ensembles</span>
+      </div>
+      <nav class="record-grid" aria-label="Ensemble records">
+        <a class="record-card" data-record-card href="ensembles/abstract-fusion.html">abstract fusion</a>
+<a class="record-card" data-record-card href="ensembles/ac-dc.html">AC - DC</a>
+<a class="record-card" data-record-card href="ensembles/aerosmith.html">Aerosmith</a>
+<a class="record-card" data-record-card href="ensembles/allan-holdsworth-band.html">Allan Holdsworth band</a>
+<a class="record-card" data-record-card href="ensembles/andy-timmons-orbit.html">Andy Timmons orbit</a>
+<a class="record-card" data-record-card href="ensembles/animals-as-leaders.html">Animals as Leaders</a>
+<a class="record-card" data-record-card href="ensembles/austin-melodic-blues.html">Austin melodic blues</a>
+<a class="record-card" data-record-card href="ensembles/beatles.html">Beatles</a>
+<a class="record-card" data-record-card href="ensembles/billy-idol.html">Billy Idol</a>
+<a class="record-card" data-record-card href="ensembles/black-sabbath.html">Black Sabbath</a>
+<a class="record-card" data-record-card href="ensembles/blt.html">BLT</a>
+<a class="record-card" data-record-card href="ensembles/blues-metal.html">blues-metal</a>
+<a class="record-card" data-record-card href="ensembles/blues-rock-shred.html">blues-rock shred</a>
+<a class="record-card" data-record-card href="ensembles/brothers-johnson-quincy-jones.html">Brothers Johnson - Quincy Jones</a>
+<a class="record-card" data-record-card href="ensembles/bruford-uk.html">Bruford - UK</a>
+<a class="record-card" data-record-card href="ensembles/buckethead-bozzio-orbit.html">Buckethead - Bozzio orbit</a>
+<a class="record-card" data-record-card href="ensembles/buckethead-primus-orbit.html">Buckethead - Primus orbit</a>
+<a class="record-card" data-record-card href="ensembles/cab.html">CAB</a>
+<a class="record-card" data-record-card href="ensembles/chic.html">Chic</a>
+<a class="record-card" data-record-card href="ensembles/cream.html">Cream</a>
+<a class="record-card" data-record-card href="ensembles/dave-weckl-band-grp.html">Dave Weckl Band - GRP</a>
+<a class="record-card" data-record-card href="ensembles/david-lee-roth-band.html">David Lee Roth band</a>
+<a class="record-card" data-record-card href="ensembles/deep-purple.html">Deep Purple</a>
+<a class="record-card" data-record-card href="ensembles/dokken.html">Dokken</a>
+<a class="record-card" data-record-card href="ensembles/dream-theater.html">Dream Theater</a>
+<a class="record-card" data-record-card href="ensembles/duke-ellington-orchestra.html">Duke Ellington Orchestra</a>
+<a class="record-card" data-record-card href="ensembles/earth-wind-and-fire.html">Earth Wind &amp; Fire</a>
+<a class="record-card" data-record-card href="ensembles/electric-fusion-circuit.html">electric fusion circuit</a>
+<a class="record-card" data-record-card href="ensembles/electric-light-orchestra.html">Electric Light Orchestra</a>
+<a class="record-card" data-record-card href="ensembles/europe.html">Europe</a>
+<a class="record-card" data-record-card href="ensembles/extreme.html">Extreme</a>
+<a class="record-card" data-record-card href="ensembles/fourplay.html">Fourplay</a>
+<a class="record-card" data-record-card href="ensembles/frank-zappa-band.html">Frank Zappa band</a>
+<a class="record-card" data-record-card href="ensembles/funk-fusion-session.html">funk-fusion session</a>
+<a class="record-card" data-record-card href="ensembles/fusion-shred-circuit.html">fusion shred circuit</a>
+<a class="record-card" data-record-card href="ensembles/genesis.html">Genesis</a>
+<a class="record-card" data-record-card href="ensembles/hard-bop-blues.html">hard-bop blues</a>
+<a class="record-card" data-record-card href="ensembles/helloween-power-metal.html">Helloween - power metal</a>
+<a class="record-card" data-record-card href="ensembles/intervals.html">Intervals</a>
+<a class="record-card" data-record-card href="ensembles/iron-maiden.html">Iron Maiden</a>
+<a class="record-card" data-record-card href="ensembles/jack-bruce-gary-moore-band.html">Jack Bruce-Gary Moore band</a>
+<a class="record-card" data-record-card href="ensembles/james-brown-funk.html">James Brown funk</a>
+<a class="record-card" data-record-card href="ensembles/jazz-funk-fusion.html">jazz-funk fusion</a>
+<a class="record-card" data-record-card href="ensembles/jeff-beck.html">Jeff Beck</a>
+<a class="record-card" data-record-card href="ensembles/jimi-hendrix-experience.html">Jimi Hendrix Experience</a>
+<a class="record-card" data-record-card href="ensembles/joe-satriani-band.html">Joe Satriani band</a>
+<a class="record-card" data-record-card href="ensembles/john-mayer-trio.html">John Mayer Trio</a>
+<a class="record-card" data-record-card href="ensembles/journey.html">Journey</a>
+<a class="record-card" data-record-card href="ensembles/king-crimson.html">King Crimson</a>
+<a class="record-card" data-record-card href="ensembles/king-curtis-aretha.html">King Curtis - Aretha</a>
+<a class="record-card" data-record-card href="ensembles/king-s-x.html">King&#x27;s X</a>
+<a class="record-card" data-record-card href="ensembles/kiss.html">KISS</a>
+<a class="record-card" data-record-card href="ensembles/l-a-fusion-session.html">L.A. fusion - session</a>
+<a class="record-card" data-record-card href="ensembles/l-a-jazz-session.html">L.A. jazz-session</a>
+<a class="record-card" data-record-card href="ensembles/l-a-session-fusion-rock.html">L.A. session - fusion rock</a>
+<a class="record-card" data-record-card href="ensembles/led-zeppelin.html">Led Zeppelin</a>
+<a class="record-card" data-record-card href="ensembles/lee-ritenour-band.html">Lee Ritenour band</a>
+<a class="record-card" data-record-card href="ensembles/liquid-tension-experiment.html">Liquid Tension Experiment</a>
+<a class="record-card" data-record-card href="ensembles/living-colour.html">Living Colour</a>
+<a class="record-card" data-record-card href="ensembles/mahavishnu-shakti.html">Mahavishnu - Shakti</a>
+<a class="record-card" data-record-card href="ensembles/mahavishnu-fusion.html">Mahavishnu fusion</a>
+<a class="record-card" data-record-card href="ensembles/marcus-miller-band.html">Marcus Miller band</a>
+<a class="record-card" data-record-card href="ensembles/mclaughlin-hellborg-orbit.html">McLaughlin - Hellborg orbit</a>
+<a class="record-card" data-record-card href="ensembles/meshuggah-periphery.html">Meshuggah - Periphery</a>
+<a class="record-card" data-record-card href="ensembles/metal-shred.html">metal shred</a>
+<a class="record-card" data-record-card href="ensembles/metallica.html">Metallica</a>
+<a class="record-card" data-record-card href="ensembles/michael-jackson-session-orbit.html">Michael Jackson session orbit</a>
+<a class="record-card" data-record-card href="ensembles/michel-camilo-steve-khan-orbit.html">Michel Camilo - Steve Khan orbit</a>
+<a class="record-card" data-record-card href="ensembles/miles-davis-sting-fusion.html">Miles Davis - Sting fusion</a>
+<a class="record-card" data-record-card href="ensembles/miles-davis-hard-bop-orbit.html">Miles Davis hard-bop orbit</a>
+<a class="record-card" data-record-card href="ensembles/mingus-bands.html">Mingus bands</a>
+<a class="record-card" data-record-card href="ensembles/modal-jazz-reinterpretation.html">modal jazz reinterpretation</a>
+<a class="record-card" data-record-card href="ensembles/modern-blues-rock.html">modern blues-rock</a>
+<a class="record-card" data-record-card href="ensembles/modern-funk-rhythm.html">modern funk rhythm</a>
+<a class="record-card" data-record-card href="ensembles/modern-fusion-dialogue.html">modern fusion dialogue</a>
+<a class="record-card" data-record-card href="ensembles/modern-fusion-virtuoso.html">modern fusion virtuoso</a>
+<a class="record-card" data-record-card href="ensembles/modern-neo-soul.html">modern neo-soul</a>
+<a class="record-card" data-record-card href="ensembles/motown.html">Motown</a>
+<a class="record-card" data-record-card href="ensembles/mr-big.html">Mr. Big</a>
+<a class="record-card" data-record-card href="ensembles/neoclassical-shred.html">neoclassical shred</a>
+<a class="record-card" data-record-card href="ensembles/one-hot-minute.html">One Hot Minute</a>
+<a class="record-card" data-record-card href="ensembles/oscar-peterson-ray-brown.html">Oscar Peterson - Ray Brown</a>
+<a class="record-card" data-record-card href="ensembles/ozzy-osbourne.html">Ozzy Osbourne</a>
+<a class="record-card" data-record-card href="ensembles/p-funk-buckethead.html">P-Funk - Buckethead</a>
+<a class="record-card" data-record-card href="ensembles/parliament-funkadelic.html">Parliament-Funkadelic</a>
+<a class="record-card" data-record-card href="ensembles/pat-metheny-group.html">Pat Metheny Group</a>
+<a class="record-card" data-record-card href="ensembles/peter-gabriel.html">Peter Gabriel</a>
+<a class="record-card" data-record-card href="ensembles/pink-floyd.html">Pink Floyd</a>
+<a class="record-card" data-record-card href="ensembles/planet-x.html">Planet X</a>
+<a class="record-card" data-record-card href="ensembles/plini.html">Plini</a>
+<a class="record-card" data-record-card href="ensembles/polyphia.html">Polyphia</a>
+<a class="record-card" data-record-card href="ensembles/primus.html">Primus</a>
+<a class="record-card" data-record-card href="ensembles/queen.html">Queen</a>
+<a class="record-card" data-record-card href="ensembles/rainbow.html">Rainbow</a>
+<a class="record-card" data-record-card href="ensembles/red-hot-chili-peppers.html">Red Hot Chili Peppers</a>
+<a class="record-card" data-record-card href="ensembles/return-to-forever.html">Return to Forever</a>
+<a class="record-card" data-record-card href="ensembles/robben-ford-band.html">Robben Ford band</a>
+<a class="record-card" data-record-card href="ensembles/rush.html">Rush</a>
+<a class="record-card" data-record-card href="ensembles/santana.html">Santana</a>
+<a class="record-card" data-record-card href="ensembles/scorpions.html">Scorpions</a>
+<a class="record-card" data-record-card href="ensembles/shrapnel-shred.html">Shrapnel shred</a>
+<a class="record-card" data-record-card href="ensembles/sly-and-the-family-stone.html">Sly and the Family Stone</a>
+<a class="record-card" data-record-card href="ensembles/stax.html">Stax</a>
+<a class="record-card" data-record-card href="ensembles/steve-morse-band.html">Steve Morse Band</a>
+<a class="record-card" data-record-card href="ensembles/stevie-ray-vaughan-double-trouble.html">Stevie Ray Vaughan - Double Trouble</a>
+<a class="record-card" data-record-card href="ensembles/stevie-wonder.html">Stevie Wonder</a>
+<a class="record-card" data-record-card href="ensembles/studio-groove.html">studio groove</a>
+<a class="record-card" data-record-card href="ensembles/swing-guitar.html">swing guitar</a>
+<a class="record-card" data-record-card href="ensembles/the-aristocrats.html">The Aristocrats</a>
+<a class="record-card" data-record-card href="ensembles/the-meters.html">The Meters</a>
+<a class="record-card" data-record-card href="ensembles/the-police.html">The Police</a>
+<a class="record-card" data-record-card href="ensembles/the-who.html">The Who</a>
+<a class="record-card" data-record-card href="ensembles/the-winery-dogs.html">The Winery Dogs</a>
+<a class="record-card" data-record-card href="ensembles/thelonious-monk-quartet.html">Thelonious Monk Quartet</a>
+<a class="record-card" data-record-card href="ensembles/thrash-metal-lead.html">thrash metal lead</a>
+<a class="record-card" data-record-card href="ensembles/tool.html">Tool</a>
+<a class="record-card" data-record-card href="ensembles/toto.html">Toto</a>
+<a class="record-card" data-record-card href="ensembles/tribal-tech.html">Tribal Tech</a>
+<a class="record-card" data-record-card href="ensembles/ufo.html">UFO</a>
+<a class="record-card" data-record-card href="ensembles/uzeb-fusion.html">UZEB fusion</a>
+<a class="record-card" data-record-card href="ensembles/van-halen.html">Van Halen</a>
+<a class="record-card" data-record-card href="ensembles/whitesnake.html">Whitesnake</a>
+<a class="record-card" data-record-card href="ensembles/winger.html">Winger</a>
+<a class="record-card" data-record-card href="ensembles/wrecking-crew.html">Wrecking Crew</a>
+<a class="record-card" data-record-card href="ensembles/yellowjackets-blues-fusion.html">Yellowjackets blues-fusion</a>
+<a class="record-card" data-record-card href="ensembles/yes.html">Yes</a>
+<a class="record-card" data-record-card href="ensembles/yngwie-malmsteen.html">Yngwie Malmsteen</a>
+<a class="record-card" data-record-card href="ensembles/zz-top.html">ZZ Top</a>
+      </nav>
+    </main>
+  </div>
+  <script src="site.js"></script>
+</body>
 </html>
