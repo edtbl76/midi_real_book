@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Sly and the Family Stone` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is funk / R&B / psychedelic soul, with the surrounding context of Sly and the Family Stone / Graham Central Station.
+This music lives in the Sly and the Family Stone world: funk / R&B / psychedelic soul. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Sly and the Family Stone / Graham Central Station help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

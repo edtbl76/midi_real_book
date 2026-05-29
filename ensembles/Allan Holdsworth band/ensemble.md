@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Allan Holdsworth band` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is jazz fusion, with the surrounding context of Allan Holdsworth band / Chad Wackerman group.
+This music is centered on Allan Holdsworth band: jazz fusion. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Allan Holdsworth band / Chad Wackerman group, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

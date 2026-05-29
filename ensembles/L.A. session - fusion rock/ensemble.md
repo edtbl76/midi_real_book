@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `L.A. session/fusion rock` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is L.A. fusion / session, with the surrounding context of Vinnie Colaiuta / Jeff Babko orbit.
+This music is centered on L.A. session/fusion rock: L.A. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Vinnie Colaiuta / Jeff Babko orbit, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

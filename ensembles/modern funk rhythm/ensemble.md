@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `modern funk rhythm` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is pop funk / modern funk, with the surrounding context of Level 42 / Vulfpeck orbit.
+This music is centered on modern funk rhythm: pop funk / modern funk. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Level 42 / Vulfpeck orbit, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

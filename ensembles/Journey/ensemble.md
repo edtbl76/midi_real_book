@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Journey` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is AOR / melodic rock, with the surrounding context of Journey.
+This music lives in the Journey world: AOR / melodic rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

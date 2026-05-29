@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Polyphia` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is math rock / progressive rock, with the surrounding context of Polyphia.
+This music lives in the Polyphia world: math rock / progressive rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

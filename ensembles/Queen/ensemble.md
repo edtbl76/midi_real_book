@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Queen` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is classic rock / art rock, with the surrounding context of Queen.
+This music lives in the Queen world: classic rock / art rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

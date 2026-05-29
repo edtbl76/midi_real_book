@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `UFO` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is hard rock / blues rock, with the surrounding context of AC/DC / UFO / Aerosmith.
+This music lives in the UFO world: hard rock / blues rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from AC/DC / UFO / Aerosmith help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

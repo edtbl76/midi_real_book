@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `BLT` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is blues rock / power trio, with the surrounding context of Cream / Jack Bruce-Gary Moore band / BLT.
+This music is centered on BLT: blues rock / power trio. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Cream / Jack Bruce-Gary Moore band / BLT, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

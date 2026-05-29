@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Santana` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is jazz fusion / Latin rock, with the surrounding context of Weather Report / Santana.
+This music lives in the Santana world: jazz fusion / Latin rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Weather Report / Santana help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

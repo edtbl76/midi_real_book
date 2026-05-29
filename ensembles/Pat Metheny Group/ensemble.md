@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Pat Metheny Group` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is jazz fusion, with the surrounding context of Weather Report / Joni Mitchell / Pat Metheny Group.
+This music is centered on Pat Metheny Group: jazz fusion. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Weather Report / Joni Mitchell / Pat Metheny Group, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

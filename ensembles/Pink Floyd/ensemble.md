@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Pink Floyd` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is progressive rock / psychedelic rock, with the surrounding context of Pink Floyd.
+This music lives in the Pink Floyd world: progressive rock / psychedelic rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

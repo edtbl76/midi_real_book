@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Rainbow` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is neoclassical / blues metal / European hard rock, with the surrounding context of Ozzy Osbourne / Rainbow / Scorpions.
+This music is centered on Rainbow: neoclassical / blues metal / European hard rock. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Ozzy Osbourne / Rainbow / Scorpions, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `The Police` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is reggae rock / post-punk, with the surrounding context of The Police.
+This music lives in the The Police world: reggae rock / post-punk. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

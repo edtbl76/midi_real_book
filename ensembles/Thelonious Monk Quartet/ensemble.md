@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Thelonious Monk Quartet` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is bebop / angular hard bop, with the surrounding context of Thelonious Monk Quartet.
+This music lives in the Thelonious Monk Quartet world: bebop / angular hard bop. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

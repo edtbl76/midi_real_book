@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Michel Camilo / Steve Khan orbit` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is modern jazz fusion / session, with the surrounding context of Michel Camilo / Steve Khan orbit.
+This music is centered on Michel Camilo / Steve Khan orbit: modern jazz fusion / session. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. Use the listening list as a map for the feel, tone, and vocabulary.
 
 ## Players
 

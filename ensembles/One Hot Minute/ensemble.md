@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `One Hot Minute` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is funk rock / alternative, with the surrounding context of Red Hot Chili Peppers.
+This music is centered on One Hot Minute: funk rock / alternative. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Red Hot Chili Peppers, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Fourplay` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is session / smooth jazz, with the surrounding context of Fourplay.
+This music lives in the Fourplay world: session / smooth jazz. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

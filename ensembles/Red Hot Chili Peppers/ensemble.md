@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Red Hot Chili Peppers` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is funk rock / alternative, with the surrounding context of Red Hot Chili Peppers.
+This music is centered on Red Hot Chili Peppers: funk rock / alternative. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. Use the listening list as a map for the feel, tone, and vocabulary.
 
 ## Players
 

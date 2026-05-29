@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `King Curtis / Aretha` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is soul / R&B / studio groove, with the surrounding context of Aretha Franklin / King Curtis / Steely Dan.
+This music lives in the King Curtis / Aretha world: soul / R&B / studio groove. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Aretha Franklin / King Curtis / Steely Dan help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

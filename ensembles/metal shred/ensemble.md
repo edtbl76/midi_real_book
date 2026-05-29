@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `metal shred` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is neoclassical shred / metal shred, with the surrounding context of Yngwie Malmsteen / Europe.
+This music is centered on metal shred: neoclassical shred / metal shred. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Yngwie Malmsteen / Europe, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

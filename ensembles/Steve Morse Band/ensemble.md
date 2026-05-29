@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Steve Morse Band` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is fusion rock / progressive bluegrass, with the surrounding context of Dixie Dregs / Steve Morse Band.
+This music lives in the Steve Morse Band world: fusion rock / progressive bluegrass. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Dixie Dregs / Steve Morse Band help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

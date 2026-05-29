@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Animals as Leaders` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is extended range / technical metal, with the surrounding context of Animals as Leaders / The Faceless.
+This music lives in the Animals as Leaders world: extended range / technical metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Animals as Leaders / The Faceless help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

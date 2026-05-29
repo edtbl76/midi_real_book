@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `abstract fusion` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is jazz fusion / funk fusion, with the surrounding context of Tribal Tech.
+This music is centered on abstract fusion: jazz fusion / funk fusion. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Tribal Tech, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

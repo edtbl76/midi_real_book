@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Ozzy Osbourne` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal, with the surrounding context of Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
+This music lives in the Ozzy Osbourne world: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

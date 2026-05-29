@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `John Mayer Trio` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is soul / neo-soul, with the surrounding context of D'Angelo / John Mayer Trio.
+This music is centered on John Mayer Trio: soul / neo-soul. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is D'Angelo / John Mayer Trio, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Meshuggah / Periphery` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is extreme progressive metal / polymetric metal / djent, with the surrounding context of Meshuggah / Periphery.
+This music is centered on Meshuggah / Periphery: extreme progressive metal / polymetric metal / djent. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. Use the listening list as a map for the feel, tone, and vocabulary.
 
 ## Players
 

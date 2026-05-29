@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Michael Jackson session orbit` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is disco funk / pop funk, with the surrounding context of Chic / Michael Jackson session orbit.
+This music is centered on Michael Jackson session orbit: disco funk / pop funk. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Chic / Michael Jackson session orbit, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `jazz-funk fusion` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is jazz fusion / funk / bluegrass-fusion, with the surrounding context of Bela Fleck and the Flecktones / Vital Tech Tones.
+This music is centered on jazz-funk fusion: jazz fusion / funk / bluegrass-fusion. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Bela Fleck and the Flecktones / Vital Tech Tones, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

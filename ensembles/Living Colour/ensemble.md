@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Living Colour` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is heavy funk / alternative metal, with the surrounding context of King's X / Extreme / Living Colour.
+This music lives in the Living Colour world: heavy funk / alternative metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from King's X / Extreme / Living Colour help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

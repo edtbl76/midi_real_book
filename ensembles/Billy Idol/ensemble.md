@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Billy Idol` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is hard rock / arena rock, with the surrounding context of Van Halen / Billy Idol.
+This music is centered on Billy Idol: hard rock / arena rock. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Van Halen / Billy Idol, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

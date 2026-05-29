@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `studio groove` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is soul / R&B / studio groove, with the surrounding context of Aretha Franklin / King Curtis / Steely Dan.
+This music is centered on studio groove: soul / R&B / studio groove. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Aretha Franklin / King Curtis / Steely Dan, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

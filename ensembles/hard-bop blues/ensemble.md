@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `hard-bop blues` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is modern jazz / hard bop / blues, with the surrounding context of Mingus bands.
+This music is centered on hard-bop blues: modern jazz / hard bop / blues. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Mingus bands, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

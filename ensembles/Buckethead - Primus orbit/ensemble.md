@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Buckethead / Primus orbit` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is avant-garde / punk-funk, with the surrounding context of Primus.
+This music is centered on Buckethead / Primus orbit: avant-garde / punk-funk. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Primus, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

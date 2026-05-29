@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Van Halen` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is hard rock / arena rock, with the surrounding context of Van Halen / Billy Idol.
+This music lives in the Van Halen world: hard rock / arena rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Van Halen / Billy Idol help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

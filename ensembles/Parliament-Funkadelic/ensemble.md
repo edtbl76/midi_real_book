@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Parliament-Funkadelic` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is funk, with the surrounding context of Parliament-Funkadelic.
+This music is centered on Parliament-Funkadelic: funk. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. Use the listening list as a map for the feel, tone, and vocabulary.
 
 ## Players
 

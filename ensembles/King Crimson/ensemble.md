@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `King Crimson` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is art rock / progressive metal / experimental rock, with the surrounding context of Liquid Tension Experiment / King Crimson / Peter Gabriel.
+This music lives in the King Crimson world: art rock / progressive metal / experimental rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Liquid Tension Experiment / King Crimson / Peter Gabriel help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

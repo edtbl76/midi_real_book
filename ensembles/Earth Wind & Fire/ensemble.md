@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Earth Wind & Fire` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is funk / soul / R&B, with the surrounding context of Earth Wind & Fire.
+This music lives in the Earth Wind & Fire world: funk / soul / R&B. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

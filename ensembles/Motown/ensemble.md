@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Motown` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is soul / R&B, with the surrounding context of Motown / Stax.
+This music is centered on Motown: soul / R&B. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Motown / Stax, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Stevie Wonder` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is soul / funk / pop, with the surrounding context of Stevie Wonder.
+This music lives in the Stevie Wonder world: soul / funk / pop. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

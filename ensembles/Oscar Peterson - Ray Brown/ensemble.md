@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Oscar Peterson / Ray Brown` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is swing / bebop / big band, with the surrounding context of Oscar Peterson Trio / Buddy Rich big band.
+This music lives in the Oscar Peterson / Ray Brown world: swing / bebop / big band. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Oscar Peterson Trio / Buddy Rich big band help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

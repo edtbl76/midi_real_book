@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Stevie Ray Vaughan / Double Trouble` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is Texas blues rock, with the surrounding context of Stevie Ray Vaughan / Arc Angels.
+This music lives in the Stevie Ray Vaughan / Double Trouble world: Texas blues rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Stevie Ray Vaughan / Arc Angels help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

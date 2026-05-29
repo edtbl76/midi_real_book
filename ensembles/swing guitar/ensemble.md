@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `swing guitar` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is swing / bebop / big band, with the surrounding context of Oscar Peterson Trio / Buddy Rich big band.
+This music is centered on swing guitar: swing / bebop / big band. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Oscar Peterson Trio / Buddy Rich big band, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

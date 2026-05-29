@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Planet X` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is jazz fusion / session, with the surrounding context of Planet X / session fusion.
+This music lives in the Planet X world: jazz fusion / session. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Planet X / session fusion help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

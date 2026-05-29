@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `modern blues-rock` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is Texas blues rock / modern blues rock, with the surrounding context of ZZ Top / Texas blues orbit.
+This music is centered on modern blues-rock: Texas blues rock / modern blues rock. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is ZZ Top / Texas blues orbit, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

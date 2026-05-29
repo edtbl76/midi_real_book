@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Buckethead / Bozzio orbit` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is avant-garde / solo bass, with the surrounding context of Buckethead / Bozzio orbit.
+This music is centered on Buckethead / Bozzio orbit: avant-garde / solo bass. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. Use the listening list as a map for the feel, tone, and vocabulary.
 
 ## Players
 

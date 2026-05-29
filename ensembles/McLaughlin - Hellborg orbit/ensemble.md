@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `McLaughlin / Hellborg orbit` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is avant-garde jazz fusion, with the surrounding context of McLaughlin / Hellborg / Shakti orbit.
+This music is centered on McLaughlin / Hellborg orbit: avant-garde jazz fusion. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is McLaughlin / Hellborg / Shakti orbit, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

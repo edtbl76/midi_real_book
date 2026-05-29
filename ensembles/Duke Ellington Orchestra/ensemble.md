@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Duke Ellington Orchestra` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is swing / big band / piano-led ensemble, with the surrounding context of Duke Ellington Orchestra.
+This music lives in the Duke Ellington Orchestra world: swing / big band / piano-led ensemble. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Yellowjackets blues-fusion` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is jazz fusion / blues fusion, with the surrounding context of Yellowjackets.
+This music lives in the Yellowjackets blues-fusion world: jazz fusion / blues fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Yellowjackets help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

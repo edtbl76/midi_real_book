@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Miles Davis hard-bop orbit` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is hard bop / blues / soul jazz, with the surrounding context of Miles Davis Quintet / Jazz Messengers.
+This music is centered on Miles Davis hard-bop orbit: hard bop / blues / soul jazz. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Miles Davis Quintet / Jazz Messengers, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Miles Davis / Sting fusion` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is jazz-pop / fusion / session, with the surrounding context of Sting / Miles Davis.
+This music is centered on Miles Davis / Sting fusion: jazz-pop / fusion / session. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Sting / Miles Davis, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

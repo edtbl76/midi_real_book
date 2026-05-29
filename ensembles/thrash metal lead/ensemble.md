@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `thrash metal lead` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is thrash metal, with the surrounding context of Metallica.
+This music is centered on thrash metal lead: thrash metal. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Metallica, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

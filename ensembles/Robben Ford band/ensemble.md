@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Robben Ford band` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is blues / Texas rock / blues fusion, with the surrounding context of Robben Ford band / Austin blues orbit.
+This music lives in the Robben Ford band world: blues / Texas rock / blues fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Robben Ford band / Austin blues orbit help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

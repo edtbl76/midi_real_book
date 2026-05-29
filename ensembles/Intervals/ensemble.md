@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Intervals` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is progressive fusion, with the surrounding context of Plini / Intervals orbit.
+This music lives in the Intervals world: progressive fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Plini / Intervals orbit help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

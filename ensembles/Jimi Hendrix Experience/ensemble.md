@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Jimi Hendrix Experience` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is psychedelic rock / power trio, with the surrounding context of Jimi Hendrix Experience.
+This music lives in the Jimi Hendrix Experience world: psychedelic rock / power trio. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
 ## Players
 

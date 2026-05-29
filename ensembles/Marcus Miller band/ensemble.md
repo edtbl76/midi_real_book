@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Marcus Miller band` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is jazz fusion / funk, with the surrounding context of Miles Davis / David Sanborn / Marcus Miller band.
+This music lives in the Marcus Miller band world: jazz fusion / funk. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Miles Davis / David Sanborn / Marcus Miller band help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `electric fusion circuit` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is fretless jazz fusion / electric fusion circuit, with the surrounding context of UZEB.
+This music is centered on electric fusion circuit: fretless jazz fusion / electric fusion circuit. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is UZEB, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 

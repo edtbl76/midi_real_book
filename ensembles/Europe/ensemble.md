@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `Europe` pairing label, focusing on the band or collaborator lane that connects the listed players. The target idiom is 80s hard rock / melodic metal, with the surrounding context of Dokken / Winger / Europe.
+This music lives in the Europe world: 80s hard rock / melodic metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Dokken / Winger / Europe help frame the vocabulary and show how this kind of ensemble moves.
 
 ## Players
 

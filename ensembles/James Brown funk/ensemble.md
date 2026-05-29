@@ -2,7 +2,7 @@
 
 ## Pairing Context
 
-This ensemble represents the `James Brown funk` pairing label, a stylistic study lane built from the row context rather than a single fixed band. The target idiom is funk / R&B, with the surrounding context of Brothers Johnson / James Brown / Quincy Jones.
+This music is centered on James Brown funk: funk / R&B. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Brothers Johnson / James Brown / Quincy Jones, which gives you a map for the feel, tone, and vocabulary.
 
 ## Players
 
