@@ -18,20 +18,20 @@ This music lives in the Metallica world: thrash metal. Listen for how the player
 
 ## Cliff Burton
 
-Cliff Burton is the bass voice for the `Metallica` pairing label. In the local ranking corpus, Cliff Burton is treated as a virtuoso bassist because of melodic thrash vocabulary, distortion-led lead-bass ideas, speed. Their core style vocabulary is thrash metal, heavy metal; in this ensemble, that vocabulary is being aimed at thrash metal inside the broader Metallica lane.
+Cliff Burton is a bassist associated with thrash metal, heavy metal. Musically, the important traits here are melodic thrash vocabulary, distortion-led lead-bass ideas, speed. In this ensemble, that language is pointed toward thrash metal, with Metallica as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Metallica | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Metallica | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Cliff Burton is the bass voice for the `Metallica` pairing label. In the local r
 
 ## James Hetfield
 
-James Hetfield is the guitar voice for the `Metallica` pairing label. In the local ranking corpus, James Hetfield is treated as a still damn good guitarist because of rhythm guitar mastery, down-picked thrash precision, palm-muted power. Their core style vocabulary is thrash metal, heavy metal; in this ensemble, that vocabulary is being aimed at thrash metal inside the broader Metallica lane.
+James Hetfield is a guitarist associated with thrash metal, heavy metal. Musically, the important traits here are rhythm guitar mastery, down-picked thrash precision, palm-muted power. In this ensemble, that language is pointed toward thrash metal, with Metallica as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Metallica | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Metallica | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ James Hetfield is the guitar voice for the `Metallica` pairing label. In the loc
 
 ## Kirk Hammett
 
-Kirk Hammett is the guitar voice for the `Metallica` pairing label. In the local ranking corpus, Kirk Hammett is treated as an everyone-else guitarist because of wah-filtered metal lead, pentatonic thrash vocabulary. Their core style vocabulary is thrash metal, heavy metal; in this ensemble, that vocabulary is being aimed at thrash metal inside the broader Metallica lane.
+Kirk Hammett is a guitarist associated with thrash metal, heavy metal. Musically, the important traits here are wah-filtered metal lead, pentatonic thrash vocabulary. In this ensemble, that language is pointed toward thrash metal, with Metallica as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Metallica | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Metallica | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Kirk Hammett is the guitar voice for the `Metallica` pairing label. In the local
 
 ## Marty Friedman
 
-Marty Friedman is the guitar voice for the `Metallica` pairing label. In the local ranking corpus, Marty Friedman is treated as a virtuoso guitarist because of exotic scale vocabulary, neoclassical phrasing, wide-interval melodic lines, vibrato precision. Their core style vocabulary is neoclassical metal, rock, J-rock influenced; in this ensemble, that vocabulary is being aimed at thrash metal inside the broader Metallica lane.
+Marty Friedman is a guitarist associated with neoclassical metal, rock, J-rock influenced. Musically, the important traits here are exotic scale vocabulary, neoclassical phrasing, wide-interval melodic lines, vibrato precision. In this ensemble, that language is pointed toward thrash metal, with Metallica as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Metallica | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Metallica | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Marty Friedman is the guitar voice for the `Metallica` pairing label. In the loc
 
 ## Lars Ulrich
 
-Lars Ulrich appears here as the drums voice for the `Metallica` pairing label. In this ensemble context, the important traits are the player's role in thrash metal, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Metallica lane.
+Lars Ulrich is a drummer whose playing helps shape this music. Listen for how the drum part affects thrash metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Metallica.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Metallica | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Metallica | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

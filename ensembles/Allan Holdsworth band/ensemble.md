@@ -16,20 +16,20 @@ This music is centered on Allan Holdsworth band: jazz fusion. Listen for the mus
 
 ## Jimmy Johnson
 
-Jimmy Johnson is the bass voice for the `Allan Holdsworth band` pairing label. In the local ranking corpus, Jimmy Johnson is treated as a virtuoso bassist because of refined fusion support and wide-register melodic control. Their core style vocabulary is jazz fusion, fusion; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader Allan Holdsworth band / Chad Wackerman group lane.
+Jimmy Johnson is a bassist associated with jazz fusion, fusion. Musically, the important traits here are refined fusion support and wide-register melodic control. In this ensemble, that language is pointed toward jazz fusion, with Allan Holdsworth band / Chad Wackerman group as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Allan Holdsworth band | [Wikipedia][allan-holdsworth-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Allan Holdsworth band / Chad Wackerman group | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Allan Holdsworth band | [Wikipedia][allan-holdsworth-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Allan Holdsworth band / Chad Wackerman group | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ Jimmy Johnson is the bass voice for the `Allan Holdsworth band` pairing label. I
 
 ## Allan Holdsworth
 
-Allan Holdsworth is the guitar voice for the `Allan Holdsworth band` pairing label. In the local ranking corpus, Allan Holdsworth is treated as a virtuoso guitarist because of legato fusion language, advanced harmony, intervallic command. Their core style vocabulary is jazz fusion, prog fusion, avant-garde jazz-rock; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader Allan Holdsworth band / Chad Wackerman group lane.
+Allan Holdsworth is a guitarist associated with jazz fusion, prog fusion, avant-garde jazz-rock. Musically, the important traits here are legato fusion language, advanced harmony, intervallic command. In this ensemble, that language is pointed toward jazz fusion, with Allan Holdsworth band / Chad Wackerman group as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Allan Holdsworth band | [Wikipedia][allan-holdsworth-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Allan Holdsworth band / Chad Wackerman group | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Allan Holdsworth band | [Wikipedia][allan-holdsworth-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Allan Holdsworth band / Chad Wackerman group | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Allan Holdsworth is the guitar voice for the `Allan Holdsworth band` pairing lab
 
 ## Chad Wackerman
 
-Chad Wackerman appears here as the drums voice for the `Allan Holdsworth band` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Allan Holdsworth band / Chad Wackerman group lane.
+Chad Wackerman is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Allan Holdsworth band / Chad Wackerman group.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Allan Holdsworth band | [Wikipedia][allan-holdsworth-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Allan Holdsworth band / Chad Wackerman group | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Allan Holdsworth band | [Wikipedia][allan-holdsworth-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Allan Holdsworth band / Chad Wackerman group | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

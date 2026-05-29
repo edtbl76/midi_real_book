@@ -17,20 +17,20 @@ This music lives in the Jeff Beck world: fusion rock / instrumental rock. Listen
 
 ## Tal Wilkenfeld
 
-Tal Wilkenfeld is the bass voice for the `Jeff Beck` pairing label. In the local ranking corpus, Tal Wilkenfeld is treated as a virtuoso bassist because of melodic fusion-rock bass, dynamic interaction, soloistic fills, strong pocket under expressive guitar. Their core style vocabulary is fusion rock, instrumental rock, jazz fusion; in this ensemble, that vocabulary is being aimed at fusion rock / instrumental rock inside the broader Jeff Beck lane.
+Tal Wilkenfeld is a bassist associated with fusion rock, instrumental rock, jazz fusion. Musically, the important traits here are melodic fusion-rock bass, dynamic interaction, soloistic fills, strong pocket under expressive guitar. In this ensemble, that language is pointed toward fusion rock / instrumental rock, with Jeff Beck as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Jeff Beck | [Wikipedia][jeff-beck-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Jeff Beck | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Jeff Beck | [Wikipedia][jeff-beck-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Jeff Beck | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Tal Wilkenfeld is the bass voice for the `Jeff Beck` pairing label. In the local
 
 ## Jeff Beck
 
-Jeff Beck is the guitar voice for the `Jeff Beck` pairing label. In the local ranking corpus, Jeff Beck is treated as a virtuoso guitarist because of whammy-bar as melodic instrument, volume-knob legato, idiosyncratic high-control technique. Their core style vocabulary is rock, jazz fusion, blues-rock; in this ensemble, that vocabulary is being aimed at fusion rock / instrumental rock inside the broader Jeff Beck lane.
+Jeff Beck is a guitarist associated with rock, jazz fusion, blues-rock. Musically, the important traits here are whammy-bar as melodic instrument, volume-knob legato, idiosyncratic high-control technique. In this ensemble, that language is pointed toward fusion rock / instrumental rock, with Jeff Beck as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Jeff Beck | [Wikipedia][jeff-beck-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Jeff Beck | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Jeff Beck | [Wikipedia][jeff-beck-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Jeff Beck | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Jeff Beck is the guitar voice for the `Jeff Beck` pairing label. In the local ra
 
 ## Simon Phillips
 
-Simon Phillips appears here as the drums voice for the `Jeff Beck` pairing label. In this ensemble context, the important traits are the player's role in fusion rock / instrumental rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Jeff Beck lane.
+Simon Phillips is a drummer whose playing helps shape this music. Listen for how the drum part affects fusion rock / instrumental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Jeff Beck.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Jeff Beck | [Wikipedia][jeff-beck-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Jeff Beck | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Jeff Beck | [Wikipedia][jeff-beck-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Jeff Beck | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Simon Phillips appears here as the drums voice for the `Jeff Beck` pairing label
 
 ## Jan Hammer
 
-Jan Hammer appears here as the keyboards voice for the `Jeff Beck` pairing label. In this ensemble context, the important traits are the player's role in fusion rock / instrumental rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Jeff Beck lane.
+Jan Hammer is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects fusion rock / instrumental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Jeff Beck.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Jeff Beck | [Wikipedia][jeff-beck-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Jeff Beck | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Jeff Beck | [Wikipedia][jeff-beck-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Jeff Beck | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

@@ -17,20 +17,20 @@ This music lives in the The Winery Dogs world: melodic hard rock. Listen for how
 
 ## Marco Mendoza
 
-Marco Mendoza is the bass voice for the `The Winery Dogs` pairing label. In the local ranking corpus, Marco Mendoza is treated as an everyone-else bassist because of hard-rock power-trio facility with funk/Latin undertones. Their core style vocabulary is hard rock, funk, Latin rock; in this ensemble, that vocabulary is being aimed at melodic hard rock inside the broader The Winery Dogs / Whitesnake lane.
+Marco Mendoza is a bassist associated with hard rock, funk, Latin rock. Musically, the important traits here are hard-rock power-trio facility with funk/Latin undertones. In this ensemble, that language is pointed toward melodic hard rock, with The Winery Dogs / Whitesnake as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Winery Dogs | [Wikipedia][the-winery-dogs-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Winery Dogs / Whitesnake | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Winery Dogs | [Wikipedia][the-winery-dogs-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Winery Dogs / Whitesnake | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Marco Mendoza is the bass voice for the `The Winery Dogs` pairing label. In the 
 
 ## Richie Kotzen
 
-Richie Kotzen is the guitar voice for the `The Winery Dogs` pairing label. In the local ranking corpus, Richie Kotzen is treated as a virtuoso guitarist because of hybrid picking mastery, legato-picked integration, vocal phrasing precision, pentatonic/fusion fluency. Their core style vocabulary is rock, blues-rock, fusion; in this ensemble, that vocabulary is being aimed at melodic hard rock inside the broader The Winery Dogs / Whitesnake lane.
+Richie Kotzen is a guitarist associated with rock, blues-rock, fusion. Musically, the important traits here are hybrid picking mastery, legato-picked integration, vocal phrasing precision, pentatonic/fusion fluency. In this ensemble, that language is pointed toward melodic hard rock, with The Winery Dogs / Whitesnake as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Winery Dogs | [Wikipedia][the-winery-dogs-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Winery Dogs / Whitesnake | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Winery Dogs | [Wikipedia][the-winery-dogs-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Winery Dogs / Whitesnake | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Richie Kotzen is the guitar voice for the `The Winery Dogs` pairing label. In th
 
 ## John Sykes
 
-John Sykes is the guitar voice for the `The Winery Dogs` pairing label. In the local ranking corpus, John Sykes is treated as a still damn good guitarist because of melodic hard rock lead, vibrato mastery, legato-influenced phrasing. Their core style vocabulary is hard rock, melodic metal; in this ensemble, that vocabulary is being aimed at melodic hard rock inside the broader The Winery Dogs / Whitesnake lane.
+John Sykes is a guitarist associated with hard rock, melodic metal. Musically, the important traits here are melodic hard rock lead, vibrato mastery, legato-influenced phrasing. In this ensemble, that language is pointed toward melodic hard rock, with The Winery Dogs / Whitesnake as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Winery Dogs | [Wikipedia][the-winery-dogs-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Winery Dogs / Whitesnake | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Winery Dogs | [Wikipedia][the-winery-dogs-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Winery Dogs / Whitesnake | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ John Sykes is the guitar voice for the `The Winery Dogs` pairing label. In the l
 
 ## Tommy Aldridge
 
-Tommy Aldridge appears here as the drums voice for the `The Winery Dogs` pairing label. In this ensemble context, the important traits are the player's role in melodic hard rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader The Winery Dogs / Whitesnake lane.
+Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how the drum part affects melodic hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is The Winery Dogs / Whitesnake.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Winery Dogs | [Wikipedia][the-winery-dogs-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Winery Dogs / Whitesnake | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Winery Dogs | [Wikipedia][the-winery-dogs-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Winery Dogs / Whitesnake | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

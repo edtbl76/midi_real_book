@@ -18,20 +18,20 @@ This music lives in the The Meters world: New Orleans funk / second-line. Listen
 
 ## George Porter Jr.
 
-George Porter Jr. is the bass voice for the `The Meters` pairing label. In the local ranking corpus, George Porter Jr. is treated as an everyone-else bassist because of New Orleans funk pocket, syncopated repetition, understated melodic movement, second-line bass logic. Their core style vocabulary is New Orleans funk, funk, R&B; in this ensemble, that vocabulary is being aimed at New Orleans funk / second-line inside the broader The Meters lane.
+George Porter Jr. is a bassist associated with New Orleans funk, funk, R&B. Musically, the important traits here are New Orleans funk pocket, syncopated repetition, understated melodic movement, second-line bass logic. In this ensemble, that language is pointed toward New Orleans funk / second-line, with The Meters as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Meters | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Meters | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ George Porter Jr. is the bass voice for the `The Meters` pairing label. In the l
 
 ## Leo Nocentelli
 
-Leo Nocentelli is the guitar voice for the `The Meters` pairing label. In the local ranking corpus, Leo Nocentelli is treated as a still damn good guitarist because of New Orleans funk rhythm, second-line syncopation, economical single-note and chordal groove. Their core style vocabulary is New Orleans funk, funk, R&B; in this ensemble, that vocabulary is being aimed at New Orleans funk / second-line inside the broader The Meters lane.
+Leo Nocentelli is a guitarist associated with New Orleans funk, funk, R&B. Musically, the important traits here are New Orleans funk rhythm, second-line syncopation, economical single-note and chordal groove. In this ensemble, that language is pointed toward New Orleans funk / second-line, with The Meters as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Meters | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Meters | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Leo Nocentelli is the guitar voice for the `The Meters` pairing label. In the lo
 
 ## Zigaboo Modeliste
 
-Zigaboo Modeliste appears here as the drums voice for the `The Meters` pairing label. In this ensemble context, the important traits are the player's role in New Orleans funk / second-line, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader The Meters lane.
+Zigaboo Modeliste is a drummer whose playing helps shape this music. Listen for how the drum part affects New Orleans funk / second-line: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is The Meters.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Meters | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Meters | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Zigaboo Modeliste appears here as the drums voice for the `The Meters` pairing l
 
 ## Art Neville
 
-Art Neville appears here as the keyboards voice for the `The Meters` pairing label. In this ensemble context, the important traits are the player's role in New Orleans funk / second-line, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader The Meters lane.
+Art Neville is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects New Orleans funk / second-line: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is The Meters.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Meters | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Meters | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Art Neville appears here as the keyboards voice for the `The Meters` pairing lab
 
 ## Charles Neville
 
-Charles Neville appears here as the saxophone voice for the `The Meters` pairing label. In this ensemble context, the important traits are the player's role in New Orleans funk / second-line, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader The Meters lane.
+Charles Neville is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects New Orleans funk / second-line: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is The Meters.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Meters | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Meters | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

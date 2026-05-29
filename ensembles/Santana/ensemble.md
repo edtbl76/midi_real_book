@@ -19,20 +19,20 @@ This music lives in the Santana world: jazz fusion / Latin rock. Listen for how 
 
 ## Alphonso Johnson
 
-Alphonso Johnson is the bass voice for the `Santana` pairing label. In the local ranking corpus, Alphonso Johnson is treated as a virtuoso bassist because of fretless/electric jazz-fusion lyricism and technical fluency. Their core style vocabulary is jazz fusion, fusion, rock; in this ensemble, that vocabulary is being aimed at jazz fusion / Latin rock inside the broader Weather Report / Santana lane.
+Alphonso Johnson is a bassist associated with jazz fusion, fusion, rock. Musically, the important traits here are fretless/electric jazz-fusion lyricism and technical fluency. In this ensemble, that language is pointed toward jazz fusion / Latin rock, with Weather Report / Santana as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Santana | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Santana | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Alphonso Johnson is the bass voice for the `Santana` pairing label. In the local
 
 ## Carlos Santana
 
-Carlos Santana is the guitar voice for the `Santana` pairing label. In the local ranking corpus, Carlos Santana is treated as an everyone-else guitarist because of legato-sustained tone mastery, blues-Latin fusion phrasing. Their core style vocabulary is Latin rock, blues-rock, fusion; in this ensemble, that vocabulary is being aimed at jazz fusion / Latin rock inside the broader Weather Report / Santana lane.
+Carlos Santana is a guitarist associated with Latin rock, blues-rock, fusion. Musically, the important traits here are legato-sustained tone mastery, blues-Latin fusion phrasing. In this ensemble, that language is pointed toward jazz fusion / Latin rock, with Weather Report / Santana as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Santana | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Santana | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Carlos Santana is the guitar voice for the `Santana` pairing label. In the local
 
 ## Alex Acuna
 
-Alex Acuna appears here as the drums voice for the `Santana` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / Latin rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Weather Report / Santana lane.
+Alex Acuna is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / Latin rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Weather Report / Santana.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Santana | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Santana | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Alex Acuna appears here as the drums voice for the `Santana` pairing label. In t
 
 ## Joe Zawinul
 
-Joe Zawinul appears here as the keyboards voice for the `Santana` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / Latin rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Weather Report / Santana lane.
+Joe Zawinul is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion / Latin rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Weather Report / Santana.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Santana | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Santana | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Joe Zawinul appears here as the keyboards voice for the `Santana` pairing label.
 
 ## Wayne Shorter
 
-Wayne Shorter appears here as the saxophone voice for the `Santana` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / Latin rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Weather Report / Santana lane.
+Wayne Shorter is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz fusion / Latin rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Weather Report / Santana.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Santana | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Santana | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Wayne Shorter appears here as the saxophone voice for the `Santana` pairing labe
 
 ## Manolo Badrena
 
-Manolo Badrena appears here as the percussion voice for the `Santana` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / Latin rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Weather Report / Santana lane.
+Manolo Badrena is a percussionist whose playing helps shape this music. Listen for how the percussion part affects jazz fusion / Latin rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Weather Report / Santana.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Santana | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Santana | [Wikipedia][santana-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Santana | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Percussion | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Percussion | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

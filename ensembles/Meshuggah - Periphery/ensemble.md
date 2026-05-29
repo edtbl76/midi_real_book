@@ -16,20 +16,20 @@ This music is centered on Meshuggah / Periphery: extreme progressive metal / pol
 
 ## Dick Lövgren
 
-Dick Lövgren is the bass voice for the `Meshuggah / Periphery` pairing label. In the local ranking corpus, Dick Lövgren is treated as a virtuoso bassist because of extreme progressive-metal precision, polymetric low-end support, endurance under dense guitar/drum grids. Their core style vocabulary is extreme progressive metal, djent, technical metal; in this ensemble, that vocabulary is being aimed at extreme progressive metal / polymetric metal / djent inside the broader Meshuggah / Periphery lane.
+Dick Lövgren is a bassist associated with extreme progressive metal, djent, technical metal. Musically, the important traits here are extreme progressive-metal precision, polymetric low-end support, endurance under dense guitar/drum grids. In this ensemble, that language is pointed toward extreme progressive metal / polymetric metal / djent, with Meshuggah / Periphery as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Meshuggah / Periphery | [Wikipedia][meshuggah-periphery-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Meshuggah / Periphery | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Meshuggah / Periphery | [Wikipedia][meshuggah-periphery-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Meshuggah / Periphery | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ Dick Lövgren is the bass voice for the `Meshuggah / Periphery` pairing label. I
 
 ## Misha Mansoor
 
-Misha Mansoor is the guitar voice for the `Meshuggah / Periphery` pairing label. In the local ranking corpus, Misha Mansoor is treated as a still damn good guitarist because of 8-string djent rhythm architecture, polyrhythmic riff construction, precision at speed. Their core style vocabulary is progressive metal, djent; in this ensemble, that vocabulary is being aimed at extreme progressive metal / polymetric metal / djent inside the broader Meshuggah / Periphery lane.
+Misha Mansoor is a guitarist associated with progressive metal, djent. Musically, the important traits here are 8-string djent rhythm architecture, polyrhythmic riff construction, precision at speed. In this ensemble, that language is pointed toward extreme progressive metal / polymetric metal / djent, with Meshuggah / Periphery as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Meshuggah / Periphery | [Wikipedia][meshuggah-periphery-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Meshuggah / Periphery | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Meshuggah / Periphery | [Wikipedia][meshuggah-periphery-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Meshuggah / Periphery | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Misha Mansoor is the guitar voice for the `Meshuggah / Periphery` pairing label.
 
 ## Tomas Haake
 
-Tomas Haake appears here as the drums voice for the `Meshuggah / Periphery` pairing label. In this ensemble context, the important traits are the player's role in extreme progressive metal / polymetric metal / djent, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Meshuggah / Periphery lane.
+Tomas Haake is a drummer whose playing helps shape this music. Listen for how the drum part affects extreme progressive metal / polymetric metal / djent: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Meshuggah / Periphery.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Meshuggah / Periphery | [Wikipedia][meshuggah-periphery-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Meshuggah / Periphery | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Meshuggah / Periphery | [Wikipedia][meshuggah-periphery-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Meshuggah / Periphery | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

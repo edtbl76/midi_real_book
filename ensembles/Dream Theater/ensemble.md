@@ -17,20 +17,20 @@ This music lives in the Dream Theater world: progressive metal. Listen for how t
 
 ## John Myung
 
-John Myung is the bass voice for the `Dream Theater` pairing label. In the local ranking corpus, John Myung is treated as a virtuoso bassist because of progressive-metal precision, endurance, complex subdivision control. Their core style vocabulary is progressive metal, hard rock; in this ensemble, that vocabulary is being aimed at progressive metal inside the broader Dream Theater lane.
+John Myung is a bassist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal precision, endurance, complex subdivision control. In this ensemble, that language is pointed toward progressive metal, with Dream Theater as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dream Theater | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dream Theater | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ John Myung is the bass voice for the `Dream Theater` pairing label. In the local
 
 ## John Petrucci
 
-John Petrucci is the guitar voice for the `Dream Theater` pairing label. In the local ranking corpus, John Petrucci is treated as a virtuoso guitarist because of progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. Their core style vocabulary is progressive metal, hard rock; in this ensemble, that vocabulary is being aimed at progressive metal inside the broader Dream Theater lane.
+John Petrucci is a guitarist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. In this ensemble, that language is pointed toward progressive metal, with Dream Theater as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dream Theater | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dream Theater | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ John Petrucci is the guitar voice for the `Dream Theater` pairing label. In the 
 
 ## Mike Portnoy
 
-Mike Portnoy appears here as the drums voice for the `Dream Theater` pairing label. In this ensemble context, the important traits are the player's role in progressive metal, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Dream Theater lane.
+Mike Portnoy is a drummer whose playing helps shape this music. Listen for how the drum part affects progressive metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dream Theater.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dream Theater | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dream Theater | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Mike Portnoy appears here as the drums voice for the `Dream Theater` pairing lab
 
 ## Jordan Rudess
 
-Jordan Rudess appears here as the keyboards voice for the `Dream Theater` pairing label. In this ensemble context, the important traits are the player's role in progressive metal, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Dream Theater lane.
+Jordan Rudess is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects progressive metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dream Theater.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dream Theater | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dream Theater | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

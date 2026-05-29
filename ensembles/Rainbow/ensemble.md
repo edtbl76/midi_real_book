@@ -20,20 +20,20 @@ This music is centered on Rainbow: neoclassical / blues metal / European hard ro
 
 ## Bob Daisley
 
-Bob Daisley is the bass voice for the `Rainbow` pairing label. In the local ranking corpus, Bob Daisley is treated as an everyone-else bassist because of classic hard-rock/neoclassical support and melodic fills. Their core style vocabulary is hard rock, heavy metal; in this ensemble, that vocabulary is being aimed at neoclassical / blues metal / European hard rock inside the broader Ozzy Osbourne / Rainbow / Scorpions lane.
+Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the important traits here are classic hard-rock/neoclassical support and melodic fills. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -52,20 +52,20 @@ Bob Daisley is the bass voice for the `Rainbow` pairing label. In the local rank
 
 ## Randy Rhoads
 
-Randy Rhoads is the guitar voice for the `Rainbow` pairing label. In the local ranking corpus, Randy Rhoads is treated as a virtuoso guitarist because of neoclassical shred precision, classical training, sweep arpeggios, alternate picking speed. Their core style vocabulary is neoclassical metal, hard rock, heavy metal; in this ensemble, that vocabulary is being aimed at neoclassical / blues metal / European hard rock inside the broader Ozzy Osbourne / Rainbow / Scorpions lane.
+Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy metal. Musically, the important traits here are neoclassical shred precision, classical training, sweep arpeggios, alternate picking speed. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -84,20 +84,20 @@ Randy Rhoads is the guitar voice for the `Rainbow` pairing label. In the local r
 
 ## Gary Moore
 
-Gary Moore is the guitar voice for the `Rainbow` pairing label. In the local ranking corpus, Gary Moore is treated as a still damn good guitarist because of blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. Their core style vocabulary is blues-rock, hard rock, heavy metal; in this ensemble, that vocabulary is being aimed at neoclassical / blues metal / European hard rock inside the broader Ozzy Osbourne / Rainbow / Scorpions lane.
+Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -116,20 +116,20 @@ Gary Moore is the guitar voice for the `Rainbow` pairing label. In the local ran
 
 ## Ritchie Blackmore
 
-Ritchie Blackmore is the guitar voice for the `Rainbow` pairing label. In the local ranking corpus, Ritchie Blackmore is treated as a virtuoso guitarist because of proto-neoclassical lead, baroque-influenced phrasing, alternate picking precision, foundational metal vocabulary. Their core style vocabulary is hard rock, heavy metal, neoclassical-influenced; in this ensemble, that vocabulary is being aimed at neoclassical / blues metal / European hard rock inside the broader Ozzy Osbourne / Rainbow / Scorpions lane.
+Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclassical-influenced. Musically, the important traits here are proto-neoclassical lead, baroque-influenced phrasing, alternate picking precision, foundational metal vocabulary. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -148,20 +148,20 @@ Ritchie Blackmore is the guitar voice for the `Rainbow` pairing label. In the lo
 
 ## Uli Jon Roth
 
-Uli Jon Roth is the guitar voice for the `Rainbow` pairing label. In the local ranking corpus, Uli Jon Roth is treated as a virtuoso guitarist because of proto-neoclassical vocabulary, advanced vibrato, classical phrasing, pioneered neo-shred language. Their core style vocabulary is neoclassical rock, heavy metal, psychedelic rock; in this ensemble, that vocabulary is being aimed at neoclassical / blues metal / European hard rock inside the broader Ozzy Osbourne / Rainbow / Scorpions lane.
+Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psychedelic rock. Musically, the important traits here are proto-neoclassical vocabulary, advanced vibrato, classical phrasing, pioneered neo-shred language. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -180,20 +180,20 @@ Uli Jon Roth is the guitar voice for the `Rainbow` pairing label. In the local r
 
 ## Tommy Aldridge
 
-Tommy Aldridge appears here as the drums voice for the `Rainbow` pairing label. In this ensemble context, the important traits are the player's role in neoclassical / blues metal / European hard rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Ozzy Osbourne / Rainbow / Scorpions lane.
+Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how the drum part affects neoclassical / blues metal / European hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -212,20 +212,20 @@ Tommy Aldridge appears here as the drums voice for the `Rainbow` pairing label. 
 
 ## Don Airey
 
-Don Airey appears here as the keyboards voice for the `Rainbow` pairing label. In this ensemble context, the important traits are the player's role in neoclassical / blues metal / European hard rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Ozzy Osbourne / Rainbow / Scorpions lane.
+Don Airey is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects neoclassical / blues metal / European hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Rainbow | [Wikipedia][rainbow-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

@@ -17,20 +17,20 @@ This music lives in the Chic world: disco funk / pop funk. Listen for how the pl
 
 ## Bernard Edwards
 
-Bernard Edwards is the bass voice for the `Chic` pairing label. In the local ranking corpus, Bernard Edwards is treated as an everyone-else bassist because of disco-funk pocket, articulation, economy. Their core style vocabulary is disco, funk, R&B; in this ensemble, that vocabulary is being aimed at disco funk / pop funk inside the broader Chic / Michael Jackson session orbit lane.
+Bernard Edwards is a bassist associated with disco, funk, R&B. Musically, the important traits here are disco-funk pocket, articulation, economy. In this ensemble, that language is pointed toward disco funk / pop funk, with Chic / Michael Jackson session orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Chic | [Wikipedia][chic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Chic / Michael Jackson session orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Chic | [Wikipedia][chic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Chic / Michael Jackson session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Bernard Edwards is the bass voice for the `Chic` pairing label. In the local ran
 
 ## Nile Rodgers
 
-Nile Rodgers is the guitar voice for the `Chic` pairing label. In the local ranking corpus, Nile Rodgers is treated as an everyone-else guitarist because of funk rhythm architecture, precise muted-chord technique, right-hand syncopation mastery. Their core style vocabulary is funk, disco, R&B, pop; in this ensemble, that vocabulary is being aimed at disco funk / pop funk inside the broader Chic / Michael Jackson session orbit lane.
+Nile Rodgers is a guitarist associated with funk, disco, R&B, pop. Musically, the important traits here are funk rhythm architecture, precise muted-chord technique, right-hand syncopation mastery. In this ensemble, that language is pointed toward disco funk / pop funk, with Chic / Michael Jackson session orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Chic | [Wikipedia][chic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Chic / Michael Jackson session orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Chic | [Wikipedia][chic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Chic / Michael Jackson session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Nile Rodgers is the guitar voice for the `Chic` pairing label. In the local rank
 
 ## David Williams
 
-David Williams is the guitar voice for the `Chic` pairing label. In the local ranking corpus, David Williams is treated as an everyone-else guitarist because of rhythmic session precision, Michael Jackson-era pop groove technique. Their core style vocabulary is pop, R&B, session; in this ensemble, that vocabulary is being aimed at disco funk / pop funk inside the broader Chic / Michael Jackson session orbit lane.
+David Williams is a guitarist associated with pop, R&B, session. Musically, the important traits here are rhythmic session precision, Michael Jackson-era pop groove technique. In this ensemble, that language is pointed toward disco funk / pop funk, with Chic / Michael Jackson session orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Chic | [Wikipedia][chic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Chic / Michael Jackson session orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Chic | [Wikipedia][chic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Chic / Michael Jackson session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ David Williams is the guitar voice for the `Chic` pairing label. In the local ra
 
 ## Tony Thompson
 
-Tony Thompson appears here as the drums voice for the `Chic` pairing label. In this ensemble context, the important traits are the player's role in disco funk / pop funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Chic / Michael Jackson session orbit lane.
+Tony Thompson is a drummer whose playing helps shape this music. Listen for how the drum part affects disco funk / pop funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Chic / Michael Jackson session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Chic | [Wikipedia][chic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Chic / Michael Jackson session orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Chic | [Wikipedia][chic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Chic / Michael Jackson session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

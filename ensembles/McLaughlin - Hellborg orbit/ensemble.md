@@ -18,20 +18,20 @@ This music is centered on McLaughlin / Hellborg orbit: avant-garde jazz fusion. 
 
 ## Jonas Hellborg
 
-Jonas Hellborg is the bass voice for the `McLaughlin / Hellborg orbit` pairing label. In the local ranking corpus, Jonas Hellborg is treated as a virtuoso bassist because of solo bass virtuosity, bowed bass technique, harmonic depth, extraordinary technical facility. Their core style vocabulary is jazz fusion, avant-garde, world fusion, progressive; in this ensemble, that vocabulary is being aimed at avant-garde jazz fusion inside the broader McLaughlin / Hellborg / Shakti orbit lane.
+Jonas Hellborg is a bassist associated with jazz fusion, avant-garde, world fusion, progressive. Musically, the important traits here are solo bass virtuosity, bowed bass technique, harmonic depth, extraordinary technical facility. In this ensemble, that language is pointed toward avant-garde jazz fusion, with McLaughlin / Hellborg / Shakti orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Jonas Hellborg is the bass voice for the `McLaughlin / Hellborg orbit` pairing l
 
 ## John McLaughlin
 
-John McLaughlin is the guitar voice for the `McLaughlin / Hellborg orbit` pairing label. In the local ranking corpus, John McLaughlin is treated as a virtuoso guitarist because of flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. Their core style vocabulary is jazz fusion, Indian classical fusion, jazz, flamenco-influenced; in this ensemble, that vocabulary is being aimed at avant-garde jazz fusion inside the broader McLaughlin / Hellborg / Shakti orbit lane.
+John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble, that language is pointed toward avant-garde jazz fusion, with McLaughlin / Hellborg / Shakti orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ John McLaughlin is the guitar voice for the `McLaughlin / Hellborg orbit` pairin
 
 ## Tony Williams
 
-Tony Williams appears here as the drums voice for the `McLaughlin / Hellborg orbit` pairing label. In this ensemble context, the important traits are the player's role in avant-garde jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader McLaughlin / Hellborg / Shakti orbit lane.
+Tony Williams is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-garde jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is McLaughlin / Hellborg / Shakti orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Tony Williams appears here as the drums voice for the `McLaughlin / Hellborg orb
 
 ## Zakir Hussain
 
-Zakir Hussain appears here as the tabla voice for the `McLaughlin / Hellborg orbit` pairing label. In this ensemble context, the important traits are the player's role in avant-garde jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader McLaughlin / Hellborg / Shakti orbit lane.
+Zakir Hussain is a tabla player whose playing helps shape this music. Listen for how the tabla part affects avant-garde jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is McLaughlin / Hellborg / Shakti orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Tabla | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Tabla | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Zakir Hussain appears here as the tabla voice for the `McLaughlin / Hellborg orb
 
 ## L. Shankar
 
-L. Shankar appears here as the violin voice for the `McLaughlin / Hellborg orbit` pairing label. In this ensemble context, the important traits are the player's role in avant-garde jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader McLaughlin / Hellborg / Shakti orbit lane.
+L. Shankar is a violinist whose playing helps shape this music. Listen for how the violin part affects avant-garde jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is McLaughlin / Hellborg / Shakti orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Violin | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Violin | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

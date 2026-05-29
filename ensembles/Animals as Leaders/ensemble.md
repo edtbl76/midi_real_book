@@ -17,20 +17,20 @@ This music lives in the Animals as Leaders world: extended range / technical met
 
 ## Evan Brewer
 
-Evan Brewer is the bass voice for the `Animals as Leaders` pairing label. In the local ranking corpus, Evan Brewer is treated as a virtuoso bassist because of extended-range tapping, technical fusion-metal independence. Their core style vocabulary is progressive metal, fusion metal, djent; in this ensemble, that vocabulary is being aimed at extended range / technical metal inside the broader Animals as Leaders / The Faceless lane.
+Evan Brewer is a bassist associated with progressive metal, fusion metal, djent. Musically, the important traits here are extended-range tapping, technical fusion-metal independence. In this ensemble, that language is pointed toward extended range / technical metal, with Animals as Leaders / The Faceless as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Animals as Leaders / The Faceless | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Animals as Leaders / The Faceless | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Evan Brewer is the bass voice for the `Animals as Leaders` pairing label. In the
 
 ## Tosin Abasi
 
-Tosin Abasi is the guitar voice for the `Animals as Leaders` pairing label. In the local ranking corpus, Tosin Abasi is treated as a virtuoso guitarist because of extended-range 8-string technique, slap-tap vocabulary, polyrhythmic precision, prog-metal fluency. Their core style vocabulary is progressive metal, djent, jazz-influenced; in this ensemble, that vocabulary is being aimed at extended range / technical metal inside the broader Animals as Leaders / The Faceless lane.
+Tosin Abasi is a guitarist associated with progressive metal, djent, jazz-influenced. Musically, the important traits here are extended-range 8-string technique, slap-tap vocabulary, polyrhythmic precision, prog-metal fluency. In this ensemble, that language is pointed toward extended range / technical metal, with Animals as Leaders / The Faceless as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Animals as Leaders / The Faceless | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Animals as Leaders / The Faceless | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Tosin Abasi is the guitar voice for the `Animals as Leaders` pairing label. In t
 
 ## Javier Reyes
 
-Javier Reyes is the guitar voice for the `Animals as Leaders` pairing label. In the local ranking corpus, Javier Reyes is treated as an everyone-else guitarist because of extended-range 8-string rhythm vocabulary, Animals as Leaders co-founder, atmospheric texture. Their core style vocabulary is progressive metal, djent, world-influenced; in this ensemble, that vocabulary is being aimed at extended range / technical metal inside the broader Animals as Leaders / The Faceless lane.
+Javier Reyes is a guitarist associated with progressive metal, djent, world-influenced. Musically, the important traits here are extended-range 8-string rhythm vocabulary, Animals as Leaders co-founder, atmospheric texture. In this ensemble, that language is pointed toward extended range / technical metal, with Animals as Leaders / The Faceless as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Animals as Leaders / The Faceless | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Animals as Leaders / The Faceless | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Javier Reyes is the guitar voice for the `Animals as Leaders` pairing label. In 
 
 ## Matt Garstka
 
-Matt Garstka appears here as the drums voice for the `Animals as Leaders` pairing label. In this ensemble context, the important traits are the player's role in extended range / technical metal, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Animals as Leaders / The Faceless lane.
+Matt Garstka is a drummer whose playing helps shape this music. Listen for how the drum part affects extended range / technical metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Animals as Leaders / The Faceless.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Animals as Leaders / The Faceless | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Animals as Leaders / The Faceless | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

@@ -19,20 +19,20 @@ This music lives in the Stevie Ray Vaughan / Double Trouble world: Texas blues r
 
 ## Kyle Brock
 
-Kyle Brock is the bass voice for the `Stevie Ray Vaughan / Double Trouble` pairing label. In the local ranking corpus, Kyle Brock is treated as an everyone-else bassist because of Texas blues-rock/fusion support and clean trio pocket. Their core style vocabulary is blues-rock, Texas blues, fusion; in this ensemble, that vocabulary is being aimed at Texas blues rock inside the broader Stevie Ray Vaughan / Arc Angels lane.
+Kyle Brock is a bassist associated with blues-rock, Texas blues, fusion. Musically, the important traits here are Texas blues-rock/fusion support and clean trio pocket. In this ensemble, that language is pointed toward Texas blues rock, with Stevie Ray Vaughan / Arc Angels as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Kyle Brock is the bass voice for the `Stevie Ray Vaughan / Double Trouble` pairi
 
 ## Stevie Ray Vaughan
 
-Stevie Ray Vaughan is the guitar voice for the `Stevie Ray Vaughan / Double Trouble` pairing label. In the local ranking corpus, Stevie Ray Vaughan is treated as a still damn good guitarist because of Texas blues intensity, hybrid picking/thumb-wraparound technique, string-bending power under extreme tension. Their core style vocabulary is blues, blues-rock; in this ensemble, that vocabulary is being aimed at Texas blues rock inside the broader Stevie Ray Vaughan / Arc Angels lane.
+Stevie Ray Vaughan is a guitarist associated with blues, blues-rock. Musically, the important traits here are Texas blues intensity, hybrid picking/thumb-wraparound technique, string-bending power under extreme tension. In this ensemble, that language is pointed toward Texas blues rock, with Stevie Ray Vaughan / Arc Angels as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Stevie Ray Vaughan is the guitar voice for the `Stevie Ray Vaughan / Double Trou
 
 ## Eric Johnson
 
-Eric Johnson is the guitar voice for the `Stevie Ray Vaughan / Double Trouble` pairing label. In the local ranking corpus, Eric Johnson is treated as a virtuoso guitarist because of violin-tone picking precision, pentatonic/fusion articulation, right-hand cleanliness. Their core style vocabulary is rock, fusion, blues-influenced; in this ensemble, that vocabulary is being aimed at Texas blues rock inside the broader Stevie Ray Vaughan / Arc Angels lane.
+Eric Johnson is a guitarist associated with rock, fusion, blues-influenced. Musically, the important traits here are violin-tone picking precision, pentatonic/fusion articulation, right-hand cleanliness. In this ensemble, that language is pointed toward Texas blues rock, with Stevie Ray Vaughan / Arc Angels as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Eric Johnson is the guitar voice for the `Stevie Ray Vaughan / Double Trouble` p
 
 ## Blues Saraceno
 
-Blues Saraceno is the guitar voice for the `Stevie Ray Vaughan / Double Trouble` pairing label. In the local ranking corpus, Blues Saraceno is treated as a virtuoso guitarist because of neoclassical shred vocabulary, Shrapnel-era speed and precision, classical phrasing. Their core style vocabulary is neoclassical rock, shred, rock; in this ensemble, that vocabulary is being aimed at Texas blues rock inside the broader Stevie Ray Vaughan / Arc Angels lane.
+Blues Saraceno is a guitarist associated with neoclassical rock, shred, rock. Musically, the important traits here are neoclassical shred vocabulary, Shrapnel-era speed and precision, classical phrasing. In this ensemble, that language is pointed toward Texas blues rock, with Stevie Ray Vaughan / Arc Angels as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Blues Saraceno is the guitar voice for the `Stevie Ray Vaughan / Double Trouble`
 
 ## Chris Layton
 
-Chris Layton appears here as the drums voice for the `Stevie Ray Vaughan / Double Trouble` pairing label. In this ensemble context, the important traits are the player's role in Texas blues rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Stevie Ray Vaughan / Arc Angels lane.
+Chris Layton is a drummer whose playing helps shape this music. Listen for how the drum part affects Texas blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Stevie Ray Vaughan / Arc Angels.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Chris Layton appears here as the drums voice for the `Stevie Ray Vaughan / Doubl
 
 ## Reese Wynans
 
-Reese Wynans appears here as the keyboards voice for the `Stevie Ray Vaughan / Double Trouble` pairing label. In this ensemble context, the important traits are the player's role in Texas blues rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Stevie Ray Vaughan / Arc Angels lane.
+Reese Wynans is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects Texas blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Stevie Ray Vaughan / Arc Angels.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

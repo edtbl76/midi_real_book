@@ -17,20 +17,20 @@ This music lives in the Pink Floyd world: progressive rock / psychedelic rock. L
 
 ## Roger Waters
 
-Roger Waters is the bass voice for the `Pink Floyd` pairing label. In the local ranking corpus, Roger Waters is treated as an everyone-else bassist because of song-form bass architecture, sustained psychedelic-rock support, conceptual arrangement role. Their core style vocabulary is progressive rock, psychedelic rock, art rock; in this ensemble, that vocabulary is being aimed at progressive rock / psychedelic rock inside the broader Pink Floyd lane.
+Roger Waters is a bassist associated with progressive rock, psychedelic rock, art rock. Musically, the important traits here are song-form bass architecture, sustained psychedelic-rock support, conceptual arrangement role. In this ensemble, that language is pointed toward progressive rock / psychedelic rock, with Pink Floyd as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Pink Floyd | [Wikipedia][pink-floyd-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Pink Floyd | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Pink Floyd | [Wikipedia][pink-floyd-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Pink Floyd | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Roger Waters is the bass voice for the `Pink Floyd` pairing label. In the local 
 
 ## David Gilmour
 
-David Gilmour is the guitar voice for the `Pink Floyd` pairing label. In the local ranking corpus, David Gilmour is treated as an everyone-else guitarist because of tonal phrasing mastery, sustained blues-influenced melodic lead. Their core style vocabulary is progressive rock, blues-rock; in this ensemble, that vocabulary is being aimed at progressive rock / psychedelic rock inside the broader Pink Floyd lane.
+David Gilmour is a guitarist associated with progressive rock, blues-rock. Musically, the important traits here are tonal phrasing mastery, sustained blues-influenced melodic lead. In this ensemble, that language is pointed toward progressive rock / psychedelic rock, with Pink Floyd as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Pink Floyd | [Wikipedia][pink-floyd-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Pink Floyd | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Pink Floyd | [Wikipedia][pink-floyd-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Pink Floyd | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ David Gilmour is the guitar voice for the `Pink Floyd` pairing label. In the loc
 
 ## Nick Mason
 
-Nick Mason appears here as the drums voice for the `Pink Floyd` pairing label. In this ensemble context, the important traits are the player's role in progressive rock / psychedelic rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Pink Floyd lane.
+Nick Mason is a drummer whose playing helps shape this music. Listen for how the drum part affects progressive rock / psychedelic rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Pink Floyd.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Pink Floyd | [Wikipedia][pink-floyd-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Pink Floyd | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Pink Floyd | [Wikipedia][pink-floyd-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Pink Floyd | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Nick Mason appears here as the drums voice for the `Pink Floyd` pairing label. I
 
 ## Richard Wright
 
-Richard Wright appears here as the keyboards voice for the `Pink Floyd` pairing label. In this ensemble context, the important traits are the player's role in progressive rock / psychedelic rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Pink Floyd lane.
+Richard Wright is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects progressive rock / psychedelic rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Pink Floyd.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Pink Floyd | [Wikipedia][pink-floyd-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Pink Floyd | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Pink Floyd | [Wikipedia][pink-floyd-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Pink Floyd | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

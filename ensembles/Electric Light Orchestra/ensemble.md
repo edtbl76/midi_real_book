@@ -18,20 +18,20 @@ This music lives in the Electric Light Orchestra world: orchestral rock / art po
 
 ## Kelly Groucutt
 
-Kelly Groucutt is the bass voice for the `Electric Light Orchestra` pairing label. In the local ranking corpus, Kelly Groucutt is treated as an everyone-else bassist because of orchestral-rock vocal/bass support, melodic pop-rock pocket, arrangement-aware ensemble role. Their core style vocabulary is orchestral rock, art pop, pop-rock; in this ensemble, that vocabulary is being aimed at orchestral rock / art pop / pop-rock inside the broader Electric Light Orchestra lane.
+Kelly Groucutt is a bassist associated with orchestral rock, art pop, pop-rock. Musically, the important traits here are orchestral-rock vocal/bass support, melodic pop-rock pocket, arrangement-aware ensemble role. In this ensemble, that language is pointed toward orchestral rock / art pop / pop-rock, with Electric Light Orchestra as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Electric Light Orchestra | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Electric Light Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Kelly Groucutt is the bass voice for the `Electric Light Orchestra` pairing labe
 
 ## Jeff Lynne
 
-Jeff Lynne is the guitar voice for the `Electric Light Orchestra` pairing label. In the local ranking corpus, Jeff Lynne is treated as an everyone-else guitarist because of orchestral pop-rock rhythm, layered production guitar, melodic song-serving lead and arrangement vocabulary. Their core style vocabulary is orchestral rock, art pop, pop-rock; in this ensemble, that vocabulary is being aimed at orchestral rock / art pop / pop-rock inside the broader Electric Light Orchestra lane.
+Jeff Lynne is a guitarist associated with orchestral rock, art pop, pop-rock. Musically, the important traits here are orchestral pop-rock rhythm, layered production guitar, melodic song-serving lead and arrangement vocabulary. In this ensemble, that language is pointed toward orchestral rock / art pop / pop-rock, with Electric Light Orchestra as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Electric Light Orchestra | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Electric Light Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Jeff Lynne is the guitar voice for the `Electric Light Orchestra` pairing label.
 
 ## Bev Bevan
 
-Bev Bevan appears here as the drums voice for the `Electric Light Orchestra` pairing label. In this ensemble context, the important traits are the player's role in orchestral rock / art pop / pop-rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Electric Light Orchestra lane.
+Bev Bevan is a drummer whose playing helps shape this music. Listen for how the drum part affects orchestral rock / art pop / pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Electric Light Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Electric Light Orchestra | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Electric Light Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Bev Bevan appears here as the drums voice for the `Electric Light Orchestra` pai
 
 ## Richard Tandy
 
-Richard Tandy appears here as the keyboards voice for the `Electric Light Orchestra` pairing label. In this ensemble context, the important traits are the player's role in orchestral rock / art pop / pop-rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Electric Light Orchestra lane.
+Richard Tandy is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects orchestral rock / art pop / pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Electric Light Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Electric Light Orchestra | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Electric Light Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Richard Tandy appears here as the keyboards voice for the `Electric Light Orches
 
 ## Mik Kaminski
 
-Mik Kaminski appears here as the violin voice for the `Electric Light Orchestra` pairing label. In this ensemble context, the important traits are the player's role in orchestral rock / art pop / pop-rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Electric Light Orchestra lane.
+Mik Kaminski is a violinist whose playing helps shape this music. Listen for how the violin part affects orchestral rock / art pop / pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Electric Light Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Electric Light Orchestra | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Electric Light Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Violin | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Violin | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

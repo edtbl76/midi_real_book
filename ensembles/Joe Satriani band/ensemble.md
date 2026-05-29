@@ -16,20 +16,20 @@ This music lives in the Joe Satriani band world: instrumental rock. Listen for h
 
 ## Stu Hamm
 
-Stu Hamm is the bass voice for the `Joe Satriani band` pairing label. In the local ranking corpus, Stu Hamm is treated as a virtuoso bassist because of melodic instrumental-rock bass, tapping, chordal and lead-bass work. Their core style vocabulary is instrumental rock, rock fusion; in this ensemble, that vocabulary is being aimed at instrumental rock inside the broader Joe Satriani band lane.
+Stu Hamm is a bassist associated with instrumental rock, rock fusion. Musically, the important traits here are melodic instrumental-rock bass, tapping, chordal and lead-bass work. In this ensemble, that language is pointed toward instrumental rock, with Joe Satriani band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Joe Satriani band | [Wikipedia][joe-satriani-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Joe Satriani band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Joe Satriani band | [Wikipedia][joe-satriani-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Joe Satriani band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ Stu Hamm is the bass voice for the `Joe Satriani band` pairing label. In the loc
 
 ## Joe Satriani
 
-Joe Satriani is the guitar voice for the `Joe Satriani band` pairing label. In the local ranking corpus, Joe Satriani is treated as a virtuoso guitarist because of legato fluency, melodic technical control, tone mastery, complete instrumental-rock vocabulary. Their core style vocabulary is instrumental rock, hard rock, blues-influenced rock; in this ensemble, that vocabulary is being aimed at instrumental rock inside the broader Joe Satriani band lane.
+Joe Satriani is a guitarist associated with instrumental rock, hard rock, blues-influenced rock. Musically, the important traits here are legato fluency, melodic technical control, tone mastery, complete instrumental-rock vocabulary. In this ensemble, that language is pointed toward instrumental rock, with Joe Satriani band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Joe Satriani band | [Wikipedia][joe-satriani-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Joe Satriani band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Joe Satriani band | [Wikipedia][joe-satriani-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Joe Satriani band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Joe Satriani is the guitar voice for the `Joe Satriani band` pairing label. In t
 
 ## Jonathan Mover
 
-Jonathan Mover appears here as the drums voice for the `Joe Satriani band` pairing label. In this ensemble context, the important traits are the player's role in instrumental rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Joe Satriani band lane.
+Jonathan Mover is a drummer whose playing helps shape this music. Listen for how the drum part affects instrumental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Joe Satriani band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Joe Satriani band | [Wikipedia][joe-satriani-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Joe Satriani band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Joe Satriani band | [Wikipedia][joe-satriani-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Joe Satriani band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

@@ -16,20 +16,20 @@ This music is centered on Buckethead / Bozzio orbit: avant-garde / solo bass. Li
 
 ## Michael Manring
 
-Michael Manring is the bass voice for the `Buckethead / Bozzio orbit` pairing label. In the local ranking corpus, Michael Manring is treated as a virtuoso bassist because of extended fretless technique, real-time detuning via Hyperbass, harmonics, solo bass orchestration. Their core style vocabulary is solo bass, avant-garde, new age, fusion; in this ensemble, that vocabulary is being aimed at avant-garde / solo bass inside the broader Buckethead / Bozzio orbit lane.
+Michael Manring is a bassist associated with solo bass, avant-garde, new age, fusion. Musically, the important traits here are extended fretless technique, real-time detuning via Hyperbass, harmonics, solo bass orchestration. In this ensemble, that language is pointed toward avant-garde / solo bass, with Buckethead / Bozzio orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Bozzio orbit | [Wikipedia][buckethead-bozzio-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Buckethead / Bozzio orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Buckethead / Bozzio orbit | [Wikipedia][buckethead-bozzio-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Buckethead / Bozzio orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ Michael Manring is the bass voice for the `Buckethead / Bozzio orbit` pairing la
 
 ## Buckethead
 
-Buckethead is the guitar voice for the `Buckethead / Bozzio orbit` pairing label. In the local ranking corpus, Buckethead is treated as a virtuoso guitarist because of extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. Their core style vocabulary is metal, funk, experimental, progressive rock; in this ensemble, that vocabulary is being aimed at avant-garde / solo bass inside the broader Buckethead / Bozzio orbit lane.
+Buckethead is a guitarist associated with metal, funk, experimental, progressive rock. Musically, the important traits here are extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. In this ensemble, that language is pointed toward avant-garde / solo bass, with Buckethead / Bozzio orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Bozzio orbit | [Wikipedia][buckethead-bozzio-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Buckethead / Bozzio orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Buckethead / Bozzio orbit | [Wikipedia][buckethead-bozzio-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Buckethead / Bozzio orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Buckethead is the guitar voice for the `Buckethead / Bozzio orbit` pairing label
 
 ## Terry Bozzio
 
-Terry Bozzio appears here as the drums voice for the `Buckethead / Bozzio orbit` pairing label. In this ensemble context, the important traits are the player's role in avant-garde / solo bass, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Buckethead / Bozzio orbit lane.
+Terry Bozzio is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-garde / solo bass: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Buckethead / Bozzio orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Bozzio orbit | [Wikipedia][buckethead-bozzio-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Buckethead / Bozzio orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Buckethead / Bozzio orbit | [Wikipedia][buckethead-bozzio-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Buckethead / Bozzio orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

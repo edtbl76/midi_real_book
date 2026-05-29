@@ -18,20 +18,20 @@ This music is centered on Cream: blues rock / power trio. Listen for the musical
 
 ## Jack Bruce
 
-Jack Bruce is the bass voice for the `Cream` pairing label. In the local ranking corpus, Jack Bruce is treated as an everyone-else bassist because of melodic blues-rock improvisation and power-trio counterpoint. Their core style vocabulary is blues-rock, rock, jazz; in this ensemble, that vocabulary is being aimed at blues rock / power trio inside the broader Cream / Jack Bruce-Gary Moore band / BLT lane.
+Jack Bruce is a bassist associated with blues-rock, rock, jazz. Musically, the important traits here are melodic blues-rock improvisation and power-trio counterpoint. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Jack Bruce is the bass voice for the `Cream` pairing label. In the local ranking
 
 ## Eric Clapton
 
-Eric Clapton is the guitar voice for the `Cream` pairing label. In the local ranking corpus, Eric Clapton is treated as an everyone-else guitarist because of pentatonic/blues lead vocabulary, tone-focused articulation, restraint as technique. Their core style vocabulary is blues-rock, blues, rock; in this ensemble, that vocabulary is being aimed at blues rock / power trio inside the broader Cream / Jack Bruce-Gary Moore band / BLT lane.
+Eric Clapton is a guitarist associated with blues-rock, blues, rock. Musically, the important traits here are pentatonic/blues lead vocabulary, tone-focused articulation, restraint as technique. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Eric Clapton is the guitar voice for the `Cream` pairing label. In the local ran
 
 ## Robin Trower
 
-Robin Trower is the guitar voice for the `Cream` pairing label. In the local ranking corpus, Robin Trower is treated as an everyone-else guitarist because of Hendrix-inspired blues-rock phrasing, wah vocabulary, tone control. Their core style vocabulary is blues-rock, rock; in this ensemble, that vocabulary is being aimed at blues rock / power trio inside the broader Cream / Jack Bruce-Gary Moore band / BLT lane.
+Robin Trower is a guitarist associated with blues-rock, rock. Musically, the important traits here are Hendrix-inspired blues-rock phrasing, wah vocabulary, tone control. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Robin Trower is the guitar voice for the `Cream` pairing label. In the local ran
 
 ## Gary Moore
 
-Gary Moore is the guitar voice for the `Cream` pairing label. In the local ranking corpus, Gary Moore is treated as a still damn good guitarist because of blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. Their core style vocabulary is blues-rock, hard rock, heavy metal; in this ensemble, that vocabulary is being aimed at blues rock / power trio inside the broader Cream / Jack Bruce-Gary Moore band / BLT lane.
+Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Gary Moore is the guitar voice for the `Cream` pairing label. In the local ranki
 
 ## Ginger Baker
 
-Ginger Baker appears here as the drums voice for the `Cream` pairing label. In this ensemble context, the important traits are the player's role in blues rock / power trio, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Cream / Jack Bruce-Gary Moore band / BLT lane.
+Ginger Baker is a drummer whose playing helps shape this music. Listen for how the drum part affects blues rock / power trio: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

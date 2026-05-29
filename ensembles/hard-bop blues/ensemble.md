@@ -19,20 +19,20 @@ This music is centered on hard-bop blues: modern jazz / hard bop / blues. Listen
 
 ## Charles Mingus
 
-Charles Mingus is the bass voice for the `hard-bop blues` pairing label. In the local ranking corpus, Charles Mingus is treated as an everyone-else bassist because of aggressive walking lines, blues/gospel harmony, counterpoint, pedal figures, compositional bass authority. Their core style vocabulary is modern jazz, hard bop, blues, gospel-influenced jazz; in this ensemble, that vocabulary is being aimed at modern jazz / hard bop / blues inside the broader Mingus bands lane.
+Charles Mingus is a bassist associated with modern jazz, hard bop, blues, gospel-influenced jazz. Musically, the important traits here are aggressive walking lines, blues/gospel harmony, counterpoint, pedal figures, compositional bass authority. In this ensemble, that language is pointed toward modern jazz / hard bop / blues, with Mingus bands as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mingus bands | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Charles Mingus is the bass voice for the `hard-bop blues` pairing label. In the 
 
 ## Jim Hall
 
-Jim Hall is the guitar voice for the `hard-bop blues` pairing label. In the local ranking corpus, Jim Hall is treated as a still damn good guitarist because of chamber-jazz counterpoint, interactive comping, melodic restraint, advanced harmonic clarity. Their core style vocabulary is jazz, cool jazz, post-bop, chamber jazz; in this ensemble, that vocabulary is being aimed at modern jazz / hard bop / blues inside the broader Mingus bands lane.
+Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz. Musically, the important traits here are chamber-jazz counterpoint, interactive comping, melodic restraint, advanced harmonic clarity. In this ensemble, that language is pointed toward modern jazz / hard bop / blues, with Mingus bands as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mingus bands | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Jim Hall is the guitar voice for the `hard-bop blues` pairing label. In the loca
 
 ## Kenny Burrell
 
-Kenny Burrell is the guitar voice for the `hard-bop blues` pairing label. In the local ranking corpus, Kenny Burrell is treated as a still damn good guitarist because of blues-jazz authority, hard-bop phrasing, warm chord melody, earthy swing vocabulary. Their core style vocabulary is jazz, blues, hard bop, soul jazz; in this ensemble, that vocabulary is being aimed at modern jazz / hard bop / blues inside the broader Mingus bands lane.
+Kenny Burrell is a guitarist associated with jazz, blues, hard bop, soul jazz. Musically, the important traits here are blues-jazz authority, hard-bop phrasing, warm chord melody, earthy swing vocabulary. In this ensemble, that language is pointed toward modern jazz / hard bop / blues, with Mingus bands as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mingus bands | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Kenny Burrell is the guitar voice for the `hard-bop blues` pairing label. In the
 
 ## Max Roach
 
-Max Roach appears here as the drums voice for the `hard-bop blues` pairing label. In this ensemble context, the important traits are the player's role in modern jazz / hard bop / blues, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Mingus bands lane.
+Max Roach is a drummer whose playing helps shape this music. Listen for how the drum part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mingus bands | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Max Roach appears here as the drums voice for the `hard-bop blues` pairing label
 
 ## Jaki Byard
 
-Jaki Byard appears here as the keyboards voice for the `hard-bop blues` pairing label. In this ensemble context, the important traits are the player's role in modern jazz / hard bop / blues, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Mingus bands lane.
+Jaki Byard is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mingus bands | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Jaki Byard appears here as the keyboards voice for the `hard-bop blues` pairing 
 
 ## Eric Dolphy
 
-Eric Dolphy appears here as the saxophone voice for the `hard-bop blues` pairing label. In this ensemble context, the important traits are the player's role in modern jazz / hard bop / blues, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Mingus bands lane.
+Eric Dolphy is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mingus bands | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

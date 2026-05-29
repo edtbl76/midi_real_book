@@ -19,20 +19,20 @@ This music is centered on Buckethead / Primus orbit: avant-garde / punk-funk. Li
 
 ## Les Claypool
 
-Les Claypool is the bass voice for the `Buckethead / Primus orbit` pairing label. In the local ranking corpus, Les Claypool is treated as a virtuoso bassist because of idiosyncratic slap/tap/chordal technique and rhythmic independence. Their core style vocabulary is rock, alternative, avant-garde, funk; in this ensemble, that vocabulary is being aimed at avant-garde / punk-funk inside the broader Primus lane.
+Les Claypool is a bassist associated with rock, alternative, avant-garde, funk. Musically, the important traits here are idiosyncratic slap/tap/chordal technique and rhythmic independence. In this ensemble, that language is pointed toward avant-garde / punk-funk, with Primus as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Primus | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Les Claypool is the bass voice for the `Buckethead / Primus orbit` pairing label
 
 ## Larry LaLonde
 
-Larry LaLonde is the guitar voice for the `Buckethead / Primus orbit` pairing label. In the local ranking corpus, Larry LaLonde is treated as an everyone-else guitarist because of avant-garde rock technique, aggressive dissonance, noise-influenced harmonic vocabulary. Their core style vocabulary is progressive metal, avant-garde, death metal; in this ensemble, that vocabulary is being aimed at avant-garde / punk-funk inside the broader Primus lane.
+Larry LaLonde is a guitarist associated with progressive metal, avant-garde, death metal. Musically, the important traits here are avant-garde rock technique, aggressive dissonance, noise-influenced harmonic vocabulary. In this ensemble, that language is pointed toward avant-garde / punk-funk, with Primus as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Primus | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Larry LaLonde is the guitar voice for the `Buckethead / Primus orbit` pairing la
 
 ## Buckethead
 
-Buckethead is the guitar voice for the `Buckethead / Primus orbit` pairing label. In the local ranking corpus, Buckethead is treated as a virtuoso guitarist because of extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. Their core style vocabulary is metal, funk, experimental, progressive rock; in this ensemble, that vocabulary is being aimed at avant-garde / punk-funk inside the broader Primus lane.
+Buckethead is a guitarist associated with metal, funk, experimental, progressive rock. Musically, the important traits here are extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. In this ensemble, that language is pointed toward avant-garde / punk-funk, with Primus as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Primus | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Buckethead is the guitar voice for the `Buckethead / Primus orbit` pairing label
 
 ## Tim Alexander
 
-Tim Alexander appears here as the drums voice for the `Buckethead / Primus orbit` pairing label. In this ensemble context, the important traits are the player's role in avant-garde / punk-funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Primus lane.
+Tim Alexander is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Primus.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Primus | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Tim Alexander appears here as the drums voice for the `Buckethead / Primus orbit
 
 ## Bernie Worrell
 
-Bernie Worrell appears here as the keyboards voice for the `Buckethead / Primus orbit` pairing label. In this ensemble context, the important traits are the player's role in avant-garde / punk-funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Primus lane.
+Bernie Worrell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Primus.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Primus | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Bernie Worrell appears here as the keyboards voice for the `Buckethead / Primus 
 
 ## Skerik
 
-Skerik appears here as the saxophone voice for the `Buckethead / Primus orbit` pairing label. In this ensemble context, the important traits are the player's role in avant-garde / punk-funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Primus lane.
+Skerik is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Primus.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Primus | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

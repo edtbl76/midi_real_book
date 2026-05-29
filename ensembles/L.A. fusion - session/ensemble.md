@@ -18,20 +18,20 @@ This music is centered on L.A. fusion/session: L.A. Listen for the musical conve
 
 ## Jimmy Earl
 
-Jimmy Earl is the bass voice for the `L.A. fusion/session` pairing label. In the local ranking corpus, Jimmy Earl is treated as an everyone-else bassist because of L.A. fusion/session facility, pocket, harmonic flexibility. Their core style vocabulary is jazz fusion, session; in this ensemble, that vocabulary is being aimed at L.A. fusion / session inside the broader Vinnie Colaiuta / Jeff Babko orbit lane.
+Jimmy Earl is a bassist associated with jazz fusion, session. Musically, the important traits here are L.A. fusion/session facility, pocket, harmonic flexibility. In this ensemble, that language is pointed toward L.A. fusion / session, with Vinnie Colaiuta / Jeff Babko orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Jimmy Earl is the bass voice for the `L.A. fusion/session` pairing label. In the
 
 ## Mike Miller
 
-Mike Miller is the guitar voice for the `L.A. fusion/session` pairing label. In the local ranking corpus, Mike Miller is treated as a virtuoso guitarist because of jazz-fusion hybrid picking precision, bebop-influenced lead vocabulary, session-grade technical command. Their core style vocabulary is jazz fusion, session, rock; in this ensemble, that vocabulary is being aimed at L.A. fusion / session inside the broader Vinnie Colaiuta / Jeff Babko orbit lane.
+Mike Miller is a guitarist associated with jazz fusion, session, rock. Musically, the important traits here are jazz-fusion hybrid picking precision, bebop-influenced lead vocabulary, session-grade technical command. In this ensemble, that language is pointed toward L.A. fusion / session, with Vinnie Colaiuta / Jeff Babko orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Mike Miller is the guitar voice for the `L.A. fusion/session` pairing label. In 
 
 ## Michael Landau
 
-Michael Landau is the guitar voice for the `L.A. fusion/session` pairing label. In the local ranking corpus, Michael Landau is treated as a virtuoso guitarist because of elite legato fluency, hybrid picking sophistication, harmonic depth, melodic precision. Their core style vocabulary is rock, fusion, jazz-rock; in this ensemble, that vocabulary is being aimed at L.A. fusion / session inside the broader Vinnie Colaiuta / Jeff Babko orbit lane.
+Michael Landau is a guitarist associated with rock, fusion, jazz-rock. Musically, the important traits here are elite legato fluency, hybrid picking sophistication, harmonic depth, melodic precision. In this ensemble, that language is pointed toward L.A. fusion / session, with Vinnie Colaiuta / Jeff Babko orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Michael Landau is the guitar voice for the `L.A. fusion/session` pairing label. 
 
 ## Vinnie Colaiuta
 
-Vinnie Colaiuta appears here as the drums voice for the `L.A. fusion/session` pairing label. In this ensemble context, the important traits are the player's role in L.A. fusion / session, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Vinnie Colaiuta / Jeff Babko orbit lane.
+Vinnie Colaiuta is a drummer whose playing helps shape this music. Listen for how the drum part affects L.A. fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Vinnie Colaiuta / Jeff Babko orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Vinnie Colaiuta appears here as the drums voice for the `L.A. fusion/session` pa
 
 ## Jeff Babko
 
-Jeff Babko appears here as the keyboards voice for the `L.A. fusion/session` pairing label. In this ensemble context, the important traits are the player's role in L.A. fusion / session, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Vinnie Colaiuta / Jeff Babko orbit lane.
+Jeff Babko is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects L.A. fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Vinnie Colaiuta / Jeff Babko orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

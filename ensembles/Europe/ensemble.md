@@ -18,20 +18,20 @@ This music lives in the Europe world: 80s hard rock / melodic metal. Listen for 
 
 ## Jeff Pilson
 
-Jeff Pilson is the bass voice for the `Europe` pairing label. In the local ranking corpus, Jeff Pilson is treated as an everyone-else bassist because of 80s hard-rock drive and melodic support. Their core style vocabulary is hard rock, heavy metal; in this ensemble, that vocabulary is being aimed at 80s hard rock / melodic metal inside the broader Dokken / Winger / Europe lane.
+Jeff Pilson is a bassist associated with hard rock, heavy metal. Musically, the important traits here are 80s hard-rock drive and melodic support. In this ensemble, that language is pointed toward 80s hard rock / melodic metal, with Dokken / Winger / Europe as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dokken / Winger / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dokken / Winger / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Jeff Pilson is the bass voice for the `Europe` pairing label. In the local ranki
 
 ## George Lynch
 
-George Lynch is the guitar voice for the `Europe` pairing label. In the local ranking corpus, George Lynch is treated as a virtuoso guitarist because of right-hand alternate picking shred, pentatonic-outside vocabulary, aggressive precision and speed. Their core style vocabulary is hard rock, heavy metal, shred; in this ensemble, that vocabulary is being aimed at 80s hard rock / melodic metal inside the broader Dokken / Winger / Europe lane.
+George Lynch is a guitarist associated with hard rock, heavy metal, shred. Musically, the important traits here are right-hand alternate picking shred, pentatonic-outside vocabulary, aggressive precision and speed. In this ensemble, that language is pointed toward 80s hard rock / melodic metal, with Dokken / Winger / Europe as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dokken / Winger / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dokken / Winger / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ George Lynch is the guitar voice for the `Europe` pairing label. In the local ra
 
 ## Reb Beach
 
-Reb Beach is the guitar voice for the `Europe` pairing label. In the local ranking corpus, Reb Beach is treated as a still damn good guitarist because of legato fluency, fusion-rock melodic precision, clean high-articulation phrasing. Their core style vocabulary is hard rock, rock fusion; in this ensemble, that vocabulary is being aimed at 80s hard rock / melodic metal inside the broader Dokken / Winger / Europe lane.
+Reb Beach is a guitarist associated with hard rock, rock fusion. Musically, the important traits here are legato fluency, fusion-rock melodic precision, clean high-articulation phrasing. In this ensemble, that language is pointed toward 80s hard rock / melodic metal, with Dokken / Winger / Europe as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dokken / Winger / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dokken / Winger / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Reb Beach is the guitar voice for the `Europe` pairing label. In the local ranki
 
 ## John Norum
 
-John Norum is the guitar voice for the `Europe` pairing label. In the local ranking corpus, John Norum is treated as a still damn good guitarist because of melodic hard rock lead precision, alternate picking speed and articulation, expressive vibrato. Their core style vocabulary is hard rock, melodic metal; in this ensemble, that vocabulary is being aimed at 80s hard rock / melodic metal inside the broader Dokken / Winger / Europe lane.
+John Norum is a guitarist associated with hard rock, melodic metal. Musically, the important traits here are melodic hard rock lead precision, alternate picking speed and articulation, expressive vibrato. In this ensemble, that language is pointed toward 80s hard rock / melodic metal, with Dokken / Winger / Europe as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dokken / Winger / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dokken / Winger / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ John Norum is the guitar voice for the `Europe` pairing label. In the local rank
 
 ## Mick Brown
 
-Mick Brown appears here as the drums voice for the `Europe` pairing label. In this ensemble context, the important traits are the player's role in 80s hard rock / melodic metal, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Dokken / Winger / Europe lane.
+Mick Brown is a drummer whose playing helps shape this music. Listen for how the drum part affects 80s hard rock / melodic metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dokken / Winger / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dokken / Winger / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dokken / Winger / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

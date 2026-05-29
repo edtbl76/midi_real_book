@@ -18,20 +18,20 @@ This music lives in the Marcus Miller band world: jazz fusion / funk. Listen for
 
 ## Marcus Miller
 
-Marcus Miller is the bass voice for the `Marcus Miller band` pairing label. In the local ranking corpus, Marcus Miller is treated as a virtuoso bassist because of elite slap/fingerstyle command and fusion vocabulary. Their core style vocabulary is jazz fusion, R&B, fusion, session; in this ensemble, that vocabulary is being aimed at jazz fusion / funk inside the broader Miles Davis / David Sanborn / Marcus Miller band lane.
+Marcus Miller is a bassist associated with jazz fusion, R&B, fusion, session. Musically, the important traits here are elite slap/fingerstyle command and fusion vocabulary. In this ensemble, that language is pointed toward jazz fusion / funk, with Miles Davis / David Sanborn / Marcus Miller band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Marcus Miller is the bass voice for the `Marcus Miller band` pairing label. In t
 
 ## Hiram Bullock
 
-Hiram Bullock is the guitar voice for the `Marcus Miller band` pairing label. In the local ranking corpus, Hiram Bullock is treated as an everyone-else guitarist because of jazz/funk session chord-melody, comping precision. Their core style vocabulary is jazz, funk, R&B session; in this ensemble, that vocabulary is being aimed at jazz fusion / funk inside the broader Miles Davis / David Sanborn / Marcus Miller band lane.
+Hiram Bullock is a guitarist associated with jazz, funk, R&B session. Musically, the important traits here are jazz/funk session chord-melody, comping precision. In this ensemble, that language is pointed toward jazz fusion / funk, with Miles Davis / David Sanborn / Marcus Miller band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Hiram Bullock is the guitar voice for the `Marcus Miller band` pairing label. In
 
 ## Poogie Bell
 
-Poogie Bell appears here as the drums voice for the `Marcus Miller band` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Miles Davis / David Sanborn / Marcus Miller band lane.
+Poogie Bell is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis / David Sanborn / Marcus Miller band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Poogie Bell appears here as the drums voice for the `Marcus Miller band` pairing
 
 ## Herbie Hancock
 
-Herbie Hancock appears here as the keyboards voice for the `Marcus Miller band` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Miles Davis / David Sanborn / Marcus Miller band lane.
+Herbie Hancock is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion / funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis / David Sanborn / Marcus Miller band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Herbie Hancock appears here as the keyboards voice for the `Marcus Miller band` 
 
 ## David Sanborn
 
-David Sanborn appears here as the saxophone voice for the `Marcus Miller band` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Miles Davis / David Sanborn / Marcus Miller band lane.
+David Sanborn is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz fusion / funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis / David Sanborn / Marcus Miller band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

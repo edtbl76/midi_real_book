@@ -18,20 +18,20 @@ This music lives in the CAB world: jazz fusion. Listen for how the players build
 
 ## Bunny Brunel
 
-Bunny Brunel is the bass voice for the `CAB` pairing label. In the local ranking corpus, Bunny Brunel is treated as a virtuoso bassist because of electric jazz-fusion fluidity and harmonic movement. Their core style vocabulary is jazz fusion, fusion; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader CAB / Return to Forever lane.
+Bunny Brunel is a bassist associated with jazz fusion, fusion. Musically, the important traits here are electric jazz-fusion fluidity and harmonic movement. In this ensemble, that language is pointed toward jazz fusion, with CAB / Return to Forever as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | CAB / Return to Forever | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | CAB / Return to Forever | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Bunny Brunel is the bass voice for the `CAB` pairing label. In the local ranking
 
 ## Tony MacAlpine
 
-Tony MacAlpine is the guitar voice for the `CAB` pairing label. In the local ranking corpus, Tony MacAlpine is treated as a virtuoso guitarist because of neoclassical/fusion sweep arpeggios, scalar command, classical piano foundation, harmonic depth. Their core style vocabulary is neoclassical metal, jazz fusion, rock; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader CAB / Return to Forever lane.
+Tony MacAlpine is a guitarist associated with neoclassical metal, jazz fusion, rock. Musically, the important traits here are neoclassical/fusion sweep arpeggios, scalar command, classical piano foundation, harmonic depth. In this ensemble, that language is pointed toward jazz fusion, with CAB / Return to Forever as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | CAB / Return to Forever | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | CAB / Return to Forever | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Tony MacAlpine is the guitar voice for the `CAB` pairing label. In the local ran
 
 ## Jon Finn
 
-Jon Finn is the guitar voice for the `CAB` pairing label. In the local ranking corpus, Jon Finn is treated as a virtuoso guitarist because of neoclassical/jazz fusion shred, sweep arpeggios, harmonic sophistication, high-velocity articulation. Their core style vocabulary is neoclassical rock, jazz fusion, shred; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader CAB / Return to Forever lane.
+Jon Finn is a guitarist associated with neoclassical rock, jazz fusion, shred. Musically, the important traits here are neoclassical/jazz fusion shred, sweep arpeggios, harmonic sophistication, high-velocity articulation. In this ensemble, that language is pointed toward jazz fusion, with CAB / Return to Forever as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | CAB / Return to Forever | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | CAB / Return to Forever | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Jon Finn is the guitar voice for the `CAB` pairing label. In the local ranking c
 
 ## Dennis Chambers
 
-Dennis Chambers appears here as the drums voice for the `CAB` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader CAB / Return to Forever lane.
+Dennis Chambers is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is CAB / Return to Forever.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | CAB / Return to Forever | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | CAB / Return to Forever | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Dennis Chambers appears here as the drums voice for the `CAB` pairing label. In 
 
 ## Chick Corea
 
-Chick Corea appears here as the keyboards voice for the `CAB` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader CAB / Return to Forever lane.
+Chick Corea is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is CAB / Return to Forever.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | CAB / Return to Forever | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | CAB / Return to Forever | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

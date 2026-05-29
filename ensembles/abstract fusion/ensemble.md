@@ -19,20 +19,20 @@ This music is centered on abstract fusion: jazz fusion / funk fusion. Listen for
 
 ## Gary Willis
 
-Gary Willis is the bass voice for the `abstract fusion` pairing label. In the local ranking corpus, Gary Willis is treated as a virtuoso bassist because of advanced fingerstyle fusion, rhythmic displacement, harmonic control. Their core style vocabulary is jazz fusion, fusion; in this ensemble, that vocabulary is being aimed at jazz fusion / funk fusion inside the broader Tribal Tech lane.
+Gary Willis is a bassist associated with jazz fusion, fusion. Musically, the important traits here are advanced fingerstyle fusion, rhythmic displacement, harmonic control. In this ensemble, that language is pointed toward jazz fusion / funk fusion, with Tribal Tech as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Tribal Tech | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Tribal Tech | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Gary Willis is the bass voice for the `abstract fusion` pairing label. In the lo
 
 ## Scott Henderson
 
-Scott Henderson is the guitar voice for the `abstract fusion` pairing label. In the local ranking corpus, Scott Henderson is treated as a virtuoso guitarist because of jazz-fusion improvisation complexity, hybrid picking precision, harmonic density, blues-fusion integration. Their core style vocabulary is jazz fusion, fusion blues, rock; in this ensemble, that vocabulary is being aimed at jazz fusion / funk fusion inside the broader Tribal Tech lane.
+Scott Henderson is a guitarist associated with jazz fusion, fusion blues, rock. Musically, the important traits here are jazz-fusion improvisation complexity, hybrid picking precision, harmonic density, blues-fusion integration. In this ensemble, that language is pointed toward jazz fusion / funk fusion, with Tribal Tech as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Tribal Tech | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Tribal Tech | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Scott Henderson is the guitar voice for the `abstract fusion` pairing label. In 
 
 ## Wayne Krantz
 
-Wayne Krantz is the guitar voice for the `abstract fusion` pairing label. In the local ranking corpus, Wayne Krantz is treated as a still damn good guitarist because of unique improvisational technique, right-hand rhythmic independence, jazz-rock abstraction. Their core style vocabulary is jazz fusion, experimental, abstract; in this ensemble, that vocabulary is being aimed at jazz fusion / funk fusion inside the broader Tribal Tech lane.
+Wayne Krantz is a guitarist associated with jazz fusion, experimental, abstract. Musically, the important traits here are unique improvisational technique, right-hand rhythmic independence, jazz-rock abstraction. In this ensemble, that language is pointed toward jazz fusion / funk fusion, with Tribal Tech as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Tribal Tech | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Tribal Tech | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Wayne Krantz is the guitar voice for the `abstract fusion` pairing label. In the
 
 ## Dean Brown
 
-Dean Brown is the guitar voice for the `abstract fusion` pairing label. In the local ranking corpus, Dean Brown is treated as an everyone-else guitarist because of fusion rhythm guitar precision, chordal sophistication, groove command. Their core style vocabulary is jazz fusion, funk, session; in this ensemble, that vocabulary is being aimed at jazz fusion / funk fusion inside the broader Tribal Tech lane.
+Dean Brown is a guitarist associated with jazz fusion, funk, session. Musically, the important traits here are fusion rhythm guitar precision, chordal sophistication, groove command. In this ensemble, that language is pointed toward jazz fusion / funk fusion, with Tribal Tech as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Tribal Tech | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Tribal Tech | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Dean Brown is the guitar voice for the `abstract fusion` pairing label. In the l
 
 ## Kirk Covington
 
-Kirk Covington appears here as the drums voice for the `abstract fusion` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / funk fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Tribal Tech lane.
+Kirk Covington is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / funk fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Tribal Tech.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Tribal Tech | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Tribal Tech | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Kirk Covington appears here as the drums voice for the `abstract fusion` pairing
 
 ## Scott Kinsey
 
-Scott Kinsey appears here as the keyboards voice for the `abstract fusion` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / funk fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Tribal Tech lane.
+Scott Kinsey is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion / funk fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Tribal Tech.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Tribal Tech | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | abstract fusion | [Wikipedia][abstract-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Tribal Tech | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

@@ -17,20 +17,20 @@ This music lives in the The Police world: reggae rock / post-punk. Listen for ho
 
 ## Sting
 
-Sting is the bass voice for the `The Police` pairing label. In the local ranking corpus, Sting is treated as an everyone-else bassist because of sparse reggae-rock basslines, melodic restraint, offbeat hooks, space-driven trio support. Their core style vocabulary is reggae rock, post-punk, pop-rock; in this ensemble, that vocabulary is being aimed at reggae rock / post-punk inside the broader The Police lane.
+Sting is a bassist associated with reggae rock, post-punk, pop-rock. Musically, the important traits here are sparse reggae-rock basslines, melodic restraint, offbeat hooks, space-driven trio support. In this ensemble, that language is pointed toward reggae rock / post-punk, with The Police as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Police | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Police | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Sting is the bass voice for the `The Police` pairing label. In the local ranking
 
 ## Andy Summers
 
-Andy Summers is the guitar voice for the `The Police` pairing label. In the local ranking corpus, Andy Summers is treated as an everyone-else guitarist because of chorus-textured voicings, add9 harmony, reggae-rock restraint, atmospheric trio comping. Their core style vocabulary is reggae rock, post-punk, new wave; in this ensemble, that vocabulary is being aimed at reggae rock / post-punk inside the broader The Police lane.
+Andy Summers is a guitarist associated with reggae rock, post-punk, new wave. Musically, the important traits here are chorus-textured voicings, add9 harmony, reggae-rock restraint, atmospheric trio comping. In this ensemble, that language is pointed toward reggae rock / post-punk, with The Police as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Police | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Police | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Andy Summers is the guitar voice for the `The Police` pairing label. In the loca
 
 ## Stewart Copeland
 
-Stewart Copeland appears here as the drums voice for the `The Police` pairing label. In this ensemble context, the important traits are the player's role in reggae rock / post-punk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader The Police lane.
+Stewart Copeland is a drummer whose playing helps shape this music. Listen for how the drum part affects reggae rock / post-punk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is The Police.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Police | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Police | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Stewart Copeland appears here as the drums voice for the `The Police` pairing la
 
 ## Branford Marsalis
 
-Branford Marsalis appears here as the saxophone voice for the `The Police` pairing label. In this ensemble context, the important traits are the player's role in reggae rock / post-punk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader The Police lane.
+Branford Marsalis is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects reggae rock / post-punk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is The Police.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Police | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Police | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

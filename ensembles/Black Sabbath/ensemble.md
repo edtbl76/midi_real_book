@@ -17,20 +17,20 @@ This music lives in the Black Sabbath world: heavy metal / doom metal. Listen fo
 
 ## Geezer Butler
 
-Geezer Butler is the bass voice for the `Black Sabbath` pairing label. In the local ranking corpus, Geezer Butler is treated as an everyone-else bassist because of dark riff movement, blues-metal fills, feel. Their core style vocabulary is heavy metal, doom metal; in this ensemble, that vocabulary is being aimed at heavy metal / doom metal inside the broader Black Sabbath lane.
+Geezer Butler is a bassist associated with heavy metal, doom metal. Musically, the important traits here are dark riff movement, blues-metal fills, feel. In this ensemble, that language is pointed toward heavy metal / doom metal, with Black Sabbath as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Black Sabbath | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Black Sabbath | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Geezer Butler is the bass voice for the `Black Sabbath` pairing label. In the lo
 
 ## Tony Iommi
 
-Tony Iommi is the guitar voice for the `Black Sabbath` pairing label. In the local ranking corpus, Tony Iommi is treated as an everyone-else guitarist because of detuned heavy-metal riff invention, foundational doom/metal vocabulary, vibrato. Their core style vocabulary is heavy metal, doom metal; in this ensemble, that vocabulary is being aimed at heavy metal / doom metal inside the broader Black Sabbath lane.
+Tony Iommi is a guitarist associated with heavy metal, doom metal. Musically, the important traits here are detuned heavy-metal riff invention, foundational doom/metal vocabulary, vibrato. In this ensemble, that language is pointed toward heavy metal / doom metal, with Black Sabbath as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Black Sabbath | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Black Sabbath | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Tony Iommi is the guitar voice for the `Black Sabbath` pairing label. In the loc
 
 ## Bill Ward
 
-Bill Ward appears here as the drums voice for the `Black Sabbath` pairing label. In this ensemble context, the important traits are the player's role in heavy metal / doom metal, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Black Sabbath lane.
+Bill Ward is a drummer whose playing helps shape this music. Listen for how the drum part affects heavy metal / doom metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Black Sabbath.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Black Sabbath | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Black Sabbath | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Bill Ward appears here as the drums voice for the `Black Sabbath` pairing label.
 
 ## Geoff Nicholls
 
-Geoff Nicholls appears here as the keyboards voice for the `Black Sabbath` pairing label. In this ensemble context, the important traits are the player's role in heavy metal / doom metal, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Black Sabbath lane.
+Geoff Nicholls is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects heavy metal / doom metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Black Sabbath.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Black Sabbath | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Black Sabbath | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

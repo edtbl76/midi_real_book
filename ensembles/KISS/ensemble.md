@@ -18,20 +18,20 @@ This music lives in the KISS world: classic rock / glam metal / hard rock. Liste
 
 ## Gene Simmons
 
-Gene Simmons is the bass voice for the `KISS` pairing label. In the local ranking corpus, Gene Simmons is treated as an everyone-else bassist because of arena-rock pulse and simple theatrical support. Their core style vocabulary is hard rock, classic rock; in this ensemble, that vocabulary is being aimed at classic rock / glam metal / hard rock inside the broader KISS lane.
+Gene Simmons is a bassist associated with hard rock, classic rock. Musically, the important traits here are arena-rock pulse and simple theatrical support. In this ensemble, that language is pointed toward classic rock / glam metal / hard rock, with KISS as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | KISS | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | KISS | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Gene Simmons is the bass voice for the `KISS` pairing label. In the local rankin
 
 ## Ace Frehley
 
-Ace Frehley is the guitar voice for the `KISS` pairing label. In the local ranking corpus, Ace Frehley is treated as an everyone-else guitarist because of classic rock melodic phrasing, blues-influenced lead vocabulary. Their core style vocabulary is hard rock, classic rock; in this ensemble, that vocabulary is being aimed at classic rock / glam metal / hard rock inside the broader KISS lane.
+Ace Frehley is a guitarist associated with hard rock, classic rock. Musically, the important traits here are classic rock melodic phrasing, blues-influenced lead vocabulary. In this ensemble, that language is pointed toward classic rock / glam metal / hard rock, with KISS as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | KISS | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | KISS | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Ace Frehley is the guitar voice for the `KISS` pairing label. In the local ranki
 
 ## Vinnie Vincent
 
-Vinnie Vincent is the guitar voice for the `KISS` pairing label. In the local ranking corpus, Vinnie Vincent is treated as a virtuoso guitarist because of high-velocity alternate picking, shred-pop metal technical vocabulary, speed and flash. Their core style vocabulary is hard rock, glam metal, shred; in this ensemble, that vocabulary is being aimed at classic rock / glam metal / hard rock inside the broader KISS lane.
+Vinnie Vincent is a guitarist associated with hard rock, glam metal, shred. Musically, the important traits here are high-velocity alternate picking, shred-pop metal technical vocabulary, speed and flash. In this ensemble, that language is pointed toward classic rock / glam metal / hard rock, with KISS as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | KISS | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | KISS | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Vinnie Vincent is the guitar voice for the `KISS` pairing label. In the local ra
 
 ## Bruce Kulick
 
-Bruce Kulick is the guitar voice for the `KISS` pairing label. In the local ranking corpus, Bruce Kulick is treated as an everyone-else guitarist because of KISS-era melodic rock lead, technically proficient hard rock vocabulary. Their core style vocabulary is hard rock, classic rock; in this ensemble, that vocabulary is being aimed at classic rock / glam metal / hard rock inside the broader KISS lane.
+Bruce Kulick is a guitarist associated with hard rock, classic rock. Musically, the important traits here are KISS-era melodic rock lead, technically proficient hard rock vocabulary. In this ensemble, that language is pointed toward classic rock / glam metal / hard rock, with KISS as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | KISS | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | KISS | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Bruce Kulick is the guitar voice for the `KISS` pairing label. In the local rank
 
 ## Eric Carr
 
-Eric Carr appears here as the drums voice for the `KISS` pairing label. In this ensemble context, the important traits are the player's role in classic rock / glam metal / hard rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader KISS lane.
+Eric Carr is a drummer whose playing helps shape this music. Listen for how the drum part affects classic rock / glam metal / hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is KISS.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | KISS | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | KISS | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

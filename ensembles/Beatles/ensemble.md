@@ -17,20 +17,20 @@ This music lives in the Beatles world: classic rock / pop. Listen for how the pl
 
 ## Paul McCartney
 
-Paul McCartney is the bass voice for the `Beatles` pairing label. In the local ranking corpus, Paul McCartney is treated as an everyone-else bassist because of melodic pop-rock counterpoint and song-serving invention. Their core style vocabulary is rock, pop, pop-rock; in this ensemble, that vocabulary is being aimed at classic rock / pop inside the broader Beatles lane.
+Paul McCartney is a bassist associated with rock, pop, pop-rock. Musically, the important traits here are melodic pop-rock counterpoint and song-serving invention. In this ensemble, that language is pointed toward classic rock / pop, with Beatles as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Beatles | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Beatles | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Paul McCartney is the bass voice for the `Beatles` pairing label. In the local r
 
 ## George Harrison
 
-George Harrison is the guitar voice for the `Beatles` pairing label. In the local ranking corpus, George Harrison is treated as an everyone-else guitarist because of melodic Indian-influenced phrasing, iconic song-serving lead vocabulary. Their core style vocabulary is rock, pop, Indian-influenced; in this ensemble, that vocabulary is being aimed at classic rock / pop inside the broader Beatles lane.
+George Harrison is a guitarist associated with rock, pop, Indian-influenced. Musically, the important traits here are melodic Indian-influenced phrasing, iconic song-serving lead vocabulary. In this ensemble, that language is pointed toward classic rock / pop, with Beatles as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Beatles | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Beatles | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ George Harrison is the guitar voice for the `Beatles` pairing label. In the loca
 
 ## Ringo Starr
 
-Ringo Starr appears here as the drums voice for the `Beatles` pairing label. In this ensemble context, the important traits are the player's role in classic rock / pop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Beatles lane.
+Ringo Starr is a drummer whose playing helps shape this music. Listen for how the drum part affects classic rock / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Beatles.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Beatles | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Beatles | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Ringo Starr appears here as the drums voice for the `Beatles` pairing label. In 
 
 ## Billy Preston
 
-Billy Preston appears here as the keyboards voice for the `Beatles` pairing label. In this ensemble context, the important traits are the player's role in classic rock / pop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Beatles lane.
+Billy Preston is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects classic rock / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Beatles.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Beatles | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Beatles | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

@@ -16,20 +16,20 @@ This music lives in the The Aristocrats world: modern prog fusion / virtuoso roc
 
 ## Bryan Beller
 
-Bryan Beller is the bass voice for the `The Aristocrats` pairing label. In the local ranking corpus, Bryan Beller is treated as a virtuoso bassist because of modern prog-fusion facility, odd-meter rock support, melodic technical bass, virtuoso ensemble precision. Their core style vocabulary is prog fusion, instrumental rock, modern fusion; in this ensemble, that vocabulary is being aimed at modern prog fusion / virtuoso rock inside the broader The Aristocrats lane.
+Bryan Beller is a bassist associated with prog fusion, instrumental rock, modern fusion. Musically, the important traits here are modern prog-fusion facility, odd-meter rock support, melodic technical bass, virtuoso ensemble precision. In this ensemble, that language is pointed toward modern prog fusion / virtuoso rock, with The Aristocrats as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Aristocrats | [Wikipedia][the-aristocrats-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Aristocrats | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Aristocrats | [Wikipedia][the-aristocrats-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Aristocrats | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ Bryan Beller is the bass voice for the `The Aristocrats` pairing label. In the l
 
 ## Guthrie Govan
 
-Guthrie Govan is the guitar voice for the `The Aristocrats` pairing label. In the local ranking corpus, Guthrie Govan is treated as a virtuoso guitarist because of complete modern vocabulary, improvisation, technique, stylistic range. Their core style vocabulary is modern fusion, rock, prog, country, funk; in this ensemble, that vocabulary is being aimed at modern prog fusion / virtuoso rock inside the broader The Aristocrats lane.
+Guthrie Govan is a guitarist associated with modern fusion, rock, prog, country, funk. Musically, the important traits here are complete modern vocabulary, improvisation, technique, stylistic range. In this ensemble, that language is pointed toward modern prog fusion / virtuoso rock, with The Aristocrats as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Aristocrats | [Wikipedia][the-aristocrats-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Aristocrats | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Aristocrats | [Wikipedia][the-aristocrats-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Aristocrats | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Guthrie Govan is the guitar voice for the `The Aristocrats` pairing label. In th
 
 ## Marco Minnemann
 
-Marco Minnemann appears here as the drums voice for the `The Aristocrats` pairing label. In this ensemble context, the important traits are the player's role in modern prog fusion / virtuoso rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader The Aristocrats lane.
+Marco Minnemann is a drummer whose playing helps shape this music. Listen for how the drum part affects modern prog fusion / virtuoso rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is The Aristocrats.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Aristocrats | [Wikipedia][the-aristocrats-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Aristocrats | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Aristocrats | [Wikipedia][the-aristocrats-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Aristocrats | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

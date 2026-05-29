@@ -18,20 +18,20 @@ This music is centered on Pat Metheny Group: jazz fusion. Listen for the musical
 
 ## Jaco Pastorius
 
-Jaco Pastorius is the bass voice for the `Pat Metheny Group` pairing label. In the local ranking corpus, Jaco Pastorius is treated as a virtuoso bassist because of fretless jazz-fusion language, harmonics, melodic improvisation. Their core style vocabulary is jazz fusion, electric jazz; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader Weather Report / Joni Mitchell / Pat Metheny Group lane.
+Jaco Pastorius is a bassist associated with jazz fusion, electric jazz. Musically, the important traits here are fretless jazz-fusion language, harmonics, melodic improvisation. In this ensemble, that language is pointed toward jazz fusion, with Weather Report / Joni Mitchell / Pat Metheny Group as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Jaco Pastorius is the bass voice for the `Pat Metheny Group` pairing label. In t
 
 ## Pat Metheny
 
-Pat Metheny is the guitar voice for the `Pat Metheny Group` pairing label. In the local ranking corpus, Pat Metheny is treated as a virtuoso guitarist because of jazz harmonic mastery, melodic invention, technical fluency, broad stylistic command. Their core style vocabulary is jazz, jazz fusion, progressive jazz, world; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader Weather Report / Joni Mitchell / Pat Metheny Group lane.
+Pat Metheny is a guitarist associated with jazz, jazz fusion, progressive jazz, world. Musically, the important traits here are jazz harmonic mastery, melodic invention, technical fluency, broad stylistic command. In this ensemble, that language is pointed toward jazz fusion, with Weather Report / Joni Mitchell / Pat Metheny Group as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Pat Metheny is the guitar voice for the `Pat Metheny Group` pairing label. In th
 
 ## Peter Erskine
 
-Peter Erskine appears here as the drums voice for the `Pat Metheny Group` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Weather Report / Joni Mitchell / Pat Metheny Group lane.
+Peter Erskine is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Weather Report / Joni Mitchell / Pat Metheny Group.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Peter Erskine appears here as the drums voice for the `Pat Metheny Group` pairin
 
 ## Joe Zawinul
 
-Joe Zawinul appears here as the keyboards voice for the `Pat Metheny Group` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Weather Report / Joni Mitchell / Pat Metheny Group lane.
+Joe Zawinul is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Weather Report / Joni Mitchell / Pat Metheny Group.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Joe Zawinul appears here as the keyboards voice for the `Pat Metheny Group` pair
 
 ## Wayne Shorter
 
-Wayne Shorter appears here as the saxophone voice for the `Pat Metheny Group` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Weather Report / Joni Mitchell / Pat Metheny Group lane.
+Wayne Shorter is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Weather Report / Joni Mitchell / Pat Metheny Group.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

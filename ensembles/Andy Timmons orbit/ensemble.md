@@ -16,20 +16,20 @@ This music is centered on Andy Timmons orbit: modern melodic rock / session rock
 
 ## Mike Daane
 
-Mike Daane is the bass voice for the `Andy Timmons orbit` pairing label. In the local ranking corpus, Mike Daane is treated as an everyone-else bassist because of lyrical modern-rock support and melodic restraint. Their core style vocabulary is rock, modern rock; in this ensemble, that vocabulary is being aimed at modern melodic rock / session rock inside the broader Andy Timmons orbit lane.
+Mike Daane is a bassist associated with rock, modern rock. Musically, the important traits here are lyrical modern-rock support and melodic restraint. In this ensemble, that language is pointed toward modern melodic rock / session rock, with Andy Timmons orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Andy Timmons orbit | [Wikipedia][andy-timmons-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Andy Timmons orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Andy Timmons orbit | [Wikipedia][andy-timmons-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Andy Timmons orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ Mike Daane is the bass voice for the `Andy Timmons orbit` pairing label. In the 
 
 ## Andy Timmons
 
-Andy Timmons is the guitar voice for the `Andy Timmons orbit` pairing label. In the local ranking corpus, Andy Timmons is treated as a virtuoso guitarist because of elite legato fluency, hybrid picking precision, clean high-speed articulation, melodic command. Their core style vocabulary is rock, fusion, instrumental rock; in this ensemble, that vocabulary is being aimed at modern melodic rock / session rock inside the broader Andy Timmons orbit lane.
+Andy Timmons is a guitarist associated with rock, fusion, instrumental rock. Musically, the important traits here are elite legato fluency, hybrid picking precision, clean high-speed articulation, melodic command. In this ensemble, that language is pointed toward modern melodic rock / session rock, with Andy Timmons orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Andy Timmons orbit | [Wikipedia][andy-timmons-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Andy Timmons orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Andy Timmons orbit | [Wikipedia][andy-timmons-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Andy Timmons orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Andy Timmons is the guitar voice for the `Andy Timmons orbit` pairing label. In 
 
 ## Brannen Temple
 
-Brannen Temple appears here as the drums voice for the `Andy Timmons orbit` pairing label. In this ensemble context, the important traits are the player's role in modern melodic rock / session rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Andy Timmons orbit lane.
+Brannen Temple is a drummer whose playing helps shape this music. Listen for how the drum part affects modern melodic rock / session rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Andy Timmons orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Andy Timmons orbit | [Wikipedia][andy-timmons-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Andy Timmons orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Andy Timmons orbit | [Wikipedia][andy-timmons-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Andy Timmons orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

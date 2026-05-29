@@ -16,20 +16,20 @@ This music lives in the Queen world: classic rock / art rock. Listen for how the
 
 ## John Deacon
 
-John Deacon is the bass voice for the `Queen` pairing label. In the local ranking corpus, John Deacon is treated as an everyone-else bassist because of melodic song-serving rock bass, economical pocket, Queen arrangement awareness. Their core style vocabulary is classic rock, art rock, pop-rock; in this ensemble, that vocabulary is being aimed at classic rock / art rock inside the broader Queen lane.
+John Deacon is a bassist associated with classic rock, art rock, pop-rock. Musically, the important traits here are melodic song-serving rock bass, economical pocket, Queen arrangement awareness. In this ensemble, that language is pointed toward classic rock / art rock, with Queen as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Queen | [Wikipedia][queen-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Queen | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Queen | [Wikipedia][queen-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Queen | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ John Deacon is the bass voice for the `Queen` pairing label. In the local rankin
 
 ## Brian May
 
-Brian May is the guitar voice for the `Queen` pairing label. In the local ranking corpus, Brian May is treated as an everyone-else guitarist because of harmonized multi-track layering, treble booster tone, melodic sustained lead. Their core style vocabulary is hard rock, classic rock; in this ensemble, that vocabulary is being aimed at classic rock / art rock inside the broader Queen lane.
+Brian May is a guitarist associated with hard rock, classic rock. Musically, the important traits here are harmonized multi-track layering, treble booster tone, melodic sustained lead. In this ensemble, that language is pointed toward classic rock / art rock, with Queen as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Queen | [Wikipedia][queen-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Queen | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Queen | [Wikipedia][queen-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Queen | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Brian May is the guitar voice for the `Queen` pairing label. In the local rankin
 
 ## Roger Taylor
 
-Roger Taylor appears here as the drums voice for the `Queen` pairing label. In this ensemble context, the important traits are the player's role in classic rock / art rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Queen lane.
+Roger Taylor is a drummer whose playing helps shape this music. Listen for how the drum part affects classic rock / art rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Queen.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Queen | [Wikipedia][queen-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Queen | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Queen | [Wikipedia][queen-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Queen | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

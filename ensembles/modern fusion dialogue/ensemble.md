@@ -18,20 +18,20 @@ This music is centered on modern fusion dialogue: modern fusion. Listen for the 
 
 ## Matt Garrison
 
-Matt Garrison is the bass voice for the `modern fusion dialogue` pairing label. In the local ranking corpus, Matt Garrison is treated as a virtuoso bassist because of modern fusion vocabulary, extended range, melodic/rhythmic sophistication. Their core style vocabulary is jazz fusion, modern fusion; in this ensemble, that vocabulary is being aimed at modern fusion inside the broader Herbie Hancock / John McLaughlin / Garrison family lane.
+Matt Garrison is a bassist associated with jazz fusion, modern fusion. Musically, the important traits here are modern fusion vocabulary, extended range, melodic/rhythmic sophistication. In this ensemble, that language is pointed toward modern fusion, with Herbie Hancock / John McLaughlin / Garrison family as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Matt Garrison is the bass voice for the `modern fusion dialogue` pairing label. 
 
 ## Greg Howe
 
-Greg Howe is the guitar voice for the `modern fusion dialogue` pairing label. In the local ranking corpus, Greg Howe is treated as a virtuoso guitarist because of legato fusion-rock language, rhythmic sequencing, high-speed phrasing. Their core style vocabulary is rock, fusion, jazz-rock; in this ensemble, that vocabulary is being aimed at modern fusion inside the broader Herbie Hancock / John McLaughlin / Garrison family lane.
+Greg Howe is a guitarist associated with rock, fusion, jazz-rock. Musically, the important traits here are legato fusion-rock language, rhythmic sequencing, high-speed phrasing. In this ensemble, that language is pointed toward modern fusion, with Herbie Hancock / John McLaughlin / Garrison family as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Greg Howe is the guitar voice for the `modern fusion dialogue` pairing label. In
 
 ## Gene Lake
 
-Gene Lake appears here as the drums voice for the `modern fusion dialogue` pairing label. In this ensemble context, the important traits are the player's role in modern fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Herbie Hancock / John McLaughlin / Garrison family lane.
+Gene Lake is a drummer whose playing helps shape this music. Listen for how the drum part affects modern fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Herbie Hancock / John McLaughlin / Garrison family.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Gene Lake appears here as the drums voice for the `modern fusion dialogue` pairi
 
 ## Herbie Hancock
 
-Herbie Hancock appears here as the keyboards voice for the `modern fusion dialogue` pairing label. In this ensemble context, the important traits are the player's role in modern fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Herbie Hancock / John McLaughlin / Garrison family lane.
+Herbie Hancock is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Herbie Hancock / John McLaughlin / Garrison family.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Herbie Hancock appears here as the keyboards voice for the `modern fusion dialog
 
 ## Ravi Coltrane
 
-Ravi Coltrane appears here as the saxophone voice for the `modern fusion dialogue` pairing label. In this ensemble context, the important traits are the player's role in modern fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Herbie Hancock / John McLaughlin / Garrison family lane.
+Ravi Coltrane is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Herbie Hancock / John McLaughlin / Garrison family.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

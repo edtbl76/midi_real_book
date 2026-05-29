@@ -19,20 +19,20 @@ This music is centered on David Lee Roth band: hard rock / shred. Listen for the
 
 ## Billy Sheehan
 
-Billy Sheehan is the bass voice for the `David Lee Roth band` pairing label. In the local ranking corpus, Billy Sheehan is treated as a virtuoso bassist because of hard-rock shred bass, three-finger speed, tapping, lead-bass phrasing. Their core style vocabulary is hard rock, rock, shred; in this ensemble, that vocabulary is being aimed at hard rock / shred inside the broader Mr. Big / David Lee Roth / Shrapnel orbit lane.
+Billy Sheehan is a bassist associated with hard rock, rock, shred. Musically, the important traits here are hard-rock shred bass, three-finger speed, tapping, lead-bass phrasing. In this ensemble, that language is pointed toward hard rock / shred, with Mr. Big / David Lee Roth / Shrapnel orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,14 +51,14 @@ Billy Sheehan is the bass voice for the `David Lee Roth band` pairing label. In 
 
 ## Steve Vai
 
-American guitarist who emerged from Frank Zappa's band before becoming a major virtuoso rock solo artist. In this `David Lee Roth band` ensemble, the focus is guitar function inside hard rock / shred: how the player supports, contrasts, or defines the pairing vocabulary. The broad biographical frame is Long Island, New York, active mainly from late 1970s-present, with styles centered on virtuoso rock, Zappa-style reading, whammy phrasing, shred.
+American guitarist who emerged from Frank Zappa's band before becoming a major virtuoso rock solo artist. In this `David Lee Roth band` ensemble, the focus is guitar function inside hard rock / shred: how the player supports, contrasts, or defines the ensemble sound. The broad biographical frame is Long Island, New York, active mainly from late 1970s-present, with styles centered on virtuoso rock, Zappa-style reading, whammy phrasing, shred.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
@@ -84,20 +84,20 @@ American guitarist who emerged from Frank Zappa's band before becoming a major v
 
 ## Paul Gilbert
 
-Paul Gilbert is the guitar voice for the `David Lee Roth band` pairing label. In the local ranking corpus, Paul Gilbert is treated as a virtuoso guitarist because of right-hand alternate picking precision, string skipping, high-velocity articulation, clean speed and stamina. Their core style vocabulary is rock, shred, instrumental rock, hard rock; in this ensemble, that vocabulary is being aimed at hard rock / shred inside the broader Mr. Big / David Lee Roth / Shrapnel orbit lane.
+Paul Gilbert is a guitarist associated with rock, shred, instrumental rock, hard rock. Musically, the important traits here are right-hand alternate picking precision, string skipping, high-velocity articulation, clean speed and stamina. In this ensemble, that language is pointed toward hard rock / shred, with Mr. Big / David Lee Roth / Shrapnel orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -116,20 +116,20 @@ Paul Gilbert is the guitar voice for the `David Lee Roth band` pairing label. In
 
 ## Jason Becker
 
-Jason Becker is the guitar voice for the `David Lee Roth band` pairing label. In the local ranking corpus, Jason Becker is treated as a virtuoso guitarist because of neoclassical shred precision, speed and clarity, classical phrasing, elite alternate picking. Their core style vocabulary is neoclassical metal, shred, rock; in this ensemble, that vocabulary is being aimed at hard rock / shred inside the broader Mr. Big / David Lee Roth / Shrapnel orbit lane.
+Jason Becker is a guitarist associated with neoclassical metal, shred, rock. Musically, the important traits here are neoclassical shred precision, speed and clarity, classical phrasing, elite alternate picking. In this ensemble, that language is pointed toward hard rock / shred, with Mr. Big / David Lee Roth / Shrapnel orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -148,20 +148,20 @@ Jason Becker is the guitar voice for the `David Lee Roth band` pairing label. In
 
 ## Mike Mangini
 
-Mike Mangini appears here as the drums voice for the `David Lee Roth band` pairing label. In this ensemble context, the important traits are the player's role in hard rock / shred, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Mr. Big / David Lee Roth / Shrapnel orbit lane.
+Mike Mangini is a drummer whose drum role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The broader listening world is Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -180,20 +180,20 @@ Mike Mangini appears here as the drums voice for the `David Lee Roth band` pairi
 
 ## Michael Keneally
 
-Michael Keneally appears here as the keyboards voice for the `David Lee Roth band` pairing label. In this ensemble context, the important traits are the player's role in hard rock / shred, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Mr. Big / David Lee Roth / Shrapnel orbit lane.
+Michael Keneally is a keyboard player whose keyboard role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The broader listening world is Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

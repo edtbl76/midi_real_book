@@ -16,20 +16,20 @@ This music lives in the Rush world: progressive rock. Listen for how the players
 
 ## Geddy Lee
 
-Geddy Lee is the bass voice for the `Rush` pairing label. In the local ranking corpus, Geddy Lee is treated as a virtuoso bassist because of progressive-rock independence, odd-meter drive, vocal/instrument split. Their core style vocabulary is progressive rock, hard rock; in this ensemble, that vocabulary is being aimed at progressive rock inside the broader Rush lane.
+Geddy Lee is a bassist associated with progressive rock, hard rock. Musically, the important traits here are progressive-rock independence, odd-meter drive, vocal/instrument split. In this ensemble, that language is pointed toward progressive rock, with Rush as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Rush | [Wikipedia][rush-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Rush | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Rush | [Wikipedia][rush-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Rush | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ Geddy Lee is the bass voice for the `Rush` pairing label. In the local ranking c
 
 ## Alex Lifeson
 
-Alex Lifeson is the guitar voice for the `Rush` pairing label. In the local ranking corpus, Alex Lifeson is treated as an everyone-else guitarist because of prog-rock rhythm complexity, chord voicing sophistication, wide stylistic range. Their core style vocabulary is progressive rock, hard rock; in this ensemble, that vocabulary is being aimed at progressive rock inside the broader Rush lane.
+Alex Lifeson is a guitarist associated with progressive rock, hard rock. Musically, the important traits here are prog-rock rhythm complexity, chord voicing sophistication, wide stylistic range. In this ensemble, that language is pointed toward progressive rock, with Rush as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Rush | [Wikipedia][rush-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Rush | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Rush | [Wikipedia][rush-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Rush | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Alex Lifeson is the guitar voice for the `Rush` pairing label. In the local rank
 
 ## Neil Peart
 
-Neil Peart appears here as the drums voice for the `Rush` pairing label. In this ensemble context, the important traits are the player's role in progressive rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Rush lane.
+Neil Peart is a drummer whose playing helps shape this music. Listen for how the drum part affects progressive rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Rush.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Rush | [Wikipedia][rush-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Rush | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Rush | [Wikipedia][rush-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Rush | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

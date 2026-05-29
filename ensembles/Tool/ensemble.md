@@ -16,20 +16,20 @@ This music lives in the Tool world: progressive metal. Listen for how the player
 
 ## Justin Chancellor
 
-Justin Chancellor is the bass voice for the `Tool` pairing label. In the local ranking corpus, Justin Chancellor is treated as a virtuoso bassist because of odd-meter pattern development, hypnotic prog precision, complex polyrhythmic control. Their core style vocabulary is progressive metal, alternative metal; in this ensemble, that vocabulary is being aimed at progressive metal inside the broader Tool lane.
+Justin Chancellor is a bassist associated with progressive metal, alternative metal. Musically, the important traits here are odd-meter pattern development, hypnotic prog precision, complex polyrhythmic control. In this ensemble, that language is pointed toward progressive metal, with Tool as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Tool | [Wikipedia][tool-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Tool | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Tool | [Wikipedia][tool-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Tool | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ Justin Chancellor is the bass voice for the `Tool` pairing label. In the local r
 
 ## Adam Jones
 
-Adam Jones is the guitar voice for the `Tool` pairing label. In the local ranking corpus, Adam Jones is treated as an everyone-else guitarist because of odd-meter riff architecture, atmospheric layering, dynamics command. Their core style vocabulary is progressive metal, alternative metal; in this ensemble, that vocabulary is being aimed at progressive metal inside the broader Tool lane.
+Adam Jones is a guitarist associated with progressive metal, alternative metal. Musically, the important traits here are odd-meter riff architecture, atmospheric layering, dynamics command. In this ensemble, that language is pointed toward progressive metal, with Tool as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Tool | [Wikipedia][tool-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Tool | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Tool | [Wikipedia][tool-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Tool | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Adam Jones is the guitar voice for the `Tool` pairing label. In the local rankin
 
 ## Danny Carey
 
-Danny Carey appears here as the drums voice for the `Tool` pairing label. In this ensemble context, the important traits are the player's role in progressive metal, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Tool lane.
+Danny Carey is a drummer whose playing helps shape this music. Listen for how the drum part affects progressive metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Tool.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Tool | [Wikipedia][tool-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Tool | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Tool | [Wikipedia][tool-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Tool | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

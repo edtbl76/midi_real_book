@@ -18,20 +18,20 @@ This music lives in the Genesis world: art prog. Listen for how the players buil
 
 ## Mike Rutherford
 
-Mike Rutherford is the bass voice for the `Genesis` pairing label. In the local ranking corpus, Mike Rutherford is treated as an everyone-else bassist because of art-prog architecture and restrained melodic support. Their core style vocabulary is progressive rock, art rock; in this ensemble, that vocabulary is being aimed at art prog inside the broader Genesis lane.
+Mike Rutherford is a bassist associated with progressive rock, art rock. Musically, the important traits here are art-prog architecture and restrained melodic support. In this ensemble, that language is pointed toward art prog, with Genesis as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Genesis | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Genesis | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Mike Rutherford is the bass voice for the `Genesis` pairing label. In the local 
 
 ## Steve Hackett
 
-Steve Hackett is the guitar voice for the `Genesis` pairing label. In the local ranking corpus, Steve Hackett is treated as an everyone-else guitarist because of classical fingerstyle foundation, acoustic-electric texture, prog-rock atmospheric phrasing. Their core style vocabulary is progressive rock, classical, folk; in this ensemble, that vocabulary is being aimed at art prog inside the broader Genesis lane.
+Steve Hackett is a guitarist associated with progressive rock, classical, folk. Musically, the important traits here are classical fingerstyle foundation, acoustic-electric texture, prog-rock atmospheric phrasing. In this ensemble, that language is pointed toward art prog, with Genesis as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Genesis | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Genesis | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Steve Hackett is the guitar voice for the `Genesis` pairing label. In the local 
 
 ## Phil Collins
 
-Phil Collins appears here as the drums voice for the `Genesis` pairing label. In this ensemble context, the important traits are the player's role in art prog, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Genesis lane.
+Phil Collins is a drummer whose playing helps shape this music. Listen for how the drum part affects art prog: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Genesis.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Genesis | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Genesis | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Phil Collins appears here as the drums voice for the `Genesis` pairing label. In
 
 ## Tony Banks
 
-Tony Banks appears here as the keyboards voice for the `Genesis` pairing label. In this ensemble context, the important traits are the player's role in art prog, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Genesis lane.
+Tony Banks is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects art prog: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Genesis.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Genesis | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Genesis | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Tony Banks appears here as the keyboards voice for the `Genesis` pairing label. 
 
 ## Peter Gabriel
 
-Peter Gabriel appears here as the flute voice for the `Genesis` pairing label. In this ensemble context, the important traits are the player's role in art prog, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Genesis lane.
+Peter Gabriel is a flute player whose playing helps shape this music. Listen for how the flute part affects art prog: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Genesis.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Genesis | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Genesis | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Flute | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Flute | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

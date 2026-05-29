@@ -17,20 +17,20 @@ This music is centered on UZEB fusion: fretless jazz fusion / electric fusion ci
 
 ## Alain Caron
 
-Alain Caron is the bass voice for the `UZEB fusion` pairing label. In the local ranking corpus, Alain Caron is treated as a virtuoso bassist because of fretless 6-string mastery, jazz-fusion harmonic language, clean melodic execution. Their core style vocabulary is jazz fusion, fusion, electric jazz; in this ensemble, that vocabulary is being aimed at fretless jazz fusion / electric fusion circuit inside the broader UZEB lane.
+Alain Caron is a bassist associated with jazz fusion, fusion, electric jazz. Musically, the important traits here are fretless 6-string mastery, jazz-fusion harmonic language, clean melodic execution. In this ensemble, that language is pointed toward fretless jazz fusion / electric fusion circuit, with UZEB as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | UZEB | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | UZEB | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Alain Caron is the bass voice for the `UZEB fusion` pairing label. In the local 
 
 ## Mike Stern
 
-Mike Stern is the guitar voice for the `UZEB fusion` pairing label. In the local ranking corpus, Mike Stern is treated as a virtuoso guitarist because of bebop/jazz-fusion articulation, right-hand precision, harmonic language, improvisational command. Their core style vocabulary is jazz fusion, fusion rock, bebop; in this ensemble, that vocabulary is being aimed at fretless jazz fusion / electric fusion circuit inside the broader UZEB lane.
+Mike Stern is a guitarist associated with jazz fusion, fusion rock, bebop. Musically, the important traits here are bebop/jazz-fusion articulation, right-hand precision, harmonic language, improvisational command. In this ensemble, that language is pointed toward fretless jazz fusion / electric fusion circuit, with UZEB as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | UZEB | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | UZEB | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Mike Stern is the guitar voice for the `UZEB fusion` pairing label. In the local
 
 ## Frank Gambale
 
-Frank Gambale is the guitar voice for the `UZEB fusion` pairing label. In the local ranking corpus, Frank Gambale is treated as a virtuoso guitarist because of sweep/economy-picking mastery, harmonic fluency, jazz/fusion command. Their core style vocabulary is jazz fusion, fusion rock, progressive rock; in this ensemble, that vocabulary is being aimed at fretless jazz fusion / electric fusion circuit inside the broader UZEB lane.
+Frank Gambale is a guitarist associated with jazz fusion, fusion rock, progressive rock. Musically, the important traits here are sweep/economy-picking mastery, harmonic fluency, jazz/fusion command. In this ensemble, that language is pointed toward fretless jazz fusion / electric fusion circuit, with UZEB as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | UZEB | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | UZEB | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Frank Gambale is the guitar voice for the `UZEB fusion` pairing label. In the lo
 
 ## Paul Brochu
 
-Paul Brochu appears here as the drums voice for the `UZEB fusion` pairing label. In this ensemble context, the important traits are the player's role in fretless jazz fusion / electric fusion circuit, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader UZEB lane.
+Paul Brochu is a drummer whose playing helps shape this music. Listen for how the drum part affects fretless jazz fusion / electric fusion circuit: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is UZEB.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | UZEB | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | UZEB | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

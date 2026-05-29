@@ -17,20 +17,20 @@ This music is centered on Billy Idol: hard rock / arena rock. Listen for the mus
 
 ## Michael Anthony
 
-Michael Anthony is the bass voice for the `Billy Idol` pairing label. In the local ranking corpus, Michael Anthony is treated as an everyone-else bassist because of supportive hard-rock pocket and vocal/bass coordination. Their core style vocabulary is hard rock, rock; in this ensemble, that vocabulary is being aimed at hard rock / arena rock inside the broader Van Halen / Billy Idol lane.
+Michael Anthony is a bassist associated with hard rock, rock. Musically, the important traits here are supportive hard-rock pocket and vocal/bass coordination. In this ensemble, that language is pointed toward hard rock / arena rock, with Van Halen / Billy Idol as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Van Halen / Billy Idol | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Van Halen / Billy Idol | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Michael Anthony is the bass voice for the `Billy Idol` pairing label. In the loc
 
 ## Eddie Van Halen
 
-Eddie Van Halen is the guitar voice for the `Billy Idol` pairing label. In the local ranking corpus, Eddie Van Halen is treated as a virtuoso guitarist because of two-hand tapping pioneer, whammy bar mastery, right-hand speed and precision, revolutionary rock vocabulary. Their core style vocabulary is hard rock, heavy metal; in this ensemble, that vocabulary is being aimed at hard rock / arena rock inside the broader Van Halen / Billy Idol lane.
+Eddie Van Halen is a guitarist associated with hard rock, heavy metal. Musically, the important traits here are two-hand tapping pioneer, whammy bar mastery, right-hand speed and precision, revolutionary rock vocabulary. In this ensemble, that language is pointed toward hard rock / arena rock, with Van Halen / Billy Idol as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Van Halen / Billy Idol | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Van Halen / Billy Idol | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Eddie Van Halen is the guitar voice for the `Billy Idol` pairing label. In the l
 
 ## Steve Stevens
 
-Steve Stevens is the guitar voice for the `Billy Idol` pairing label. In the local ranking corpus, Steve Stevens is treated as an everyone-else guitarist because of melodic rock lead, orchestral layering, vibrato bar vocabulary. Their core style vocabulary is hard rock, rock; in this ensemble, that vocabulary is being aimed at hard rock / arena rock inside the broader Van Halen / Billy Idol lane.
+Steve Stevens is a guitarist associated with hard rock, rock. Musically, the important traits here are melodic rock lead, orchestral layering, vibrato bar vocabulary. In this ensemble, that language is pointed toward hard rock / arena rock, with Van Halen / Billy Idol as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Van Halen / Billy Idol | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Van Halen / Billy Idol | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Steve Stevens is the guitar voice for the `Billy Idol` pairing label. In the loc
 
 ## Alex Van Halen
 
-Alex Van Halen appears here as the drums voice for the `Billy Idol` pairing label. In this ensemble context, the important traits are the player's role in hard rock / arena rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Van Halen / Billy Idol lane.
+Alex Van Halen is a drummer whose playing helps shape this music. Listen for how the drum part affects hard rock / arena rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Van Halen / Billy Idol.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Van Halen / Billy Idol | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Van Halen / Billy Idol | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

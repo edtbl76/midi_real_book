@@ -19,20 +19,20 @@ This music is centered on Stax: soul / R&B. Listen for the musical conversation:
 
 ## James Jamerson
 
-James Jamerson is the bass voice for the `Stax` pairing label. In the local ranking corpus, James Jamerson is treated as an everyone-else bassist because of melodic pocket, chromatic Motown vocabulary, feel. Their core style vocabulary is soul, R&B, Motown; in this ensemble, that vocabulary is being aimed at soul / R&B inside the broader Motown / Stax lane.
+James Jamerson is a bassist associated with soul, R&B, Motown. Musically, the important traits here are melodic pocket, chromatic Motown vocabulary, feel. In this ensemble, that language is pointed toward soul / R&B, with Motown / Stax as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Motown / Stax | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Motown / Stax | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ James Jamerson is the bass voice for the `Stax` pairing label. In the local rank
 
 ## Dennis Coffey
 
-Dennis Coffey is the guitar voice for the `Stax` pairing label. In the local ranking corpus, Dennis Coffey is treated as an everyone-else guitarist because of Motown studio rhythm, wah-funk technique. Their core style vocabulary is soul, funk, R&B session; in this ensemble, that vocabulary is being aimed at soul / R&B inside the broader Motown / Stax lane.
+Dennis Coffey is a guitarist associated with soul, funk, R&B session. Musically, the important traits here are Motown studio rhythm, wah-funk technique. In this ensemble, that language is pointed toward soul / R&B, with Motown / Stax as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Motown / Stax | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Motown / Stax | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Dennis Coffey is the guitar voice for the `Stax` pairing label. In the local ran
 
 ## Steve Cropper
 
-Steve Cropper is the guitar voice for the `Stax` pairing label. In the local ranking corpus, Steve Cropper is treated as an everyone-else guitarist because of Stax R&B rhythm technique, tasteful minimal lead. Their core style vocabulary is R&B, soul, rock; in this ensemble, that vocabulary is being aimed at soul / R&B inside the broader Motown / Stax lane.
+Steve Cropper is a guitarist associated with R&B, soul, rock. Musically, the important traits here are Stax R&B rhythm technique, tasteful minimal lead. In this ensemble, that language is pointed toward soul / R&B, with Motown / Stax as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Motown / Stax | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Motown / Stax | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Steve Cropper is the guitar voice for the `Stax` pairing label. In the local ran
 
 ## Benny Benjamin
 
-Benny Benjamin appears here as the drums voice for the `Stax` pairing label. In this ensemble context, the important traits are the player's role in soul / R&B, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Motown / Stax lane.
+Benny Benjamin is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / R&B: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Motown / Stax.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Motown / Stax | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Motown / Stax | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Benny Benjamin appears here as the drums voice for the `Stax` pairing label. In 
 
 ## Earl Van Dyke
 
-Earl Van Dyke appears here as the keyboards voice for the `Stax` pairing label. In this ensemble context, the important traits are the player's role in soul / R&B, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Motown / Stax lane.
+Earl Van Dyke is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / R&B: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Motown / Stax.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Motown / Stax | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Motown / Stax | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Earl Van Dyke appears here as the keyboards voice for the `Stax` pairing label. 
 
 ## Jack Ashford
 
-Jack Ashford appears here as the percussion voice for the `Stax` pairing label. In this ensemble context, the important traits are the player's role in soul / R&B, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Motown / Stax lane.
+Jack Ashford is a percussionist whose playing helps shape this music. Listen for how the percussion part affects soul / R&B: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Motown / Stax.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Motown / Stax | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stax | [Wikipedia][stax-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Motown / Stax | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Percussion | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Percussion | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

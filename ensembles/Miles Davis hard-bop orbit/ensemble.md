@@ -18,20 +18,20 @@ This music is centered on Miles Davis hard-bop orbit: hard bop / blues / soul ja
 
 ## Paul Chambers
 
-Paul Chambers is the bass voice for the `Miles Davis hard-bop orbit` pairing label. In the local ranking corpus, Paul Chambers is treated as an everyone-else bassist because of hard-bop walking authority, arco features, blues forms, chromatic approaches, steady quarter-note propulsion. Their core style vocabulary is hard bop, bebop, modal jazz, blues; in this ensemble, that vocabulary is being aimed at hard bop / blues / soul jazz inside the broader Miles Davis Quintet / Jazz Messengers lane.
+Paul Chambers is a bassist associated with hard bop, bebop, modal jazz, blues. Musically, the important traits here are hard-bop walking authority, arco features, blues forms, chromatic approaches, steady quarter-note propulsion. In this ensemble, that language is pointed toward hard bop / blues / soul jazz, with Miles Davis Quintet / Jazz Messengers as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Paul Chambers is the bass voice for the `Miles Davis hard-bop orbit` pairing lab
 
 ## Wes Montgomery
 
-Wes Montgomery is the guitar voice for the `Miles Davis hard-bop orbit` pairing label. In the local ranking corpus, Wes Montgomery is treated as a still damn good guitarist because of octave technique, thumb articulation, hard-bop swing, chord-solo vocabulary. Their core style vocabulary is jazz, hard bop, soul jazz; in this ensemble, that vocabulary is being aimed at hard bop / blues / soul jazz inside the broader Miles Davis Quintet / Jazz Messengers lane.
+Wes Montgomery is a guitarist associated with jazz, hard bop, soul jazz. Musically, the important traits here are octave technique, thumb articulation, hard-bop swing, chord-solo vocabulary. In this ensemble, that language is pointed toward hard bop / blues / soul jazz, with Miles Davis Quintet / Jazz Messengers as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Wes Montgomery is the guitar voice for the `Miles Davis hard-bop orbit` pairing 
 
 ## Art Blakey
 
-Art Blakey appears here as the drums voice for the `Miles Davis hard-bop orbit` pairing label. In this ensemble context, the important traits are the player's role in hard bop / blues / soul jazz, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Miles Davis Quintet / Jazz Messengers lane.
+Art Blakey is a drummer whose playing helps shape this music. Listen for how the drum part affects hard bop / blues / soul jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis Quintet / Jazz Messengers.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Art Blakey appears here as the drums voice for the `Miles Davis hard-bop orbit` 
 
 ## Red Garland
 
-Red Garland appears here as the keyboards voice for the `Miles Davis hard-bop orbit` pairing label. In this ensemble context, the important traits are the player's role in hard bop / blues / soul jazz, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Miles Davis Quintet / Jazz Messengers lane.
+Red Garland is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects hard bop / blues / soul jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis Quintet / Jazz Messengers.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Red Garland appears here as the keyboards voice for the `Miles Davis hard-bop or
 
 ## Miles Davis
 
-Miles Davis appears here as the trumpet voice for the `Miles Davis hard-bop orbit` pairing label. In this ensemble context, the important traits are the player's role in hard bop / blues / soul jazz, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Miles Davis Quintet / Jazz Messengers lane.
+Miles Davis is a trumpeter whose playing helps shape this music. Listen for how the trumpet part affects hard bop / blues / soul jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis Quintet / Jazz Messengers.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Trumpet | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Trumpet | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

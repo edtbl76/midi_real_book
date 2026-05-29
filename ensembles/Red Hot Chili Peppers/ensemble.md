@@ -17,20 +17,20 @@ This music is centered on Red Hot Chili Peppers: funk rock / alternative. Listen
 
 ## Flea
 
-Flea is the bass voice for the `Red Hot Chili Peppers` pairing label. In the local ranking corpus, Flea is treated as a virtuoso bassist because of explosive funk-rock slap/fingerstyle vocabulary and athletic phrasing. Their core style vocabulary is rock, funk-rock, alternative; in this ensemble, that vocabulary is being aimed at funk rock / alternative inside the broader Red Hot Chili Peppers lane.
+Flea is a bassist associated with rock, funk-rock, alternative. Musically, the important traits here are explosive funk-rock slap/fingerstyle vocabulary and athletic phrasing. In this ensemble, that language is pointed toward funk rock / alternative, with Red Hot Chili Peppers as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Red Hot Chili Peppers | [Wikipedia][red-hot-chili-peppers-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Red Hot Chili Peppers | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Red Hot Chili Peppers | [Wikipedia][red-hot-chili-peppers-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Red Hot Chili Peppers | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Flea is the bass voice for the `Red Hot Chili Peppers` pairing label. In the loc
 
 ## John Frusciante
 
-John Frusciante is the guitar voice for the `Red Hot Chili Peppers` pairing label. In the local ranking corpus, John Frusciante is treated as an everyone-else guitarist because of rhythmic/lead integration, RHCP funk-rock vocabulary, chord-tone melody. Their core style vocabulary is rock, funk-rock, alternative; in this ensemble, that vocabulary is being aimed at funk rock / alternative inside the broader Red Hot Chili Peppers lane.
+John Frusciante is a guitarist associated with rock, funk-rock, alternative. Musically, the important traits here are rhythmic/lead integration, RHCP funk-rock vocabulary, chord-tone melody. In this ensemble, that language is pointed toward funk rock / alternative, with Red Hot Chili Peppers as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Red Hot Chili Peppers | [Wikipedia][red-hot-chili-peppers-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Red Hot Chili Peppers | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Red Hot Chili Peppers | [Wikipedia][red-hot-chili-peppers-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Red Hot Chili Peppers | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ John Frusciante is the guitar voice for the `Red Hot Chili Peppers` pairing labe
 
 ## Dave Navarro
 
-Dave Navarro is the guitar voice for the `Red Hot Chili Peppers` pairing label. In the local ranking corpus, Dave Navarro is treated as an everyone-else guitarist because of post-punk/alternative rock phrasing, wah vocabulary, eclectic texture. Their core style vocabulary is alternative rock, funk metal, hard rock; in this ensemble, that vocabulary is being aimed at funk rock / alternative inside the broader Red Hot Chili Peppers lane.
+Dave Navarro is a guitarist associated with alternative rock, funk metal, hard rock. Musically, the important traits here are post-punk/alternative rock phrasing, wah vocabulary, eclectic texture. In this ensemble, that language is pointed toward funk rock / alternative, with Red Hot Chili Peppers as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Red Hot Chili Peppers | [Wikipedia][red-hot-chili-peppers-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Red Hot Chili Peppers | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Red Hot Chili Peppers | [Wikipedia][red-hot-chili-peppers-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Red Hot Chili Peppers | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Dave Navarro is the guitar voice for the `Red Hot Chili Peppers` pairing label. 
 
 ## Chad Smith
 
-Chad Smith appears here as the drums voice for the `Red Hot Chili Peppers` pairing label. In this ensemble context, the important traits are the player's role in funk rock / alternative, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Red Hot Chili Peppers lane.
+Chad Smith is a drummer whose playing helps shape this music. Listen for how the drum part affects funk rock / alternative: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Red Hot Chili Peppers.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Red Hot Chili Peppers | [Wikipedia][red-hot-chili-peppers-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Red Hot Chili Peppers | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Red Hot Chili Peppers | [Wikipedia][red-hot-chili-peppers-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Red Hot Chili Peppers | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

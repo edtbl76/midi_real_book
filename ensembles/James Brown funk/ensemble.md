@@ -19,20 +19,20 @@ This music is centered on James Brown funk: funk / R&B. Listen for the musical c
 
 ## Louis Johnson
 
-Louis Johnson is the bass voice for the `James Brown funk` pairing label. In the local ranking corpus, Louis Johnson is treated as a virtuoso bassist because of foundational high-speed slap/pop vocabulary. Their core style vocabulary is funk, R&B, pop; in this ensemble, that vocabulary is being aimed at funk / R&B inside the broader Brothers Johnson / James Brown / Quincy Jones lane.
+Louis Johnson is a bassist associated with funk, R&B, pop. Musically, the important traits here are foundational high-speed slap/pop vocabulary. In this ensemble, that language is pointed toward funk / R&B, with Brothers Johnson / James Brown / Quincy Jones as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Louis Johnson is the bass voice for the `James Brown funk` pairing label. In the
 
 ## Wah Wah Watson
 
-Wah Wah Watson is the guitar voice for the `James Brown funk` pairing label. In the local ranking corpus, Wah Wah Watson is treated as an everyone-else guitarist because of funk rhythm precision, wah-pedal vocabulary, Motown session technique. Their core style vocabulary is funk, soul, R&B; in this ensemble, that vocabulary is being aimed at funk / R&B inside the broader Brothers Johnson / James Brown / Quincy Jones lane.
+Wah Wah Watson is a guitarist associated with funk, soul, R&B. Musically, the important traits here are funk rhythm precision, wah-pedal vocabulary, Motown session technique. In this ensemble, that language is pointed toward funk / R&B, with Brothers Johnson / James Brown / Quincy Jones as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Wah Wah Watson is the guitar voice for the `James Brown funk` pairing label. In 
 
 ## Jimmy Nolen
 
-Jimmy Nolen is the guitar voice for the `James Brown funk` pairing label. In the local ranking corpus, Jimmy Nolen is treated as an everyone-else guitarist because of James Brown chicken-scratch funk rhythm, foundational right-hand technique. Their core style vocabulary is funk, R&B, soul; in this ensemble, that vocabulary is being aimed at funk / R&B inside the broader Brothers Johnson / James Brown / Quincy Jones lane.
+Jimmy Nolen is a guitarist associated with funk, R&B, soul. Musically, the important traits here are James Brown chicken-scratch funk rhythm, foundational right-hand technique. In this ensemble, that language is pointed toward funk / R&B, with Brothers Johnson / James Brown / Quincy Jones as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Jimmy Nolen is the guitar voice for the `James Brown funk` pairing label. In the
 
 ## Clyde Stubblefield
 
-Clyde Stubblefield appears here as the drums voice for the `James Brown funk` pairing label. In this ensemble context, the important traits are the player's role in funk / R&B, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Brothers Johnson / James Brown / Quincy Jones lane.
+Clyde Stubblefield is a drummer whose playing helps shape this music. Listen for how the drum part affects funk / R&B: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Brothers Johnson / James Brown / Quincy Jones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Clyde Stubblefield appears here as the drums voice for the `James Brown funk` pa
 
 ## Greg Phillinganes
 
-Greg Phillinganes appears here as the keyboards voice for the `James Brown funk` pairing label. In this ensemble context, the important traits are the player's role in funk / R&B, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Brothers Johnson / James Brown / Quincy Jones lane.
+Greg Phillinganes is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects funk / R&B: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Brothers Johnson / James Brown / Quincy Jones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Greg Phillinganes appears here as the keyboards voice for the `James Brown funk`
 
 ## Jerry Hey
 
-Jerry Hey appears here as the trumpet voice for the `James Brown funk` pairing label. In this ensemble context, the important traits are the player's role in funk / R&B, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Brothers Johnson / James Brown / Quincy Jones lane.
+Jerry Hey is a trumpeter whose playing helps shape this music. Listen for how the trumpet part affects funk / R&B: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Brothers Johnson / James Brown / Quincy Jones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | James Brown funk | [Wikipedia][james-brown-funk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Brothers Johnson / James Brown / Quincy Jones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Trumpet | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Trumpet | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

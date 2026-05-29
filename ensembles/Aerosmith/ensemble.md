@@ -18,20 +18,20 @@ This music lives in the Aerosmith world: hard rock / blues rock. Listen for how 
 
 ## Cliff Williams
 
-Cliff Williams is the bass voice for the `Aerosmith` pairing label. In the local ranking corpus, Cliff Williams is treated as an everyone-else bassist because of hard-rock economy, consistency, strict time. Their core style vocabulary is hard rock, rock; in this ensemble, that vocabulary is being aimed at hard rock / blues rock inside the broader AC/DC / UFO / Aerosmith lane.
+Cliff Williams is a bassist associated with hard rock, rock. Musically, the important traits here are hard-rock economy, consistency, strict time. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Aerosmith | [Wikipedia][aerosmith-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Aerosmith | [Wikipedia][aerosmith-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Cliff Williams is the bass voice for the `Aerosmith` pairing label. In the local
 
 ## Angus Young
 
-Angus Young is the guitar voice for the `Aerosmith` pairing label. In the local ranking corpus, Angus Young is treated as an everyone-else guitarist because of blues-pentatonic rock lead intensity, AC/DC rhythmic vocabulary. Their core style vocabulary is hard rock, rock; in this ensemble, that vocabulary is being aimed at hard rock / blues rock inside the broader AC/DC / UFO / Aerosmith lane.
+Angus Young is a guitarist associated with hard rock, rock. Musically, the important traits here are blues-pentatonic rock lead intensity, AC/DC rhythmic vocabulary. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Aerosmith | [Wikipedia][aerosmith-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Aerosmith | [Wikipedia][aerosmith-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Angus Young is the guitar voice for the `Aerosmith` pairing label. In the local 
 
 ## Michael Schenker
 
-Michael Schenker is the guitar voice for the `Aerosmith` pairing label. In the local ranking corpus, Michael Schenker is treated as a still damn good guitarist because of melodic hard rock lead vocabulary, natural minor command, expressive vibrato precision. Their core style vocabulary is hard rock, melodic metal; in this ensemble, that vocabulary is being aimed at hard rock / blues rock inside the broader AC/DC / UFO / Aerosmith lane.
+Michael Schenker is a guitarist associated with hard rock, melodic metal. Musically, the important traits here are melodic hard rock lead vocabulary, natural minor command, expressive vibrato precision. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Aerosmith | [Wikipedia][aerosmith-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Aerosmith | [Wikipedia][aerosmith-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Michael Schenker is the guitar voice for the `Aerosmith` pairing label. In the l
 
 ## Joe Perry
 
-Joe Perry is the guitar voice for the `Aerosmith` pairing label. In the local ranking corpus, Joe Perry is treated as an everyone-else guitarist because of blues-based rock phrasing, Aerosmith rhythm and lead vocabulary. Their core style vocabulary is rock, blues-rock; in this ensemble, that vocabulary is being aimed at hard rock / blues rock inside the broader AC/DC / UFO / Aerosmith lane.
+Joe Perry is a guitarist associated with rock, blues-rock. Musically, the important traits here are blues-based rock phrasing, Aerosmith rhythm and lead vocabulary. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Aerosmith | [Wikipedia][aerosmith-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Aerosmith | [Wikipedia][aerosmith-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Joe Perry is the guitar voice for the `Aerosmith` pairing label. In the local ra
 
 ## Phil Rudd
 
-Phil Rudd appears here as the drums voice for the `Aerosmith` pairing label. In this ensemble context, the important traits are the player's role in hard rock / blues rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader AC/DC / UFO / Aerosmith lane.
+Phil Rudd is a drummer whose playing helps shape this music. Listen for how the drum part affects hard rock / blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Aerosmith | [Wikipedia][aerosmith-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Aerosmith | [Wikipedia][aerosmith-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

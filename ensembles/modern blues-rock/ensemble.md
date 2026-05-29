@@ -17,20 +17,20 @@ This music is centered on modern blues-rock: Texas blues rock / modern blues roc
 
 ## Dusty Hill
 
-Dusty Hill is the bass voice for the `modern blues-rock` pairing label. In the local ranking corpus, Dusty Hill is treated as an everyone-else bassist because of Texas boogie pocket and minimal groove authority. Their core style vocabulary is blues-rock, rock; in this ensemble, that vocabulary is being aimed at Texas blues rock / modern blues rock inside the broader ZZ Top / Texas blues orbit lane.
+Dusty Hill is a bassist associated with blues-rock, rock. Musically, the important traits here are Texas boogie pocket and minimal groove authority. In this ensemble, that language is pointed toward Texas blues rock / modern blues rock, with ZZ Top / Texas blues orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Dusty Hill is the bass voice for the `modern blues-rock` pairing label. In the l
 
 ## Billy Gibbons
 
-Billy Gibbons is the guitar voice for the `modern blues-rock` pairing label. In the local ranking corpus, Billy Gibbons is treated as an everyone-else guitarist because of blues-rock tone mastery, pentatonic vocabulary, expressive vibrato. Their core style vocabulary is blues-rock, rock; in this ensemble, that vocabulary is being aimed at Texas blues rock / modern blues rock inside the broader ZZ Top / Texas blues orbit lane.
+Billy Gibbons is a guitarist associated with blues-rock, rock. Musically, the important traits here are blues-rock tone mastery, pentatonic vocabulary, expressive vibrato. In this ensemble, that language is pointed toward Texas blues rock / modern blues rock, with ZZ Top / Texas blues orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Billy Gibbons is the guitar voice for the `modern blues-rock` pairing label. In 
 
 ## Joe Bonamassa
 
-Joe Bonamassa is the guitar voice for the `modern blues-rock` pairing label. In the local ranking corpus, Joe Bonamassa is treated as a still damn good guitarist because of blues-rock execution at high technical level, wide vocabulary, peer respect. Their core style vocabulary is blues-rock, hard rock, blues; in this ensemble, that vocabulary is being aimed at Texas blues rock / modern blues rock inside the broader ZZ Top / Texas blues orbit lane.
+Joe Bonamassa is a guitarist associated with blues-rock, hard rock, blues. Musically, the important traits here are blues-rock execution at high technical level, wide vocabulary, peer respect. In this ensemble, that language is pointed toward Texas blues rock / modern blues rock, with ZZ Top / Texas blues orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Joe Bonamassa is the guitar voice for the `modern blues-rock` pairing label. In 
 
 ## Frank Beard
 
-Frank Beard appears here as the drums voice for the `modern blues-rock` pairing label. In this ensemble context, the important traits are the player's role in Texas blues rock / modern blues rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader ZZ Top / Texas blues orbit lane.
+Frank Beard is a drummer whose playing helps shape this music. Listen for how the drum part affects Texas blues rock / modern blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is ZZ Top / Texas blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

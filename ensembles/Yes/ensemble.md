@@ -18,20 +18,20 @@ This music lives in the Yes world: progressive rock. Listen for how the players 
 
 ## Chris Squire
 
-Chris Squire is the bass voice for the `Yes` pairing label. In the local ranking corpus, Chris Squire is treated as a virtuoso bassist because of picked lead-bass counterpoint and symphonic-prog articulation. Their core style vocabulary is progressive rock, hard rock; in this ensemble, that vocabulary is being aimed at progressive rock inside the broader Yes lane.
+Chris Squire is a bassist associated with progressive rock, hard rock. Musically, the important traits here are picked lead-bass counterpoint and symphonic-prog articulation. In this ensemble, that language is pointed toward progressive rock, with Yes as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yes | [Wikipedia][yes-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yes | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yes | [Wikipedia][yes-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yes | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Chris Squire is the bass voice for the `Yes` pairing label. In the local ranking
 
 ## Steve Howe
 
-Steve Howe is the guitar voice for the `Yes` pairing label. In the local ranking corpus, Steve Howe is treated as a still damn good guitarist because of acoustic-classical fingerstyle, prog-rock texture, wide-string vocabulary. Their core style vocabulary is progressive rock, jazz, country, classical; in this ensemble, that vocabulary is being aimed at progressive rock inside the broader Yes lane.
+Steve Howe is a guitarist associated with progressive rock, jazz, country, classical. Musically, the important traits here are acoustic-classical fingerstyle, prog-rock texture, wide-string vocabulary. In this ensemble, that language is pointed toward progressive rock, with Yes as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yes | [Wikipedia][yes-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yes | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yes | [Wikipedia][yes-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yes | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Steve Howe is the guitar voice for the `Yes` pairing label. In the local ranking
 
 ## Trevor Rabin
 
-Trevor Rabin is the guitar voice for the `Yes` pairing label. In the local ranking corpus, Trevor Rabin is treated as an everyone-else guitarist because of prog-rock melody, multi-instrumentalist rock vocabulary. Their core style vocabulary is rock, prog-rock, AOR; in this ensemble, that vocabulary is being aimed at progressive rock inside the broader Yes lane.
+Trevor Rabin is a guitarist associated with rock, prog-rock, AOR. Musically, the important traits here are prog-rock melody, multi-instrumentalist rock vocabulary. In this ensemble, that language is pointed toward progressive rock, with Yes as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yes | [Wikipedia][yes-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yes | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yes | [Wikipedia][yes-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yes | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Trevor Rabin is the guitar voice for the `Yes` pairing label. In the local ranki
 
 ## Bill Bruford
 
-Bill Bruford appears here as the drums voice for the `Yes` pairing label. In this ensemble context, the important traits are the player's role in progressive rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Yes lane.
+Bill Bruford is a drummer whose playing helps shape this music. Listen for how the drum part affects progressive rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Yes.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yes | [Wikipedia][yes-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yes | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yes | [Wikipedia][yes-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yes | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Bill Bruford appears here as the drums voice for the `Yes` pairing label. In thi
 
 ## Rick Wakeman
 
-Rick Wakeman appears here as the keyboards voice for the `Yes` pairing label. In this ensemble context, the important traits are the player's role in progressive rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Yes lane.
+Rick Wakeman is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects progressive rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Yes.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yes | [Wikipedia][yes-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yes | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yes | [Wikipedia][yes-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yes | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

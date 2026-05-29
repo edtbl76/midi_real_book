@@ -16,20 +16,20 @@ This music lives in the Earth Wind & Fire world: funk / soul / R&B. Listen for h
 
 ## Verdine White
 
-Verdine White is the bass voice for the `Earth Wind & Fire` pairing label. In the local ranking corpus, Verdine White is treated as an everyone-else bassist because of Earth Wind & Fire funk/soul pocket, horn-section alignment, dance-groove consistency. Their core style vocabulary is funk, soul, R&B; in this ensemble, that vocabulary is being aimed at funk / soul / R&B inside the broader Earth Wind & Fire lane.
+Verdine White is a bassist associated with funk, soul, R&B. Musically, the important traits here are Earth Wind & Fire funk/soul pocket, horn-section alignment, dance-groove consistency. In this ensemble, that language is pointed toward funk / soul / R&B, with Earth Wind & Fire as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Earth Wind & Fire | [Wikipedia][earth-wind-fire-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Earth Wind & Fire | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Earth Wind & Fire | [Wikipedia][earth-wind-fire-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Earth Wind & Fire | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ Verdine White is the bass voice for the `Earth Wind & Fire` pairing label. In th
 
 ## Al McKay
 
-Al McKay is the guitar voice for the `Earth Wind & Fire` pairing label. In the local ranking corpus, Al McKay is treated as an everyone-else guitarist because of Earth Wind & Fire funk rhythm, clean groove precision. Their core style vocabulary is funk, R&B, soul; in this ensemble, that vocabulary is being aimed at funk / soul / R&B inside the broader Earth Wind & Fire lane.
+Al McKay is a guitarist associated with funk, R&B, soul. Musically, the important traits here are Earth Wind & Fire funk rhythm, clean groove precision. In this ensemble, that language is pointed toward funk / soul / R&B, with Earth Wind & Fire as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Earth Wind & Fire | [Wikipedia][earth-wind-fire-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Earth Wind & Fire | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Earth Wind & Fire | [Wikipedia][earth-wind-fire-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Earth Wind & Fire | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Al McKay is the guitar voice for the `Earth Wind & Fire` pairing label. In the l
 
 ## Maurice White
 
-Maurice White appears here as the drums voice for the `Earth Wind & Fire` pairing label. In this ensemble context, the important traits are the player's role in funk / soul / R&B, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Earth Wind & Fire lane.
+Maurice White is a drummer whose playing helps shape this music. Listen for how the drum part affects funk / soul / R&B: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Earth Wind & Fire.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Earth Wind & Fire | [Wikipedia][earth-wind-fire-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Earth Wind & Fire | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Earth Wind & Fire | [Wikipedia][earth-wind-fire-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Earth Wind & Fire | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

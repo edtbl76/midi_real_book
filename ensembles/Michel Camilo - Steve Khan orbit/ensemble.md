@@ -18,20 +18,20 @@ This music is centered on Michel Camilo / Steve Khan orbit: modern jazz fusion /
 
 ## Anthony Jackson
 
-Anthony Jackson is the bass voice for the `Michel Camilo / Steve Khan orbit` pairing label. In the local ranking corpus, Anthony Jackson is treated as a virtuoso bassist because of six-string range, harmonic depth, advanced rhythmic placement. Their core style vocabulary is jazz fusion, session, electric jazz; in this ensemble, that vocabulary is being aimed at modern jazz fusion / session inside the broader Michel Camilo / Steve Khan orbit lane.
+Anthony Jackson is a bassist associated with jazz fusion, session, electric jazz. Musically, the important traits here are six-string range, harmonic depth, advanced rhythmic placement. In this ensemble, that language is pointed toward modern jazz fusion / session, with Michel Camilo / Steve Khan orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Michel Camilo / Steve Khan orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Michel Camilo / Steve Khan orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Anthony Jackson is the bass voice for the `Michel Camilo / Steve Khan orbit` pai
 
 ## Steve Khan
 
-Steve Khan is the guitar voice for the `Michel Camilo / Steve Khan orbit` pairing label. In the local ranking corpus, Steve Khan is treated as a still damn good guitarist because of jazz chord-melody depth, harmonic sophistication, interactive comping command. Their core style vocabulary is jazz, jazz fusion, post-bop; in this ensemble, that vocabulary is being aimed at modern jazz fusion / session inside the broader Michel Camilo / Steve Khan orbit lane.
+Steve Khan is a guitarist associated with jazz, jazz fusion, post-bop. Musically, the important traits here are jazz chord-melody depth, harmonic sophistication, interactive comping command. In this ensemble, that language is pointed toward modern jazz fusion / session, with Michel Camilo / Steve Khan orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Michel Camilo / Steve Khan orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Michel Camilo / Steve Khan orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Steve Khan is the guitar voice for the `Michel Camilo / Steve Khan orbit` pairin
 
 ## Steve Gadd
 
-Steve Gadd appears here as the drums voice for the `Michel Camilo / Steve Khan orbit` pairing label. In this ensemble context, the important traits are the player's role in modern jazz fusion / session, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Michel Camilo / Steve Khan orbit lane.
+Steve Gadd is a drummer whose playing helps shape this music. Listen for how the drum part affects modern jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Michel Camilo / Steve Khan orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Michel Camilo / Steve Khan orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Michel Camilo / Steve Khan orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Steve Gadd appears here as the drums voice for the `Michel Camilo / Steve Khan o
 
 ## Michel Camilo
 
-Michel Camilo appears here as the keyboards voice for the `Michel Camilo / Steve Khan orbit` pairing label. In this ensemble context, the important traits are the player's role in modern jazz fusion / session, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Michel Camilo / Steve Khan orbit lane.
+Michel Camilo is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Michel Camilo / Steve Khan orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Michel Camilo / Steve Khan orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Michel Camilo / Steve Khan orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Michel Camilo appears here as the keyboards voice for the `Michel Camilo / Steve
 
 ## Grover Washington Jr.
 
-Grover Washington Jr. appears here as the saxophone voice for the `Michel Camilo / Steve Khan orbit` pairing label. In this ensemble context, the important traits are the player's role in modern jazz fusion / session, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Michel Camilo / Steve Khan orbit lane.
+Grover Washington Jr. is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Michel Camilo / Steve Khan orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Michel Camilo / Steve Khan orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Michel Camilo / Steve Khan orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

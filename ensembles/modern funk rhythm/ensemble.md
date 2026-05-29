@@ -17,20 +17,20 @@ This music is centered on modern funk rhythm: pop funk / modern funk. Listen for
 
 ## Mark King
 
-Mark King is the bass voice for the `modern funk rhythm` pairing label. In the local ranking corpus, Mark King is treated as a virtuoso bassist because of machine-like slap speed, endurance, pop-funk precision. Their core style vocabulary is funk, pop-funk, jazz fusion; in this ensemble, that vocabulary is being aimed at pop funk / modern funk inside the broader Level 42 / Vulfpeck orbit lane.
+Mark King is a bassist associated with funk, pop-funk, jazz fusion. Musically, the important traits here are machine-like slap speed, endurance, pop-funk precision. In this ensemble, that language is pointed toward pop funk / modern funk, with Level 42 / Vulfpeck orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Level 42 / Vulfpeck orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Level 42 / Vulfpeck orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Mark King is the bass voice for the `modern funk rhythm` pairing label. In the l
 
 ## Cory Wong
 
-Cory Wong is the guitar voice for the `modern funk rhythm` pairing label. In the local ranking corpus, Cory Wong is treated as a still damn good guitarist because of right-hand percussive funk precision, rhythmic accuracy, clean articulation. Their core style vocabulary is funk, pop, neo-soul; in this ensemble, that vocabulary is being aimed at pop funk / modern funk inside the broader Level 42 / Vulfpeck orbit lane.
+Cory Wong is a guitarist associated with funk, pop, neo-soul. Musically, the important traits here are right-hand percussive funk precision, rhythmic accuracy, clean articulation. In this ensemble, that language is pointed toward pop funk / modern funk, with Level 42 / Vulfpeck orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Level 42 / Vulfpeck orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Level 42 / Vulfpeck orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Cory Wong is the guitar voice for the `modern funk rhythm` pairing label. In the
 
 ## Phil Gould
 
-Phil Gould appears here as the drums voice for the `modern funk rhythm` pairing label. In this ensemble context, the important traits are the player's role in pop funk / modern funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Level 42 / Vulfpeck orbit lane.
+Phil Gould is a drummer whose playing helps shape this music. Listen for how the drum part affects pop funk / modern funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Level 42 / Vulfpeck orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Level 42 / Vulfpeck orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Level 42 / Vulfpeck orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Phil Gould appears here as the drums voice for the `modern funk rhythm` pairing 
 
 ## Mike Lindup
 
-Mike Lindup appears here as the keyboards voice for the `modern funk rhythm` pairing label. In this ensemble context, the important traits are the player's role in pop funk / modern funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Level 42 / Vulfpeck orbit lane.
+Mike Lindup is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects pop funk / modern funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Level 42 / Vulfpeck orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Level 42 / Vulfpeck orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Level 42 / Vulfpeck orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

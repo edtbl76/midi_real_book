@@ -18,20 +18,20 @@ This music lives in the Sly and the Family Stone world: funk / R&B / psychedelic
 
 ## Larry Graham
 
-Larry Graham is the bass voice for the `Sly and the Family Stone` pairing label. In the local ranking corpus, Larry Graham is treated as a virtuoso bassist because of invented slap bass technique, foundational funk vocabulary executed with precision and authority. Their core style vocabulary is funk, R&B, soul; in this ensemble, that vocabulary is being aimed at funk / R&B / psychedelic soul inside the broader Sly and the Family Stone / Graham Central Station lane.
+Larry Graham is a bassist associated with funk, R&B, soul. Musically, the important traits here are invented slap bass technique, foundational funk vocabulary executed with precision and authority. In this ensemble, that language is pointed toward funk / R&B / psychedelic soul, with Sly and the Family Stone / Graham Central Station as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Larry Graham is the bass voice for the `Sly and the Family Stone` pairing label.
 
 ## Freddie Stone
 
-Freddie Stone is the guitar voice for the `Sly and the Family Stone` pairing label. In the local ranking corpus, Freddie Stone is treated as an everyone-else guitarist because of Sly and the Family Stone rhythm guitar, psychedelic soul/funk groove, ensemble vocal-guitar support. Their core style vocabulary is funk, psychedelic soul, R&B; in this ensemble, that vocabulary is being aimed at funk / R&B / psychedelic soul inside the broader Sly and the Family Stone / Graham Central Station lane.
+Freddie Stone is a guitarist associated with funk, psychedelic soul, R&B. Musically, the important traits here are Sly and the Family Stone rhythm guitar, psychedelic soul/funk groove, ensemble vocal-guitar support. In this ensemble, that language is pointed toward funk / R&B / psychedelic soul, with Sly and the Family Stone / Graham Central Station as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Freddie Stone is the guitar voice for the `Sly and the Family Stone` pairing lab
 
 ## Greg Errico
 
-Greg Errico appears here as the drums voice for the `Sly and the Family Stone` pairing label. In this ensemble context, the important traits are the player's role in funk / R&B / psychedelic soul, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Sly and the Family Stone / Graham Central Station lane.
+Greg Errico is a drummer whose playing helps shape this music. Listen for how the drum part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Sly and the Family Stone / Graham Central Station.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Greg Errico appears here as the drums voice for the `Sly and the Family Stone` p
 
 ## Sly Stone
 
-Sly Stone appears here as the keyboards voice for the `Sly and the Family Stone` pairing label. In this ensemble context, the important traits are the player's role in funk / R&B / psychedelic soul, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Sly and the Family Stone / Graham Central Station lane.
+Sly Stone is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Sly and the Family Stone / Graham Central Station.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Sly Stone appears here as the keyboards voice for the `Sly and the Family Stone`
 
 ## Maceo Parker
 
-Maceo Parker appears here as the saxophone voice for the `Sly and the Family Stone` pairing label. In this ensemble context, the important traits are the player's role in funk / R&B / psychedelic soul, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Sly and the Family Stone / Graham Central Station lane.
+Maceo Parker is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Sly and the Family Stone / Graham Central Station.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

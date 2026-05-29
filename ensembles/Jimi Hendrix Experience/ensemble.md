@@ -16,20 +16,20 @@ This music lives in the Jimi Hendrix Experience world: psychedelic rock / power 
 
 ## Noel Redding
 
-Noel Redding is the bass voice for the `Jimi Hendrix Experience` pairing label. In the local ranking corpus, Noel Redding is treated as an everyone-else bassist because of psychedelic power-trio support, simple riff anchoring, durable ensemble role under volatile guitar/drums. Their core style vocabulary is psychedelic rock, blues-rock, power trio; in this ensemble, that vocabulary is being aimed at psychedelic rock / power trio inside the broader Jimi Hendrix Experience lane.
+Noel Redding is a bassist associated with psychedelic rock, blues-rock, power trio. Musically, the important traits here are psychedelic power-trio support, simple riff anchoring, durable ensemble role under volatile guitar/drums. In this ensemble, that language is pointed toward psychedelic rock / power trio, with Jimi Hendrix Experience as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Jimi Hendrix Experience | [Wikipedia][jimi-hendrix-experience-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Jimi Hendrix Experience | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Jimi Hendrix Experience | [Wikipedia][jimi-hendrix-experience-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Jimi Hendrix Experience | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ Noel Redding is the bass voice for the `Jimi Hendrix Experience` pairing label. 
 
 ## Jimi Hendrix
 
-Jimi Hendrix is the guitar voice for the `Jimi Hendrix Experience` pairing label. In the local ranking corpus, Jimi Hendrix is treated as an everyone-else guitarist because of revolutionary rhythm-lead integration, thumb-wraparound chord vocabulary, whammy innovation. Their core style vocabulary is rock, blues-rock, psychedelic rock; in this ensemble, that vocabulary is being aimed at psychedelic rock / power trio inside the broader Jimi Hendrix Experience lane.
+Jimi Hendrix is a guitarist associated with rock, blues-rock, psychedelic rock. Musically, the important traits here are revolutionary rhythm-lead integration, thumb-wraparound chord vocabulary, whammy innovation. In this ensemble, that language is pointed toward psychedelic rock / power trio, with Jimi Hendrix Experience as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Jimi Hendrix Experience | [Wikipedia][jimi-hendrix-experience-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Jimi Hendrix Experience | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Jimi Hendrix Experience | [Wikipedia][jimi-hendrix-experience-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Jimi Hendrix Experience | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Jimi Hendrix is the guitar voice for the `Jimi Hendrix Experience` pairing label
 
 ## Mitch Mitchell
 
-Mitch Mitchell appears here as the drums voice for the `Jimi Hendrix Experience` pairing label. In this ensemble context, the important traits are the player's role in psychedelic rock / power trio, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Jimi Hendrix Experience lane.
+Mitch Mitchell is a drummer whose playing helps shape this music. Listen for how the drum part affects psychedelic rock / power trio: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Jimi Hendrix Experience.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Jimi Hendrix Experience | [Wikipedia][jimi-hendrix-experience-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Jimi Hendrix Experience | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Jimi Hendrix Experience | [Wikipedia][jimi-hendrix-experience-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Jimi Hendrix Experience | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

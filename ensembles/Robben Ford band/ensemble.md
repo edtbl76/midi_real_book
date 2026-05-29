@@ -17,20 +17,20 @@ This music lives in the Robben Ford band world: blues / Texas rock / blues fusio
 
 ## Roscoe Beck
 
-Roscoe Beck is the bass voice for the `Robben Ford band` pairing label. In the local ranking corpus, Roscoe Beck is treated as an everyone-else bassist because of blues-fusion/session fluency and melodic harmonic support. Their core style vocabulary is blues, session, fusion; in this ensemble, that vocabulary is being aimed at blues / Texas rock / blues fusion inside the broader Robben Ford band / Austin blues orbit lane.
+Roscoe Beck is a bassist associated with blues, session, fusion. Musically, the important traits here are blues-fusion/session fluency and melodic harmonic support. In this ensemble, that language is pointed toward blues / Texas rock / blues fusion, with Robben Ford band / Austin blues orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Robben Ford band | [Wikipedia][robben-ford-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Robben Ford band / Austin blues orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Robben Ford band | [Wikipedia][robben-ford-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Robben Ford band / Austin blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Roscoe Beck is the bass voice for the `Robben Ford band` pairing label. In the l
 
 ## Robben Ford
 
-Robben Ford is the guitar voice for the `Robben Ford band` pairing label. In the local ranking corpus, Robben Ford is treated as a still damn good guitarist because of blues-jazz fusion phrasing, chord-melody sophistication, refined tone control. Their core style vocabulary is blues-jazz, jazz-influenced rock, blues; in this ensemble, that vocabulary is being aimed at blues / Texas rock / blues fusion inside the broader Robben Ford band / Austin blues orbit lane.
+Robben Ford is a guitarist associated with blues-jazz, jazz-influenced rock, blues. Musically, the important traits here are blues-jazz fusion phrasing, chord-melody sophistication, refined tone control. In this ensemble, that language is pointed toward blues / Texas rock / blues fusion, with Robben Ford band / Austin blues orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Robben Ford band | [Wikipedia][robben-ford-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Robben Ford band / Austin blues orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Robben Ford band | [Wikipedia][robben-ford-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Robben Ford band / Austin blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Robben Ford is the guitar voice for the `Robben Ford band` pairing label. In the
 
 ## Tom Brechtlein
 
-Tom Brechtlein appears here as the drums voice for the `Robben Ford band` pairing label. In this ensemble context, the important traits are the player's role in blues / Texas rock / blues fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Robben Ford band / Austin blues orbit lane.
+Tom Brechtlein is a drummer whose playing helps shape this music. Listen for how the drum part affects blues / Texas rock / blues fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Robben Ford band / Austin blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Robben Ford band | [Wikipedia][robben-ford-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Robben Ford band / Austin blues orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Robben Ford band | [Wikipedia][robben-ford-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Robben Ford band / Austin blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Tom Brechtlein appears here as the drums voice for the `Robben Ford band` pairin
 
 ## Reese Wynans
 
-Reese Wynans appears here as the keyboards voice for the `Robben Ford band` pairing label. In this ensemble context, the important traits are the player's role in blues / Texas rock / blues fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Robben Ford band / Austin blues orbit lane.
+Reese Wynans is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects blues / Texas rock / blues fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Robben Ford band / Austin blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Robben Ford band | [Wikipedia][robben-ford-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Robben Ford band / Austin blues orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Robben Ford band | [Wikipedia][robben-ford-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Robben Ford band / Austin blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

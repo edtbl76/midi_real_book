@@ -18,20 +18,20 @@ This music lives in the Yellowjackets blues-fusion world: jazz fusion / blues fu
 
 ## Jimmy Haslip
 
-Jimmy Haslip is the bass voice for the `Yellowjackets blues-fusion` pairing label. In the local ranking corpus, Jimmy Haslip is treated as a virtuoso bassist because of polished fusion technique and intervallic language. Their core style vocabulary is jazz fusion, fusion; in this ensemble, that vocabulary is being aimed at jazz fusion / blues fusion inside the broader Yellowjackets lane.
+Jimmy Haslip is a bassist associated with jazz fusion, fusion. Musically, the important traits here are polished fusion technique and intervallic language. In this ensemble, that language is pointed toward jazz fusion / blues fusion, with Yellowjackets as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yellowjackets | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yellowjackets | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Jimmy Haslip is the bass voice for the `Yellowjackets blues-fusion` pairing labe
 
 ## Robben Ford
 
-Robben Ford is the guitar voice for the `Yellowjackets blues-fusion` pairing label. In the local ranking corpus, Robben Ford is treated as a still damn good guitarist because of blues-jazz fusion phrasing, chord-melody sophistication, refined tone control. Their core style vocabulary is blues-jazz, jazz-influenced rock, blues; in this ensemble, that vocabulary is being aimed at jazz fusion / blues fusion inside the broader Yellowjackets lane.
+Robben Ford is a guitarist associated with blues-jazz, jazz-influenced rock, blues. Musically, the important traits here are blues-jazz fusion phrasing, chord-melody sophistication, refined tone control. In this ensemble, that language is pointed toward jazz fusion / blues fusion, with Yellowjackets as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yellowjackets | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yellowjackets | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Robben Ford is the guitar voice for the `Yellowjackets blues-fusion` pairing lab
 
 ## Will Kennedy
 
-Will Kennedy appears here as the drums voice for the `Yellowjackets blues-fusion` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / blues fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Yellowjackets lane.
+Will Kennedy is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / blues fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Yellowjackets.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yellowjackets | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yellowjackets | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Will Kennedy appears here as the drums voice for the `Yellowjackets blues-fusion
 
 ## Russell Ferrante
 
-Russell Ferrante appears here as the keyboards voice for the `Yellowjackets blues-fusion` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / blues fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Yellowjackets lane.
+Russell Ferrante is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion / blues fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Yellowjackets.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yellowjackets | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yellowjackets | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Russell Ferrante appears here as the keyboards voice for the `Yellowjackets blue
 
 ## Bob Mintzer
 
-Bob Mintzer appears here as the saxophone voice for the `Yellowjackets blues-fusion` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / blues fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Yellowjackets lane.
+Bob Mintzer is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz fusion / blues fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Yellowjackets.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yellowjackets | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yellowjackets | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

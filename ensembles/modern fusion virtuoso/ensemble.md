@@ -17,20 +17,20 @@ This music is centered on modern fusion virtuoso: modern jazz fusion. Listen for
 
 ## Hadrien Feraud
 
-Hadrien Feraud is the bass voice for the `modern fusion virtuoso` pairing label. In the local ranking corpus, Hadrien Feraud is treated as a virtuoso bassist because of extraordinary fingerstyle speed, modern fusion vocabulary, complex harmonic language, clean high-velocity articulation. Their core style vocabulary is jazz fusion, modern fusion, electric jazz; in this ensemble, that vocabulary is being aimed at modern jazz fusion inside the broader Chick Corea / Zawinul Syndicate lane.
+Hadrien Feraud is a bassist associated with jazz fusion, modern fusion, electric jazz. Musically, the important traits here are extraordinary fingerstyle speed, modern fusion vocabulary, complex harmonic language, clean high-velocity articulation. In this ensemble, that language is pointed toward modern jazz fusion, with Chick Corea / Zawinul Syndicate as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern fusion virtuoso | [Wikipedia][modern-fusion-virtuoso-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Chick Corea / Zawinul Syndicate | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern fusion virtuoso | [Wikipedia][modern-fusion-virtuoso-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Chick Corea / Zawinul Syndicate | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Hadrien Feraud is the bass voice for the `modern fusion virtuoso` pairing label.
 
 ## Guthrie Govan
 
-Guthrie Govan is the guitar voice for the `modern fusion virtuoso` pairing label. In the local ranking corpus, Guthrie Govan is treated as a virtuoso guitarist because of complete modern vocabulary, improvisation, technique, stylistic range. Their core style vocabulary is modern fusion, rock, prog, country, funk; in this ensemble, that vocabulary is being aimed at modern jazz fusion inside the broader Chick Corea / Zawinul Syndicate lane.
+Guthrie Govan is a guitarist associated with modern fusion, rock, prog, country, funk. Musically, the important traits here are complete modern vocabulary, improvisation, technique, stylistic range. In this ensemble, that language is pointed toward modern jazz fusion, with Chick Corea / Zawinul Syndicate as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern fusion virtuoso | [Wikipedia][modern-fusion-virtuoso-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Chick Corea / Zawinul Syndicate | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern fusion virtuoso | [Wikipedia][modern-fusion-virtuoso-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Chick Corea / Zawinul Syndicate | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Guthrie Govan is the guitar voice for the `modern fusion virtuoso` pairing label
 
 ## Dave Weckl
 
-Dave Weckl appears here as the drums voice for the `modern fusion virtuoso` pairing label. In this ensemble context, the important traits are the player's role in modern jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Chick Corea / Zawinul Syndicate lane.
+Dave Weckl is a drummer whose playing helps shape this music. Listen for how the drum part affects modern jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Chick Corea / Zawinul Syndicate.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern fusion virtuoso | [Wikipedia][modern-fusion-virtuoso-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Chick Corea / Zawinul Syndicate | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern fusion virtuoso | [Wikipedia][modern-fusion-virtuoso-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Chick Corea / Zawinul Syndicate | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Dave Weckl appears here as the drums voice for the `modern fusion virtuoso` pair
 
 ## Scott Kinsey
 
-Scott Kinsey appears here as the keyboards voice for the `modern fusion virtuoso` pairing label. In this ensemble context, the important traits are the player's role in modern jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Chick Corea / Zawinul Syndicate lane.
+Scott Kinsey is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Chick Corea / Zawinul Syndicate.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern fusion virtuoso | [Wikipedia][modern-fusion-virtuoso-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Chick Corea / Zawinul Syndicate | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern fusion virtuoso | [Wikipedia][modern-fusion-virtuoso-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Chick Corea / Zawinul Syndicate | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

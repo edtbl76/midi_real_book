@@ -17,20 +17,20 @@ This music lives in the Toto world: L.A. Listen for how the players build the fe
 
 ## Mike Porcaro
 
-Mike Porcaro is the bass voice for the `Toto` pairing label. In the local ranking corpus, Mike Porcaro is treated as an everyone-else bassist because of polished L.A. pop-rock pocket, arrangement-aware restraint, clean supportive subdivision. Their core style vocabulary is pop-rock, studio, AOR, fusion-influenced rock; in this ensemble, that vocabulary is being aimed at L.A. studio pop-rock inside the broader Toto lane.
+Mike Porcaro is a bassist associated with pop-rock, studio, AOR, fusion-influenced rock. Musically, the important traits here are polished L.A. pop-rock pocket, arrangement-aware restraint, clean supportive subdivision. In this ensemble, that language is pointed toward L.A. studio pop-rock, with Toto as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Toto | [Wikipedia][toto-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Toto | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Toto | [Wikipedia][toto-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Toto | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Mike Porcaro is the bass voice for the `Toto` pairing label. In the local rankin
 
 ## Steve Lukather
 
-Steve Lukather is the guitar voice for the `Toto` pairing label. In the local ranking corpus, Steve Lukather is treated as a still damn good guitarist because of studio session versatility, hybrid picking precision, melodic lead vocabulary. Their core style vocabulary is rock, pop, studio fusion; in this ensemble, that vocabulary is being aimed at L.A. studio pop-rock inside the broader Toto lane.
+Steve Lukather is a guitarist associated with rock, pop, studio fusion. Musically, the important traits here are studio session versatility, hybrid picking precision, melodic lead vocabulary. In this ensemble, that language is pointed toward L.A. studio pop-rock, with Toto as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Toto | [Wikipedia][toto-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Toto | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Toto | [Wikipedia][toto-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Toto | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Steve Lukather is the guitar voice for the `Toto` pairing label. In the local ra
 
 ## Jeff Porcaro
 
-Jeff Porcaro appears here as the drums voice for the `Toto` pairing label. In this ensemble context, the important traits are the player's role in L.A. studio pop-rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Toto lane.
+Jeff Porcaro is a drummer whose playing helps shape this music. Listen for how the drum part affects L.A. studio pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Toto.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Toto | [Wikipedia][toto-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Toto | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Toto | [Wikipedia][toto-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Toto | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Jeff Porcaro appears here as the drums voice for the `Toto` pairing label. In th
 
 ## David Paich
 
-David Paich appears here as the keyboards voice for the `Toto` pairing label. In this ensemble context, the important traits are the player's role in L.A. studio pop-rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Toto lane.
+David Paich is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects L.A. studio pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Toto.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Toto | [Wikipedia][toto-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Toto | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Toto | [Wikipedia][toto-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Toto | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

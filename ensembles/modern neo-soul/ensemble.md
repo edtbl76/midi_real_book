@@ -20,20 +20,20 @@ This music is centered on modern neo-soul: soul / neo-soul. Listen for the music
 
 ## Pino Palladino
 
-Pino Palladino is the bass voice for the `modern neo-soul` pairing label. In the local ranking corpus, Pino Palladino is treated as a virtuoso bassist because of fretless phrasing, expressive timing, advanced pocket control. Their core style vocabulary is R&B, soul, session, rock; in this ensemble, that vocabulary is being aimed at soul / neo-soul inside the broader D'Angelo / John Mayer Trio lane.
+Pino Palladino is a bassist associated with R&B, soul, session, rock. Musically, the important traits here are fretless phrasing, expressive timing, advanced pocket control. In this ensemble, that language is pointed toward soul / neo-soul, with D'Angelo / John Mayer Trio as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -52,20 +52,20 @@ Pino Palladino is the bass voice for the `modern neo-soul` pairing label. In the
 
 ## John Mayer
 
-John Mayer is the guitar voice for the `modern neo-soul` pairing label. In the local ranking corpus, John Mayer is treated as a still damn good guitarist because of blues execution at genuinely high level, SRV-influenced vocabulary developed into demanding personal language. Their core style vocabulary is pop-blues, blues-rock, pop; in this ensemble, that vocabulary is being aimed at soul / neo-soul inside the broader D'Angelo / John Mayer Trio lane.
+John Mayer is a guitarist associated with pop-blues, blues-rock, pop. Musically, the important traits here are blues execution at genuinely high level, SRV-influenced vocabulary developed into demanding personal language. In this ensemble, that language is pointed toward soul / neo-soul, with D'Angelo / John Mayer Trio as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -84,20 +84,20 @@ John Mayer is the guitar voice for the `modern neo-soul` pairing label. In the l
 
 ## Mateus Asato
 
-Mateus Asato is the guitar voice for the `modern neo-soul` pairing label. In the local ranking corpus, Mateus Asato is treated as a still damn good guitarist because of melodic neo-soul technique, expressive vibrato, lyrical phrase construction. Their core style vocabulary is neo-soul, blues, pop; in this ensemble, that vocabulary is being aimed at soul / neo-soul inside the broader D'Angelo / John Mayer Trio lane.
+Mateus Asato is a guitarist associated with neo-soul, blues, pop. Musically, the important traits here are melodic neo-soul technique, expressive vibrato, lyrical phrase construction. In this ensemble, that language is pointed toward soul / neo-soul, with D'Angelo / John Mayer Trio as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -116,20 +116,20 @@ Mateus Asato is the guitar voice for the `modern neo-soul` pairing label. In the
 
 ## Questlove
 
-Questlove appears here as the drums voice for the `modern neo-soul` pairing label. In this ensemble context, the important traits are the player's role in soul / neo-soul, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader D'Angelo / John Mayer Trio lane.
+Questlove is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -148,20 +148,20 @@ Questlove appears here as the drums voice for the `modern neo-soul` pairing labe
 
 ## Steve Jordan
 
-Steve Jordan appears here as the drums voice for the `modern neo-soul` pairing label. In this ensemble context, the important traits are the player's role in soul / neo-soul, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader D'Angelo / John Mayer Trio lane.
+Steve Jordan is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -180,20 +180,20 @@ Steve Jordan appears here as the drums voice for the `modern neo-soul` pairing l
 
 ## D’Angelo
 
-D’Angelo appears here as the keyboards voice for the `modern neo-soul` pairing label. In this ensemble context, the important traits are the player's role in soul / neo-soul, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader D'Angelo / John Mayer Trio lane.
+D’Angelo is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -212,20 +212,20 @@ D’Angelo appears here as the keyboards voice for the `modern neo-soul` pairing
 
 ## Roy Hargrove
 
-Roy Hargrove appears here as the trumpet voice for the `modern neo-soul` pairing label. In this ensemble context, the important traits are the player's role in soul / neo-soul, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader D'Angelo / John Mayer Trio lane.
+Roy Hargrove is a trumpeter whose playing helps shape this music. Listen for how the trumpet part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modern neo-soul | [Wikipedia][modern-neo-soul-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Trumpet | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Trumpet | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

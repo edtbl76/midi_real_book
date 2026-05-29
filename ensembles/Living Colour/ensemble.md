@@ -18,20 +18,20 @@ This music lives in the Living Colour world: heavy funk / alternative metal. Lis
 
 ## Dug Pinnick
 
-Dug Pinnick is the bass voice for the `Living Colour` pairing label. In the local ranking corpus, Dug Pinnick is treated as an everyone-else bassist because of melodic heavy groove, vocal-bass coordination, spacious authority. Their core style vocabulary is alternative metal, heavy rock; in this ensemble, that vocabulary is being aimed at heavy funk / alternative metal inside the broader King's X / Extreme / Living Colour lane.
+Dug Pinnick is a bassist associated with alternative metal, heavy rock. Musically, the important traits here are melodic heavy groove, vocal-bass coordination, spacious authority. In this ensemble, that language is pointed toward heavy funk / alternative metal, with King's X / Extreme / Living Colour as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | King's X / Extreme / Living Colour | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | King's X / Extreme / Living Colour | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Dug Pinnick is the bass voice for the `Living Colour` pairing label. In the loca
 
 ## Ty Tabor
 
-Ty Tabor is the guitar voice for the `Living Colour` pairing label. In the local ranking corpus, Ty Tabor is treated as an everyone-else guitarist because of prog-rock harmonic sensitivity, unconventional note choices, tonal depth. Their core style vocabulary is progressive rock, hard rock; in this ensemble, that vocabulary is being aimed at heavy funk / alternative metal inside the broader King's X / Extreme / Living Colour lane.
+Ty Tabor is a guitarist associated with progressive rock, hard rock. Musically, the important traits here are prog-rock harmonic sensitivity, unconventional note choices, tonal depth. In this ensemble, that language is pointed toward heavy funk / alternative metal, with King's X / Extreme / Living Colour as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | King's X / Extreme / Living Colour | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | King's X / Extreme / Living Colour | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Ty Tabor is the guitar voice for the `Living Colour` pairing label. In the local
 
 ## Nuno Bettencourt
 
-Nuno Bettencourt is the guitar voice for the `Living Colour` pairing label. In the local ranking corpus, Nuno Bettencourt is treated as a virtuoso guitarist because of right-hand percussive technique, tapping vocabulary, string skipping, technical rock phrasing. Their core style vocabulary is hard rock, funk-rock, rock; in this ensemble, that vocabulary is being aimed at heavy funk / alternative metal inside the broader King's X / Extreme / Living Colour lane.
+Nuno Bettencourt is a guitarist associated with hard rock, funk-rock, rock. Musically, the important traits here are right-hand percussive technique, tapping vocabulary, string skipping, technical rock phrasing. In this ensemble, that language is pointed toward heavy funk / alternative metal, with King's X / Extreme / Living Colour as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | King's X / Extreme / Living Colour | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | King's X / Extreme / Living Colour | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Nuno Bettencourt is the guitar voice for the `Living Colour` pairing label. In t
 
 ## Vernon Reid
 
-Vernon Reid is the guitar voice for the `Living Colour` pairing label. In the local ranking corpus, Vernon Reid is treated as a virtuoso guitarist because of jazz/avant-garde harmonic vocabulary, whammy-bar abstraction, technically sophisticated multi-genre command. Their core style vocabulary is rock, jazz fusion, funk metal, avant-garde; in this ensemble, that vocabulary is being aimed at heavy funk / alternative metal inside the broader King's X / Extreme / Living Colour lane.
+Vernon Reid is a guitarist associated with rock, jazz fusion, funk metal, avant-garde. Musically, the important traits here are jazz/avant-garde harmonic vocabulary, whammy-bar abstraction, technically sophisticated multi-genre command. In this ensemble, that language is pointed toward heavy funk / alternative metal, with King's X / Extreme / Living Colour as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | King's X / Extreme / Living Colour | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | King's X / Extreme / Living Colour | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Vernon Reid is the guitar voice for the `Living Colour` pairing label. In the lo
 
 ## Jerry Gaskill
 
-Jerry Gaskill appears here as the drums voice for the `Living Colour` pairing label. In this ensemble context, the important traits are the player's role in heavy funk / alternative metal, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader King's X / Extreme / Living Colour lane.
+Jerry Gaskill is a drummer whose playing helps shape this music. Listen for how the drum part affects heavy funk / alternative metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is King's X / Extreme / Living Colour.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | King's X / Extreme / Living Colour | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | King's X / Extreme / Living Colour | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

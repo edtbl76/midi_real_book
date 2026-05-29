@@ -18,20 +18,20 @@ This music lives in the Thelonious Monk Quartet world: bebop / angular hard bop.
 
 ## Ahmed Abdul-Malik
 
-Ahmed Abdul-Malik is the bass voice for the `Thelonious Monk Quartet` pairing label. In the local ranking corpus, Ahmed Abdul-Malik is treated as an everyone-else bassist because of Monk-era upright grounding, angular hard-bop support, modal/world-influenced jazz vocabulary. Their core style vocabulary is bebop, hard bop, modal jazz; in this ensemble, that vocabulary is being aimed at bebop / angular hard bop inside the broader Thelonious Monk Quartet lane.
+Ahmed Abdul-Malik is a bassist associated with bebop, hard bop, modal jazz. Musically, the important traits here are Monk-era upright grounding, angular hard-bop support, modal/world-influenced jazz vocabulary. In this ensemble, that language is pointed toward bebop / angular hard bop, with Thelonious Monk Quartet as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Thelonious Monk Quartet | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Thelonious Monk Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Ahmed Abdul-Malik is the bass voice for the `Thelonious Monk Quartet` pairing la
 
 ## Jim Hall
 
-Jim Hall is the guitar voice for the `Thelonious Monk Quartet` pairing label. In the local ranking corpus, Jim Hall is treated as a still damn good guitarist because of chamber-jazz counterpoint, interactive comping, melodic restraint, advanced harmonic clarity. Their core style vocabulary is jazz, cool jazz, post-bop, chamber jazz; in this ensemble, that vocabulary is being aimed at bebop / angular hard bop inside the broader Thelonious Monk Quartet lane.
+Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz. Musically, the important traits here are chamber-jazz counterpoint, interactive comping, melodic restraint, advanced harmonic clarity. In this ensemble, that language is pointed toward bebop / angular hard bop, with Thelonious Monk Quartet as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Thelonious Monk Quartet | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Thelonious Monk Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Jim Hall is the guitar voice for the `Thelonious Monk Quartet` pairing label. In
 
 ## Frankie Dunlop
 
-Frankie Dunlop appears here as the drums voice for the `Thelonious Monk Quartet` pairing label. In this ensemble context, the important traits are the player's role in bebop / angular hard bop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Thelonious Monk Quartet lane.
+Frankie Dunlop is a drummer whose playing helps shape this music. Listen for how the drum part affects bebop / angular hard bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Thelonious Monk Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Thelonious Monk Quartet | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Thelonious Monk Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Frankie Dunlop appears here as the drums voice for the `Thelonious Monk Quartet`
 
 ## Thelonious Monk
 
-Thelonious Monk appears here as the keyboards voice for the `Thelonious Monk Quartet` pairing label. In this ensemble context, the important traits are the player's role in bebop / angular hard bop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Thelonious Monk Quartet lane.
+Thelonious Monk is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects bebop / angular hard bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Thelonious Monk Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Thelonious Monk Quartet | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Thelonious Monk Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Thelonious Monk appears here as the keyboards voice for the `Thelonious Monk Qua
 
 ## Charlie Rouse
 
-Charlie Rouse appears here as the saxophone voice for the `Thelonious Monk Quartet` pairing label. In this ensemble context, the important traits are the player's role in bebop / angular hard bop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Thelonious Monk Quartet lane.
+Charlie Rouse is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects bebop / angular hard bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Thelonious Monk Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Thelonious Monk Quartet | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Thelonious Monk Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

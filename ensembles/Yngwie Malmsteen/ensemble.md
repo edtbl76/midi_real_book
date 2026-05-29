@@ -19,20 +19,20 @@ This music lives in the Yngwie Malmsteen world: neoclassical shred / metal shred
 
 ## Marcel Jacob
 
-Marcel Jacob is the bass voice for the `Yngwie Malmsteen` pairing label. In the local ranking corpus, Marcel Jacob is treated as an everyone-else bassist because of neoclassical hard-rock support, pedal-tone drive, melodic fills. Their core style vocabulary is hard rock, neoclassical metal; in this ensemble, that vocabulary is being aimed at neoclassical shred / metal shred inside the broader Yngwie Malmsteen / Europe lane.
+Marcel Jacob is a bassist associated with hard rock, neoclassical metal. Musically, the important traits here are neoclassical hard-rock support, pedal-tone drive, melodic fills. In this ensemble, that language is pointed toward neoclassical shred / metal shred, with Yngwie Malmsteen / Europe as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Marcel Jacob is the bass voice for the `Yngwie Malmsteen` pairing label. In the 
 
 ## Yngwie Malmsteen
 
-Yngwie Malmsteen is the guitar voice for the `Yngwie Malmsteen` pairing label. In the local ranking corpus, Yngwie Malmsteen is treated as a virtuoso guitarist because of neoclassical shred precision, right-hand alternate picking speed, classical phrasing, sweep arpeggios. Their core style vocabulary is neoclassical metal, hard rock, heavy metal; in this ensemble, that vocabulary is being aimed at neoclassical shred / metal shred inside the broader Yngwie Malmsteen / Europe lane.
+Yngwie Malmsteen is a guitarist associated with neoclassical metal, hard rock, heavy metal. Musically, the important traits here are neoclassical shred precision, right-hand alternate picking speed, classical phrasing, sweep arpeggios. In this ensemble, that language is pointed toward neoclassical shred / metal shred, with Yngwie Malmsteen / Europe as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Yngwie Malmsteen is the guitar voice for the `Yngwie Malmsteen` pairing label. I
 
 ## Vinnie Moore
 
-Vinnie Moore is the guitar voice for the `Yngwie Malmsteen` pairing label. In the local ranking corpus, Vinnie Moore is treated as a virtuoso guitarist because of neoclassical/modal shred, alternate picking precision, melodic development. Their core style vocabulary is neoclassical metal, rock, shred; in this ensemble, that vocabulary is being aimed at neoclassical shred / metal shred inside the broader Yngwie Malmsteen / Europe lane.
+Vinnie Moore is a guitarist associated with neoclassical metal, rock, shred. Musically, the important traits here are neoclassical/modal shred, alternate picking precision, melodic development. In this ensemble, that language is pointed toward neoclassical shred / metal shred, with Yngwie Malmsteen / Europe as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Vinnie Moore is the guitar voice for the `Yngwie Malmsteen` pairing label. In th
 
 ## Joe Stump
 
-Joe Stump is the guitar voice for the `Yngwie Malmsteen` pairing label. In the local ranking corpus, Joe Stump is treated as a virtuoso guitarist because of neoclassical shred speed, Baroque-influenced sweep arpeggios, right-hand alternate picking precision. Their core style vocabulary is neoclassical metal, shred, hard rock; in this ensemble, that vocabulary is being aimed at neoclassical shred / metal shred inside the broader Yngwie Malmsteen / Europe lane.
+Joe Stump is a guitarist associated with neoclassical metal, shred, hard rock. Musically, the important traits here are neoclassical shred speed, Baroque-influenced sweep arpeggios, right-hand alternate picking precision. In this ensemble, that language is pointed toward neoclassical shred / metal shred, with Yngwie Malmsteen / Europe as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Joe Stump is the guitar voice for the `Yngwie Malmsteen` pairing label. In the l
 
 ## Ian Haugland
 
-Ian Haugland appears here as the drums voice for the `Yngwie Malmsteen` pairing label. In this ensemble context, the important traits are the player's role in neoclassical shred / metal shred, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Yngwie Malmsteen / Europe lane.
+Ian Haugland is a drummer whose playing helps shape this music. Listen for how the drum part affects neoclassical shred / metal shred: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Yngwie Malmsteen / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Ian Haugland appears here as the drums voice for the `Yngwie Malmsteen` pairing 
 
 ## Jens Johansson
 
-Jens Johansson appears here as the keyboards voice for the `Yngwie Malmsteen` pairing label. In this ensemble context, the important traits are the player's role in neoclassical shred / metal shred, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Yngwie Malmsteen / Europe lane.
+Jens Johansson is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects neoclassical shred / metal shred: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Yngwie Malmsteen / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Yngwie Malmsteen | [Wikipedia][yngwie-malmsteen-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

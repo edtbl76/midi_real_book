@@ -18,20 +18,20 @@ This music lives in the Mahavishnu / Shakti world: jazz fusion / Indian fusion /
 
 ## Dominique Di Piazza
 
-Dominique Di Piazza is the bass voice for the `Mahavishnu / Shakti` pairing label. In the local ranking corpus, Dominique Di Piazza is treated as a virtuoso bassist because of lightning-speed fretless articulation, chromatic fusion language, three-finger picking precision. Their core style vocabulary is jazz fusion, avant-garde, electric jazz; in this ensemble, that vocabulary is being aimed at jazz fusion / Indian fusion / world fusion inside the broader Mahavishnu / Shakti lane.
+Dominique Di Piazza is a bassist associated with jazz fusion, avant-garde, electric jazz. Musically, the important traits here are lightning-speed fretless articulation, chromatic fusion language, three-finger picking precision. In this ensemble, that language is pointed toward jazz fusion / Indian fusion / world fusion, with Mahavishnu / Shakti as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mahavishnu / Shakti | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mahavishnu / Shakti | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Dominique Di Piazza is the bass voice for the `Mahavishnu / Shakti` pairing labe
 
 ## John McLaughlin
 
-John McLaughlin is the guitar voice for the `Mahavishnu / Shakti` pairing label. In the local ranking corpus, John McLaughlin is treated as a virtuoso guitarist because of flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. Their core style vocabulary is jazz fusion, Indian classical fusion, jazz, flamenco-influenced; in this ensemble, that vocabulary is being aimed at jazz fusion / Indian fusion / world fusion inside the broader Mahavishnu / Shakti lane.
+John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble, that language is pointed toward jazz fusion / Indian fusion / world fusion, with Mahavishnu / Shakti as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mahavishnu / Shakti | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mahavishnu / Shakti | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ John McLaughlin is the guitar voice for the `Mahavishnu / Shakti` pairing label.
 
 ## Trilok Gurtu
 
-Trilok Gurtu appears here as the drums voice for the `Mahavishnu / Shakti` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / Indian fusion / world fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Mahavishnu / Shakti lane.
+Trilok Gurtu is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / Indian fusion / world fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mahavishnu / Shakti.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mahavishnu / Shakti | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mahavishnu / Shakti | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Trilok Gurtu appears here as the drums voice for the `Mahavishnu / Shakti` pairi
 
 ## L. Shankar
 
-L. Shankar appears here as the violin voice for the `Mahavishnu / Shakti` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / Indian fusion / world fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Mahavishnu / Shakti lane.
+L. Shankar is a violinist whose playing helps shape this music. Listen for how the violin part affects jazz fusion / Indian fusion / world fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mahavishnu / Shakti.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mahavishnu / Shakti | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mahavishnu / Shakti | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Violin | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Violin | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ L. Shankar appears here as the violin voice for the `Mahavishnu / Shakti` pairin
 
 ## Zakir Hussain
 
-Zakir Hussain appears here as the tabla voice for the `Mahavishnu / Shakti` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / Indian fusion / world fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Mahavishnu / Shakti lane.
+Zakir Hussain is a tabla player whose playing helps shape this music. Listen for how the tabla part affects jazz fusion / Indian fusion / world fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mahavishnu / Shakti.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Mahavishnu / Shakti | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Mahavishnu / Shakti | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Tabla | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Tabla | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

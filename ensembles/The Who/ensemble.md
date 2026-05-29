@@ -16,20 +16,20 @@ This music lives in the The Who world: British rock / hard rock. Listen for how 
 
 ## John Entwistle
 
-John Entwistle is the bass voice for the `The Who` pairing label. In the local ranking corpus, John Entwistle is treated as a virtuoso bassist because of aggressive lead-bass speed, trebly articulation, rock counterpoint. Their core style vocabulary is hard rock, rock; in this ensemble, that vocabulary is being aimed at British rock / hard rock inside the broader The Who lane.
+John Entwistle is a bassist associated with hard rock, rock. Musically, the important traits here are aggressive lead-bass speed, trebly articulation, rock counterpoint. In this ensemble, that language is pointed toward British rock / hard rock, with The Who as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Who | [Wikipedia][the-who-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Who | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Who | [Wikipedia][the-who-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Who | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -48,20 +48,20 @@ John Entwistle is the bass voice for the `The Who` pairing label. In the local r
 
 ## Pete Townshend
 
-Pete Townshend is the guitar voice for the `The Who` pairing label. In the local ranking corpus, Pete Townshend is treated as an everyone-else guitarist because of windmill power chord authority, acoustic rhythm command. Their core style vocabulary is rock, hard rock; in this ensemble, that vocabulary is being aimed at British rock / hard rock inside the broader The Who lane.
+Pete Townshend is a guitarist associated with rock, hard rock. Musically, the important traits here are windmill power chord authority, acoustic rhythm command. In this ensemble, that language is pointed toward British rock / hard rock, with The Who as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Who | [Wikipedia][the-who-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Who | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Who | [Wikipedia][the-who-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Who | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -80,20 +80,20 @@ Pete Townshend is the guitar voice for the `The Who` pairing label. In the local
 
 ## Keith Moon
 
-Keith Moon appears here as the drums voice for the `The Who` pairing label. In this ensemble context, the important traits are the player's role in British rock / hard rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader The Who lane.
+Keith Moon is a drummer whose playing helps shape this music. Listen for how the drum part affects British rock / hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is The Who.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Who | [Wikipedia][the-who-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | The Who | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | The Who | [Wikipedia][the-who-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | The Who | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

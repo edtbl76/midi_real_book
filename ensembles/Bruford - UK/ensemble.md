@@ -18,20 +18,20 @@ This music lives in the Bruford / UK world: jazz fusion / progressive rock. List
 
 ## Jeff Berlin
 
-Jeff Berlin is the bass voice for the `Bruford / UK` pairing label. In the local ranking corpus, Jeff Berlin is treated as a virtuoso bassist because of advanced harmonic fusion/prog vocabulary and clean articulation. Their core style vocabulary is jazz fusion, progressive rock, fusion; in this ensemble, that vocabulary is being aimed at jazz fusion / progressive rock inside the broader Bruford / UK / Allan Holdsworth band lane.
+Jeff Berlin is a bassist associated with jazz fusion, progressive rock, fusion. Musically, the important traits here are advanced harmonic fusion/prog vocabulary and clean articulation. In this ensemble, that language is pointed toward jazz fusion / progressive rock, with Bruford / UK / Allan Holdsworth band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Bruford / UK | [Wikipedia][bruford-uk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Bruford / UK / Allan Holdsworth band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Bruford / UK | [Wikipedia][bruford-uk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Bruford / UK / Allan Holdsworth band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Jeff Berlin is the bass voice for the `Bruford / UK` pairing label. In the local
 
 ## Allan Holdsworth
 
-Allan Holdsworth is the guitar voice for the `Bruford / UK` pairing label. In the local ranking corpus, Allan Holdsworth is treated as a virtuoso guitarist because of legato fusion language, advanced harmony, intervallic command. Their core style vocabulary is jazz fusion, prog fusion, avant-garde jazz-rock; in this ensemble, that vocabulary is being aimed at jazz fusion / progressive rock inside the broader Bruford / UK / Allan Holdsworth band lane.
+Allan Holdsworth is a guitarist associated with jazz fusion, prog fusion, avant-garde jazz-rock. Musically, the important traits here are legato fusion language, advanced harmony, intervallic command. In this ensemble, that language is pointed toward jazz fusion / progressive rock, with Bruford / UK / Allan Holdsworth band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Bruford / UK | [Wikipedia][bruford-uk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Bruford / UK / Allan Holdsworth band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Bruford / UK | [Wikipedia][bruford-uk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Bruford / UK / Allan Holdsworth band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Allan Holdsworth is the guitar voice for the `Bruford / UK` pairing label. In th
 
 ## Bill Bruford
 
-Bill Bruford appears here as the drums voice for the `Bruford / UK` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / progressive rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Bruford / UK / Allan Holdsworth band lane.
+Bill Bruford is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / progressive rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Bruford / UK / Allan Holdsworth band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Bruford / UK | [Wikipedia][bruford-uk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Bruford / UK / Allan Holdsworth band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Bruford / UK | [Wikipedia][bruford-uk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Bruford / UK / Allan Holdsworth band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Bill Bruford appears here as the drums voice for the `Bruford / UK` pairing labe
 
 ## Jan Hammer
 
-Jan Hammer appears here as the keyboards voice for the `Bruford / UK` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / progressive rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Bruford / UK / Allan Holdsworth band lane.
+Jan Hammer is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion / progressive rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Bruford / UK / Allan Holdsworth band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Bruford / UK | [Wikipedia][bruford-uk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Bruford / UK / Allan Holdsworth band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Bruford / UK | [Wikipedia][bruford-uk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Bruford / UK / Allan Holdsworth band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Jan Hammer appears here as the keyboards voice for the `Bruford / UK` pairing la
 
 ## Eddie Jobson
 
-Eddie Jobson appears here as the violin voice for the `Bruford / UK` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / progressive rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Bruford / UK / Allan Holdsworth band lane.
+Eddie Jobson is a violinist whose playing helps shape this music. Listen for how the violin part affects jazz fusion / progressive rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Bruford / UK / Allan Holdsworth band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Bruford / UK | [Wikipedia][bruford-uk-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Bruford / UK / Allan Holdsworth band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Bruford / UK | [Wikipedia][bruford-uk-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Bruford / UK / Allan Holdsworth band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Violin | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Violin | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

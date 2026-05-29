@@ -19,20 +19,20 @@ This music lives in the Fourplay world: session / smooth jazz. Listen for how th
 
 ## Nathan East
 
-Nathan East is the bass voice for the `Fourplay` pairing label. In the local ranking corpus, Nathan East is treated as an everyone-else bassist because of polished session command, time feel, broad stylistic fluency. Their core style vocabulary is session, pop, R&B, jazz fusion; in this ensemble, that vocabulary is being aimed at session / smooth jazz inside the broader Fourplay lane.
+Nathan East is a bassist associated with session, pop, R&B, jazz fusion. Musically, the important traits here are polished session command, time feel, broad stylistic fluency. In this ensemble, that language is pointed toward session / smooth jazz, with Fourplay as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Fourplay | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Fourplay | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Nathan East is the bass voice for the `Fourplay` pairing label. In the local ran
 
 ## Larry Carlton
 
-Larry Carlton is the guitar voice for the `Fourplay` pairing label. In the local ranking corpus, Larry Carlton is treated as a still damn good guitarist because of jazz-blues melodic lead, chamber jazz precision, refined studio vocabulary. Their core style vocabulary is jazz fusion, jazz-rock, session; in this ensemble, that vocabulary is being aimed at session / smooth jazz inside the broader Fourplay lane.
+Larry Carlton is a guitarist associated with jazz fusion, jazz-rock, session. Musically, the important traits here are jazz-blues melodic lead, chamber jazz precision, refined studio vocabulary. In this ensemble, that language is pointed toward session / smooth jazz, with Fourplay as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Fourplay | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Fourplay | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Larry Carlton is the guitar voice for the `Fourplay` pairing label. In the local
 
 ## Lee Ritenour
 
-Lee Ritenour is the guitar voice for the `Fourplay` pairing label. In the local ranking corpus, Lee Ritenour is treated as a still damn good guitarist because of jazz-fusion clean technique, chord-melody sophistication, session versatility. Their core style vocabulary is jazz fusion, session, jazz; in this ensemble, that vocabulary is being aimed at session / smooth jazz inside the broader Fourplay lane.
+Lee Ritenour is a guitarist associated with jazz fusion, session, jazz. Musically, the important traits here are jazz-fusion clean technique, chord-melody sophistication, session versatility. In this ensemble, that language is pointed toward session / smooth jazz, with Fourplay as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Fourplay | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Fourplay | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Lee Ritenour is the guitar voice for the `Fourplay` pairing label. In the local 
 
 ## Harvey Mason
 
-Harvey Mason appears here as the drums voice for the `Fourplay` pairing label. In this ensemble context, the important traits are the player's role in session / smooth jazz, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Fourplay lane.
+Harvey Mason is a drummer whose playing helps shape this music. Listen for how the drum part affects session / smooth jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Fourplay.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Fourplay | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Fourplay | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Harvey Mason appears here as the drums voice for the `Fourplay` pairing label. I
 
 ## Bob James
 
-Bob James appears here as the keyboards voice for the `Fourplay` pairing label. In this ensemble context, the important traits are the player's role in session / smooth jazz, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Fourplay lane.
+Bob James is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects session / smooth jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Fourplay.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Fourplay | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Fourplay | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Bob James appears here as the keyboards voice for the `Fourplay` pairing label. 
 
 ## Eric Marienthal
 
-Eric Marienthal appears here as the saxophone voice for the `Fourplay` pairing label. In this ensemble context, the important traits are the player's role in session / smooth jazz, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Fourplay lane.
+Eric Marienthal is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects session / smooth jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Fourplay.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Fourplay | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Fourplay | [Wikipedia][fourplay-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Fourplay | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

@@ -18,20 +18,20 @@ This music lives in the Lee Ritenour band world: session / jazz fusion. Listen f
 
 ## Abraham Laboriel
 
-Abraham Laboriel is the bass voice for the `Lee Ritenour band` pairing label. In the local ranking corpus, Abraham Laboriel is treated as a virtuoso bassist because of session fusion sophistication, harmonic flexibility, clean articulation across styles. Their core style vocabulary is session, jazz fusion, Latin jazz, pop; in this ensemble, that vocabulary is being aimed at session / jazz fusion inside the broader Lee Ritenour band lane.
+Abraham Laboriel is a bassist associated with session, jazz fusion, Latin jazz, pop. Musically, the important traits here are session fusion sophistication, harmonic flexibility, clean articulation across styles. In this ensemble, that language is pointed toward session / jazz fusion, with Lee Ritenour band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Lee Ritenour band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Lee Ritenour band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Abraham Laboriel is the bass voice for the `Lee Ritenour band` pairing label. In
 
 ## Lee Ritenour
 
-Lee Ritenour is the guitar voice for the `Lee Ritenour band` pairing label. In the local ranking corpus, Lee Ritenour is treated as a still damn good guitarist because of jazz-fusion clean technique, chord-melody sophistication, session versatility. Their core style vocabulary is jazz fusion, session, jazz; in this ensemble, that vocabulary is being aimed at session / jazz fusion inside the broader Lee Ritenour band lane.
+Lee Ritenour is a guitarist associated with jazz fusion, session, jazz. Musically, the important traits here are jazz-fusion clean technique, chord-melody sophistication, session versatility. In this ensemble, that language is pointed toward session / jazz fusion, with Lee Ritenour band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Lee Ritenour band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Lee Ritenour band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Lee Ritenour is the guitar voice for the `Lee Ritenour band` pairing label. In t
 
 ## Vinnie Colaiuta
 
-Vinnie Colaiuta appears here as the drums voice for the `Lee Ritenour band` pairing label. In this ensemble context, the important traits are the player's role in session / jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Lee Ritenour band lane.
+Vinnie Colaiuta is a drummer whose playing helps shape this music. Listen for how the drum part affects session / jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Lee Ritenour band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Lee Ritenour band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Lee Ritenour band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Vinnie Colaiuta appears here as the drums voice for the `Lee Ritenour band` pair
 
 ## Joe Sample
 
-Joe Sample appears here as the keyboards voice for the `Lee Ritenour band` pairing label. In this ensemble context, the important traits are the player's role in session / jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Lee Ritenour band lane.
+Joe Sample is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects session / jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Lee Ritenour band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Lee Ritenour band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Lee Ritenour band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Joe Sample appears here as the keyboards voice for the `Lee Ritenour band` pairi
 
 ## Justo Almario
 
-Justo Almario appears here as the saxophone voice for the `Lee Ritenour band` pairing label. In this ensemble context, the important traits are the player's role in session / jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Lee Ritenour band lane.
+Justo Almario is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects session / jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Lee Ritenour band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Lee Ritenour band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Lee Ritenour band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

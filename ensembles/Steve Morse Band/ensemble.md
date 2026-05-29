@@ -18,20 +18,20 @@ This music lives in the Steve Morse Band world: fusion rock / progressive bluegr
 
 ## Dave LaRue
 
-Dave LaRue is the bass voice for the `Steve Morse Band` pairing label. In the local ranking corpus, Dave LaRue is treated as a virtuoso bassist because of precision fusion-rock technique and clean melodic execution. Their core style vocabulary is jazz fusion, rock, fusion; in this ensemble, that vocabulary is being aimed at fusion rock / progressive bluegrass inside the broader Dixie Dregs / Steve Morse Band lane.
+Dave LaRue is a bassist associated with jazz fusion, rock, fusion. Musically, the important traits here are precision fusion-rock technique and clean melodic execution. In this ensemble, that language is pointed toward fusion rock / progressive bluegrass, with Dixie Dregs / Steve Morse Band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Steve Morse Band | [Wikipedia][steve-morse-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dixie Dregs / Steve Morse Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Steve Morse Band | [Wikipedia][steve-morse-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dixie Dregs / Steve Morse Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Dave LaRue is the bass voice for the `Steve Morse Band` pairing label. In the lo
 
 ## Steve Morse
 
-Steve Morse is the guitar voice for the `Steve Morse Band` pairing label. In the local ranking corpus, Steve Morse is treated as a virtuoso guitarist because of alternate-picked precision, wide-interval lines, neoclassical vocabulary, broad multi-style technical command. Their core style vocabulary is rock, fusion, progressive rock, country, classical-influenced; in this ensemble, that vocabulary is being aimed at fusion rock / progressive bluegrass inside the broader Dixie Dregs / Steve Morse Band lane.
+Steve Morse is a guitarist associated with rock, fusion, progressive rock, country, classical-influenced. Musically, the important traits here are alternate-picked precision, wide-interval lines, neoclassical vocabulary, broad multi-style technical command. In this ensemble, that language is pointed toward fusion rock / progressive bluegrass, with Dixie Dregs / Steve Morse Band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Steve Morse Band | [Wikipedia][steve-morse-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dixie Dregs / Steve Morse Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Steve Morse Band | [Wikipedia][steve-morse-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dixie Dregs / Steve Morse Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Steve Morse is the guitar voice for the `Steve Morse Band` pairing label. In the
 
 ## Rod Morgenstein
 
-Rod Morgenstein appears here as the drums voice for the `Steve Morse Band` pairing label. In this ensemble context, the important traits are the player's role in fusion rock / progressive bluegrass, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Dixie Dregs / Steve Morse Band lane.
+Rod Morgenstein is a drummer whose playing helps shape this music. Listen for how the drum part affects fusion rock / progressive bluegrass: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dixie Dregs / Steve Morse Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Steve Morse Band | [Wikipedia][steve-morse-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dixie Dregs / Steve Morse Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Steve Morse Band | [Wikipedia][steve-morse-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dixie Dregs / Steve Morse Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Rod Morgenstein appears here as the drums voice for the `Steve Morse Band` pairi
 
 ## T Lavitz
 
-T Lavitz appears here as the keyboards voice for the `Steve Morse Band` pairing label. In this ensemble context, the important traits are the player's role in fusion rock / progressive bluegrass, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Dixie Dregs / Steve Morse Band lane.
+T Lavitz is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects fusion rock / progressive bluegrass: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dixie Dregs / Steve Morse Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Steve Morse Band | [Wikipedia][steve-morse-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dixie Dregs / Steve Morse Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Steve Morse Band | [Wikipedia][steve-morse-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dixie Dregs / Steve Morse Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ T Lavitz appears here as the keyboards voice for the `Steve Morse Band` pairing 
 
 ## Jerry Goodman
 
-Jerry Goodman appears here as the violin voice for the `Steve Morse Band` pairing label. In this ensemble context, the important traits are the player's role in fusion rock / progressive bluegrass, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Dixie Dregs / Steve Morse Band lane.
+Jerry Goodman is a violinist whose playing helps shape this music. Listen for how the violin part affects fusion rock / progressive bluegrass: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dixie Dregs / Steve Morse Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Steve Morse Band | [Wikipedia][steve-morse-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dixie Dregs / Steve Morse Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Steve Morse Band | [Wikipedia][steve-morse-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dixie Dregs / Steve Morse Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Violin | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Violin | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

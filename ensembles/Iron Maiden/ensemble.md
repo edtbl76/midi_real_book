@@ -17,20 +17,20 @@ This music is centered on Iron Maiden: NWOBHM / heavy metal / power metal. Liste
 
 ## Steve Harris
 
-Steve Harris is the bass voice for the `Iron Maiden` pairing label. In the local ranking corpus, Steve Harris is treated as an everyone-else bassist because of galloping endurance, tight metal propulsion, melodic fills. Their core style vocabulary is heavy metal, hard rock; in this ensemble, that vocabulary is being aimed at NWOBHM / heavy metal / power metal inside the broader Iron Maiden / Helloween lane.
+Steve Harris is a bassist associated with heavy metal, hard rock. Musically, the important traits here are galloping endurance, tight metal propulsion, melodic fills. In this ensemble, that language is pointed toward NWOBHM / heavy metal / power metal, with Iron Maiden / Helloween as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Iron Maiden | [Wikipedia][iron-maiden-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Iron Maiden / Helloween | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Iron Maiden | [Wikipedia][iron-maiden-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Iron Maiden / Helloween | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Steve Harris is the bass voice for the `Iron Maiden` pairing label. In the local
 
 ## Adrian Smith
 
-Adrian Smith is the guitar voice for the `Iron Maiden` pairing label. In the local ranking corpus, Adrian Smith is treated as an everyone-else guitarist because of NWOBHM melodic dual-guitar vocabulary, rhythmic and lead precision. Their core style vocabulary is heavy metal, hard rock; in this ensemble, that vocabulary is being aimed at NWOBHM / heavy metal / power metal inside the broader Iron Maiden / Helloween lane.
+Adrian Smith is a guitarist associated with heavy metal, hard rock. Musically, the important traits here are NWOBHM melodic dual-guitar vocabulary, rhythmic and lead precision. In this ensemble, that language is pointed toward NWOBHM / heavy metal / power metal, with Iron Maiden / Helloween as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Iron Maiden | [Wikipedia][iron-maiden-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Iron Maiden / Helloween | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Iron Maiden | [Wikipedia][iron-maiden-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Iron Maiden / Helloween | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Adrian Smith is the guitar voice for the `Iron Maiden` pairing label. In the loc
 
 ## Kai Hansen
 
-Kai Hansen is the guitar voice for the `Iron Maiden` pairing label. In the local ranking corpus, Kai Hansen is treated as an everyone-else guitarist because of speed metal rhythm precision, NWOBHM-influenced lead vocabulary. Their core style vocabulary is power metal, speed metal; in this ensemble, that vocabulary is being aimed at NWOBHM / heavy metal / power metal inside the broader Iron Maiden / Helloween lane.
+Kai Hansen is a guitarist associated with power metal, speed metal. Musically, the important traits here are speed metal rhythm precision, NWOBHM-influenced lead vocabulary. In this ensemble, that language is pointed toward NWOBHM / heavy metal / power metal, with Iron Maiden / Helloween as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Iron Maiden | [Wikipedia][iron-maiden-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Iron Maiden / Helloween | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Iron Maiden | [Wikipedia][iron-maiden-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Iron Maiden / Helloween | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Kai Hansen is the guitar voice for the `Iron Maiden` pairing label. In the local
 
 ## Nicko McBrain
 
-Nicko McBrain appears here as the drums voice for the `Iron Maiden` pairing label. In this ensemble context, the important traits are the player's role in NWOBHM / heavy metal / power metal, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Iron Maiden / Helloween lane.
+Nicko McBrain is a drummer whose playing helps shape this music. Listen for how the drum part affects NWOBHM / heavy metal / power metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Iron Maiden / Helloween.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Iron Maiden | [Wikipedia][iron-maiden-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Iron Maiden / Helloween | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Iron Maiden | [Wikipedia][iron-maiden-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Iron Maiden / Helloween | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

@@ -18,20 +18,20 @@ This music lives in the Stevie Wonder world: soul / funk / pop. Listen for how t
 
 ## Nathan Watts
 
-Nathan Watts is the bass voice for the `Stevie Wonder` pairing label. In the local ranking corpus, Nathan Watts is treated as an everyone-else bassist because of late-70s/80s Stevie Wonder pocket, gospel-funk authority, melodic R&B support. Their core style vocabulary is soul, funk, R&B; in this ensemble, that vocabulary is being aimed at soul / funk / pop inside the broader Stevie Wonder lane.
+Nathan Watts is a bassist associated with soul, funk, R&B. Musically, the important traits here are late-70s/80s Stevie Wonder pocket, gospel-funk authority, melodic R&B support. In this ensemble, that language is pointed toward soul / funk / pop, with Stevie Wonder as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Wonder | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Wonder | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Nathan Watts is the bass voice for the `Stevie Wonder` pairing label. In the loc
 
 ## Michael Sembello
 
-Michael Sembello is the guitar voice for the `Stevie Wonder` pairing label. In the local ranking corpus, Michael Sembello is treated as an everyone-else guitarist because of late-70s/80s Stevie Wonder-era rhythm/lead support, funk-pop precision, session versatility. Their core style vocabulary is pop, funk, R&B, session; in this ensemble, that vocabulary is being aimed at soul / funk / pop inside the broader Stevie Wonder lane.
+Michael Sembello is a guitarist associated with pop, funk, R&B, session. Musically, the important traits here are late-70s/80s Stevie Wonder-era rhythm/lead support, funk-pop precision, session versatility. In this ensemble, that language is pointed toward soul / funk / pop, with Stevie Wonder as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Wonder | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Wonder | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Michael Sembello is the guitar voice for the `Stevie Wonder` pairing label. In t
 
 ## John Robinson
 
-John Robinson appears here as the drums voice for the `Stevie Wonder` pairing label. In this ensemble context, the important traits are the player's role in soul / funk / pop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Stevie Wonder lane.
+John Robinson is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / funk / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Stevie Wonder.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Wonder | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Wonder | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ John Robinson appears here as the drums voice for the `Stevie Wonder` pairing la
 
 ## Stevie Wonder
 
-Stevie Wonder appears here as the keyboards voice for the `Stevie Wonder` pairing label. In this ensemble context, the important traits are the player's role in soul / funk / pop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Stevie Wonder lane.
+Stevie Wonder is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / funk / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Stevie Wonder.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Wonder | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Wonder | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Stevie Wonder appears here as the keyboards voice for the `Stevie Wonder` pairin
 
 ## Toots Thielemans
 
-Toots Thielemans appears here as the harmonica voice for the `Stevie Wonder` pairing label. In this ensemble context, the important traits are the player's role in soul / funk / pop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Stevie Wonder lane.
+Toots Thielemans is a harmonica player whose playing helps shape this music. Listen for how the harmonica part affects soul / funk / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Stevie Wonder.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Stevie Wonder | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Stevie Wonder | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Harmonica | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Harmonica | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

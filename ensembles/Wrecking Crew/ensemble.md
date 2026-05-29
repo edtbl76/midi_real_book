@@ -19,20 +19,20 @@ This music lives in the Wrecking Crew world: session / pop. Listen for how the p
 
 ## Carol Kaye
 
-Carol Kaye is the bass voice for the `Wrecking Crew` pairing label. In the local ranking corpus, Carol Kaye is treated as a virtuoso bassist because of elite session reading, pick control, and stylistic fluency. Their core style vocabulary is session, pop, R&B, rock; in this ensemble, that vocabulary is being aimed at session / pop inside the broader Wrecking Crew / Capitol Records session orbit lane.
+Carol Kaye is a bassist associated with session, pop, R&B, rock. Musically, the important traits here are elite session reading, pick control, and stylistic fluency. In this ensemble, that language is pointed toward session / pop, with Wrecking Crew / Capitol Records session orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Carol Kaye is the bass voice for the `Wrecking Crew` pairing label. In the local
 
 ## Tommy Tedesco
 
-Tommy Tedesco is the guitar voice for the `Wrecking Crew` pairing label. In the local ranking corpus, Tommy Tedesco is treated as an everyone-else guitarist because of session Hollywood reading precision, stylistic versatility, clean execution. Their core style vocabulary is jazz, session, studio; in this ensemble, that vocabulary is being aimed at session / pop inside the broader Wrecking Crew / Capitol Records session orbit lane.
+Tommy Tedesco is a guitarist associated with jazz, session, studio. Musically, the important traits here are session Hollywood reading precision, stylistic versatility, clean execution. In this ensemble, that language is pointed toward session / pop, with Wrecking Crew / Capitol Records session orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Tommy Tedesco is the guitar voice for the `Wrecking Crew` pairing label. In the 
 
 ## Barney Kessel
 
-Barney Kessel is the guitar voice for the `Wrecking Crew` pairing label. In the local ranking corpus, Barney Kessel is treated as a still damn good guitarist because of swing/bebop session vocabulary, chord melody, bluesy jazz phrasing, big-band guitar authority. Their core style vocabulary is jazz, swing, bebop, session; in this ensemble, that vocabulary is being aimed at session / pop inside the broader Wrecking Crew / Capitol Records session orbit lane.
+Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musically, the important traits here are swing/bebop session vocabulary, chord melody, bluesy jazz phrasing, big-band guitar authority. In this ensemble, that language is pointed toward session / pop, with Wrecking Crew / Capitol Records session orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Barney Kessel is the guitar voice for the `Wrecking Crew` pairing label. In the 
 
 ## Hal Blaine
 
-Hal Blaine appears here as the drums voice for the `Wrecking Crew` pairing label. In this ensemble context, the important traits are the player's role in session / pop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Wrecking Crew / Capitol Records session orbit lane.
+Hal Blaine is a drummer whose playing helps shape this music. Listen for how the drum part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Hal Blaine appears here as the drums voice for the `Wrecking Crew` pairing label
 
 ## Leon Russell
 
-Leon Russell appears here as the keyboards voice for the `Wrecking Crew` pairing label. In this ensemble context, the important traits are the player's role in session / pop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Wrecking Crew / Capitol Records session orbit lane.
+Leon Russell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Leon Russell appears here as the keyboards voice for the `Wrecking Crew` pairing
 
 ## Plas Johnson
 
-Plas Johnson appears here as the saxophone voice for the `Wrecking Crew` pairing label. In this ensemble context, the important traits are the player's role in session / pop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Wrecking Crew / Capitol Records session orbit lane.
+Plas Johnson is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

@@ -17,20 +17,20 @@ This music lives in the Deep Purple world: classic hard rock. Listen for how the
 
 ## Roger Glover
 
-Roger Glover is the bass voice for the `Deep Purple` pairing label. In the local ranking corpus, Roger Glover is treated as an everyone-else bassist because of classic hard-rock riff support, swinging eighths, organ/guitar interplay, driving song-form stamina. Their core style vocabulary is classic hard rock, hard rock; in this ensemble, that vocabulary is being aimed at classic hard rock inside the broader Deep Purple lane.
+Roger Glover is a bassist associated with classic hard rock, hard rock. Musically, the important traits here are classic hard-rock riff support, swinging eighths, organ/guitar interplay, driving song-form stamina. In this ensemble, that language is pointed toward classic hard rock, with Deep Purple as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Deep Purple | [Wikipedia][deep-purple-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Deep Purple | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Deep Purple | [Wikipedia][deep-purple-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Deep Purple | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Roger Glover is the bass voice for the `Deep Purple` pairing label. In the local
 
 ## Ritchie Blackmore
 
-Ritchie Blackmore is the guitar voice for the `Deep Purple` pairing label. In the local ranking corpus, Ritchie Blackmore is treated as a virtuoso guitarist because of proto-neoclassical lead, baroque-influenced phrasing, alternate picking precision, foundational metal vocabulary. Their core style vocabulary is hard rock, heavy metal, neoclassical-influenced; in this ensemble, that vocabulary is being aimed at classic hard rock inside the broader Deep Purple lane.
+Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclassical-influenced. Musically, the important traits here are proto-neoclassical lead, baroque-influenced phrasing, alternate picking precision, foundational metal vocabulary. In this ensemble, that language is pointed toward classic hard rock, with Deep Purple as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Deep Purple | [Wikipedia][deep-purple-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Deep Purple | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Deep Purple | [Wikipedia][deep-purple-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Deep Purple | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Ritchie Blackmore is the guitar voice for the `Deep Purple` pairing label. In th
 
 ## Ian Paice
 
-Ian Paice appears here as the drums voice for the `Deep Purple` pairing label. In this ensemble context, the important traits are the player's role in classic hard rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Deep Purple lane.
+Ian Paice is a drummer whose playing helps shape this music. Listen for how the drum part affects classic hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Deep Purple.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Deep Purple | [Wikipedia][deep-purple-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Deep Purple | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Deep Purple | [Wikipedia][deep-purple-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Deep Purple | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Ian Paice appears here as the drums voice for the `Deep Purple` pairing label. I
 
 ## Jon Lord
 
-Jon Lord appears here as the keyboards voice for the `Deep Purple` pairing label. In this ensemble context, the important traits are the player's role in classic hard rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Deep Purple lane.
+Jon Lord is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects classic hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Deep Purple.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Deep Purple | [Wikipedia][deep-purple-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Deep Purple | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Deep Purple | [Wikipedia][deep-purple-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Deep Purple | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

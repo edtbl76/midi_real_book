@@ -17,14 +17,14 @@ This music lives in the Journey world: AOR / melodic rock. Listen for how the pl
 
 ## Ross Valory
 
-American bassist associated with Journey and Bay Area melodic rock. In this `Journey` ensemble, the focus is bass function inside AOR / melodic rock: how the player supports, contrasts, or defines the pairing vocabulary. The broad biographical frame is California / Bay Area rock scene, active mainly from 1970s-present, with styles centered on AOR, melodic rock, supportive arena-rock bass.
+American bassist associated with Journey and Bay Area melodic rock. In this `Journey` ensemble, the focus is bass function inside AOR / melodic rock: how the player supports, contrasts, or defines the ensemble sound. The broad biographical frame is California / Bay Area rock scene, active mainly from 1970s-present, with styles centered on AOR, melodic rock, supportive arena-rock bass.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Journey | [Wikipedia][journey-wiki] | [Website][journey-site] | Core context for this real-book pairing label. |
-| Broader work | Journey | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Journey | [Wikipedia][journey-wiki] | [Website][journey-site] | Main musical setting for this ensemble. |
+| Broader work | Journey | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
@@ -50,14 +50,14 @@ American bassist associated with Journey and Bay Area melodic rock. In this `Jou
 
 ## Neal Schon
 
-American guitarist known for Santana and Journey. In this `Journey` ensemble, the focus is guitar function inside AOR / melodic rock: how the player supports, contrasts, or defines the pairing vocabulary. The broad biographical frame is San Francisco Bay Area, active mainly from late 1960s-present, with styles centered on melodic rock, blues-rock, sustained vocal lead guitar.
+American guitarist known for Santana and Journey. In this `Journey` ensemble, the focus is guitar function inside AOR / melodic rock: how the player supports, contrasts, or defines the ensemble sound. The broad biographical frame is San Francisco Bay Area, active mainly from late 1960s-present, with styles centered on melodic rock, blues-rock, sustained vocal lead guitar.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Journey | [Wikipedia][journey-wiki] | [Website][journey-site] | Core context for this real-book pairing label. |
-| Broader work | Journey | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Journey | [Wikipedia][journey-wiki] | [Website][journey-site] | Main musical setting for this ensemble. |
+| Broader work | Journey | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
@@ -83,20 +83,20 @@ American guitarist known for Santana and Journey. In this `Journey` ensemble, th
 
 ## Steve Smith
 
-Steve Smith appears here as the drums voice for the `Journey` pairing label. In this ensemble context, the important traits are the player's role in AOR / melodic rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Journey lane.
+Steve Smith is a drummer whose playing helps shape this music. Listen for how the drum part affects AOR / melodic rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Journey.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Journey | [Wikipedia][journey-wiki] | [Website][journey-site] | Core context for this real-book pairing label. |
-| Broader work | Journey | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Journey | [Wikipedia][journey-wiki] | [Website][journey-site] | Main musical setting for this ensemble. |
+| Broader work | Journey | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Steve Smith appears here as the drums voice for the `Journey` pairing label. In 
 
 ## Jonathan Cain
 
-Jonathan Cain appears here as the keyboards voice for the `Journey` pairing label. In this ensemble context, the important traits are the player's role in AOR / melodic rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Journey lane.
+Jonathan Cain is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects AOR / melodic rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Journey.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Journey | [Wikipedia][journey-wiki] | [Website][journey-site] | Core context for this real-book pairing label. |
-| Broader work | Journey | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Journey | [Wikipedia][journey-wiki] | [Website][journey-site] | Main musical setting for this ensemble. |
+| Broader work | Journey | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

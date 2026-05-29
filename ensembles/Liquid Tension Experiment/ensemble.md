@@ -21,20 +21,20 @@ This music lives in the Liquid Tension Experiment world: art rock / progressive 
 
 ## Tony Levin
 
-Tony Levin is the bass voice for the `Liquid Tension Experiment` pairing label. In the local ranking corpus, Tony Levin is treated as a virtuoso bassist because of Chapman Stick, fretless and fretted art-rock command, odd-meter precision, session adaptability. Their core style vocabulary is art rock, progressive rock, progressive metal, session; in this ensemble, that vocabulary is being aimed at art rock / progressive metal / experimental rock inside the broader Liquid Tension Experiment / King Crimson / Peter Gabriel lane.
+Tony Levin is a bassist associated with art rock, progressive rock, progressive metal, session. Musically, the important traits here are Chapman Stick, fretless and fretted art-rock command, odd-meter precision, session adaptability. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -53,20 +53,20 @@ Tony Levin is the bass voice for the `Liquid Tension Experiment` pairing label. 
 
 ## John Petrucci
 
-John Petrucci is the guitar voice for the `Liquid Tension Experiment` pairing label. In the local ranking corpus, John Petrucci is treated as a virtuoso guitarist because of progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. Their core style vocabulary is progressive metal, hard rock; in this ensemble, that vocabulary is being aimed at art rock / progressive metal / experimental rock inside the broader Liquid Tension Experiment / King Crimson / Peter Gabriel lane.
+John Petrucci is a guitarist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -85,14 +85,14 @@ John Petrucci is the guitar voice for the `Liquid Tension Experiment` pairing la
 
 ## Adrian Belew
 
-American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, Talking Heads, King Crimson, and solo work. In this `Liquid Tension Experiment` ensemble, the focus is guitar function inside art rock / progressive metal / experimental rock: how the player supports, contrasts, or defines the pairing vocabulary. The broad biographical frame is Kentucky / Nashville and international art-rock scenes, active mainly from 1970s-present, with styles centered on art rock, experimental guitar, angular rhythm, whammy textures.
+American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, Talking Heads, King Crimson, and solo work. In this `Liquid Tension Experiment` ensemble, the focus is guitar function inside art rock / progressive metal / experimental rock: how the player supports, contrasts, or defines the ensemble sound. The broad biographical frame is Kentucky / Nashville and international art-rock scenes, active mainly from 1970s-present, with styles centered on art rock, experimental guitar, angular rhythm, whammy textures.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
@@ -118,20 +118,20 @@ American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, T
 
 ## David Rhodes
 
-David Rhodes is the guitar voice for the `Liquid Tension Experiment` pairing label. In the local ranking corpus, David Rhodes is treated as an everyone-else guitarist because of Peter Gabriel art-pop texture, atmospheric rhythm guitar, song-serving lead color. Their core style vocabulary is art pop, art rock, session; in this ensemble, that vocabulary is being aimed at art rock / progressive metal / experimental rock inside the broader Liquid Tension Experiment / King Crimson / Peter Gabriel lane.
+David Rhodes is a guitarist associated with art pop, art rock, session. Musically, the important traits here are Peter Gabriel art-pop texture, atmospheric rhythm guitar, song-serving lead color. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -150,20 +150,20 @@ David Rhodes is the guitar voice for the `Liquid Tension Experiment` pairing lab
 
 ## Mike Portnoy
 
-Mike Portnoy appears here as the drums voice for the `Liquid Tension Experiment` pairing label. In this ensemble context, the important traits are the player's role in art rock / progressive metal / experimental rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Liquid Tension Experiment / King Crimson / Peter Gabriel lane.
+Mike Portnoy is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -182,20 +182,20 @@ Mike Portnoy appears here as the drums voice for the `Liquid Tension Experiment`
 
 ## Pat Mastelotto
 
-Pat Mastelotto appears here as the drums voice for the `Liquid Tension Experiment` pairing label. In this ensemble context, the important traits are the player's role in art rock / progressive metal / experimental rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Liquid Tension Experiment / King Crimson / Peter Gabriel lane.
+Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -214,20 +214,20 @@ Pat Mastelotto appears here as the drums voice for the `Liquid Tension Experimen
 
 ## Jordan Rudess
 
-Jordan Rudess appears here as the keyboards voice for the `Liquid Tension Experiment` pairing label. In this ensemble context, the important traits are the player's role in art rock / progressive metal / experimental rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Liquid Tension Experiment / King Crimson / Peter Gabriel lane.
+Jordan Rudess is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -246,20 +246,20 @@ Jordan Rudess appears here as the keyboards voice for the `Liquid Tension Experi
 
 ## Mel Collins
 
-Mel Collins appears here as the saxophone voice for the `Liquid Tension Experiment` pairing label. In this ensemble context, the important traits are the player's role in art rock / progressive metal / experimental rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Liquid Tension Experiment / King Crimson / Peter Gabriel lane.
+Mel Collins is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

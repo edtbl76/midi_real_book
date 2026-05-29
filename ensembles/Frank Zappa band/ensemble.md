@@ -18,14 +18,14 @@ This music lives in the Frank Zappa band world: avant-rock / fusion / composed r
 
 ## Arthur Barrow
 
-American bassist and multi-instrumentalist known for Frank Zappa work and later production/session work. In this `Frank Zappa band` ensemble, the focus is bass function inside avant-rock / fusion / composed rock: how the player supports, contrasts, or defines the pairing vocabulary. The broad biographical frame is Texas / Los Angeles scene, active mainly from 1970s-present, with styles centered on composed rock, fusion, odd-meter ensemble playing.
+American bassist and multi-instrumentalist known for Frank Zappa work and later production/session work. In this `Frank Zappa band` ensemble, the focus is bass function inside avant-rock / fusion / composed rock: how the player supports, contrasts, or defines the ensemble sound. The broad biographical frame is Texas / Los Angeles scene, active mainly from 1970s-present, with styles centered on composed rock, fusion, odd-meter ensemble playing.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Frank Zappa band | [Wikipedia][frank-zappa-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Frank Zappa band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Frank Zappa band | [Wikipedia][frank-zappa-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Frank Zappa band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
@@ -51,14 +51,14 @@ American bassist and multi-instrumentalist known for Frank Zappa work and later 
 
 ## Steve Vai
 
-American guitarist who emerged from Frank Zappa's band before becoming a major virtuoso rock solo artist. In this `Frank Zappa band` ensemble, the focus is guitar function inside avant-rock / fusion / composed rock: how the player supports, contrasts, or defines the pairing vocabulary. The broad biographical frame is Long Island, New York, active mainly from late 1970s-present, with styles centered on virtuoso rock, Zappa-style reading, whammy phrasing, shred.
+American guitarist who emerged from Frank Zappa's band before becoming a major virtuoso rock solo artist. In this `Frank Zappa band` ensemble, the focus is guitar function inside avant-rock / fusion / composed rock: how the player supports, contrasts, or defines the ensemble sound. The broad biographical frame is Long Island, New York, active mainly from late 1970s-present, with styles centered on virtuoso rock, Zappa-style reading, whammy phrasing, shred.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Frank Zappa band | [Wikipedia][frank-zappa-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Frank Zappa band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Frank Zappa band | [Wikipedia][frank-zappa-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Frank Zappa band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
@@ -84,14 +84,14 @@ American guitarist who emerged from Frank Zappa's band before becoming a major v
 
 ## Adrian Belew
 
-American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, Talking Heads, King Crimson, and solo work. In this `Frank Zappa band` ensemble, the focus is guitar function inside avant-rock / fusion / composed rock: how the player supports, contrasts, or defines the pairing vocabulary. The broad biographical frame is Kentucky / Nashville and international art-rock scenes, active mainly from 1970s-present, with styles centered on art rock, experimental guitar, angular rhythm, whammy textures.
+American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, Talking Heads, King Crimson, and solo work. In this `Frank Zappa band` ensemble, the focus is guitar function inside avant-rock / fusion / composed rock: how the player supports, contrasts, or defines the ensemble sound. The broad biographical frame is Kentucky / Nashville and international art-rock scenes, active mainly from 1970s-present, with styles centered on art rock, experimental guitar, angular rhythm, whammy textures.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Frank Zappa band | [Wikipedia][frank-zappa-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Frank Zappa band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Frank Zappa band | [Wikipedia][frank-zappa-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Frank Zappa band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
@@ -117,20 +117,20 @@ American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, T
 
 ## Vinnie Colaiuta
 
-Vinnie Colaiuta appears here as the drums voice for the `Frank Zappa band` pairing label. In this ensemble context, the important traits are the player's role in avant-rock / fusion / composed rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Frank Zappa band lane.
+Vinnie Colaiuta is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-rock / fusion / composed rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Frank Zappa band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Frank Zappa band | [Wikipedia][frank-zappa-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Frank Zappa band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Frank Zappa band | [Wikipedia][frank-zappa-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Frank Zappa band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -149,20 +149,20 @@ Vinnie Colaiuta appears here as the drums voice for the `Frank Zappa band` pairi
 
 ## Frank Zappa
 
-American composer, guitarist, bandleader, and producer whose bands mixed rock, jazz, satire, modern composition, and difficult ensemble writing. In this `Frank Zappa band` ensemble, the focus is keyboards function inside avant-rock / fusion / composed rock: how the player supports, contrasts, or defines the pairing vocabulary. The broad biographical frame is Baltimore / California, active mainly from 1950s-1993, with styles centered on avant-rock, fusion, modern composition, satire.
+American composer, guitarist, bandleader, and producer whose bands mixed rock, jazz, satire, modern composition, and difficult ensemble writing. In this `Frank Zappa band` ensemble, the focus is keyboards function inside avant-rock / fusion / composed rock: how the player supports, contrasts, or defines the ensemble sound. The broad biographical frame is Baltimore / California, active mainly from 1950s-1993, with styles centered on avant-rock, fusion, modern composition, satire.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Frank Zappa band | [Wikipedia][frank-zappa-band-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Frank Zappa band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Frank Zappa band | [Wikipedia][frank-zappa-band-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Frank Zappa band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

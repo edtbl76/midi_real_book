@@ -18,20 +18,20 @@ This music is centered on jazz-funk fusion: jazz fusion / funk / bluegrass-fusio
 
 ## Victor Wooten
 
-Victor Wooten is the bass voice for the `jazz-funk fusion` pairing label. In the local ranking corpus, Victor Wooten is treated as a virtuoso bassist because of complete modern technique, melodic slap/tapping, rhythmic control. Their core style vocabulary is slap bass, fusion, R&B, bluegrass; in this ensemble, that vocabulary is being aimed at jazz fusion / funk / bluegrass-fusion inside the broader Bela Fleck and the Flecktones / Vital Tech Tones lane.
+Victor Wooten is a bassist associated with slap bass, fusion, R&B, bluegrass. Musically, the important traits here are complete modern technique, melodic slap/tapping, rhythmic control. In this ensemble, that language is pointed toward jazz fusion / funk / bluegrass-fusion, with Bela Fleck and the Flecktones / Vital Tech Tones as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Victor Wooten is the bass voice for the `jazz-funk fusion` pairing label. In the
 
 ## Oz Noy
 
-Oz Noy is the guitar voice for the `jazz-funk fusion` pairing label. In the local ranking corpus, Oz Noy is treated as a virtuoso guitarist because of hybrid picking complexity, jazz/funk fusion vocabulary, harmonic density, idiosyncratic phrasing. Their core style vocabulary is jazz fusion, funk, experimental rock; in this ensemble, that vocabulary is being aimed at jazz fusion / funk / bluegrass-fusion inside the broader Bela Fleck and the Flecktones / Vital Tech Tones lane.
+Oz Noy is a guitarist associated with jazz fusion, funk, experimental rock. Musically, the important traits here are hybrid picking complexity, jazz/funk fusion vocabulary, harmonic density, idiosyncratic phrasing. In this ensemble, that language is pointed toward jazz fusion / funk / bluegrass-fusion, with Bela Fleck and the Flecktones / Vital Tech Tones as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Oz Noy is the guitar voice for the `jazz-funk fusion` pairing label. In the loca
 
 ## Dennis Chambers
 
-Dennis Chambers appears here as the drums voice for the `jazz-funk fusion` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / funk / bluegrass-fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Bela Fleck and the Flecktones / Vital Tech Tones lane.
+Dennis Chambers is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / funk / bluegrass-fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Bela Fleck and the Flecktones / Vital Tech Tones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Dennis Chambers appears here as the drums voice for the `jazz-funk fusion` pairi
 
 ## Bela Fleck
 
-Bela Fleck appears here as the banjo voice for the `jazz-funk fusion` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / funk / bluegrass-fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Bela Fleck and the Flecktones / Vital Tech Tones lane.
+Bela Fleck is a banjo player whose playing helps shape this music. Listen for how the banjo part affects jazz fusion / funk / bluegrass-fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Bela Fleck and the Flecktones / Vital Tech Tones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Banjo | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Banjo | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ Bela Fleck appears here as the banjo voice for the `jazz-funk fusion` pairing la
 
 ## Howard Levy
 
-Howard Levy appears here as the harmonica voice for the `jazz-funk fusion` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / funk / bluegrass-fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Bela Fleck and the Flecktones / Vital Tech Tones lane.
+Howard Levy is a harmonica player whose playing helps shape this music. Listen for how the harmonica part affects jazz fusion / funk / bluegrass-fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Bela Fleck and the Flecktones / Vital Tech Tones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Harmonica | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Harmonica | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

@@ -17,20 +17,20 @@ This music lives in the Dave Weckl Band / GRP world: jazz fusion. Listen for how
 
 ## Tom Kennedy
 
-Tom Kennedy is the bass voice for the `Dave Weckl Band / GRP` pairing label. In the local ranking corpus, Tom Kennedy is treated as a virtuoso bassist because of jazz-fusion technical fluency, clean high-register execution, improvisational command. Their core style vocabulary is jazz fusion, fusion, contemporary jazz; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader Dave Weckl Band / GRP lane.
+Tom Kennedy is a bassist associated with jazz fusion, fusion, contemporary jazz. Musically, the important traits here are jazz-fusion technical fluency, clean high-register execution, improvisational command. In this ensemble, that language is pointed toward jazz fusion, with Dave Weckl Band / GRP as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Dave Weckl Band / GRP | [Wikipedia][dave-weckl-band-grp-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dave Weckl Band / GRP | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Dave Weckl Band / GRP | [Wikipedia][dave-weckl-band-grp-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dave Weckl Band / GRP | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Tom Kennedy is the bass voice for the `Dave Weckl Band / GRP` pairing label. In 
 
 ## Lee Ritenour
 
-Lee Ritenour is the guitar voice for the `Dave Weckl Band / GRP` pairing label. In the local ranking corpus, Lee Ritenour is treated as a still damn good guitarist because of jazz-fusion clean technique, chord-melody sophistication, session versatility. Their core style vocabulary is jazz fusion, session, jazz; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader Dave Weckl Band / GRP lane.
+Lee Ritenour is a guitarist associated with jazz fusion, session, jazz. Musically, the important traits here are jazz-fusion clean technique, chord-melody sophistication, session versatility. In this ensemble, that language is pointed toward jazz fusion, with Dave Weckl Band / GRP as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Dave Weckl Band / GRP | [Wikipedia][dave-weckl-band-grp-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dave Weckl Band / GRP | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Dave Weckl Band / GRP | [Wikipedia][dave-weckl-band-grp-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dave Weckl Band / GRP | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Lee Ritenour is the guitar voice for the `Dave Weckl Band / GRP` pairing label. 
 
 ## Dave Weckl
 
-Dave Weckl appears here as the drums voice for the `Dave Weckl Band / GRP` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Dave Weckl Band / GRP lane.
+Dave Weckl is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dave Weckl Band / GRP.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Dave Weckl Band / GRP | [Wikipedia][dave-weckl-band-grp-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dave Weckl Band / GRP | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Dave Weckl Band / GRP | [Wikipedia][dave-weckl-band-grp-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dave Weckl Band / GRP | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Dave Weckl appears here as the drums voice for the `Dave Weckl Band / GRP` pairi
 
 ## Dave Grusin
 
-Dave Grusin appears here as the keyboards voice for the `Dave Weckl Band / GRP` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Dave Weckl Band / GRP lane.
+Dave Grusin is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dave Weckl Band / GRP.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Dave Weckl Band / GRP | [Wikipedia][dave-weckl-band-grp-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Dave Weckl Band / GRP | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Dave Weckl Band / GRP | [Wikipedia][dave-weckl-band-grp-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Dave Weckl Band / GRP | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

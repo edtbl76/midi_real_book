@@ -17,20 +17,20 @@ This music lives in the Planet X world: jazz fusion / session. Listen for how th
 
 ## Ric Fierabracci
 
-Ric Fierabracci is the bass voice for the `Planet X` pairing label. In the local ranking corpus, Ric Fierabracci is treated as a virtuoso bassist because of high-level session/fusion facility and legato electric vocabulary. Their core style vocabulary is jazz fusion, session, rock; in this ensemble, that vocabulary is being aimed at jazz fusion / session inside the broader Planet X / session fusion lane.
+Ric Fierabracci is a bassist associated with jazz fusion, session, rock. Musically, the important traits here are high-level session/fusion facility and legato electric vocabulary. In this ensemble, that language is pointed toward jazz fusion / session, with Planet X / session fusion as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Planet X | [Wikipedia][planet-x-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Planet X / session fusion | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Planet X | [Wikipedia][planet-x-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Planet X / session fusion | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Ric Fierabracci is the bass voice for the `Planet X` pairing label. In the local
 
 ## Brett Garsed
 
-Brett Garsed is the guitar voice for the `Planet X` pairing label. In the local ranking corpus, Brett Garsed is treated as a virtuoso guitarist because of legato fusion-rock phrasing, hybrid picking, intervallic vocabulary. Their core style vocabulary is rock, fusion, jazz-rock; in this ensemble, that vocabulary is being aimed at jazz fusion / session inside the broader Planet X / session fusion lane.
+Brett Garsed is a guitarist associated with rock, fusion, jazz-rock. Musically, the important traits here are legato fusion-rock phrasing, hybrid picking, intervallic vocabulary. In this ensemble, that language is pointed toward jazz fusion / session, with Planet X / session fusion as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Planet X | [Wikipedia][planet-x-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Planet X / session fusion | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Planet X | [Wikipedia][planet-x-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Planet X / session fusion | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Brett Garsed is the guitar voice for the `Planet X` pairing label. In the local 
 
 ## Virgil Donati
 
-Virgil Donati appears here as the drums voice for the `Planet X` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / session, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Planet X / session fusion lane.
+Virgil Donati is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Planet X / session fusion.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Planet X | [Wikipedia][planet-x-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Planet X / session fusion | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Planet X | [Wikipedia][planet-x-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Planet X / session fusion | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Virgil Donati appears here as the drums voice for the `Planet X` pairing label. 
 
 ## Derek Sherinian
 
-Derek Sherinian appears here as the keyboards voice for the `Planet X` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion / session, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Planet X / session fusion lane.
+Derek Sherinian is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Planet X / session fusion.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Planet X | [Wikipedia][planet-x-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Planet X / session fusion | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Planet X | [Wikipedia][planet-x-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Planet X / session fusion | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

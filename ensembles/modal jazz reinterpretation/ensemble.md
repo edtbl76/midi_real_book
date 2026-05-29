@@ -18,20 +18,20 @@ This music is centered on modal jazz reinterpretation: modal jazz / post-bop. Li
 
 ## Jimmy Garrison
 
-Jimmy Garrison is the bass voice for the `modal jazz reinterpretation` pairing label. In the local ranking corpus, Jimmy Garrison is treated as an everyone-else bassist because of modal pedal points, spiritual-jazz grounding, long-form development, elastic time against dense drums. Their core style vocabulary is modal jazz, post-bop, avant-garde jazz; in this ensemble, that vocabulary is being aimed at modal jazz / post-bop inside the broader John Coltrane Quartet lane.
+Jimmy Garrison is a bassist associated with modal jazz, post-bop, avant-garde jazz. Musically, the important traits here are modal pedal points, spiritual-jazz grounding, long-form development, elastic time against dense drums. In this ensemble, that language is pointed toward modal jazz / post-bop, with John Coltrane Quartet as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | John Coltrane Quartet | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | John Coltrane Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -50,20 +50,20 @@ Jimmy Garrison is the bass voice for the `modal jazz reinterpretation` pairing l
 
 ## Bill Frisell
 
-Bill Frisell is the guitar voice for the `modal jazz reinterpretation` pairing label. In the local ranking corpus, Bill Frisell is treated as a still damn good guitarist because of modern jazz atmosphere, harmonic ambiguity, looping/texture vocabulary, spacious melodic control. Their core style vocabulary is jazz, Americana, avant-garde, post-bop; in this ensemble, that vocabulary is being aimed at modal jazz / post-bop inside the broader John Coltrane Quartet lane.
+Bill Frisell is a guitarist associated with jazz, Americana, avant-garde, post-bop. Musically, the important traits here are modern jazz atmosphere, harmonic ambiguity, looping/texture vocabulary, spacious melodic control. In this ensemble, that language is pointed toward modal jazz / post-bop, with John Coltrane Quartet as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | John Coltrane Quartet | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | John Coltrane Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -82,20 +82,20 @@ Bill Frisell is the guitar voice for the `modal jazz reinterpretation` pairing l
 
 ## Elvin Jones
 
-Elvin Jones appears here as the drums voice for the `modal jazz reinterpretation` pairing label. In this ensemble context, the important traits are the player's role in modal jazz / post-bop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader John Coltrane Quartet lane.
+Elvin Jones is a drummer whose playing helps shape this music. Listen for how the drum part affects modal jazz / post-bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is John Coltrane Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | John Coltrane Quartet | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | John Coltrane Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -114,20 +114,20 @@ Elvin Jones appears here as the drums voice for the `modal jazz reinterpretation
 
 ## McCoy Tyner
 
-McCoy Tyner appears here as the keyboards voice for the `modal jazz reinterpretation` pairing label. In this ensemble context, the important traits are the player's role in modal jazz / post-bop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader John Coltrane Quartet lane.
+McCoy Tyner is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modal jazz / post-bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is John Coltrane Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | John Coltrane Quartet | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | John Coltrane Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -146,20 +146,20 @@ McCoy Tyner appears here as the keyboards voice for the `modal jazz reinterpreta
 
 ## John Coltrane
 
-John Coltrane appears here as the saxophone voice for the `modal jazz reinterpretation` pairing label. In this ensemble context, the important traits are the player's role in modal jazz / post-bop, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader John Coltrane Quartet lane.
+John Coltrane is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modal jazz / post-bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is John Coltrane Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | John Coltrane Quartet | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | John Coltrane Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

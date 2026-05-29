@@ -19,20 +19,20 @@ This music lives in the King Curtis / Aretha world: soul / R&B / studio groove. 
 
 ## Chuck Rainey
 
-Chuck Rainey is the bass voice for the `King Curtis / Aretha` pairing label. In the local ranking corpus, Chuck Rainey is treated as an everyone-else bassist because of economical soul/R&B pocket, ghosted articulation, syncopation, chromatic studio-bass movement. Their core style vocabulary is soul, R&B, funk, studio; in this ensemble, that vocabulary is being aimed at soul / R&B / studio groove inside the broader Aretha Franklin / King Curtis / Steely Dan lane.
+Chuck Rainey is a bassist associated with soul, R&B, funk, studio. Musically, the important traits here are economical soul/R&B pocket, ghosted articulation, syncopation, chromatic studio-bass movement. In this ensemble, that language is pointed toward soul / R&B / studio groove, with Aretha Franklin / King Curtis / Steely Dan as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Chuck Rainey is the bass voice for the `King Curtis / Aretha` pairing label. In 
 
 ## Cornell Dupree
 
-Cornell Dupree is the guitar voice for the `King Curtis / Aretha` pairing label. In the local ranking corpus, Cornell Dupree is treated as a still damn good guitarist because of soul/R&B session groove, bluesy fills, economical chordal punctuation, deep pocket. Their core style vocabulary is soul, R&B, funk, session; in this ensemble, that vocabulary is being aimed at soul / R&B / studio groove inside the broader Aretha Franklin / King Curtis / Steely Dan lane.
+Cornell Dupree is a guitarist associated with soul, R&B, funk, session. Musically, the important traits here are soul/R&B session groove, bluesy fills, economical chordal punctuation, deep pocket. In this ensemble, that language is pointed toward soul / R&B / studio groove, with Aretha Franklin / King Curtis / Steely Dan as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Cornell Dupree is the guitar voice for the `King Curtis / Aretha` pairing label.
 
 ## Eric Gale
 
-Eric Gale is the guitar voice for the `King Curtis / Aretha` pairing label. In the local ranking corpus, Eric Gale is treated as a still damn good guitarist because of jazz-funk/session vocabulary, smooth chordal support, blues-inflected lead fills. Their core style vocabulary is jazz-funk, soul, R&B, session; in this ensemble, that vocabulary is being aimed at soul / R&B / studio groove inside the broader Aretha Franklin / King Curtis / Steely Dan lane.
+Eric Gale is a guitarist associated with jazz-funk, soul, R&B, session. Musically, the important traits here are jazz-funk/session vocabulary, smooth chordal support, blues-inflected lead fills. In this ensemble, that language is pointed toward soul / R&B / studio groove, with Aretha Franklin / King Curtis / Steely Dan as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Eric Gale is the guitar voice for the `King Curtis / Aretha` pairing label. In t
 
 ## Bernard Purdie
 
-Bernard Purdie appears here as the drums voice for the `King Curtis / Aretha` pairing label. In this ensemble context, the important traits are the player's role in soul / R&B / studio groove, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Aretha Franklin / King Curtis / Steely Dan lane.
+Bernard Purdie is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Bernard Purdie appears here as the drums voice for the `King Curtis / Aretha` pa
 
 ## Richard Tee
 
-Richard Tee appears here as the keyboards voice for the `King Curtis / Aretha` pairing label. In this ensemble context, the important traits are the player's role in soul / R&B / studio groove, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Aretha Franklin / King Curtis / Steely Dan lane.
+Richard Tee is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Richard Tee appears here as the keyboards voice for the `King Curtis / Aretha` p
 
 ## King Curtis
 
-King Curtis appears here as the saxophone voice for the `King Curtis / Aretha` pairing label. In this ensemble context, the important traits are the player's role in soul / R&B / studio groove, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Aretha Franklin / King Curtis / Steely Dan lane.
+King Curtis is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

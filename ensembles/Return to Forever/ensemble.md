@@ -21,20 +21,20 @@ This music lives in the Return to Forever world: jazz fusion. Listen for how the
 
 ## Stanley Clarke
 
-Stanley Clarke is the bass voice for the `Return to Forever` pairing label. In the local ranking corpus, Stanley Clarke is treated as a virtuoso bassist because of electric/acoustic fusion virtuosity, thumb technique, high-register facility. Their core style vocabulary is jazz fusion, acoustic jazz, fusion rock; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band lane.
+Stanley Clarke is a bassist associated with jazz fusion, acoustic jazz, fusion rock. Musically, the important traits here are electric/acoustic fusion virtuosity, thumb technique, high-register facility. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -53,20 +53,20 @@ Stanley Clarke is the bass voice for the `Return to Forever` pairing label. In t
 
 ## John McLaughlin
 
-John McLaughlin is the guitar voice for the `Return to Forever` pairing label. In the local ranking corpus, John McLaughlin is treated as a virtuoso guitarist because of flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. Their core style vocabulary is jazz fusion, Indian classical fusion, jazz, flamenco-influenced; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band lane.
+John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -85,20 +85,20 @@ John McLaughlin is the guitar voice for the `Return to Forever` pairing label. I
 
 ## Al Di Meola
 
-Al Di Meola is the guitar voice for the `Return to Forever` pairing label. In the local ranking corpus, Al Di Meola is treated as a virtuoso guitarist because of elite flatpick velocity, flamenco/jazz precision, alternate-picked scalar command, complex rhythmic language. Their core style vocabulary is jazz fusion, flamenco, Latin jazz; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band lane.
+Al Di Meola is a guitarist associated with jazz fusion, flamenco, Latin jazz. Musically, the important traits here are elite flatpick velocity, flamenco/jazz precision, alternate-picked scalar command, complex rhythmic language. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -117,20 +117,20 @@ Al Di Meola is the guitar voice for the `Return to Forever` pairing label. In th
 
 ## Bill Connors
 
-Bill Connors is the guitar voice for the `Return to Forever` pairing label. In the local ranking corpus, Bill Connors is treated as a still damn good guitarist because of avant-garde jazz intervals, RTF-era fusion abstraction, classical-influenced technical language. Their core style vocabulary is jazz fusion, avant-garde, progressive rock; in this ensemble, that vocabulary is being aimed at jazz fusion inside the broader Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band lane.
+Bill Connors is a guitarist associated with jazz fusion, avant-garde, progressive rock. Musically, the important traits here are avant-garde jazz intervals, RTF-era fusion abstraction, classical-influenced technical language. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -149,20 +149,20 @@ Bill Connors is the guitar voice for the `Return to Forever` pairing label. In t
 
 ## Lenny White
 
-Lenny White appears here as the drums voice for the `Return to Forever` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band lane.
+Lenny White is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -181,20 +181,20 @@ Lenny White appears here as the drums voice for the `Return to Forever` pairing 
 
 ## Chick Corea
 
-Chick Corea appears here as the keyboards voice for the `Return to Forever` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band lane.
+Chick Corea is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -213,20 +213,20 @@ Chick Corea appears here as the keyboards voice for the `Return to Forever` pair
 
 ## Jean-Luc Ponty
 
-Jean-Luc Ponty appears here as the violin voice for the `Return to Forever` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band lane.
+Jean-Luc Ponty is a violinist whose playing helps shape this music. Listen for how the violin part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Violin | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Violin | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -245,20 +245,20 @@ Jean-Luc Ponty appears here as the violin voice for the `Return to Forever` pair
 
 ## Airto Moreira
 
-Airto Moreira appears here as the percussion voice for the `Return to Forever` pairing label. In this ensemble context, the important traits are the player's role in jazz fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band lane.
+Airto Moreira is a percussionist whose playing helps shape this music. Listen for how the percussion part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Percussion | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Percussion | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

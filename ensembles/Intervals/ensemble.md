@@ -17,20 +17,20 @@ This music lives in the Intervals world: progressive fusion. Listen for how the 
 
 ## Simon Grove
 
-Simon Grove is the bass voice for the `Intervals` pairing label. In the local ranking corpus, Simon Grove is treated as a virtuoso bassist because of modern prog-fusion precision and clean extended-register support. Their core style vocabulary is progressive rock, fusion, prog metal; in this ensemble, that vocabulary is being aimed at progressive fusion inside the broader Plini / Intervals orbit lane.
+Simon Grove is a bassist associated with progressive rock, fusion, prog metal. Musically, the important traits here are modern prog-fusion precision and clean extended-register support. In this ensemble, that language is pointed toward progressive fusion, with Plini / Intervals orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Intervals | [Wikipedia][intervals-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Plini / Intervals orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Intervals | [Wikipedia][intervals-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Plini / Intervals orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Simon Grove is the bass voice for the `Intervals` pairing label. In the local ra
 
 ## Plini
 
-Plini is the guitar voice for the `Intervals` pairing label. In the local ranking corpus, Plini is treated as a virtuoso guitarist because of modern prog-fusion legato, harmonic sophistication, technical clarity, melodic development. Their core style vocabulary is progressive rock, jazz fusion, instrumental prog; in this ensemble, that vocabulary is being aimed at progressive fusion inside the broader Plini / Intervals orbit lane.
+Plini is a guitarist associated with progressive rock, jazz fusion, instrumental prog. Musically, the important traits here are modern prog-fusion legato, harmonic sophistication, technical clarity, melodic development. In this ensemble, that language is pointed toward progressive fusion, with Plini / Intervals orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Intervals | [Wikipedia][intervals-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Plini / Intervals orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Intervals | [Wikipedia][intervals-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Plini / Intervals orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Plini is the guitar voice for the `Intervals` pairing label. In the local rankin
 
 ## Aaron Marshall
 
-Aaron Marshall is the guitar voice for the `Intervals` pairing label. In the local ranking corpus, Aaron Marshall is treated as a still damn good guitarist because of Intronaut prog-metal riff complexity, odd-meter precision, atmospheric layering. Their core style vocabulary is progressive metal, sludge, avant-garde metal; in this ensemble, that vocabulary is being aimed at progressive fusion inside the broader Plini / Intervals orbit lane.
+Aaron Marshall is a guitarist associated with progressive metal, sludge, avant-garde metal. Musically, the important traits here are Intronaut prog-metal riff complexity, odd-meter precision, atmospheric layering. In this ensemble, that language is pointed toward progressive fusion, with Plini / Intervals orbit as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Intervals | [Wikipedia][intervals-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Plini / Intervals orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Intervals | [Wikipedia][intervals-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Plini / Intervals orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Aaron Marshall is the guitar voice for the `Intervals` pairing label. In the loc
 
 ## Troy Wright
 
-Troy Wright appears here as the drums voice for the `Intervals` pairing label. In this ensemble context, the important traits are the player's role in progressive fusion, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Plini / Intervals orbit lane.
+Troy Wright is a drummer whose playing helps shape this music. Listen for how the drum part affects progressive fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Plini / Intervals orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Intervals | [Wikipedia][intervals-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Plini / Intervals orbit | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Intervals | [Wikipedia][intervals-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Plini / Intervals orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

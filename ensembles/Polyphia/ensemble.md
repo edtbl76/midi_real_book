@@ -17,20 +17,20 @@ This music lives in the Polyphia world: math rock / progressive rock. Listen for
 
 ## Clay Gober
 
-Clay Gober is the bass voice for the `Polyphia` pairing label. In the local ranking corpus, Clay Gober is treated as a virtuoso bassist because of modern math-rock/fusion precision and syncopated articulation. Their core style vocabulary is math rock, progressive metal, fusion; in this ensemble, that vocabulary is being aimed at math rock / progressive rock inside the broader Polyphia lane.
+Clay Gober is a bassist associated with math rock, progressive metal, fusion. Musically, the important traits here are modern math-rock/fusion precision and syncopated articulation. In this ensemble, that language is pointed toward math rock / progressive rock, with Polyphia as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Polyphia | [Wikipedia][polyphia-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Polyphia | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Polyphia | [Wikipedia][polyphia-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Polyphia | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -49,20 +49,20 @@ Clay Gober is the bass voice for the `Polyphia` pairing label. In the local rank
 
 ## Tim Henson
 
-Tim Henson is the guitar voice for the `Polyphia` pairing label. In the local ranking corpus, Tim Henson is treated as a virtuoso guitarist because of percussive hybrid picking, tapping complexity, neo-soul rhythmic precision, clean high-velocity. Their core style vocabulary is neo-soul, progressive rock, pop fusion; in this ensemble, that vocabulary is being aimed at math rock / progressive rock inside the broader Polyphia lane.
+Tim Henson is a guitarist associated with neo-soul, progressive rock, pop fusion. Musically, the important traits here are percussive hybrid picking, tapping complexity, neo-soul rhythmic precision, clean high-velocity. In this ensemble, that language is pointed toward math rock / progressive rock, with Polyphia as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Polyphia | [Wikipedia][polyphia-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Polyphia | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Polyphia | [Wikipedia][polyphia-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Polyphia | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -81,20 +81,20 @@ Tim Henson is the guitar voice for the `Polyphia` pairing label. In the local ra
 
 ## Scott LePage
 
-Scott LePage is the guitar voice for the `Polyphia` pairing label. In the local ranking corpus, Scott LePage is treated as a still damn good guitarist because of Animals as Leaders extended-range 8-string vocabulary, prog-metal precision. Their core style vocabulary is progressive metal, djent, jazz-influenced; in this ensemble, that vocabulary is being aimed at math rock / progressive rock inside the broader Polyphia lane.
+Scott LePage is a guitarist associated with progressive metal, djent, jazz-influenced. Musically, the important traits here are Animals as Leaders extended-range 8-string vocabulary, prog-metal precision. In this ensemble, that language is pointed toward math rock / progressive rock, with Polyphia as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Polyphia | [Wikipedia][polyphia-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Polyphia | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Polyphia | [Wikipedia][polyphia-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Polyphia | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -113,20 +113,20 @@ Scott LePage is the guitar voice for the `Polyphia` pairing label. In the local 
 
 ## Clay Aeschliman
 
-Clay Aeschliman appears here as the drums voice for the `Polyphia` pairing label. In this ensemble context, the important traits are the player's role in math rock / progressive rock, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Polyphia lane.
+Clay Aeschliman is a drummer whose playing helps shape this music. Listen for how the drum part affects math rock / progressive rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Polyphia.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Polyphia | [Wikipedia][polyphia-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Polyphia | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Polyphia | [Wikipedia][polyphia-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Polyphia | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

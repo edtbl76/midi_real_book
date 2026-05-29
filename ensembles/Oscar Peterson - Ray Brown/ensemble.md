@@ -19,20 +19,20 @@ This music lives in the Oscar Peterson / Ray Brown world: swing / bebop / big ba
 
 ## Ray Brown
 
-Ray Brown is the bass voice for the `Oscar Peterson / Ray Brown` pairing label. In the local ranking corpus, Ray Brown is treated as an everyone-else bassist because of walking bass authority, swing time, bebop articulation, blues/jazz vocabulary. Their core style vocabulary is swing, bebop, big band, jazz; in this ensemble, that vocabulary is being aimed at swing / bebop / big band inside the broader Oscar Peterson Trio / Buddy Rich big band lane.
+Ray Brown is a bassist associated with swing, bebop, big band, jazz. Musically, the important traits here are walking bass authority, swing time, bebop articulation, blues/jazz vocabulary. In this ensemble, that language is pointed toward swing / bebop / big band, with Oscar Peterson Trio / Buddy Rich big band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -51,20 +51,20 @@ Ray Brown is the bass voice for the `Oscar Peterson / Ray Brown` pairing label. 
 
 ## Joe Pass
 
-Joe Pass is the guitar voice for the `Oscar Peterson / Ray Brown` pairing label. In the local ranking corpus, Joe Pass is treated as a still damn good guitarist because of solo jazz guitar authority, bebop chord-melody, walking-bass counterpoint, swing articulation. Their core style vocabulary is jazz, bebop, swing; in this ensemble, that vocabulary is being aimed at swing / bebop / big band inside the broader Oscar Peterson Trio / Buddy Rich big band lane.
+Joe Pass is a guitarist associated with jazz, bebop, swing. Musically, the important traits here are solo jazz guitar authority, bebop chord-melody, walking-bass counterpoint, swing articulation. In this ensemble, that language is pointed toward swing / bebop / big band, with Oscar Peterson Trio / Buddy Rich big band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -83,20 +83,20 @@ Joe Pass is the guitar voice for the `Oscar Peterson / Ray Brown` pairing label.
 
 ## Barney Kessel
 
-Barney Kessel is the guitar voice for the `Oscar Peterson / Ray Brown` pairing label. In the local ranking corpus, Barney Kessel is treated as a still damn good guitarist because of swing/bebop session vocabulary, chord melody, bluesy jazz phrasing, big-band guitar authority. Their core style vocabulary is jazz, swing, bebop, session; in this ensemble, that vocabulary is being aimed at swing / bebop / big band inside the broader Oscar Peterson Trio / Buddy Rich big band lane.
+Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musically, the important traits here are swing/bebop session vocabulary, chord melody, bluesy jazz phrasing, big-band guitar authority. In this ensemble, that language is pointed toward swing / bebop / big band, with Oscar Peterson Trio / Buddy Rich big band as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -115,20 +115,20 @@ Barney Kessel is the guitar voice for the `Oscar Peterson / Ray Brown` pairing l
 
 ## Buddy Rich
 
-Buddy Rich appears here as the drums voice for the `Oscar Peterson / Ray Brown` pairing label. In this ensemble context, the important traits are the player's role in swing / bebop / big band, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Oscar Peterson Trio / Buddy Rich big band lane.
+Buddy Rich is a drummer whose playing helps shape this music. Listen for how the drum part affects swing / bebop / big band: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Oscar Peterson Trio / Buddy Rich big band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -147,20 +147,20 @@ Buddy Rich appears here as the drums voice for the `Oscar Peterson / Ray Brown` 
 
 ## Oscar Peterson
 
-Oscar Peterson appears here as the keyboards voice for the `Oscar Peterson / Ray Brown` pairing label. In this ensemble context, the important traits are the player's role in swing / bebop / big band, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Oscar Peterson Trio / Buddy Rich big band lane.
+Oscar Peterson is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects swing / bebop / big band: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Oscar Peterson Trio / Buddy Rich big band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -179,20 +179,20 @@ Oscar Peterson appears here as the keyboards voice for the `Oscar Peterson / Ray
 
 ## Dizzy Gillespie
 
-Dizzy Gillespie appears here as the trumpet voice for the `Oscar Peterson / Ray Brown` pairing label. In this ensemble context, the important traits are the player's role in swing / bebop / big band, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Oscar Peterson Trio / Buddy Rich big band lane.
+Dizzy Gillespie is a trumpeter whose playing helps shape this music. Listen for how the trumpet part affects swing / bebop / big band: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Oscar Peterson Trio / Buddy Rich big band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Oscar Peterson / Ray Brown | [Wikipedia][oscar-peterson-ray-brown-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Oscar Peterson Trio / Buddy Rich big band | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Trumpet | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Trumpet | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 

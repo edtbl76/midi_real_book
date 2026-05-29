@@ -21,20 +21,20 @@ This music is centered on Parliament-Funkadelic: funk. Listen for the musical co
 
 ## Bootsy Collins
 
-Bootsy Collins is the bass voice for the `Parliament-Funkadelic` pairing label. In the local ranking corpus, Bootsy Collins is treated as an everyone-else bassist because of deep funk placement, space, repetition, controlled variation. Their core style vocabulary is funk, R&B, soul; in this ensemble, that vocabulary is being aimed at funk inside the broader Parliament-Funkadelic lane.
+Bootsy Collins is a bassist associated with funk, R&B, soul. Musically, the important traits here are deep funk placement, space, repetition, controlled variation. In this ensemble, that language is pointed toward funk, with Parliament-Funkadelic as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Parliament-Funkadelic | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Bass | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -53,20 +53,20 @@ Bootsy Collins is the bass voice for the `Parliament-Funkadelic` pairing label. 
 
 ## Eddie Hazel
 
-Eddie Hazel is the guitar voice for the `Parliament-Funkadelic` pairing label. In the local ranking corpus, Eddie Hazel is treated as an everyone-else guitarist because of psychedelic blues-funk lead, wah vocabulary, expressive single-note phrasing. Their core style vocabulary is funk, R&B, psychedelic rock; in this ensemble, that vocabulary is being aimed at funk inside the broader Parliament-Funkadelic lane.
+Eddie Hazel is a guitarist associated with funk, R&B, psychedelic rock. Musically, the important traits here are psychedelic blues-funk lead, wah vocabulary, expressive single-note phrasing. In this ensemble, that language is pointed toward funk, with Parliament-Funkadelic as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Parliament-Funkadelic | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -85,20 +85,20 @@ Eddie Hazel is the guitar voice for the `Parliament-Funkadelic` pairing label. I
 
 ## Catfish Collins
 
-Catfish Collins is the guitar voice for the `Parliament-Funkadelic` pairing label. In the local ranking corpus, Catfish Collins is treated as an everyone-else guitarist because of JBs funk rhythm, percussive right-hand technique. Their core style vocabulary is funk, R&B; in this ensemble, that vocabulary is being aimed at funk inside the broader Parliament-Funkadelic lane.
+Catfish Collins is a guitarist associated with funk, R&B. Musically, the important traits here are JBs funk rhythm, percussive right-hand technique. In this ensemble, that language is pointed toward funk, with Parliament-Funkadelic as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Parliament-Funkadelic | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -117,20 +117,20 @@ Catfish Collins is the guitar voice for the `Parliament-Funkadelic` pairing labe
 
 ## Buckethead
 
-Buckethead is the guitar voice for the `Parliament-Funkadelic` pairing label. In the local ranking corpus, Buckethead is treated as a virtuoso guitarist because of extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. Their core style vocabulary is metal, funk, experimental, progressive rock; in this ensemble, that vocabulary is being aimed at funk inside the broader Parliament-Funkadelic lane.
+Buckethead is a guitarist associated with metal, funk, experimental, progressive rock. Musically, the important traits here are extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. In this ensemble, that language is pointed toward funk, with Parliament-Funkadelic as the broader listening world.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Parliament-Funkadelic | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Guitar | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -149,20 +149,20 @@ Buckethead is the guitar voice for the `Parliament-Funkadelic` pairing label. In
 
 ## Jerome Brailey
 
-Jerome Brailey appears here as the drums voice for the `Parliament-Funkadelic` pairing label. In this ensemble context, the important traits are the player's role in funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Parliament-Funkadelic lane.
+Jerome Brailey is a drummer whose playing helps shape this music. Listen for how the drum part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Parliament-Funkadelic | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Drums | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -181,20 +181,20 @@ Jerome Brailey appears here as the drums voice for the `Parliament-Funkadelic` p
 
 ## Bernie Worrell
 
-Bernie Worrell appears here as the keyboards voice for the `Parliament-Funkadelic` pairing label. In this ensemble context, the important traits are the player's role in funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Parliament-Funkadelic lane.
+Bernie Worrell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Parliament-Funkadelic | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Keyboards | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -213,20 +213,20 @@ Bernie Worrell appears here as the keyboards voice for the `Parliament-Funkadeli
 
 ## Maceo Parker
 
-Maceo Parker appears here as the saxophone voice for the `Parliament-Funkadelic` pairing label. In this ensemble context, the important traits are the player's role in funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Parliament-Funkadelic lane.
+Maceo Parker is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Parliament-Funkadelic | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Saxophone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
@@ -245,20 +245,20 @@ Maceo Parker appears here as the saxophone voice for the `Parliament-Funkadelic`
 
 ## Fred Wesley
 
-Fred Wesley appears here as the trombone voice for the `Parliament-Funkadelic` pairing label. In this ensemble context, the important traits are the player's role in funk, their interaction with the bassist/guitarist core, and the way their vocabulary supports the broader Parliament-Funkadelic lane.
+Fred Wesley is a trombonist whose playing helps shape this music. Listen for how the trombone part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Core context for this real-book pairing label. |
-| Broader work | Parliament-Funkadelic | — | — | Related bands, collaborators, or scene references from the source pairing row. |
+| Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
+| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Trombone | Commonly associated instruments and touring/studio tools; refine as needed for deeper source work. |
+| Trombone | Associated instruments and touring/studio tools. |
 
 ### 10 Idiomatic Performances
 
