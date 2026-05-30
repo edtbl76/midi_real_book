@@ -10,8 +10,6 @@ Tribal Tech was founded in 1984 by guitarist Scott Henderson and bassist Gary Wi
 |---|---|---|---|
 | [Gary Willis](#gary-willis) | Bass | [Wikipedia][gary-willis-wiki] | — |
 | [Scott Henderson](#scott-henderson) | Guitar | [Wikipedia][scott-henderson-wiki] | — |
-| [Wayne Krantz](#wayne-krantz) | Guitar | [Wikipedia][wayne-krantz-wiki] | — |
-| [Dean Brown](#dean-brown) | Guitar | [Wikipedia][dean-brown-wiki] | — |
 | [Kirk Covington](#kirk-covington) | Drums | [Wikipedia][kirk-covington-wiki] | — |
 | [Scott Kinsey](#scott-kinsey) | Keyboards | [Wikipedia][scott-kinsey-wiki] | — |
 
@@ -84,74 +82,6 @@ Scott Henderson is a guitarist and co-founder of Tribal Tech. His playing fuses 
 | [Eye of the Beholder](https://open.spotify.com/search/Eye%20of%20the%20Beholder%20Chick%20Corea%20Elektric%20Band%201988) | From the Chick Corea Elektric Band album — hear how he adapts to a different ensemble context. |
 | [Blues for Otis](https://open.spotify.com/search/Blues%20for%20Otis%20Scott%20Henderson) | A slow blues that strips away the fusion complexity and shows the foundation underneath everything else. |
 | [Dolemite](https://open.spotify.com/search/Dolemite%20Scott%20Henderson) | A hard-driving solo track; note the rhythmic ferocity that comes from his jazz-fusion background applied to blues form. |
-
-## Wayne Krantz
-
-Wayne Krantz is a New York City-based guitarist known for his radically open improvisational approach. He is not a Tribal Tech member but inhabits the same jazz-fusion orbit — a peer who came up in the same era and shares listeners. His long-running Tuesday night residency at 55 Bar in NYC became a touchstone for a generation of fusion listeners interested in improvisation pushed to its limits.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1988 | Michael Brecker | [Wikipedia][michael-brecker-wiki] | — | Appeared on *Don't Try This at Home* (1988). |
-| 1990–present | Solo | — | — | Debut *Signals* (1990); key live document *2 Drink Minimum* (1995). |
-| Ongoing | 55 Bar residency (NYC) | — | — | Weekly improvised trio sets that defined his reputation. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Various Fender Stratocasters; custom guitars |
-| Amplification | Small combo amplifier |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [2 Drink Minimum](https://open.spotify.com/search/2%20Drink%20Minimum%20Wayne%20Krantz%201995) | The live 55 Bar document — open-ended improvisation where the "song" is a framework for collective reinvention each night. |
-| [Long to Be Loose](https://open.spotify.com/search/Long%20to%20Be%20Loose%20Wayne%20Krantz%201993) | From his 1993 album; the rhythmic independence of his right hand is audible even in a more structured setting. |
-| [Signals](https://open.spotify.com/search/Signals%20Wayne%20Krantz%201990) | His debut — shows the jazz foundation before the improvisation approach became more abstract. |
-| [Greenwich Mean](https://open.spotify.com/search/Greenwich%20Mean%20Wayne%20Krantz%202003) | A later studio album with more compositional density; hear how the NYC trio sound evolved. |
-| [Howie 61](https://open.spotify.com/search/Howie%2061%20Wayne%20Krantz) | Named for the Bob Dylan reference — a more blues-rooted moment in his catalog. |
-| [An Improvised Life](https://open.spotify.com/search/An%20Improvised%20Life%20Wayne%20Krantz%202011) | The 2011 album; a mature statement of his approach to open improvisation in a recorded format. |
-| [Some Nerve](https://open.spotify.com/search/Some%20Nerve%20Wayne%20Krantz) | Listen for how little he telegraphs where phrases are going — the anti-lick approach to fusion soloing. |
-| [Into the Nineties](https://open.spotify.com/search/Into%20the%20Nineties%20Wayne%20Krantz) | An early track capturing his transition from jazz-trained guitarist to something harder to categorize. |
-| [Get It Right](https://open.spotify.com/search/Get%20It%20Right%20Wayne%20Krantz) | The groove underneath the abstraction — his playing always has rhythmic intention even when harmonically untethered. |
-| [The Man in the Street](https://open.spotify.com/search/The%20Man%20in%20the%20Street%20Wayne%20Krantz) | A track where his melodic sense comes to the foreground rather than being subsumed by textural playing. |
-
-## Dean Brown
-
-Dean Brown is a New York City-based session and touring guitarist known for his work in the GRP Records stable and with artists including David Sanborn and Marcus Miller. He is not a Tribal Tech member but belongs to the same late-1980s/1990s fusion-funk orbit. His rhythm guitar chops and chordal sophistication made him a first-call player for the New York fusion scene.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1980s–1990s | David Sanborn | [Wikipedia][david-sanborn-wiki] | — | Session and touring work with Sanborn. |
-| 1980s–1990s | Marcus Miller | [Wikipedia][marcus-miller-wiki] | — | Part of the NYC funk-fusion session world. |
-| 1980s–2000s | GRP Records artists | — | — | Session work across the GRP label roster. |
-| 1990s–present | Solo | — | — | Albums including *Bam!* and *A New Day*. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Backbite](https://open.spotify.com/search/Backbite%20Dean%20Brown) | A solo track that showcases his rhythm guitar command — the groove is where he lives. |
-| [A New Day](https://open.spotify.com/search/A%20New%20Day%20Dean%20Brown) | From his solo work; the chord voicings and feel show why he was a first-call NYC session guitarist. |
-| [Bam!](https://open.spotify.com/search/Bam!%20Dean%20Brown) | The title track of his solo album; hard-grooving funk-fusion that sums up his approach. |
-| [Is There Anybody Out There?](https://open.spotify.com/search/Is%20There%20Anybody%20Out%20There%20Dean%20Brown) | Solo material showing the more introspective, melodic side of his playing. |
-| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20David%20Sanborn) | Sanborn session work — hear how Brown's rhythm guitar serves the arrangement without overstepping. |
-| [The Closer You Get](https://open.spotify.com/search/The%20Closer%20You%20Get%20Dean%20Brown) | A track from his solo output that highlights his ability to blend rhythm and lead roles seamlessly. |
-| [Slam Dunk](https://open.spotify.com/search/Slam%20Dunk%20Dean%20Brown) | Funk-fusion groove track; the relationship between his guitar and the bass line is the focal point. |
-| [Funky Thumbs](https://open.spotify.com/search/Funky%20Thumbs%20Dean%20Brown) | Solo album material showing the thumb-muting and rhythmic precision that define his funk side. |
-| [Crunchy](https://open.spotify.com/search/Crunchy%20Dean%20Brown) | Listen for the tone and attack — the way he makes a clean guitar sound gritty through pick angle and dynamics. |
-| [New York Minute](https://open.spotify.com/search/New%20York%20Minute%20Dean%20Brown) | Captures the NYC session-world aesthetic: precise, musical, leaving space for the ensemble. |
 
 ## Kirk Covington
 

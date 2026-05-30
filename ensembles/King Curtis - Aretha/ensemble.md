@@ -10,7 +10,6 @@ This ensemble represents the Atlantic Records soul and R&B session orbit of the 
 |---|---|---|---|
 | [Chuck Rainey](#chuck-rainey) | Bass | [Wikipedia][chuck-rainey-wiki] | — |
 | [Cornell Dupree](#cornell-dupree) | Guitar | [Wikipedia][cornell-dupree-wiki] | — |
-| [Eric Gale](#eric-gale) | Guitar | [Wikipedia][eric-gale-wiki] | — |
 | [Bernard Purdie](#bernard-purdie) | Drums | [Wikipedia][bernard-purdie-wiki] | — |
 | [Richard Tee](#richard-tee) | Keyboards | [Wikipedia][richard-tee-wiki] | — |
 | [King Curtis](#king-curtis) | Saxophone | [Wikipedia][king-curtis-wiki] | — |
@@ -84,41 +83,6 @@ Cornell Dupree was the definitive Atlantic Records rhythm guitarist of the late 
 | [Day Dreaming — Aretha Franklin](https://open.spotify.com/search/Day%20Dreaming%20Aretha%20Franklin) | The guitar voicings add harmonic color without cluttering Richard Tee's piano — a study in arrangement awareness. |
 | [Angel — Aretha Franklin](https://open.spotify.com/search/Angel%20Aretha%20Franklin%201973) | Dupree's understated rhythm work here demonstrates how a guitarist can serve a ballad by doing almost nothing obvious. |
 | [Until You Come Back to Me — Aretha Franklin](https://open.spotify.com/search/Until%20You%20Come%20Back%20to%20Me%20Aretha%20Franklin) | A warm, lightly syncopated strum pattern — Dupree keeps the track's bounce alive without overplaying. |
-
-## Eric Gale
-
-Eric Gale was a New York session guitarist with a smooth, jazz-informed touch and a bluesy vocabulary that translated equally well into soul, R&B, and funk contexts. He was a regular at Atlantic and CTI Records sessions and a founding member of Stuff alongside several players from this ensemble.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Late 1960s–1970s | Aretha Franklin / King Curtis | [Wikipedia][aretha-franklin-wiki] | — | Atlantic Records session guitarist. |
-| 1970s | CTI Records / Creed Taylor productions | [Wikipedia][cti-records-wiki] | — | Regular player on CTI sessions. |
-| 1974–1975 | Quincy Jones | [Wikipedia][quincy-jones-wiki] | — | Sessions for *Body Heat* and *Mellow Madness*. |
-| 1976–1979 | Stuff | [Wikipedia][stuff-band-wiki] | — | Co-founding member with Dupree, Tee, Rainey, and Steve Gadd. |
-| 1976 | George Benson | [Wikipedia][george-benson-wiki] | — | Played on the *Breezin'* album. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson ES-335, Fender Stratocaster |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Breezin' — George Benson](https://open.spotify.com/search/Breezin%27%20George%20Benson) | Gale's comping on this Grammy-winning track shows his effortless jazz-funk blend — smooth voicings with a light touch. |
-| [Spanish Harlem — Aretha Franklin](https://open.spotify.com/search/Spanish%20Harlem%20Aretha%20Franklin) | Two guitars (Gale and Dupree) weave together — listen for how Gale's fills sit in the spaces Dupree leaves open. |
-| [Don't Play That Song — Aretha Franklin](https://open.spotify.com/search/Don%27t%20Play%20That%20Song%20Aretha%20Franklin) | Gale's bluesy fills here are a textbook example of how to add character without overshadowing the vocalist. |
-| [Aretha Live at the Fillmore West](https://open.spotify.com/search/Aretha%20Live%20at%20the%20Fillmore%20West) | The live band setting shows Gale's ability to respond in real time — his fills are spontaneous but always in service of the song. |
-| [Body Heat — Quincy Jones](https://open.spotify.com/search/Body%20Heat%20Quincy%20Jones) | A soul-funk context where Gale's chordal work and light lead lines give the track its warm, summery texture. |
-| [Stuff — Stuff](https://open.spotify.com/search/Stuff%20Stuff%201976) | The debut album showcases the Stuff interplay — Gale and Dupree trade rhythm and lead roles fluidly. |
-| [More Stuff — Stuff](https://open.spotify.com/search/More%20Stuff%20Stuff%201977) | Extended grooves that reveal how Gale constructs a solo without leaving the rhythmic pocket. |
-| [Multiplication — Eric Gale](https://open.spotify.com/search/Multiplication%20Eric%20Gale) | A solo recording that puts Gale's jazz-funk guitar center stage — notice his tone and phrasing against a minimal backdrop. |
-| [Hum Along and Dance — Eric Gale](https://open.spotify.com/search/Hum%20Along%20and%20Dance%20Eric%20Gale) | An earlier solo piece that shows his blues-rooted vocabulary before the Stuff years. |
-| [King of the Groove — Eric Gale](https://open.spotify.com/search/King%20of%20the%20Groove%20Eric%20Gale) | Title track from his 1980 solo album — a late-period showcase of his mature funk-jazz voice. |
 
 ## Bernard Purdie
 

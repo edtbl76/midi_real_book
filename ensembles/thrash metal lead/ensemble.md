@@ -9,8 +9,6 @@ Metallica defined thrash metal from their San Francisco formation in 1981 throug
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Cliff Burton](#cliff-burton) | Bass | [Wikipedia][cliff-burton-wiki] | — |
-| [James Hetfield](#james-hetfield) | Guitar | [Wikipedia][james-hetfield-wiki] | — |
-| [Kirk Hammett](#kirk-hammett) | Guitar | [Wikipedia][kirk-hammett-wiki] | — |
 | [Marty Friedman](#marty-friedman) | Guitar | [Wikipedia][marty-friedman-wiki] | — |
 | [Lars Ulrich](#lars-ulrich) | Drums | [Wikipedia][lars-ulrich-wiki] | — |
 
@@ -50,73 +48,6 @@ Cliff Burton was Metallica's bassist from 1982 until his death in a tour bus acc
 | [The Call of Ktulu][call-of-ktulu-spotify] | *Ride the Lightning*; instrumental; Burton's bass in a long-form composition showing his compositional influence. |
 | [Fight Fire with Fire][fight-fire-spotify] | *Ride the Lightning*; Burton on the album's fastest track. |
 | [Creeping Death][creeping-death-spotify] | *Ride the Lightning*; Burton's bass in one of Metallica's most structurally aggressive tracks. |
-
-## James Hetfield
-
-James Hetfield is Metallica's rhythm guitarist, co-founder, and vocalist. His rhythm guitar technique — particularly his down-picking, which involves picking every note with a downstroke rather than alternating up and down — generates enormous power and consistency at high speeds. Hetfield is responsible for some of thrash metal's most recognizable riffs, and his compositional partnership with Lars Ulrich produced the entire Metallica catalog through the band's classic period and beyond.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1981–present | Metallica | [Wikipedia][metallica-wiki] | — | Co-founder; continuous; rhythm guitar and vocals throughout |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | ESP Explorer (custom models); Gibson Flying V (early years); Gibson Explorer; Jackson guitars (mid-career) |
-| Amplifier | Mesa/Boogie Mark II C+ (classic recordings); Marshall; Diezel (later career) |
-| Strings | Heavy gauge; tight, palm-muted rhythm sound |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Master of Puppets][master-hetfield-spotify] | Title track; Hetfield's down-picked alternate riff sections are among the most studied in metal. |
-| [Battery][battery-hetfield-spotify] | *Master of Puppets*; acoustic intro followed by full-speed down-picked thrash — the contrast defines Hetfield's rhythmic command. |
-| [Disposable Heroes][disposable-heroes-spotify] | *Master of Puppets*; relentless down-picking at fast tempo; how Hetfield's endurance and precision work together. |
-| [Creeping Death][creeping-death-hetfield-spotify] | *Ride the Lightning*; chanted mid-section and punishing rhythm guitar throughout. |
-| [Seek & Destroy][seek-destroy-spotify] | *Kill 'Em All*; early Metallica riff with Hetfield's rhythm guitar establishing the band's foundational thrash vocabulary. |
-| [For Whom the Bell Tolls][for-whom-hetfield-spotify] | *Ride the Lightning*; slower tempo with Hetfield's palm-muted, dark heavy riff. |
-| [The Four Horsemen][four-horsemen-spotify] | *Kill 'Em All*; one of the early long-form Metallica compositions showing Hetfield's riff-writing range. |
-| [Blackened][blackened-spotify] | *...And Justice for All* (1988); retrograde-opening riff; Hetfield's most compositionally unusual rhythm guitar work. |
-| [Ride the Lightning][ride-lightning-hetfield-spotify] | Title track; Hetfield combining acoustic sections and heavy thrash riffing in a single composition. |
-| [Motorbreath][motorbreath-spotify] | *Kill 'Em All*; pure thrash at high speed; Hetfield's rhythm guitar defining the genre in its earliest moments. |
-
-## Kirk Hammett
-
-Kirk Hammett joined Metallica in 1983 as the band's lead guitarist, replacing Dave Mustaine. His lead guitar style is defined by heavy wah-pedal use, pentatonic and blues-scale vocabulary adapted to metal context, and an ability to write memorable guitar solos that feel like melodic events rather than technical displays. Hammett studied with Joe Satriani before joining Metallica, and his technique reflects that formal training while maintaining a metal-oriented energy.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1982–1983 | Exodus | [Wikipedia][exodus-wiki] | — | San Francisco thrash band; original lead guitarist |
-| 1983–present | Metallica | [Wikipedia][metallica-wiki] | — | Replaced Dave Mustaine; continuous lead guitarist |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | ESP M-II (custom KH series); Jackson guitars (early years); various ESP signature models |
-| Effects | Dunlop KH95 Kirk Hammett Cry Baby Wah (signature model); extensive wah use is his most identifiable trait |
-| Amplifier | Mesa/Boogie Mark II C+; Marshall (various) |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Master of Puppets][master-hammett-spotify] | Hammett's lead break in the middle of the title track is one of metal's most recognized guitar solos. |
-| [Fade to Black][fade-to-black-spotify] | *Ride the Lightning* — Hammett's solo builds from clean to overdriven with emotional development rare in metal. |
-| [For Whom the Bell Tolls][for-whom-hammett-spotify] | *Ride the Lightning*; Hammett's wah-heavy lead over the mid-tempo thrash riff. |
-| [Seek & Destroy][seek-hammett-spotify] | *Kill 'Em All*; early Hammett lead playing with the wah-blues vocabulary already established. |
-| [The Unforgiven][unforgiven-spotify] | *Metallica* (1991) — Hammett's clean arpeggiated intro and lead lines in a ballad context. |
-| [One][one-spotify] | *...And Justice for All*; the guitar solo in the fast section is one of his most technically demanding and emotional. |
-| [Battery][battery-hammett-spotify] | *Master of Puppets*; Hammett's lead work over the album's fastest track. |
-| [Orion][orion-hammett-spotify] | *Master of Puppets* instrumental; Hammett's melodic lead work in a compositional context without vocals. |
-| [Blackened][blackened-hammett-spotify] | *...And Justice for All*; aggressive, wah-saturated lead playing in the band's most complex period. |
-| [The Four Horsemen][four-horsemen-hammett-spotify] | *Kill 'Em All*; early Hammett lead playing; the foundation he built on. |
 
 ## Marty Friedman
 

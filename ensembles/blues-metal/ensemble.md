@@ -9,10 +9,7 @@ This ensemble draws from the European hard rock and neoclassical metal tradition
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Bob Daisley](#bob-daisley) | Bass | [Wikipedia][bob-daisley-wiki] | — |
-| [Randy Rhoads](#randy-rhoads) | Guitar | [Wikipedia][randy-rhoads-wiki] | — |
 | [Gary Moore](#gary-moore) | Guitar | [Wikipedia][gary-moore-wiki] | — |
-| [Ritchie Blackmore](#ritchie-blackmore) | Guitar | [Wikipedia][ritchie-blackmore-wiki] | — |
-| [Uli Jon Roth](#uli-jon-roth) | Guitar | [Wikipedia][uli-jon-roth-wiki] | — |
 | [Tommy Aldridge](#tommy-aldridge) | Drums | [Wikipedia][tommy-aldridge-wiki] | — |
 | [Don Airey](#don-airey) | Keyboards | [Wikipedia][don-airey-wiki] | — |
 
@@ -51,39 +48,6 @@ Bob Daisley is a bassist associated with hard rock and heavy metal. He was the p
 | [Believer](https://open.spotify.com/search/Believer%20Ozzy%20Osbourne) | Focus on how bass and drums interact to create the driving feel underneath a heavy riff. |
 | [Diary of a Madman](https://open.spotify.com/search/Diary%20of%20a%20Madman%20Ozzy%20Osbourne) | The title track — long-form arrangement showing how Daisley adapts through contrasting sections. |
 
-## Randy Rhoads
-
-Randy Rhoads is a guitarist associated with neoclassical metal and hard rock. He studied classical guitar at college level and applied Bach-influenced diminished-scale runs, chromatic harmonization, and sweep phrasing to a heavy metal context — a synthesis that made his work on the first two Ozzy Osbourne solo albums foundational to the entire neoclassical shred genre. He died in a plane accident in 1982 at age 25.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1975–1979 | Quiet Riot | [Wikipedia][quiet-riot-wiki] | — | Early Los Angeles hard rock band. |
-| 1980–1982 | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | *Blizzard of Ozz* and *Diary of a Madman* — his definitive recorded legacy. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Custom polka-dot Flying V (Karl Sandoval); 1974 Gibson Les Paul Custom |
-| Amplifier | Marshall JMP 50W heads |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Ozzy%20Osbourne) | Listen for the classical-influenced diminished sequence in the lead — a signature Rhoads device. |
-| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Ozzy%20Osbourne) | Focus on alternate picking precision at high tempo, and how he exits a flurry phrase with a melodic resolution. |
-| [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Ozzy%20Osbourne) | The extended solo is a complete composition — study how it builds through multiple distinct sections. |
-| [Crazy Train](https://open.spotify.com/search/Crazy%20Train%20Ozzy%20Osbourne) | The iconic opening riff demonstrates his rhythmic precision; the solo uses arpeggiated sweeps and chromatic runs. |
-| [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Ozzy%20Osbourne) | Listen for rhythm guitar tone and how he creates a heavy texture with single-note riffs rather than power chords alone. |
-| [Goodbye to Romance](https://open.spotify.com/search/Goodbye%20to%20Romance%20Ozzy%20Osbourne) | A ballad — hear his lyrical, controlled vibrato and melodic phrasing outside the shred context. |
-| [Suicide Solution](https://open.spotify.com/search/Suicide%20Solution%20Ozzy%20Osbourne) | Aggressive mid-tempo riffing — listen for how harmonic movement in the riff creates tension. |
-| [Dee](https://open.spotify.com/search/Dee%20Ozzy%20Osbourne) | A solo classical guitar piece demonstrating his formal training directly. |
-| [Diary of a Madman](https://open.spotify.com/search/Diary%20of%20a%20Madman%20Ozzy%20Osbourne) | Orchestral guitar textures and classical counterpoint applied to a heavy arrangement. |
-| [Believer](https://open.spotify.com/search/Believer%20Ozzy%20Osbourne) | Hear how he handles a mid-tempo groove with economical riffing and a focused, melodic solo. |
-
 ## Gary Moore
 
 Gary Moore is a guitarist associated with blues-rock and hard rock. He is distinctive for a career that moved between hard rock with Thin Lizzy and neoclassical-influenced metal (Colosseum II, solo records) before pivoting decisively to blues in the late 1980s. His vibrato is widely cited as one of the strongest in any genre. He died in 2011.
@@ -118,73 +82,6 @@ Gary Moore is a guitarist associated with blues-rock and hard rock. He is distin
 | [The Loner](https://open.spotify.com/search/The%20Loner%20Gary%20Moore) | Instrumental — a complete melodic statement from intro to outro. |
 | [After the War](https://open.spotify.com/search/After%20the%20War%20Gary%20Moore) | Combines metal riffing with blues lead vocabulary; a bridge track between his two main stylistic periods. |
 | [King of the Blues](https://open.spotify.com/search/King%20of%20the%20Blues%20Gary%20Moore) | From *Blues for Greeny* — listen for how he channels Peter Green's tone and melodic restraint. |
-
-## Ritchie Blackmore
-
-Ritchie Blackmore is a guitarist associated with hard rock and heavy metal. As the founder of Deep Purple and then Rainbow, he developed a proto-neoclassical vocabulary that drew on Bach and Baroque music long before the term "neoclassical metal" existed. His use of natural minor and harmonic minor scales, combined with precise picking and a dark tonal signature, influenced virtually every metal guitarist of the following generation.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1968–1975 | Deep Purple | [Wikipedia][deep-purple-wiki] | — | Foundational hard rock records including *Machine Head* and *Perfect Strangers*. |
-| 1975–1984 | Rainbow | [Wikipedia][rainbow-wiki] | — | *Rising*, *Long Live Rock 'n' Roll*, and subsequent records. |
-| 1997–present | Blackmore's Night | [Wikipedia][blackmores-night-wiki] | — | Renaissance/folk direction with partner Candice Night. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Stratocaster (primary from mid-1970s onward) |
-| Amplifier | Marshall Super Bass heads |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Smoke on the Water](https://open.spotify.com/search/Smoke%20on%20the%20Water%20Deep%20Purple) | The opening riff's quartal structure — study how a simple four-note idea creates a defining hard rock signature. |
-| [Highway Star](https://open.spotify.com/search/Highway%20Star%20Deep%20Purple) | The solo runs up a Bach-influenced harmonic minor sequence; one of the clearest examples of neoclassical phrasing in a rock track. |
-| [Burn](https://open.spotify.com/search/Burn%20Deep%20Purple) | MkIII lineup — listen for how Blackmore layers pentatonic runs against the keyboard riff. |
-| [Stargazer](https://open.spotify.com/search/Stargazer%20Rainbow) | The centrepiece of *Rising* — long solo development over an orchestral arrangement. |
-| [A Light in the Black](https://open.spotify.com/search/A%20Light%20in%20the%20Black%20Rainbow) | Extended instrumental passage — study harmonic minor scalar runs in a live-band fusion context. |
-| [Kill the King](https://open.spotify.com/search/Kill%20the%20King%20Rainbow) | Aggressive, high-tempo picking — one of his most demanding rhythmic performances. |
-| [Man on the Silver Mountain](https://open.spotify.com/search/Man%20on%20the%20Silver%20Mountain%20Rainbow) | First Rainbow track — listen for the dark Aeolian riff and sparse solo approach. |
-| [Mistreated](https://open.spotify.com/search/Mistreated%20Deep%20Purple) | Blues-influenced slow track — hear how his blues vocabulary differs from American players. |
-| [Perfect Strangers](https://open.spotify.com/search/Perfect%20Strangers%20Deep%20Purple) | 1984 reunion record — solo construction over a modal groove. |
-| [Long Live Rock 'n' Roll](https://open.spotify.com/search/Long%20Live%20Rock%20%27n%27%20Roll%20Rainbow) | Title track from the third Rainbow album — listen for riff economy and how the rhythm guitar part drives the song. |
-
-## Uli Jon Roth
-
-Uli Jon Roth is a guitarist associated with neoclassical rock and heavy metal. He was the lead guitarist for Scorpions from 1973 to 1978, during which he developed a proto-neoclassical vocabulary — drawing on violin technique, classical composition, and Hendrix-influenced expression — before any established genre for that approach existed. After leaving Scorpions he recorded with his own Sky Orchestra and later developed the "Sky Guitar," a custom instrument with extended upper register.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1973–1978 | Scorpions | [Wikipedia][scorpions-wiki] | — | *Fly to the Rainbow*, *In Trance*, *Virgin Killer*, *Tokyo Tapes*. |
-| 1979–present | Electric Sun / solo | — | — | Post-Scorpions neoclassical and orchestral work. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Custom "Sky Guitar" (extended upper range); vintage Gibson Flying V |
-| Amplifier | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Sails of Charon](https://open.spotify.com/search/Sails%20of%20Charon%20Scorpions) | The defining Roth track — listen for the classical violin-influenced solo and the dark harmonic minor riff. |
-| [In Trance](https://open.spotify.com/search/In%20Trance%20Scorpions) | From the 1975 album — study how he builds a bluesy, expressive solo inside a proto-metal framework. |
-| [Fly to the Rainbow](https://open.spotify.com/search/Fly%20to%20the%20Rainbow%20Scorpions) | Extended lead playing — one of his most lyrical recordings from the Scorpions years. |
-| [Catch Your Train](https://open.spotify.com/search/Catch%20Your%20Train%20Scorpions) | Hear the Hendrix influence alongside the classical tendencies in his improvisational approach. |
-| [Pictured Life](https://open.spotify.com/search/Pictured%20Life%20Scorpions) | *In Trance* era — listen for vibrato control and note choice in a melodic hard rock context. |
-| [Longing for Fire](https://open.spotify.com/search/Longing%20for%20Fire%20Scorpions) | From *Virgin Killer* — aggressive riffing contrasted with lyrical lead lines. |
-| [He's a Woman, She's a Man](https://open.spotify.com/search/He%27s%20a%20Woman%20She%27s%20a%20Man%20Scorpions) | A high-energy track — listen for how he negotiates between rhythm and lead roles within the song. |
-| [Dark Lady](https://open.spotify.com/search/Dark%20Lady%20Scorpions) | Baroque-flavored chord progression — one of the most explicitly classical-influenced Scorpions tracks. |
-| [Sun in My Hand](https://open.spotify.com/search/Sun%20in%20My%20Hand%20Electric%20Sun) | Post-Scorpions — early Electric Sun material showing his direction after leaving the band. |
-| [Far Away](https://open.spotify.com/search/Far%20Away%20Scorpions) | From *Tokyo Tapes* (live) — hear the classical phrasing fully realized in a concert setting. |
 
 ## Tommy Aldridge
 

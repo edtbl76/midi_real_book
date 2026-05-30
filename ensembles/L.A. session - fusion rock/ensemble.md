@@ -9,7 +9,6 @@ This music is centered on L.A. session/fusion rock: L.A. Listen for how the rhyt
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Jimmy Earl](#jimmy-earl) | Bass | [Wikipedia][jimmy-earl-wiki] | — |
-| [Mike Miller](#mike-miller) | Guitar | [Wikipedia][mike-miller-wiki] | — |
 | [Michael Landau](#michael-landau) | Guitar | [Wikipedia][michael-landau-wiki] | — |
 | [Vinnie Colaiuta](#vinnie-colaiuta) | Drums | [Wikipedia][vinnie-colaiuta-wiki] | — |
 | [Jeff Babko](#jeff-babko) | Keyboards | [Wikipedia][jeff-babko-wiki] | — |
@@ -47,38 +46,6 @@ Jimmy Earl is a bassist associated with jazz fusion, session. Musically, the imp
 | [Dean Town](https://open.spotify.com/search/Dean%20Town%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Good Times](https://open.spotify.com/search/Good%20Times%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Listen for how the low end supports the drummer without crowding the arrangement. |
 | [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Jimmy%20Earl%20L.A.%20session/fusion%20rock) | Listen for how the player shapes and attacks each note. |
-
-## Mike Miller
-
-Mike Miller is a guitarist associated with jazz fusion, session, rock. Musically, the important traits here are jazz-fusion hybrid picking precision, bebop-influenced lead vocabulary, session-grade technical command. In this ensemble: L.A. fusion / session. Related listening: Vinnie Colaiuta / Jeff Babko orbit.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | L.A. session/fusion rock | [Wikipedia][l-a-session-fusion-rock-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Related artists. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Dirty Loops Rock You](https://open.spotify.com/search/Dirty%20Loops%20Rock%20You%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Listen for how the guitar fits the band. |
-| [Room 335](https://open.spotify.com/search/Room%20335%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Focus on phrasing, tone, bends, and how Mike Miller shapes the melodic argument. |
-| [Josie](https://open.spotify.com/search/Josie%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Listen for how the rhythm guitar lays into the groove. |
-| [Peg](https://open.spotify.com/search/Peg%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Rosanna](https://open.spotify.com/search/Rosanna%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Listen for how the guitar fits the band. |
-| [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Focus on phrasing, tone, bends, and how Mike Miller shapes the melodic argument. |
-| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Listen for how the rhythm guitar lays into the groove. |
-| [Europa](https://open.spotify.com/search/Europa%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Mike%20Miller%20L.A.%20session/fusion%20rock) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Michael Landau
 

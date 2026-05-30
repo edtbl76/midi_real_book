@@ -10,8 +10,6 @@ Yngwie Johann Malmsteen was born on June 30, 1963, in Stockholm, Sweden, and eme
 |---|---|---|---|
 | [Marcel Jacob](#marcel-jacob) | Bass | [Wikipedia][marcel-jacob-wiki] | — |
 | [Yngwie Malmsteen](#yngwie-malmsteen) | Guitar | [Wikipedia][yngwie-malmsteen-wiki] | — |
-| [Vinnie Moore](#vinnie-moore) | Guitar | [Wikipedia][vinnie-moore-wiki] | — |
-| [Joe Stump](#joe-stump) | Guitar | [Wikipedia][joe-stump-wiki] | — |
 | [Ian Haugland](#ian-haugland) | Drums | [Wikipedia][ian-haugland-wiki] | — |
 | [Jens Johansson](#jens-johansson) | Keyboards | [Wikipedia][jens-johansson-wiki] | — |
 
@@ -84,70 +82,6 @@ Yngwie Johann Malmsteen is a Swedish guitarist born June 30, 1963, in Stockholm,
 | [Liar](https://open.spotify.com/search/Liar%20Yngwie%20Malmsteen) | Listen for the rhythm guitar tone — near-unity gain Marshall crunch — and how the riff uses chromatic passing tones drawn from classical voice-leading. |
 | [Heaven Tonight](https://open.spotify.com/search/Heaven%20Tonight%20Yngwie%20Malmsteen) | From *Odyssey* with Joe Lynn Turner; notice how Malmsteen restrains his technique to serve a pop-metal hook while still marking phrases with signature sweep arpeggios. |
 | [Déjà Vu](https://open.spotify.com/search/D%C3%A9j%C3%A0%20Vu%20Yngwie%20Malmsteen) | Study the lead tone — Stratocaster bridge pickup through stacked Marshalls — and how the single-coil articulation makes every picked note audible at speed. |
-
-## Vinnie Moore
-
-Vinnie Moore is an American guitarist born in 1964 in Newark, Delaware, who emerged from the Shrapnel Records neoclassical shred scene in the mid-1980s as one of the most technically accomplished and melodically sophisticated players in Malmsteen's immediate stylistic orbit. His debut album *Mind's Eye* (1987) on Shrapnel showcased a Malmsteen-influenced approach — harmonic minor runs, sweep arpeggios, Bach-informed phrasing — but with a notably more melodic sensibility and a cleaner, more precise picking attack that distinguished his voice from the pack. Moore went on to release *Meltdown* (1991) and *Time Odyssey* (1992), expanding into more fusion-influenced territory, before joining British hard rock band UFO in 1998, where he remained the primary lead guitarist for over two decades. His playing demonstrates how the neoclassical shred vocabulary can be applied with an emphasis on musical development and melodic arc rather than pure velocity.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1987–present | Vinnie Moore (solo) | [Wikipedia][vinnie-moore-wiki] | — | *Mind's Eye* (1987), *Meltdown* (1991), *Time Odyssey* (1992), and subsequent solo work. |
-| 1998–present | UFO | [Wikipedia](https://en.wikipedia.org/wiki/UFO_(band)) | — | Primary lead guitarist; multiple studio and live albums. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20Vinnie%20Moore) | The title track of his Shrapnel debut; listen for the harmonic minor sweep arpeggios and how Moore shapes phrases with melodic intention rather than raw speed alone. |
-| [Morning Star](https://open.spotify.com/search/Morning%20Star%20Vinnie%20Moore) | Track the economy-picking runs through the scalar passages and notice how the phrasing breathes despite the high tempo. |
-| [Daydream](https://open.spotify.com/search/Daydream%20Vinnie%20Moore) | A lyrical piece that reveals Moore's melodic sensibility; focus on vibrato control and how each note sustains rather than rushing to the next. |
-| [Lifeforce](https://open.spotify.com/search/Lifeforce%20Vinnie%20Moore) | From *Meltdown*; listen for the fusion influence entering the neoclassical framework through the chord progression and solo construction. |
-| [The Maze](https://open.spotify.com/search/The%20Maze%20Vinnie%20Moore) | Track how Moore maps a Bach-style sequence across the fretboard using sweep arpeggios and position shifts. |
-| [In Control](https://open.spotify.com/search/In%20Control%20Vinnie%20Moore) | Focus on the picking-hand precision and how the tone stays transparent even through fast chromatic passages. |
-| [Saved by Love](https://open.spotify.com/search/Saved%20by%20Love%20Vinnie%20Moore%20UFO) | With UFO; notice how Moore adapts his neoclassical vocabulary to serve a hard rock song structure and vocal-first arrangement. |
-| [Venus](https://open.spotify.com/search/Venus%20Vinnie%20Moore%20UFO) | A UFO track where Moore's lead work demonstrates how sweep arpeggios translate into a classic rock context. |
-| [Prelude to Tragedy](https://open.spotify.com/search/Prelude%20to%20Tragedy%20Vinnie%20Moore) | One of his more overtly baroque solo pieces; listen for the counterpoint between the rhythm figure and the lead line. |
-| [Shadows in the Street](https://open.spotify.com/search/Shadows%20in%20the%20Street%20Vinnie%20Moore%20UFO) | Track how Moore's phrasing has evolved on his UFO-era work — still technically precise, but with more melodic economy per phrase. |
-
-## Joe Stump
-
-Joe Stump is an American guitarist and music educator born in 1962, based in Boston, who has built one of the most consistent bodies of work in the neoclassical shred genre through over a dozen solo albums on labels including Shrapnel Records and his own imprint. His playing is rooted in the Malmsteen-Blackmore lineage — harmonic and natural minor, Baroque-style sequences, sweep arpeggios across multiple strings — but with a hard-rock rhythmic aggressiveness and a more compressed, heavier guitar tone that pushes the style toward metal without abandoning its classical architecture. Stump has taught at Berklee College of Music and has written extensively on neoclassical guitar technique, making him an important figure in transmitting this vocabulary to subsequent generations. His recordings, including *Rapid Fire Rondo* (1995), *Supersonic Shred Machine* (1999), and *Tortured Circuit* (2005), document a guitarist who has refined and deepened the neoclassical template rather than simply replicating it.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1995–present | Joe Stump (solo) | [Wikipedia][joe-stump-wiki] | — | *Rapid Fire Rondo* (1995), *Supersonic Shred Machine* (1999), *Tortured Circuit* (2005), and subsequent releases. |
-| Various | Reign of Terror | — | — | Heavy metal project featuring Stump's guitar alongside full band arrangements. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Flight of the Bumblebee](https://open.spotify.com/search/Flight%20of%20the%20Bumblebee%20Joe%20Stump) | Stump's guitar arrangement of the Rimsky-Korsakov piece reveals exactly how the neoclassical shred vocabulary maps onto actual classical repertoire. |
-| [Rapid Fire Rondo](https://open.spotify.com/search/Rapid%20Fire%20Rondo%20Joe%20Stump) | The title track of his debut; listen for the Baroque rondo structure and how Stump restates and varies the main theme between shred episodes. |
-| [Prelude in D Minor](https://open.spotify.com/search/Prelude%20in%20D%20Minor%20Joe%20Stump) | A Bach-derived prelude arranged for electric guitar; focus on how the harmonic minor sequence creates forward motion without a drummer. |
-| [Supersonic Shred Machine](https://open.spotify.com/search/Supersonic%20Shred%20Machine%20Joe%20Stump) | Track the picking-hand mechanics through the scalar sequences and notice the consistent attack across all six strings. |
-| [Tortured Circuit](https://open.spotify.com/search/Tortured%20Circuit%20Joe%20Stump) | Listen for the diminished arpeggio sequences and how Stump uses chromatic approach notes to link arpeggios in the Malmsteen tradition. |
-| [Baroque and Roll](https://open.spotify.com/search/Baroque%20and%20Roll%20Joe%20Stump) | The title makes the intent explicit: track how Baroque voice-leading and hard rock rhythm section interact. |
-| [Toccata in D Minor](https://open.spotify.com/search/Toccata%20in%20D%20Minor%20Joe%20Stump) | Bach's organ toccata translated to guitar; focus on the pedal-tone passages and how Stump handles the dramatic dynamic arc. |
-| [Northern Lights](https://open.spotify.com/search/Northern%20Lights%20Joe%20Stump) | A melodic piece that demonstrates Stump's ability to construct a developmental solo narrative rather than simply chaining runs. |
-| [Frenzy in F](https://open.spotify.com/search/Frenzy%20in%20F%20Joe%20Stump) | Listen for the Paganini-inspired caprice structure and how Stump adapts it to a metal rhythm section. |
-| [Vivace](https://open.spotify.com/search/Vivace%20Joe%20Stump) | A full-speed neoclassical showcase; track how economy picking and sweep arpeggios are combined to navigate large intervallic jumps efficiently. |
 
 ## Ian Haugland
 

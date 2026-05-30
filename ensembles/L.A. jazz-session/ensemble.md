@@ -9,7 +9,6 @@ This music is centered on L.A. jazz-session: session / pop. Listen for how the r
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Carol Kaye](#carol-kaye) | Bass | [Wikipedia][carol-kaye-wiki] | — |
-| [Tommy Tedesco](#tommy-tedesco) | Guitar | [Wikipedia][tommy-tedesco-wiki] | — |
 | [Barney Kessel](#barney-kessel) | Guitar | [Wikipedia][barney-kessel-wiki] | — |
 | [Hal Blaine](#hal-blaine) | Drums | [Wikipedia][hal-blaine-wiki] | — |
 | [Leon Russell](#leon-russell) | Keyboards | [Wikipedia][leon-russell-wiki] | — |
@@ -48,38 +47,6 @@ Carol Kaye is a bassist associated with session, pop, R&B, rock. Musically, the 
 | [Bernadette](https://open.spotify.com/search/Bernadette%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Carol%20Kaye%20L.A.%20jazz-session) | Track the pocket, note length, and how Carol Kaye makes the harmony feel grounded. |
 | [Power](https://open.spotify.com/search/Power%20Carol%20Kaye%20L.A.%20jazz-session) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-
-## Tommy Tedesco
-
-Tommy Tedesco is a guitarist associated with jazz, session, studio. Musically, the important traits here are session Hollywood reading precision, stylistic versatility, clean execution. In this ensemble: session / pop. Related listening: Wrecking Crew / Capitol Records session orbit.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | L.A. jazz-session | [Wikipedia][l-a-jazz-session-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Tommy%20Tedesco%20L.A.%20jazz-session) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for how the guitar fits the band. |
-| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Tommy%20Tedesco%20L.A.%20jazz-session) | Focus on phrasing, tone, bends, and how Tommy Tedesco shapes the melodic argument. |
-| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for how the rhythm guitar lays into the groove. |
-| [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20Tommy%20Tedesco%20L.A.%20jazz-session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20Tommy%20Tedesco%20L.A.%20jazz-session) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Peg](https://open.spotify.com/search/Peg%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for how the guitar fits the band. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Tommy%20Tedesco%20L.A.%20jazz-session) | Focus on phrasing, tone, bends, and how Tommy Tedesco shapes the melodic argument. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for how the rhythm guitar lays into the groove. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Tommy%20Tedesco%20L.A.%20jazz-session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Barney Kessel
 

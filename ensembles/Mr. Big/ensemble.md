@@ -9,9 +9,7 @@ Mr. Big formed in Los Angeles in 1988 around a core lineup of Paul Gilbert (guit
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Billy Sheehan](#billy-sheehan) | Bass | [Wikipedia][billy-sheehan-wiki] | — |
-| [Steve Vai](#steve-vai) | Guitar | [Wikipedia][steve-vai-wiki] | [Website][steve-vai-site] |
 | [Paul Gilbert](#paul-gilbert) | Guitar | [Wikipedia][paul-gilbert-wiki] | — |
-| [Jason Becker](#jason-becker) | Guitar | [Wikipedia][jason-becker-wiki] | — |
 | [Mike Mangini](#mike-mangini) | Drums | [Wikipedia][mike-mangini-wiki] | — |
 | [Michael Keneally](#michael-keneally) | Keyboards | [Wikipedia][michael-keneally-wiki] | — |
 
@@ -54,43 +52,6 @@ Billy Sheehan is a bassist from Buffalo, New York, who rose to prominence in the
 | [Road to Ruin](https://open.spotify.com/search/Road%20to%20Ruin%20Mr.%20Big) | Up-tempo *Lean into It* track where Sheehan's aggressive right-hand palm attack gives the groove its forward momentum. |
 | [Goin' Where the Wind Blows](https://open.spotify.com/search/Goin%27%20Where%20the%20Wind%20Blows%20Mr.%20Big) | Acoustic-leaning track from *Hey Man*; notice how the bass lines stay melodically interesting even in a stripped arrangement. |
 
-## Steve Vai
-
-Steve Vai is a guitarist from Carle Place, Long Island, New York, who studied under Joe Satriani and then transcribed Frank Zappa's music before joining Zappa's live band in 1980 at the age of 20. His reputation as a reading virtuoso and tone sculptor led to stints with Alcatrazz, David Lee Roth (where he crossed paths with the Shrapnel/shred world), and Whitesnake before launching a celebrated solo career with *Passion and Warfare* (1990). Vai's playing is defined by whammy-bar dramatics, unconventional phrasing, microtonal bending, and a deeply personal vibrato that sets him apart from the alternate-picking school represented by Gilbert and Becker. He appears in this ensemble as part of the broader Shrapnel/shred orbit and the David Lee Roth connection that links several players here, though he was not a member of Mr. Big itself. His ongoing influence on guitarists worldwide has been cemented by his Ibanez JEM signature models, his G3 concert series, and decades of solo recordings.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1980–1983 | Frank Zappa | — | — | Live band; established reputation as elite reader. |
-| 1984–1985 | Alcatrazz | — | — | Replaced Yngwie Malmsteen. |
-| 1985–1988 | David Lee Roth | — | — | *Eat 'Em and Smile* and *Skyscraper* albums. |
-| 1989–1990 | Whitesnake | — | — | *Slip of the Tongue* album. |
-| 1990–present | Solo | — | [Website][steve-vai-site] | *Passion and Warfare*, *Sex & Religion*, *Fire Garden*, *Ultra Zone*, and beyond. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitars | Ibanez JEM and Universe (7-string) signature models |
-| Effects / Amps | Eventide harmonizers; Carvin/Legacy-era tube amps; Fractal Audio Axe-Fx in later years |
-| Technique | Whammy bar dramatics, microtonal bending, unconventional legato phrasing, highly personal vibrato |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Steve%20Vai) | Slow-building meditation from *Passion and Warfare*; study Vai's sustained phrasing, vibrato control, and how he builds intensity without fast runs. |
-| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Steve%20Vai) | Solo ballad that showcases his melodic singing tone and whammy nuance; a masterclass in slow-hand expressiveness. |
-| [Bad Horsie](https://open.spotify.com/search/Bad%20Horsie%20Steve%20Vai) | Wah-drenched groove riff from *Alien Love Secrets*; listen for how Vai uses a single repeated idea and bends it into something hypnotic. |
-| [Yankee Rose](https://open.spotify.com/search/Yankee%20Rose%20David%20Lee%20Roth) | David Lee Roth opener; the guitar-as-voice intro dialogue with Roth is one of rock's most famous whammy-bar moments. |
-| [Erotic Nightmares](https://open.spotify.com/search/Erotic%20Nightmares%20Steve%20Vai) | Showcases Vai's melodic composition sense and his ability to shift between rhythmic precision and free-floating legato. |
-| [The Audience Is Listening](https://open.spotify.com/search/The%20Audience%20Is%20Listening%20Steve%20Vai) | Up-tempo showcase from *Passion and Warfare*; track how Vai layers rhythm and lead textures in his solo writing. |
-| [Pig](https://open.spotify.com/search/Pig%20Steve%20Vai%20Sex%20Religion) | From *Sex & Religion*; listen for how Vai blends aggressive riffing with melodic lead work in a band-format context. |
-| [Here I Go Again](https://open.spotify.com/search/Here%20I%20Go%20Again%20Whitesnake%201987) | Whitesnake smash where Vai's tone and solo construction reached a mass audience; a useful contrast to his solo work. |
-| [Building the Church](https://open.spotify.com/search/Building%20the%20Church%20Steve%20Vai) | From *Real Illusions: Reflections*; blends acoustic and electric with a deeply personal narrative arc. |
-| [Whispering a Prayer](https://open.spotify.com/search/Whispering%20a%20Prayer%20Steve%20Vai) | Solo acoustic guitar from *Passion and Warfare*; strips away all production and reveals his touch and tone at their most raw. |
-
 ## Paul Gilbert
 
 Paul Gilbert is a guitarist from Carbondale, Illinois, who moved to Los Angeles as a teenager to attend the Guitar Institute of Technology (GIT) and quickly became a faculty instructor while still a student. He co-founded Racer X in 1985, releasing technically demanding albums on Mike Varney's Shrapnel label that established him as one of the fastest and most precise alternate pickers in rock; his use of a power drill fitted with guitar picks in Racer X live performances became an early calling card. He left Racer X in 1988 to co-found Mr. Big, where his velocity and string-skipping vocabulary were harnessed to pop-structured hard rock alongside Billy Sheehan's equally virtuosic bass work. After departing Mr. Big in 1996 he launched a prolific solo career, recording albums that range from hard rock and blues to quirky melodic pop, while also teaching extensively and writing instructional books. He is widely regarded as one of the most technically sound and pedagogically articulate guitarists in rock, and his solo output on labels including Mesa/Bluemoon and Shrapnel demonstrates the full range of his vocabulary beyond the Mr. Big context.
@@ -126,41 +87,6 @@ Paul Gilbert is a guitarist from Carbondale, Illinois, who moved to Los Angeles 
 | [Radiator](https://open.spotify.com/search/Radiator%20Paul%20Gilbert%20Alligator%20Farm) | Title track from *Alligator Farm* (2000); a solo showcase that balances melodic songwriting with instrumental flair. |
 | [Everybody Use Your Goddamn Turn Signal](https://open.spotify.com/search/Everybody%20Use%20Your%20Goddamn%20Turn%20Signal%20Paul%20Gilbert) | An example of Gilbert's quirky humor and melodic sensibility coexisting with serious instrumental chops in his solo work. |
 | [Heart of a Lion](https://open.spotify.com/search/Heart%20of%20a%20Lion%20Racer%20X) | Racer X track that shows a more melodic side of Gilbert's shred vocabulary alongside the band's hard-driving rhythm section. |
-
-## Jason Becker
-
-Jason Becker is a guitarist from Richmond, California, who emerged in the mid-1980s as one of the most prodigiously talented players in the Shrapnel neoclassical shred scene. He rose to prominence as half of Cacophony alongside Marty Friedman, recording *Speed Metal Symphony* (1987) and *Go Off!* (1988), before releasing his solo debut *Perpetual Burn* (1988) — an album of neoclassical shred that remains a benchmark of the genre for its combination of Paganini-inspired sweep picking, clean melodic composition, and technical precision. He was selected to replace Steve Vai in David Lee Roth's band in 1990, connecting him to the broader David Lee Roth/Shrapnel orbit that links several players in this ensemble, but he was diagnosed with ALS (amyotrophic lateral sclerosis) shortly after recording *A Little Ain't Enough* (1991) and gradually lost the use of his limbs. He has continued to compose music using an eye-tracking communication system, and his story has been documented in the film *Jason Becker: Not Dead Yet* (2012). His playing is defined by neoclassical sweep arpeggios, precise alternate picking, and a compositional sense that draws directly from Baroque and Romantic classical models.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1987–1989 | Cacophony (with Marty Friedman) | — | — | *Speed Metal Symphony* and *Go Off!* albums on Shrapnel. |
-| 1988 | Solo debut | — | — | *Perpetual Burn* on Shrapnel; neoclassical shred benchmark. |
-| 1990–1991 | David Lee Roth | — | — | Replaced Steve Vai; recorded *A Little Ain't Enough*; ALS diagnosis. |
-| 1996–present | Solo (compositional) | — | — | Continues composing via eye-tracking system despite physical limitations. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Caparison and Jackson models in his active years; early work on customized superstrat-style instruments |
-| Technique | Neoclassical sweep arpeggios, alternate picking, Baroque/Romantic classical phrasing, wide-interval melodic lines |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Altitudes](https://open.spotify.com/search/Altitudes%20Jason%20Becker%20Cacophony) | Cacophony showcase and one of Becker's most celebrated melodic pieces; listen for how classical phrasing is translated into a rock guitar vocabulary. |
-| [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Jason%20Becker) | Title track of his solo debut; a distillation of his Paganini-inspired sweep-picking approach and compositional ambition. |
-| [Merry-Go-Round](https://open.spotify.com/search/Merry-Go-Round%20Jason%20Becker) | From *Perpetual Burn*; melodic and lyrical, showing Becker's ability to write memorable themes rather than just technical exercises. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Cacophony) | Cacophony's opening statement from the debut album; listen for the twin-guitar interplay between Becker and Marty Friedman. |
-| [End of the Beginning](https://open.spotify.com/search/End%20of%20the%20Beginning%20Jason%20Becker%20Perpetual%20Burn) | Closing track on *Perpetual Burn*; a compositional arc that demonstrates Becker's range from aggressive shred to tender melody. |
-| [Serrana](https://open.spotify.com/search/Serrana%20Jason%20Becker) | Classical-influenced acoustic piece from *Perpetual Burn*; strips away the electric context and reveals his pure melodic sensibility. |
-| [Concerto](https://open.spotify.com/search/Concerto%20Jason%20Becker%20Perpetual%20Burn) | From *Perpetual Burn*; study the neoclassical sweep-arpeggio runs and how they function within a structured compositional form. |
-| [Go Off](https://open.spotify.com/search/Go%20Off%20Cacophony) | Title track of Cacophony's second album; listen for Becker and Friedman's unison and harmony lines and the escalating technical demands. |
-| [Temple of the Absurd](https://open.spotify.com/search/Temple%20of%20the%20Absurd%20Cacophony) | Cacophony heavy track; notice how Becker's neoclassical vocabulary adapts to a harder, more aggressive rhythmic context. |
-| [The Raspberry Jams](https://open.spotify.com/search/The%20Raspberry%20Jams%20Jason%20Becker) | Post-diagnosis compositions released as *The Raspberry Jams* album; hear how his compositional voice persisted and deepened despite his physical limitations. |
 
 ## Mike Mangini
 

@@ -9,7 +9,6 @@ Whitesnake was founded by David Coverdale in 1978 after he departed Deep Purple,
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Marco Mendoza](#marco-mendoza) | Bass | [Wikipedia][marco-mendoza-wiki] | — |
-| [Richie Kotzen](#richie-kotzen) | Guitar | [Wikipedia][richie-kotzen-wiki] | — |
 | [John Sykes](#john-sykes) | Guitar | [Wikipedia][john-sykes-wiki] | — |
 | [Tommy Aldridge](#tommy-aldridge) | Drums | [Wikipedia][tommy-aldridge-wiki] | — |
 
@@ -48,40 +47,6 @@ Marco Mendoza is a Mexican-American bassist known for his work in hard rock, ble
 | [Ain't No Love in the Heart of the City](https://open.spotify.com/search/Ain%27t%20No%20Love%20in%20the%20Heart%20of%20the%20City%20Whitesnake) | Listen for how the player shapes and attacks each note. |
 | [Crying in the Rain](https://open.spotify.com/search/Crying%20in%20the%20Rain%20Whitesnake) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Children of the Night](https://open.spotify.com/search/Children%20of%20the%20Night%20Whitesnake) | Track the pocket, note length, and how Marco Mendoza makes the harmony feel grounded. |
-
-## Richie Kotzen
-
-Richie Kotzen is an American guitarist, vocalist, and songwriter whose playing blends blues-rock, fusion, and melodic hard rock with a distinctive hybrid-picking technique that integrates picked and legato lines seamlessly. He first rose to prominence with Poison in the early 1990s, then developed his own solo career before co-founding The Winery Dogs alongside Mike Portnoy and Billy Sheeran, where his influences in Whitesnake-era hard rock are clearly audible. Kotzen's approach to lead guitar emphasizes vocal phrasing — his lines breathe and resolve in ways that mirror a singer rather than simply showing technical facility. His rhythm playing is equally sophisticated, using percussive chord stabs and chord-melody hybrids to fill space without cluttering the arrangement. He is also a capable vocalist, which informs the way he constructs guitar melodies that have a natural arc from phrase to phrase.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Early 1990s | Poison | — | — | Lead guitarist on Native Tongue (1993). |
-| 1990s–present | Solo career | — | — | Extensive catalog as a solo artist. |
-| 2012–present | The Winery Dogs | — | — | Guitar, vocals in the hard rock supergroup. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Kotzen Telecaster (Fender signature model); various Stratocasters |
-| Amplifier | Groove Tubes, various tube combos |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Bad Boys](https://open.spotify.com/search/Bad%20Boys%20Whitesnake) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Slide It In](https://open.spotify.com/search/Slide%20It%20In%20Whitesnake) | Listen for how the guitar fits the band. |
-| [Slow an' Easy](https://open.spotify.com/search/Slow%20an%27%20Easy%20Whitesnake) | Focus on phrasing, tone, bends, and how Richie Kotzen shapes the melodic argument. |
-| [Here I Go Again](https://open.spotify.com/search/Here%20I%20Go%20Again%20Whitesnake) | Listen for how the rhythm guitar lays into the groove. |
-| [Love Ain't No Stranger](https://open.spotify.com/search/Love%20Ain%27t%20No%20Stranger%20Whitesnake) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Give Me All Your Love](https://open.spotify.com/search/Give%20Me%20All%20Your%20Love%20Whitesnake) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Fool for Your Loving](https://open.spotify.com/search/Fool%20for%20Your%20Loving%20Whitesnake) | Listen for how the guitar fits the band. |
-| [Ain't No Love in the Heart of the City](https://open.spotify.com/search/Ain%27t%20No%20Love%20in%20the%20Heart%20of%20the%20City%20Whitesnake) | Focus on phrasing, tone, bends, and how Richie Kotzen shapes the melodic argument. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Gary%20Moore) | Listen for how the rhythm guitar lays into the groove. |
-| [Is This Love](https://open.spotify.com/search/Is%20This%20Love%20Whitesnake) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## John Sykes
 

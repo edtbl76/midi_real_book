@@ -9,8 +9,6 @@ The Jack Bruce–Gary Moore band centers on the long creative partnership betwee
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Jack Bruce](#jack-bruce) | Bass | [Wikipedia][jack-bruce-wiki] | — |
-| [Eric Clapton](#eric-clapton) | Guitar | [Wikipedia][eric-clapton-wiki] | — |
-| [Robin Trower](#robin-trower) | Guitar | [Wikipedia][robin-trower-wiki] | — |
 | [Gary Moore](#gary-moore) | Guitar | [Wikipedia][gary-moore-wiki] | — |
 | [Ginger Baker](#ginger-baker) | Drums | [Wikipedia][ginger-baker-wiki] | — |
 
@@ -54,81 +52,6 @@ Jack Bruce (1943–2014) was a Scottish bassist, vocalist, and composer who beca
 | [Smashing Water](https://open.spotify.com/search/Smashing%20Water%20BBM) | BBM — listen for bass tone and the way Bruce fills space left by Moore's guitar. |
 | [Ships in the Night](https://open.spotify.com/search/Ships%20in%20the%20Night%20BBM) | BBM — melodic ballad context; Bruce's singing and bass complement each other across the whole arrangement. |
 | [Spoonful](https://open.spotify.com/search/Spoonful%20Cream) | Cream's extended live version is a masterclass in improvised blues interplay; study how Bruce holds the form. |
-
-## Eric Clapton
-
-Eric Clapton (born 1945) is an English guitarist and singer whose career has spanned British blues-rock, psychedelia, and mainstream rock across more than six decades. He rose to prominence with the Yardbirds and John Mayall's Bluesbreakers before co-founding Cream in 1966, where his playing with Jack Bruce and Ginger Baker pushed blues guitar into an extended, volume-driven improvisational style that influenced generations of players. After Cream he worked with Blind Faith, Delaney & Bonnie, and Derek and the Dominos before launching a long solo career that ranged from hard blues-rock to Caribbean-influenced pop. Clapton's early tone — derived from a Gibson Les Paul through a Marshall stack, later associated with the Fender Stratocaster "Blackie" — became a reference standard for blues-rock guitar sound, and his restrained phrasing inside the blues scale proved as influential as any of his more technical contemporaries. His connection to Jack Bruce is rooted in the Cream years, one of the most studied rhythm-section/guitarist relationships in rock history.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1963–1965 | The Yardbirds | [Wikipedia](https://en.wikipedia.org/wiki/The_Yardbirds) | — | Early blues-rock; departed over commercial direction. |
-| 1965–1966 | John Mayall's Bluesbreakers | [Wikipedia](https://en.wikipedia.org/wiki/John_Mayall_%26_the_Bluesbreakers) | — | *Beano* album; established the Les Paul/Marshall tone. |
-| 1966–1968 | Cream | [Wikipedia](https://en.wikipedia.org/wiki/Cream_(band)) | — | Power-trio with Jack Bruce and Ginger Baker. |
-| 1969 | Blind Faith | [Wikipedia](https://en.wikipedia.org/wiki/Blind_Faith) | — | Supergroup with Baker, Steve Winwood, Ric Grech. |
-| 1970 | Derek and the Dominos | [Wikipedia](https://en.wikipedia.org/wiki/Derek_and_the_Dominos) | — | *Layla and Other Assorted Love Songs*. |
-| 1970–present | Solo career | [Wikipedia](https://en.wikipedia.org/wiki/Eric_Clapton_discography) | — | Extensive solo work across many styles. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar (Cream era) | Gibson ES-335; Gibson Les Paul Standard ("Beano" burst) |
-| Guitar (primary, later) | Fender Stratocaster "Blackie" (composite of several '50s Strats) |
-| Amplification | Marshall JTM45 and plexi heads (Cream era); later Fender, Dumble |
-| Effects | Vox wah (Cream era); occasional Maestro Fuzz |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [White Room](https://open.spotify.com/search/White%20Room%20Cream) | Cream — wah-drenched lead playing against a non-standard chord progression; study entrance and phrase length. |
-| [Politician](https://open.spotify.com/search/Politician%20Cream) | Cream — slide guitar work; focus on how Clapton supports Bruce's bass-driven arrangement. |
-| [Spoonful](https://open.spotify.com/search/Spoonful%20Cream) | Extended Cream live improvisation; hear how Clapton builds a blues solo over many minutes without losing shape. |
-| [Crossroads](https://open.spotify.com/search/Crossroads%20Cream%20Wheels%20of%20Fire) | Cream live version — fast shuffle, economy of phrasing, and call-and-response with the rhythm section. |
-| [Strange Brew](https://open.spotify.com/search/Strange%20Brew%20Cream) | Cream — focus on tone and the use of Albert King-style bends in a pop-length format. |
-| [Badge](https://open.spotify.com/search/Badge%20Cream) | Cream — co-written with George Harrison; hear Clapton's melodic restraint on the guitar riff. |
-| [Layla](https://open.spotify.com/search/Layla%20Derek%20and%20the%20Dominos) | Derek and the Dominos — dual guitar with Duane Allman; compare approaches to the same blues vocabulary. |
-| [Bell Bottom Blues](https://open.spotify.com/search/Bell%20Bottom%20Blues%20Derek%20and%20the%20Dominos) | Derek and the Dominos — emotional melodic playing; study how tone and dynamics carry the feeling. |
-| [Cocaine](https://open.spotify.com/search/Cocaine%20Eric%20Clapton) | Solo era — riff-based playing; study how a single guitar figure sustains an entire arrangement. |
-| [Lay Down Sally](https://open.spotify.com/search/Lay%20Down%20Sally%20Eric%20Clapton) | Solo era — reggae-influenced groove playing; demonstrates Clapton's rhythmic range beyond blues. |
-
-## Robin Trower
-
-Robin Trower (born 1945) is an English guitarist who first came to prominence as a member of Procol Harum (1967–1971) before launching a celebrated solo career built on a deeply Hendrix-informed approach to blues-rock. His collaboration with Jack Bruce is documented most directly on the 1981 album *BLT* (Bruce, Lordan, Trower) and the subsequent *Truce* (1982), which placed Trower's sustained, wah-drenched guitar style alongside Bruce's powerful bass and voice in a power-trio context. Trower's playing is distinguished by a fat, singing Stratocaster tone, his use of the Uni-Vibe effect for slow-moving psychedelic textures, and a deeply expressive vibrato that draws from Hendrix's approach without simply imitating it. His mid-1970s solo run — particularly the albums *Bridge of Sighs* (1974) and *For Earth Below* (1975) — established him as one of the premier blues-rock guitarists of the decade. The Bruce connection gave Trower one of his most sympathetically matched rhythm-section partners, with Bruce's vocal and melodic bass complementing Trower's wall-of-sustained-tone guitar.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1967–1971 | Procol Harum | [Wikipedia](https://en.wikipedia.org/wiki/Procol_Harum) | — | Foundational organ-and-guitar British rock; departure led to solo career. |
-| 1973–present | Robin Trower Band | [Wikipedia](https://en.wikipedia.org/wiki/Robin_Trower) | — | Power-trio solo work; peak of blues-rock influence in 1974–1976. |
-| 1981 | BLT (Bruce, Lordan, Trower) | [Wikipedia](https://en.wikipedia.org/wiki/BLT_(album)) | — | Album with Jack Bruce and Bill Lordan. |
-| 1982 | Truce (with Jack Bruce) | [Wikipedia](https://en.wikipedia.org/wiki/Truce_(album)) | — | Second collaboration album with Bruce. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Stratocaster (primary; various vintage examples) |
-| Amplification | Marshall heads (vintage plexi and later models) |
-| Effects | Uni-Vibe (signature Hendrix-era modulation); wah pedal |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Bridge of Sighs](https://open.spotify.com/search/Bridge%20of%20Sighs%20Robin%20Trower) | Title track of his best-known album; slow blues with maximal Uni-Vibe depth and sustained Strat tone. |
-| [Too Rolling Stoned](https://open.spotify.com/search/Too%20Rolling%20Stoned%20Robin%20Trower) | Extended power-trio blues; study how Trower builds tension across a long improvisational form. |
-| [Day of the Eagle](https://open.spotify.com/search/Day%20of%20the%20Eagle%20Robin%20Trower) | Hard-driving opener to *Bridge of Sighs*; riff construction and aggressive picking attack. |
-| [Daydream](https://open.spotify.com/search/Daydream%20Robin%20Trower%20Bridge%20of%20Sighs) | Slow blues with James Dewar vocal; focus on how Trower's sustained notes fill space without clutter. |
-| [Little Bit of Sympathy](https://open.spotify.com/search/Little%20Bit%20of%20Sympathy%20Robin%20Trower) | Mid-tempo blues-rock; listen for the interaction between guitar melody and rhythm section. |
-| [Shame the Devil](https://open.spotify.com/search/Shame%20the%20Devil%20Robin%20Trower) | *For Earth Below* — heavy groove with distinctive wah and Uni-Vibe layering. |
-| [Gonna Be More Suspicious](https://open.spotify.com/search/Gonna%20Be%20More%20Suspicious%20Robin%20Trower) | From *Robin Trower Live!* — live power-trio context; study the full-band dynamics. |
-| [Take a Fast Train](https://open.spotify.com/search/Take%20a%20Fast%20Train%20Robin%20Trower) | BLT album with Jack Bruce — hear Trower's guitar alongside Bruce's bass and voice in direct collaboration. |
-| [What It Is](https://open.spotify.com/search/What%20It%20Is%20BLT%20Robin%20Trower%20Jack%20Bruce) | BLT — focus on how Trower's sustained, effected tone works within Bruce's compositional approach. |
-| [A Whiter Shade of Pale](https://open.spotify.com/search/A%20Whiter%20Shade%20of%20Pale%20Procol%20Harum) | Procol Harum — foundational context for Trower before his blues-rock solo work took shape. |
 
 ## Gary Moore
 

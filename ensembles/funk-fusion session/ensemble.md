@@ -9,8 +9,6 @@ This ensemble overlaps almost entirely with the "abstract fusion" lineup — Gar
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Gary Willis](#gary-willis) | Bass | [Wikipedia][gary-willis-wiki] | — |
-| [Scott Henderson](#scott-henderson) | Guitar | [Wikipedia][scott-henderson-wiki] | — |
-| [Wayne Krantz](#wayne-krantz) | Guitar | [Wikipedia][wayne-krantz-wiki] | — |
 | [Dean Brown](#dean-brown) | Guitar | [Wikipedia][dean-brown-wiki] | — |
 | [Kirk Covington](#kirk-covington) | Drums | [Wikipedia][kirk-covington-wiki] | — |
 | [Scott Kinsey](#scott-kinsey) | Keyboards | [Wikipedia][scott-kinsey-wiki] | — |
@@ -49,72 +47,6 @@ Gary Willis is a bassist associated with jazz fusion. His fingerstyle technique 
 | [Big Wave](https://open.spotify.com/search/Big%20Wave%20Tribal%20Tech) | Odd-meter funk — study how Willis maintains pocket inside metric complexity. |
 | [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Tribal%20Tech) | Up-tempo track — how the bass drives momentum in a fast-moving arrangement. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Tribal%20Tech) | A Herbie Hancock composition — how Willis reframes hard-bop vocabulary inside a fusion-funk context. |
-
-## Scott Henderson
-
-Scott Henderson is a guitarist associated with jazz fusion and blues. His rhythm guitar work in Tribal Tech's funk-heavier tracks reflects a deep pocket instinct alongside his more prominent improvisational side. His ability to simultaneously play a locked-in rhythm part and respond to the band's real-time shifts is a defining feature of the Tribal Tech sound.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1984–2012 | Tribal Tech | [Wikipedia][tribal-tech-wiki] | — | Co-led with Gary Willis. |
-| 1994–present | Scott Henderson Blues Band | — | — | Separate vehicle for blues-heavier playing. |
-| 1985 | Chick Corea Elektric Band | [Wikipedia][chick-corea-wiki] | — | Early sideman role. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Stratocaster |
-| Amplifier | Dumble Overdrive Special; Mesa/Boogie |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Chank](https://open.spotify.com/search/Chank%20Tribal%20Tech) | Listen for how Henderson's rhythm guitar creates the funk pocket — tight 16th-note patterns with exactly placed ghost strokes. |
-| [Thick](https://open.spotify.com/search/Thick%20Tribal%20Tech) | Study rhythmic sequencing: how lead phrasing mirrors the funk framework without becoming mechanical. |
-| [Face First](https://open.spotify.com/search/Face%20First%20Scott%20Henderson) | His blues-fusion solo album title track — the blues vocabulary is most explicit here. |
-| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20Tribal%20Tech) | Displaced groove — how his lead lines respond to Willis's rhythmically unpredictable bass. |
-| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20Tribal%20Tech) | A complex chord progression — listen for how he navigates the changes in a funk-fusion context. |
-| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20Tribal%20Tech) | Hard-driving track — focus on tone and pick attack at medium-high volume. |
-| [Tore Down](https://open.spotify.com/search/Tore%20Down%20Scott%20Henderson) | Solo blues record — raw funk-blues groove, simpler than Tribal Tech but equally committed. |
-| [Nomad](https://open.spotify.com/search/Nomad%20Tribal%20Tech) | A spacious, slower groove — study how solo development changes character at a different tempo. |
-| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Tribal%20Tech) | Up-tempo — study how he maintains focus and clarity of phrase at high velocity. |
-| [Big Wave](https://open.spotify.com/search/Big%20Wave%20Tribal%20Tech) | Odd-meter funk — listen for how he phrases across bar lines without losing the groove orientation. |
-
-## Wayne Krantz
-
-Wayne Krantz is a guitarist associated with jazz fusion and abstract groove. His right-hand rhythmic independence — playing separate rhythmic patterns against his own melodic lines — gives his funk-oriented playing a self-contained, layered character. His trio recordings with Tim Lefebvre and Keith Carlock document his approach in a live setting.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1980s–present | Wayne Krantz Trio | — | — | Long-running trio format. |
-| 1990s–2010s | Steely Dan live band | [Wikipedia][steely-dan-wiki] | — | Regular touring member. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Various Stratocaster-style guitars |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Two Drink Minimum](https://open.spotify.com/search/Two%20Drink%20Minimum%20Wayne%20Krantz) | Live trio — the most direct document of his groove approach in a funk-adjacent context. |
-| [Uncle Miltie](https://open.spotify.com/search/Uncle%20Miltie%20Wayne%20Krantz) | Study right-hand rhythmic independence: the guitar creates its own internal percussion. |
-| [Man in the Ground](https://open.spotify.com/search/Man%20in%20the%20Ground%20Wayne%20Krantz) | Abstract groove — watch how funk vocabulary is deconstructed without being abandoned. |
-| [Mexico](https://open.spotify.com/search/Mexico%20Wayne%20Krantz) | More accessible track — how groove principles apply inside a song-like structure. |
-| [Line by Line](https://open.spotify.com/search/Line%20by%20Line%20Wayne%20Krantz) | Trio interplay — bass and drums respond to each guitar phrase in real time. |
-| [Whippersnapper](https://open.spotify.com/search/Whippersnapper%20Wayne%20Krantz) | Funk-ish feel — how his abstract vocabulary operates inside a more grounded rhythmic framework. |
-| [That's What You Think](https://open.spotify.com/search/That%27s%20What%20You%20Think%20Wayne%20Krantz) | Study rhythmic superimposition — playing against the underlying pulse while maintaining connection to it. |
-| [Have You Heard](https://open.spotify.com/search/Have%20You%20Heard%20Wayne%20Krantz) | Long-form improvisation — study how a funk groove is sustained and developed across several minutes. |
-| [Pig Virus](https://open.spotify.com/search/Pig%20Virus%20Wayne%20Krantz) | Aggressive, dense texture — the most extreme example of his rhythm-independence approach. |
-| [Your Basic Wolf](https://open.spotify.com/search/Your%20Basic%20Wolf%20Wayne%20Krantz) | Lyrical and spacious — shows how the groove vocabulary changes in a more open context. |
 
 ## Dean Brown
 

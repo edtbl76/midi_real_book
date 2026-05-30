@@ -9,7 +9,6 @@ The New York session world of the late 1960s and 1970s produced a cohesive commu
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Chuck Rainey](#chuck-rainey) | Bass | [Wikipedia][chuck-rainey-wiki] | — |
-| [Cornell Dupree](#cornell-dupree) | Guitar | [Wikipedia][cornell-dupree-wiki] | — |
 | [Eric Gale](#eric-gale) | Guitar | [Wikipedia][eric-gale-wiki] | — |
 | [Bernard Purdie](#bernard-purdie) | Drums | [Wikipedia][bernard-purdie-wiki] | — |
 | [Richard Tee](#richard-tee) | Keyboards | [Wikipedia][richard-tee-wiki] | — |
@@ -51,41 +50,6 @@ Chuck Rainey is one of the most recorded session bassists in history, appearing 
 | [Ode to Billy Joe][ode-to-billy-joe-spotify] | Bobbie Gentry session (1967); Rainey's bass on one of the decade's most successful records. |
 | [Pusherman][pusherman-spotify] | Curtis Mayfield; Rainey in a Chicago soul-funk context showing his versatility outside the Atlantic world. |
 | [Deacon Blues][deacon-blues-spotify] | Steely Dan *Aja*; Rainey's slow, melodic bass under one of the album's most jazz-influenced tracks. |
-
-## Cornell Dupree
-
-Cornell Dupree was a guitarist from Fort Worth, Texas who became one of New York's premier session musicians in the late 1960s and 1970s. He worked extensively with King Curtis, Aretha Franklin, and countless other artists, and was a founding member of Stuff, the jazz-funk band. Dupree's playing is rooted in blues and gospel, expressed through economical chord punctuation, bluesy fills, and an unshakeable sense of time that made him the session guitarist of choice for soul and R&B dates.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1965–1971 | King Curtis band | [Wikipedia][king-curtis-wiki] | — | Core guitarist for King Curtis's touring and session work |
-| 1967–1975 | Aretha Franklin sessions | [Wikipedia][aretha-franklin-wiki] | — | Atlantic Records house band guitar |
-| 1976–1986 | Stuff | [Wikipedia][stuff-wiki] | — | Jazz-funk group; co-founding member |
-| Various | Solo / session work | — | — | Hundreds of session credits through the 1970s and 1980s |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson ES-335; Gibson ES-355; various semi-hollow and hollow-body guitars |
-| Amplifier | Fender Bassman; various vintage tube amplifiers |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Memphis Soul Stew][memphis-soul-stew-cd-spotify] | King Curtis (1967) — Dupree's guitar introducing the tune; his soul-blues vocabulary in a direct groove context. |
-| [Rock Steady][rock-steady-cd-spotify] | Aretha Franklin; Dupree's rhythm guitar in the Atlantic soul-funk arrangement. |
-| [Until You Come Back to Me][until-you-come-back-cd-spotify] | Aretha; Dupree playing sparse, complementary chords around the vocal melody. |
-| [Respect][respect-spotify] | Aretha Franklin; Dupree contributing to one of the most iconic soul recordings in history. |
-| [A Natural Woman][natural-woman-spotify] | Aretha; Dupree's rhythm guitar in a slow-soul context, demonstrating his restraint as a session player. |
-| [Stormy Monday][stormy-monday-stuff-spotify] | Stuff; Dupree's blues-guitar identity in the jazz-funk band's live context. |
-| [Slip Away][slip-away-spotify] | Stuff; Dupree as a jazz-funk guitarist navigating a groove-oriented horn band setting. |
-| [I'm Your Speed][im-your-speed-spotify] | Aretha Franklin session track; Dupree's rhythm guitar in an uptempo soul context. |
-| [Chain of Fools][chain-of-fools-spotify] | Aretha Franklin (1967) — Dupree's guitar riff is central to the track's soul-funk drive. |
-| [Think][think-spotify] | Aretha Franklin; Dupree's gospel-blues guitar in one of her most energetic recordings. |
 
 ## Eric Gale
 

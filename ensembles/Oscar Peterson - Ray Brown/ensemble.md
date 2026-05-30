@@ -11,7 +11,6 @@ The Oscar Peterson / Ray Brown partnership, active from 1951 to 1966, represents
 | [Oscar Peterson](#oscar-peterson) | Piano | [Wikipedia][oscar-peterson-wiki] | — |
 | [Ray Brown](#ray-brown) | Bass | [Wikipedia][ray-brown-wiki] | — |
 | [Joe Pass](#joe-pass) | Guitar | [Wikipedia][joe-pass-wiki] | — |
-| [Barney Kessel](#barney-kessel) | Guitar | [Wikipedia][barney-kessel-wiki] | — |
 | [Buddy Rich](#buddy-rich) | Drums | [Wikipedia][buddy-rich-wiki] | — |
 | [Dizzy Gillespie](#dizzy-gillespie) | Trumpet | [Wikipedia][dizzy-gillespie-wiki] | — |
 
@@ -140,48 +139,6 @@ Master of chord-melody and unaccompanied solo jazz guitar. Pass could imply a fu
 | [Sweet Georgia Brown](https://open.spotify.com/search/Sweet%20Georgia%20Brown%20Joe%20Pass) | An up-tempo test; Pass's right-hand articulation at fast tempos is exceptionally clean — each note has a defined attack without sacrificing swing. |
 | [Stella by Starlight](https://open.spotify.com/search/Stella%20by%20Starlight%20Joe%20Pass) | A standard he returned to repeatedly; compare his chord voicings on the dramatic chromatic sequence in the A-section to a piano player's approach — the guitar requires different inversions. |
 | [Summertime](https://open.spotify.com/search/Summertime%20Joe%20Pass%20solo) | Unaccompanied Gershwin; Pass uses a slow, searching rubato and plenty of silence — a study in how much he could express with minimal notes and maximum tone quality. |
-
----
-
-## Barney Kessel
-
-A swing and bebop guitarist with a bluesy, direct sound and formidable swing feel. Kessel was a first-call West Coast session guitarist and a JATP regular, and his trio recordings with Ray Brown and Shelly Manne — the *Poll Winners* series — are among the most joyful small-group jazz recordings of the era.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1944 | Artie Shaw Orchestra | — | — | Early big-band work; one of the few Black musicians in Shaw's band (Kessel was white; Shaw was desegregated). |
-| 1945 | *Jammin' the Blues* (film short) | [Wikipedia][barney-kessel-wiki] | — | Appeared in the celebrated jazz film short directed by Gjon Mili. |
-| 1947–1952 | Oscar Moore / various JATP sessions | [Wikipedia][jatp-wiki] | — | West Coast session work; established as a top jazz guitarist. |
-| 1952–1953 | Oscar Peterson Trio (guitar chair) | [Wikipedia][oscar-peterson-wiki] | — | Briefly held the guitar chair before Herb Ellis replaced him. |
-| 1955–1956 | *Easy Like* / *To Swing or Not to Swing* (Contemporary) | [Wikipedia][barney-kessel-wiki] | — | First Contemporary Records albums; showcased his blues-drenched bop style. |
-| 1957–1960 | The Poll Winners (with Ray Brown, Shelly Manne) | [Wikipedia][barney-kessel-wiki] | — | Three albums for Contemporary; guitar-bass-drums trio playing standards. |
-| 1961–1969 | Studio sessions / own albums (Contemporary, Emerald) | [Wikipedia][barney-kessel-wiki] | — | Heavy studio schedule; own albums include *Workin' Out* and *Feeling Free*. |
-| 1969–1992 | Teaching, gigging, Great Guitars trio | [Wikipedia][barney-kessel-wiki] | — | Formed Great Guitars with Charlie Byrd and Herb Ellis; suffered stroke in 1992. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson ES-350 (primary instrument through much of his career) |
-| Guitar | Gibson ES-175 (used on many Contemporary Records sessions) |
-| Amplifier | Gibson GA-400 / various small combo amps for studio work |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Easy Like](https://open.spotify.com/search/Easy%20Like%20Barney%20Kessel) | Title track from his 1955 Contemporary debut; his relaxed blues phrasing and big-band swing feel are immediately apparent — listen to his vibrato and how he bends into chord tones. |
-| [Poll Winners](https://open.spotify.com/search/Poll%20Winners%20Barney%20Kessel%20Ray%20Brown%20Shelly%20Manne) | From the 1957 album of the same name with Ray Brown and Shelly Manne; the guitar-bass-drums format forces Kessel to carry harmonic weight alone — hear how he voices chords to cover the missing piano. |
-| [Let's Cook!](https://open.spotify.com/search/Let%27s%20Cook%20Barney%20Kessel) | From his 1957 Contemporary album; an up-tempo burner that shows his single-line bebop fluency — cleaner and more inside than many players of the era. |
-| [Speaks Low](https://open.spotify.com/search/Speaks%20Low%20Barney%20Kessel%20Poll%20Winners) | From *Poll Winners Ride Again* (1958) with Brown and Manne; a Kurt Weill ballad where Kessel's chord-melody is more lyrical and less ornate than Joe Pass's approach — compare the two styles. |
-| [Workin' Out](https://open.spotify.com/search/Workin%27%20Out%20Barney%20Kessel) | Title track of his 1961 album; mid-tempo blues with Kessel at his most direct — the tone is warm and the blues language is deeply idiomatic without being flashy. |
-| [Some Like It Hot](https://open.spotify.com/search/Some%20Like%20It%20Hot%20Barney%20Kessel) | From the 1959 film-tie-in album; a cooking up-tempo with a Dixieland-flavored arrangement where Kessel's swing feel in the ensemble context is the main lesson. |
-| [Straight Ahead](https://open.spotify.com/search/Straight%20Ahead%20Barney%20Kessel) | Title track of his 1963 album; bebop at medium-up tempo where his phrase construction and use of chromatic approach notes can be studied closely. |
-| [Feeling Free](https://open.spotify.com/search/Feeling%20Free%20Barney%20Kessel) | From the 1969 album; a later recording that shows his adaptability — slightly more open harmonically while retaining the core swing vocabulary. |
-| [Poll Winners Three!](https://open.spotify.com/search/Poll%20Winners%20Three%20Barney%20Kessel%20Ray%20Brown) | From the third *Poll Winners* album (1959) with Brown and Manne; by this recording the three players have a shared language — listen to how Brown and Kessel imply each other's lines. |
-| [Barney Plays Kessel](https://open.spotify.com/search/Barney%20Plays%20Kessel%20Barney%20Kessel) | From his *Barney Kessel Plays Standards* album; an original composition that reveals his melodic voice without the structure of a standard — chord movement and phrasing are entirely his own. |
 
 ---
 

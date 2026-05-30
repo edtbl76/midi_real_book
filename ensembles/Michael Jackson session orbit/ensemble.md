@@ -9,7 +9,6 @@ This ensemble orbits the Quincy Jones–produced Michael Jackson sessions and th
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Bernard Edwards](#bernard-edwards) | Bass | [Wikipedia][bernard-edwards-wiki] | — |
-| [Nile Rodgers](#nile-rodgers) | Guitar | [Wikipedia][nile-rodgers-wiki] | — |
 | [David Williams](#david-williams) | Guitar | [Wikipedia][david-williams-wiki] | — |
 | [Tony Thompson](#tony-thompson) | Drums | [Wikipedia][tony-thompson-wiki] | — |
 
@@ -47,43 +46,6 @@ Bernard Edwards (1952–1996) co-founded Chic with Nile Rodgers and became one o
 | [I'm Coming Out][im-coming-out-spotify] | A master class in bass line economy: one idea, stated clearly, repeated with small variations. |
 | [My Forbidden Lover][my-forbidden-lover-spotify] | Hear Edwards push the tempo with syncopated 16th-note runs while keeping the downbeat immovable. |
 | [Soup for One][soup-for-one-spotify] | Later Chic — a more layered arrangement, but Edwards's bass remains the load-bearing element. |
-
-## Nile Rodgers
-
-Nile Rodgers (b. 1952) co-founded Chic and became the defining rhythm guitarist of the late 1970s and 1980s. His technique — clean, syncopated, predominantly muted chord stabs — is so precise it functions more like percussion than harmony. Rodgers produced Diana Ross's "Diana" (1980), David Bowie's "Let's Dance" (1983), and Madonna's "Like a Virgin" (1984), shaping the sound of the decade across genres. His primary tool is a 1959 Fender Stratocaster he calls "The Hitmaker."
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1976–1983 | Chic | [Wikipedia][chic-wiki] | — | Co-founded with Bernard Edwards; primary vehicle for his rhythm guitar approach. |
-| 1979 | Sister Sledge | [Wikipedia][sister-sledge-wiki] | — | Co-produced and played guitar on "We Are Family" and related sessions. |
-| 1980 | Diana Ross | [Wikipedia][diana-ross-wiki] | — | Co-produced the "Diana" album; guitar on "I'm Coming Out" and "Upside Down." |
-| 1983 | David Bowie | [Wikipedia][david-bowie-wiki] | — | Produced and played guitar on "Let's Dance" and "China Girl." |
-| 1984 | Madonna | [Wikipedia][madonna-wiki] | — | Produced and played guitar on "Like a Virgin." |
-| 1985 | Duran Duran | [Wikipedia][duran-duran-wiki] | — | Produced and played guitar on "Notorious." |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | 1959 Fender Stratocaster ("The Hitmaker") — used on virtually every major recording |
-| Amplifier | Various studio amps; live use of Fender-style clean rigs to maintain articulation |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Everybody Dance][everybody-dance-spotify] | Rodgers's rhythmic chops in their earliest commercial form — every muted 16th note counts. |
-| [Le Freak][le-freak-spotify] | The riff is a lesson in how a single repeated chord voicing, played with perfect right-hand timing, creates irresistible momentum. |
-| [Good Times][good-times-spotify] | Hear how Rodgers comps around Edwards's bass line without ever competing with it. |
-| [He's the Greatest Dancer][hes-the-greatest-dancer-spotify] | Sister Sledge session — his guitar punctuations answer the vocal hooks like a call-and-response horn section. |
-| [We Are Family][we-are-family-spotify] | Large ensemble arrangement; Rodgers's guitar holds the center while horns and strings fill the space. |
-| [I'm Coming Out][im-coming-out-spotify] | The guitar stabs are so precisely syncopated they define the feel more than the drums do. |
-| [Upside Down][upside-down-spotify] | Diana Ross session — light touch, melodic fills, and impeccable control of attack and release. |
-| [Let's Dance][lets-dance-spotify] | Produced and played guitar; the clean Strat tone here became a blueprint for 1980s pop production. |
-| [Like a Virgin][like-a-virgin-spotify] | Rodgers shapes a guitar part that is invisible in the best sense — you feel it without noticing it. |
-| [Notorious][notorious-spotify] | Duran Duran session — hear him apply Chic rhythmic architecture to a darker, new wave harmonic palette. |
 
 ## David Williams
 

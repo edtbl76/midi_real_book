@@ -10,7 +10,6 @@ Charles Mingus led some of the most compositionally ambitious small groups in ja
 |---|---|---|---|
 | [Charles Mingus](#charles-mingus) | Bass | [Wikipedia][charles-mingus-wiki] | — |
 | [Jim Hall](#jim-hall) | Guitar | [Wikipedia][jim-hall-wiki] | — |
-| [Kenny Burrell](#kenny-burrell) | Guitar | [Wikipedia][kenny-burrell-wiki] | — |
 | [Max Roach](#max-roach) | Drums | [Wikipedia][max-roach-wiki] | — |
 | [Jaki Byard](#jaki-byard) | Piano | [Wikipedia][jaki-byard-wiki] | — |
 | [Eric Dolphy](#eric-dolphy) | Alto Sax / Bass Clarinet / Flute | [Wikipedia][eric-dolphy-wiki] | — |
@@ -92,43 +91,6 @@ Jim Hall was a jazz guitarist celebrated for his lyrical restraint, harmonic int
 | [Skylark][hall-skylark-spotify] | From *Concierto* (1975); Hall's tone and phrase arc against orchestra reveal the warmth he gets from the ES-175's rounded midrange. |
 | [Careful][hall-careful-spotify] | A Hall original from *Concierto*; demonstrates his compositional voice — understated, harmonically rich, and built around melodic development rather than fireworks. |
 | [Two's Blues][hall-twos-blues-spotify] | From *Jim Hall & Ron Carter* (1972); Hall's blues vocabulary stripped to its essentials over a spare bass accompaniment. |
-
-## Kenny Burrell
-
-Kenny Burrell was a Detroit-born guitarist whose playing synthesized blues, bebop, and hard bop into an immediately recognizable sound rooted in the Blue Note Records aesthetic of the late 1950s and 1960s. He was not a Mingus band regular but is an orbit player in the same hard-bop world, frequently recording for Blue Note alongside Mingus alumni and collaborators. His most celebrated album, *Midnight Blue* (1963), remains a touchstone of blues-inflected jazz guitar.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1951–1955 | Tommy Flanagan, Detroit scene | — | — | Developed his voice in Detroit's fertile bebop community. |
-| 1956 | Kenny Burrell (Blue Note debut) | [Wikipedia][kenny-burrell-wiki] | — | *All Night Long* with Donald Byrd — establishes Blue Note relationship. |
-| 1958 | Kenny Burrell | [Wikipedia][kenny-burrell-wiki] | — | *Blue Lights Vol. 1 & 2* with Tina Brooks, Art Blakey sidemen. |
-| 1960 | Kenny Burrell | [Wikipedia][kenny-burrell-wiki] | — | *Saturday Night Blues* — deepening blues-jazz synthesis. |
-| 1963 | Kenny Burrell | [Wikipedia][kenny-burrell-wiki] | — | *Midnight Blue* — his most celebrated album; became a Blue Note classic. |
-| 1965 | Kenny Burrell with Gil Evans | [Wikipedia][gil-evans-wiki] | — | *Guitar Forms* — orchestral settings arranged by Gil Evans. |
-| 1970s–present | Kenny Burrell (educator/leader) | [Wikipedia][kenny-burrell-wiki] | — | Longtime faculty at UCLA; continued recording and performing. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson ES-335 (primary recording guitar); Gibson L-5 (live and studio work) |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Chitlins Con Carne][burrell-chitlins-spotify] | From *Midnight Blue* (1963); Burrell's shuffle-blues guitar over a slow, greasy groove is one of the most immediately satisfying performances in jazz guitar — pure blues authority. |
-| [Midnight Blue][burrell-midnight-blue-spotify] | Title track of his 1963 Blue Note album; slow blues at its most refined, with Burrell's warm ES-335 tone and economy of phrase doing all the heavy lifting. |
-| [Moon and Sand][burrell-moon-and-sand-spotify] | Also from *Midnight Blue*; Burrell's ballad playing is lyrical and unforced — listen for how he colors chords rather than fills space. |
-| [Mule][burrell-mule-spotify] | Hard-swinging *Midnight Blue* track; Burrell's bebop vocabulary over a driving groove shows the bop foundation under his bluesy surface. |
-| [K.B. Blues][burrell-kb-blues-spotify] | From *Blue Lights* (1958); an early glimpse of his blues-jazz synthesis alongside Art Blakey sidemen in a small-group Blue Note setting. |
-| [Weaver of Dreams][burrell-weaver-spotify] | From *Guitar Forms* (1965) with Gil Evans; Burrell's guitar navigates a lush orchestral arrangement — shows his ability to hold center against complex harmonic backdrops. |
-| [Lotus Land][burrell-lotus-land-spotify] | Another *Guitar Forms* highlight; Gil Evans's orchestration frames Burrell's melody statement with impressionistic color, a rare meeting of guitar and orchestral jazz. |
-| [Ode to 52nd Street][burrell-ode-spotify] | From *Guitar Forms*; a bebop tribute filtered through Evans's arranging — Burrell phrases with the agility of the 52nd Street era over unexpected orchestral textures. |
-| [All Night Long][burrell-all-night-spotify] | From his 1956 Blue Note debut with Donald Byrd; Burrell's early confidence in a hard-bop quintet setting, already sounding like himself. |
-| [Saturday Night Blues][burrell-saturday-spotify] | From the 1960 album of the same name; a straight-ahead blues performance that captures the directness and swing that made Burrell a Blue Note staple. |
 
 ## Max Roach
 

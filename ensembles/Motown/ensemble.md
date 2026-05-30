@@ -10,7 +10,6 @@ The Funk Brothers were the uncredited Detroit session musicians who played on vi
 |---|---|---|---|
 | [James Jamerson](#james-jamerson) | Bass | [Wikipedia][james-jamerson-wiki] | — |
 | [Dennis Coffey](#dennis-coffey) | Guitar | [Wikipedia][dennis-coffey-wiki] | — |
-| [Steve Cropper](#steve-cropper) | Guitar | [Wikipedia][steve-cropper-wiki] | — |
 | [Benny Benjamin](#benny-benjamin) | Drums | [Wikipedia][benny-benjamin-wiki] | — |
 | [Earl Van Dyke](#earl-van-dyke) | Keyboards | [Wikipedia][earl-van-dyke-wiki] | — |
 | [Jack Ashford](#jack-ashford) | Percussion | [Wikipedia][jack-ashford-wiki] | — |
@@ -80,40 +79,6 @@ Dennis Coffey (b. 1940) was a Detroit guitarist who joined the Funk Brothers in 
 | [Ain't No Mountain High Enough](https://open.spotify.com/search/Ain%27t%20No%20Mountain%20High%20Enough%20Diana%20Ross) | The 1970 Diana Ross version; Coffey's guitar work in this orchestrated arrangement is subtle but essential, bridging strings and rhythm section. |
 | [Inner City Blues (Make Me Wanna Holler)](https://open.spotify.com/search/Inner%20City%20Blues%20Marvin%20Gaye) | A slow, menacing groove where the guitar stays sparse — each chord hit lands like a punctuation mark against Gaye's despairing lyric. |
 | [Mercy Mercy Me (The Ecology)](https://open.spotify.com/search/Mercy%20Mercy%20Me%20Marvin%20Gaye) | The guitar here is almost entirely atmospheric, holding sustained chords beneath the strings; a lesson in supportive restraint. |
-
-## Steve Cropper
-
-Steve Cropper (b. 1941) is the guitarist and co-writer behind the Stax Records house-band sound. A co-founder of the Mar-Keys and core member of Booker T. & the MGs, Cropper defined the Stax approach to rhythm guitar: economical, precise, and deeply rooted in the call-and-response tradition of gospel and blues. He co-wrote "(Sittin' On) The Dock of the Bay" with Otis Redding, "In the Midnight Hour" with Wilson Pickett, and "Knock on Wood" with Eddie Floyd, making him one of the most consequential composer-guitarists in soul music history.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1962–1971 | Booker T. & the MGs | [Wikipedia][booker-t-mgs-wiki] | — | Core guitarist for the Stax Records house band; played on virtually every major Stax release. |
-| 1960s | Wilson Pickett | [Wikipedia][steve-cropper-wiki] | — | Co-wrote and performed on "In the Midnight Hour" and "634-5789." |
-| 1960s | Otis Redding | [Wikipedia][steve-cropper-wiki] | — | Co-wrote "(Sittin' On) The Dock of the Bay" and played on Redding's full Stax catalog. |
-| 1970s–present | Session work and solo career | [Wikipedia][steve-cropper-wiki] | — | Continued session work; Blues Brothers member; extensive production and guest appearances. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Telecaster (primary), Fender amplifiers; also used a Gibson ES-335 on select sessions |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Green Onions](https://open.spotify.com/search/Green%20Onions%20Booker%20T%20MGs) | Cropper's guitar is almost entirely chordal, comping against Booker T.'s organ with perfectly placed staccato stabs — a masterclass in leaving space. |
-| [In the Midnight Hour](https://open.spotify.com/search/In%20the%20Midnight%20Hour%20Wilson%20Pickett) | He and Pickett co-wrote this, and the guitar part embodies the song: the delay on beat two that creates the "midnight hour" feel was Cropper's idea, worked out in the studio. |
-| [(Sittin' On) The Dock of the Bay](https://open.spotify.com/search/Sittin%20On%20The%20Dock%20of%20the%20Bay%20Otis%20Redding) | Cropper's restrained fingerpicking under Redding's vocal is elegiac — he co-wrote the song and the guitar part serves the lyric rather than the genre. |
-| [Knock on Wood](https://open.spotify.com/search/Knock%20on%20Wood%20Eddie%20Floyd) | The choppy two-bar riff Cropper co-wrote with Eddie Floyd became one of the most-sampled figures in soul — listen for how it interlocks with the horns. |
-| [Soul Man](https://open.spotify.com/search/Soul%20Man%20Sam%20Dave) | The opening guitar line is one of the most recognized in R&B; Cropper's rhythm work behind the verses shows his gift for understatement after a dramatic intro. |
-| [Hold On I'm Comin'](https://open.spotify.com/search/Hold%20On%20I%27m%20Comin%20Sam%20Dave) | Cropper's guitar locks into the horn line on the chorus — it's almost percussive, with single-note jabs that accent the brass accents. |
-| [Respect](https://open.spotify.com/search/Respect%20Otis%20Redding) | The original Otis Redding version (1965) — Cropper's guitar drives the track with a relentless rhythmic chop that Aretha Franklin's later cover preserved. |
-| [634-5789](https://open.spotify.com/search/634-5789%20Wilson%20Pickett) | A Wilson Pickett duet track where Cropper's sparse chicken-scratch picking defines the pocket against Steve Cropper's own bassline instincts. |
-| [Time Is Tight](https://open.spotify.com/search/Time%20Is%20Tight%20Booker%20T%20MGs) | A Booker T. & the MGs instrumental that shows Cropper's melodic side — he takes a lyrical solo over a groove that is among the tightest the band recorded. |
-| [Hip Hug-Her](https://open.spotify.com/search/Hip%20Hug-Her%20Booker%20T%20MGs) | The interplay between Cropper's guitar and Booker T.'s organ here is the Stax rhythmic conversation at its most refined. |
 
 ## Benny Benjamin
 

@@ -9,8 +9,6 @@ This ensemble centers on the Texas blues-rock tradition and the Austin guitar sc
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Kyle Brock](#kyle-brock) | Bass | [Wikipedia][kyle-brock-wiki] | — |
-| [Stevie Ray Vaughan](#stevie-ray-vaughan) | Guitar | [Wikipedia][stevie-ray-vaughan-wiki] | — |
-| [Eric Johnson](#eric-johnson) | Guitar | [Wikipedia][eric-johnson-wiki] | — |
 | [Blues Saraceno](#blues-saraceno) | Guitar | [Wikipedia][blues-saraceno-wiki] | — |
 | [Chris Layton](#chris-layton) | Drums | [Wikipedia][chris-layton-wiki] | — |
 | [Reese Wynans](#reese-wynans) | Keyboards | [Wikipedia][reese-wynans-wiki] | — |
@@ -48,77 +46,6 @@ Kyle Brock is a bassist associated with blues-rock. He was one of the founding m
 | [Pray for Tomorrow](https://open.spotify.com/search/Pray%20for%20Tomorrow%20Arc%20Angels) | Hear the bass driving a slow, atmospheric blues track from behind — minimal but essential. |
 | [Very Last Time](https://open.spotify.com/search/Very%20Last%20Time%20Arc%20Angels) | Study bass fills during turnarounds — how much space is used, how much is left open. |
 | [Living in a Dream (Live)](https://open.spotify.com/search/Living%20in%20a%20Dream%20Arc%20Angels%20live) | A live version — listen for how the groove changes feel in a concert setting. |
-
-## Stevie Ray Vaughan
-
-Stevie Ray Vaughan is a guitarist associated with Texas blues and blues-rock. He used extremely heavy strings (.013s tuned to Eb) and a physically aggressive thumb-wraparound fretting technique to generate a sound of unusual power and sustain. His 1983 debut *Texas Flood* brought Texas blues back to mainstream attention, and his five studio albums remain defining documents of the genre. He died in a helicopter crash in 1990.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1978–1983 | Various Austin bands; Triple Threat Revue | — | — | Austin development years. |
-| 1982 | David Bowie | [Wikipedia][david-bowie-wiki] | — | Played on *Let's Dance*. |
-| 1983–1990 | Double Trouble | [Wikipedia][double-trouble-wiki] | — | Five studio albums; *Texas Flood* through *In Step*. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | 1963 Fender Stratocaster ("Number One" — composite of several Strats) |
-| Strings | GHS .013-.058 tuned to Eb |
-| Amplifier | Dumble Overdrive Special; Vibroverb; Super Reverb |
-| Effects | Ibanez TS808 Tube Screamer; Vox wah |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Stevie%20Ray%20Vaughan) | A slow blues at the core of his catalog — focus on vibrato width, string-bending attack, and note sustain. |
-| [Pride and Joy](https://open.spotify.com/search/Pride%20and%20Joy%20Stevie%20Ray%20Vaughan) | Shuffling Chicago-blues groove — listen for how rhythm guitar and lead guitar occupy the same part simultaneously. |
-| [Couldn't Stand the Weather](https://open.spotify.com/search/Couldn%27t%20Stand%20the%20Weather%20Stevie%20Ray%20Vaughan) | Aggressive, high-energy track — study attack intensity and how he sustains energy across a long solo. |
-| [Voodoo Child (Slight Return)](https://open.spotify.com/search/Voodoo%20Child%20Stevie%20Ray%20Vaughan) | Hendrix cover — hear how he transforms the original while maintaining his own vocabulary. |
-| [Lenny](https://open.spotify.com/search/Lenny%20Stevie%20Ray%20Vaughan) | Instrumental ballad — focus on chord-melody playing and how the guitar tells the complete harmonic story alone. |
-| [Riviera Paradise](https://open.spotify.com/search/Riviera%20Paradise%20Stevie%20Ray%20Vaughan) | Long-form jazz-inflected instrumental from *In Step* — hear how his vocabulary extends beyond strict blues. |
-| [The House Is Rockin'](https://open.spotify.com/search/The%20House%20Is%20Rockin%27%20Stevie%20Ray%20Vaughan) | Fast boogie — study right-hand energy and rhythmic drive. |
-| [Love Struck Baby](https://open.spotify.com/search/Love%20Struck%20Baby%20Stevie%20Ray%20Vaughan) | Rockabilly-influenced — listen for how he navigates a different rhythmic vocabulary from his standard blues feel. |
-| [Scuttle Buttin'](https://open.spotify.com/search/Scuttle%20Buttin%27%20Stevie%20Ray%20Vaughan) | High-tempo instrumental opener from *Couldn't Stand the Weather* — right-hand precision under extreme speed. |
-| [Life Without You](https://open.spotify.com/search/Life%20Without%20You%20Stevie%20Ray%20Vaughan) | Slow blues ballad — one of his most emotionally direct performances. |
-
-## Eric Johnson
-
-Eric Johnson is a guitarist associated with rock, fusion-influenced rock, and blues. His right-hand picking precision and attention to tone (he is famously meticulous about battery brands and cable quality) produce a "violin tone" that is distinctive across any speed or genre. His 1990 album *Ah Via Musicom* produced "Cliffs of Dover," which remains one of the best-known American guitar-instrumental recordings.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1970s | Electromagnets | — | — | Austin fusion band. |
-| 1986 | *Tones* (solo debut) | — | — | First proper solo album. |
-| 1990 | *Ah Via Musicom* | — | — | Grammy-winning album; "Cliffs of Dover." |
-| 2005 | G3 tours | — | — | Toured alongside Satriani and Vai. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | 1954 Fender Stratocaster; Gibson ES-335 |
-| Amplifier | Marshall 100W; Fender Vibroverb; various vintage combos |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Eric%20Johnson) | The definitive Eric Johnson track — listen for the "violin tone" and how clean pentatonic lines flow at high tempo. |
-| [Trademark](https://open.spotify.com/search/Trademark%20Eric%20Johnson) | From *Ah Via Musicom* — study how he alternates between fast scalar runs and spacious melodic phrasing. |
-| [Ah Via Musicom](https://open.spotify.com/search/Ah%20Via%20Musicom%20Eric%20Johnson) | Title track — heavy riff-based structure with fusion-influenced lead playing above it. |
-| [Righteous](https://open.spotify.com/search/Righteous%20Eric%20Johnson) | Slow blues groove — listen for how his tone changes character in a legato, sustain-heavy context. |
-| [Venus Isle](https://open.spotify.com/search/Venus%20Isle%20Eric%20Johnson) | From the 1996 album — long-form instrumental showing his compositional approach. |
-| [Zap](https://open.spotify.com/search/Zap%20Eric%20Johnson) | Aggressive, fast track — study right-hand picking articulation at high velocity. |
-| [Song for George](https://open.spotify.com/search/Song%20for%20George%20Eric%20Johnson) | A tribute to George Harrison — hearing his restrained, lyrical side. |
-| [Nothing Can Keep Me from You](https://open.spotify.com/search/Nothing%20Can%20Keep%20Me%20from%20You%20Eric%20Johnson) | A vocal track showing the pop-song side of his writing alongside guitar work. |
-| [Desert Rose](https://open.spotify.com/search/Desert%20Rose%20Eric%20Johnson) | From *Tones* — early recording showing the fusion/jazz-rock roots of his vocabulary. |
-| [East Wes](https://open.spotify.com/search/East%20Wes%20Eric%20Johnson) | A tribute to Wes Montgomery — hear how his jazz vocabulary operates when explicitly stated. |
 
 ## Blues Saraceno
 

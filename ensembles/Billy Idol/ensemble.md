@@ -9,7 +9,6 @@ Billy Idol is a former Generation X punk vocalist who went solo in 1981 and beca
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Michael Anthony](#michael-anthony) | Bass | [Wikipedia][michael-anthony-wiki] | — |
-| [Eddie Van Halen](#eddie-van-halen) | Guitar | [Wikipedia][eddie-van-halen-wiki] | — |
 | [Steve Stevens](#steve-stevens) | Guitar | [Wikipedia][steve-stevens-wiki] | — |
 | [Alex Van Halen](#alex-van-halen) | Drums | [Wikipedia][alex-van-halen-wiki] | — |
 
@@ -47,40 +46,6 @@ Michael Anthony is the bassist of Van Halen, one of the dominant hard rock acts 
 | [Jump](https://open.spotify.com/search/Jump%20Van%20Halen) | Synth-driven pop-rock crossover; notice how the bass holds the rock weight even as the arrangement goes keyboard-forward. |
 | [Why Can't This Be Love](https://open.spotify.com/search/Why%20Can%27t%20This%20Be%20Love%20Van%20Halen) | Hagar-era groove — compare Anthony's pocket feel here to the Roth-era recordings. |
 | [Dreams](https://open.spotify.com/search/Dreams%20Van%20Halen) | Melodic, anthemic; listen for how the bass breathes and supports the vocal line without crowding the arrangement. |
-
-## Eddie Van Halen
-
-Eddie Van Halen is one of the most influential rock guitarists of the twentieth century, best known as the lead guitarist and primary songwriter for Van Halen. His development of two-handed tapping into a full melodic vocabulary — not merely a trick — redefined what was possible on the electric guitar and set a generation of hard rock players scrambling to catch up. His tone was built from self-modified and self-built instruments, giving him a sound that was immediately recognizable: harmonically dense, dynamically alive, and always rhythmically purposeful even at extreme speed. Van Halen's commercial and artistic peak in the early-to-mid 1980s placed him squarely in the same MTV-era hard rock orbit as Billy Idol, and his influence on Steve Stevens and the entire hard rock guitar world of that moment is direct and documented. Though not a member of Idol's band, his work defines the cultural and sonic territory this ensemble inhabits.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1974–1985 | Van Halen (David Lee Roth era) | [Wikipedia][eddie-van-halen-wiki] | — | Van Halen I through 1984 — the recordings that rewrote hard rock guitar. |
-| 1983 | Michael Jackson | [Wikipedia][eddie-van-halen-wiki] | — | Guitar solo on "Beat It" (Thriller). |
-| 1985–2004 | Van Halen (Sammy Hagar / Gary Cherone eras) | [Wikipedia][eddie-van-halen-wiki] | — | 5150 through Van Halen III and beyond. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Custom "Frankenstrat" — homemade Stratocaster body/neck combination with a humbucker pickup, finished in red/white/black stripes; various other self-built and self-modified instruments |
-| Amplification | Marshall amplifiers; Peavey 5150 (co-designed with Peavey, named for the Van Halen album) |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Eruption](https://open.spotify.com/search/Eruption%20Van%20Halen) | The solo that changed rock guitar; study the two-hand tapping technique, the whammy bar integration, and the rhythmic structure of the improvisation. |
-| [Ain't Talkin' 'bout Love](https://open.spotify.com/search/Ain%27t%20Talkin%20%27bout%20Love%20Van%20Halen) | Focus on how a repeating guitar figure creates tension and momentum — economy and riff construction. |
-| [Panama](https://open.spotify.com/search/Panama%20Van%20Halen) | Track the interplay between rhythm guitar power and the lead fills; the balance between support and statement. |
-| [Hot for Teacher](https://open.spotify.com/search/Hot%20for%20Teacher%20Van%20Halen) | Rhythmically aggressive playing at speed — listen for how the guitar drives energy without losing clarity. |
-| [Mean Street](https://open.spotify.com/search/Mean%20Street%20Van%20Halen) | The intro tapping figure as composition rather than display; listen for harmonic intent in the technique. |
-| [Jump](https://open.spotify.com/search/Jump%20Van%20Halen) | Eddie's keyboard work anchors the track; study how a guitarist arranges for a non-guitar instrument and still sounds like himself. |
-| [Cathedral](https://open.spotify.com/search/Cathedral%20Van%20Halen) | Volume-knob swells as melodic texture — one of the most unusual solo guitar pieces in rock. |
-| [Little Guitars](https://open.spotify.com/search/Little%20Guitars%20Van%20Halen) | Fingerstyle intro and melodic gentleness; a counterpoint to the high-energy catalog showing his range. |
-| [Unchained](https://open.spotify.com/search/Unchained%20Van%20Halen) | Listen for the rhythmic chopping and the way the guitar hooks interact with the vocal melody. |
-| [And the Cradle Will Rock](https://open.spotify.com/search/And%20the%20Cradle%20Will%20Rock%20Van%20Halen) | Aggressive riff construction — the guitar as percussive force, not just a melodic instrument. |
 
 ## Steve Stevens
 

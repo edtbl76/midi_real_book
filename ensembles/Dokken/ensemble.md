@@ -10,8 +10,6 @@ Dokken formed in Los Angeles in 1978, emerging from the city's hard rock and gla
 |---|---|---|---|
 | [Jeff Pilson](#jeff-pilson) | Bass | [Wikipedia][jeff-pilson-wiki] | — |
 | [George Lynch](#george-lynch) | Guitar | [Wikipedia][george-lynch-wiki] | — |
-| [Reb Beach](#reb-beach) | Guitar | [Wikipedia][reb-beach-wiki] | — |
-| [John Norum](#john-norum) | Guitar | [Wikipedia][john-norum-wiki] | — |
 | [Mick Brown](#mick-brown) | Drums | [Wikipedia][mick-brown-wiki] | — |
 
 ---
@@ -83,73 +81,6 @@ George Lynch is a guitarist whose work with Dokken from 1978 to 1989 defined his
 | [Dream Warriors](https://open.spotify.com/search/Dream%20Warriors%20Dokken) | Notice how Lynch adapts his playing to a more cinematic arrangement context. |
 | [Wicked Sensation](https://open.spotify.com/search/Wicked%20Sensation%20Lynch%20Mob) | Lynch Mob debut single; hear how his style translated outside of Dokken. |
 | [Ties That Bind](https://open.spotify.com/search/Ties%20That%20Bind%20Lynch%20Mob) | From *Wicked Sensation* (1990); focus on melodic lead phrasing in a post-Dokken setting. |
-
-## Reb Beach
-
-Reb Beach is a guitarist primarily known as the lead guitarist of Winger, the New York-based hard rock band he co-founded and for which he has played since their 1987 debut. He joined Dokken in 1994 following George Lynch's departure, appearing on the reunion-era recordings and live performances of the mid-1990s, which gives him a place in the Dokken timeline alongside his more prominent work with Winger. His playing style emphasizes legato fluency, fusion-influenced melodic precision, and high-articulation phrasing — drawing on a background that included study with fusion and rock players rather than purely hard rock influences. Beyond Winger and Dokken, he has toured with Alice Cooper and contributed as a session and touring guitarist across the hard rock world. He remains Winger's primary lead voice and has been part of the band's continued recording and touring activity into the 2020s.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1987–present | Winger | — | — | Co-founding lead guitarist; primary band throughout his career. |
-| 1994–1996 | Dokken | [Wikipedia][dokken-wiki] | — | Joined as Lynch's replacement for the reunion period. |
-| Various | Alice Cooper (touring) | — | — | Long-running role as touring guitarist. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Seventeen](https://open.spotify.com/search/Seventeen%20Winger) | Winger debut track; hear Beach's melodic lead sensibility in a commercial hard rock context. |
-| [Headed for a Heartbreak](https://open.spotify.com/search/Headed%20for%20a%20Heartbreak%20Winger) | Focus on how Beach balances expressive lead playing against a hook-driven ballad arrangement. |
-| [Madalaine](https://open.spotify.com/search/Madalaine%20Winger) | Listen for his legato phrasing and the way he navigates chord changes with melodic lines. |
-| [Can't Get Enuff](https://open.spotify.com/search/Can%27t%20Get%20Enuff%20Winger) | Track the rhythm guitar work and how Beach locks into the groove before opening up in lead sections. |
-| [Miles Away](https://open.spotify.com/search/Miles%20Away%20Winger) | Listen for restrained, melodic lead playing in a ballad setting — sustain and note choice over speed. |
-| [In the Day We'll Never See](https://open.spotify.com/search/In%20the%20Day%20We%27ll%20Never%20See%20Winger) | From *Pull* (1993); notice the more progressive harmonic vocabulary Beach brings to the later Winger material. |
-| [Blind Revolution Mad](https://open.spotify.com/search/Blind%20Revolution%20Mad%20Winger) | Listen for how his playing evolved toward a heavier, more complex style in the later records. |
-| [Stone Cold Killer](https://open.spotify.com/search/Stone%20Cold%20Killer%20Winger) | Focus on his right-hand attack and how he articulates fast passages without losing tone. |
-| [Easy Come Easy Go](https://open.spotify.com/search/Easy%20Come%20Easy%20Go%20Winger) | Track how Beach uses melodic fills to answer the vocal melody. |
-| [Rainbow in the Rose](https://open.spotify.com/search/Rainbow%20in%20the%20Rose%20Winger) | Hear his approach to textural guitar in a more atmospheric arrangement. |
-
-## John Norum
-
-John Norum is a Swedish guitarist best known as a co-founder and lead guitarist of Europe, the Swedish hard rock band whose 1986 album *The Final Countdown* brought them worldwide recognition — though Norum had departed the band by the time that record was released, pursuing a solo career instead. He briefly joined Dokken in 1989 as a replacement for George Lynch and recorded *Up from the Ashes* (1990) with the band, giving him a direct connection to the Dokken discography even if his tenure was short-lived. His playing style emphasizes melodic hard rock lead precision, alternate picking speed and articulation, and an expressive vibrato influenced by both blues players and European melodic metal guitarists. His solo albums, including *Total Control* (1987) and *Face the Truth* (1992), showcase his range across hard rock and blues-inflected territory. He eventually returned to Europe, where he has remained the lead guitarist through the band's ongoing activity.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1979–1986 | Europe | — | — | Co-founder and lead guitarist; departed before *The Final Countdown* was released. |
-| 1987–1992 | Solo / other projects | — | — | Solo albums including *Total Control* (1987) and *Face the Truth* (1992). |
-| 1989–1990 | Dokken | [Wikipedia][dokken-wiki] | — | Recorded *Up from the Ashes* (1990) as Lynch's replacement. |
-| 1992–present | Europe (rejoined) | — | — | Returned to Europe and has remained their lead guitarist. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Back on the Streets](https://open.spotify.com/search/Back%20on%20the%20Streets%20John%20Norum) | Title track from his 1987 solo debut; hear his melodic lead voice outside of a band context. |
-| [Love Is Meant to Last Forever](https://open.spotify.com/search/Love%20Is%20Meant%20to%20Last%20Forever%20John%20Norum) | Focus on expressive vibrato and how Norum builds a melodic statement phrase by phrase. |
-| [Eternal Youth](https://open.spotify.com/search/Eternal%20Youth%20John%20Norum) | Listen for the alternate picking precision and his approach to high-tempo melodic passages. |
-| [Night of Passion](https://open.spotify.com/search/Night%20of%20Passion%20John%20Norum) | Track how his rhythm playing frames the arrangement before transitioning into lead work. |
-| [Face the Truth](https://open.spotify.com/search/Face%20the%20Truth%20John%20Norum) | From his 1992 solo album; listen for the blues influence that runs through his harder rock playing. |
-| [Comin' Home](https://open.spotify.com/search/Comin%27%20Home%20Dokken%20Up%20from%20the%20Ashes) | Dokken's *Up from the Ashes* (1990); hear Norum fitting into the Dokken sound after Lynch's departure. |
-| [Burned to the Ground](https://open.spotify.com/search/Burned%20to%20the%20Ground%20Dokken) | From *Up from the Ashes*; notice how his phrasing compares to the Lynch-era recordings. |
-| [Gypsy](https://open.spotify.com/search/Gypsy%20John%20Norum) | Solo recording; focus on melodic construction and the expressive quality of his sustained notes. |
-| [Bed of Roses](https://open.spotify.com/search/Bed%20of%20Roses%20John%20Norum) | Listen for how he approaches a ballad feel — tone, dynamics, and melodic restraint. |
-| [In My Veins](https://open.spotify.com/search/In%20My%20Veins%20John%20Norum) | Track his note choice and how he uses space between phrases to build tension and release. |
 
 ## Mick Brown
 

@@ -9,9 +9,7 @@ Tribal Tech, the primary vehicle for Scott Henderson and Gary Willis, redefined 
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Gary Willis](#gary-willis) | Bass | [Wikipedia][gary-willis-wiki] | — |
-| [Scott Henderson](#scott-henderson) | Guitar | [Wikipedia][scott-henderson-wiki] | — |
 | [Wayne Krantz](#wayne-krantz) | Guitar | [Wikipedia][wayne-krantz-wiki] | — |
-| [Dean Brown](#dean-brown) | Guitar | [Wikipedia][dean-brown-wiki] | — |
 | [Kirk Covington](#kirk-covington) | Drums | [Wikipedia][kirk-covington-wiki] | — |
 | [Scott Kinsey](#scott-kinsey) | Keyboards | [Wikipedia][scott-kinsey-wiki] | — |
 
@@ -50,41 +48,6 @@ Gary Willis is a bassist associated with jazz fusion. His fingerstyle technique 
 | [Lifeforce](https://open.spotify.com/search/Lifeforce%20Tribal%20Tech) | Study bass movement in a modal-fusion setting — long pedal tones against shifting harmony above. |
 | [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Tribal%20Tech) | Listen for how Willis supports an up-tempo melody without losing pocket. |
 
-## Scott Henderson
-
-Scott Henderson is a guitarist associated with jazz fusion and blues. His improvisational language fuses bebop vocabulary with deep blues phrasing — an unusual combination that gives his playing an unmistakable character. He co-led Tribal Tech and has led his own blues-fusion trio, recording several albums for Mascot/Provogue.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1984–2012 | Tribal Tech | [Wikipedia][tribal-tech-wiki] | — | Co-led with Gary Willis. |
-| 1994–present | Scott Henderson Blues Band | — | — | Separate vehicle for his blues-heavier playing. |
-| 1985 | Chick Corea Elektric Band | [Wikipedia][chick-corea-wiki] | — | Early high-profile sideman role. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Stratocaster (various) |
-| Amplifier | Dumble Overdrive Special; Mesa/Boogie |
-| Effects | Whammy, various overdrives |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [The Necessary Blonde](https://open.spotify.com/search/The%20Necessary%20Blonde%20Tribal%20Tech) | A showcase for Henderson's ability to play bluesy lines inside dense fusion harmony. |
-| [Got Tuh B](https://open.spotify.com/search/Got%20Tuh%20B%20Tribal%20Tech) | Listen for how he uses space — long rests before explosive burst phrases. |
-| [Face First](https://open.spotify.com/search/Face%20First%20Scott%20Henderson) | The title track of his solo blues-fusion record; focuses pure blues language against a sophisticated rhythm section. |
-| [Slang Justice](https://open.spotify.com/search/Slang%20Justice%20Tribal%20Tech) | Track the hybrid picking — how right-hand technique shapes attack and dynamics. |
-| [Thick](https://open.spotify.com/search/Thick%20Tribal%20Tech) | Listen for rhythmically displaced phrasing across a funky 16th-note groove. |
-| [Nomad](https://open.spotify.com/search/Nomad%20Tribal%20Tech) | Study melodic development over a long solo: how he builds, peaks, and releases. |
-| [Tore Down](https://open.spotify.com/search/Tore%20Down%20Scott%20Henderson) | A hard blues track from *Dog Party* — raw tone and expressive bends. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Tribal%20Tech) | Hear him navigate Hancock's angular harmonic language with bebop fluency. |
-| [Chank](https://open.spotify.com/search/Chank%20Tribal%20Tech) | Rhythm guitar role — listen for how he comps behind a funk groove vs. how he solos over it. |
-| [Stir It Up](https://open.spotify.com/search/Stir%20It%20Up%20Scott%20Henderson) | From his blues record — straightforward Texas-influenced tone and phrasing. |
-
 ## Wayne Krantz
 
 Wayne Krantz is a guitarist associated with jazz fusion and abstract groove music. His approach to improvisation is highly idiosyncratic: he frequently plays independent rhythmic patterns with his right hand against melodic lines, creating a layered, self-contained feel. He has led his own trio (with bassist Tim Lefebvre and drummer Keith Carlock) and has worked extensively as a sideman with Steely Dan's band.
@@ -118,39 +81,6 @@ Wayne Krantz is a guitarist associated with jazz fusion and abstract groove musi
 | [Pig Virus](https://open.spotify.com/search/Pig%20Virus%20Wayne%20Krantz) | An aggressive, dense track showing the range of the trio. |
 | [Whippersnapper](https://open.spotify.com/search/Whippersnapper%20Wayne%20Krantz) | Listen for how abstract groove vocabulary applies to a more straightforward funk-ish feel. |
 | [Your Basic Wolf](https://open.spotify.com/search/Your%20Basic%20Wolf%20Wayne%20Krantz) | Study melodic phrasing in a ballad-ish context showing the lyrical side of his playing. |
-
-## Dean Brown
-
-Dean Brown is a guitarist associated with jazz fusion, funk, and session work. He has a deep pocket command built from years of live and studio work, and his chord vocabulary reflects formal jazz training combined with practical rhythm-guitar work in high-level fusion bands. He has led his own projects and worked extensively with Bob Berg, Mike Stern, and Dave Weckl.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1980s–present | Mike Stern | [Wikipedia][mike-stern-wiki] | — | Long association as touring sideman. |
-| 1980s–present | Bob Berg | — | — | Recorded and toured with the saxophonist. |
-| 1990s–present | Dave Weckl Band | [Wikipedia][dave-weckl-wiki] | — | Core member of Weckl's fusion group. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Various Telecaster and Stratocaster models |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Black Market](https://open.spotify.com/search/Black%20Market%20Dean%20Brown) | From his solo record — listen for how chordal punctuation and single-note lines share the arrangement. |
-| [Movin' On](https://open.spotify.com/search/Movin%20On%20Dean%20Brown) | Rhythm guitar precision inside a high-tempo fusion groove. |
-| [Short Stories](https://open.spotify.com/search/Short%20Stories%20Dean%20Brown) | Study how he builds a solo inside a challenging harmonic environment. |
-| [New Miles](https://open.spotify.com/search/New%20Miles%20Dean%20Brown) | Listen for the interaction between rhythm guitar and keyboard voicings. |
-| [Section 8](https://open.spotify.com/search/Section%208%20Dean%20Brown) | Funk-fusion groove — note how right-hand rhythm locks with the drums. |
-| [Funk Suite](https://open.spotify.com/search/Funk%20Suite%20Dean%20Brown) | A multi-part composition demonstrating his range from groove to lead. |
-| [Cool Blue](https://open.spotify.com/search/Cool%20Blue%20Dean%20Brown) | Blues-inflected fusion — track melodic phrasing against a cool-jazz harmonic framework. |
-| [The Chase](https://open.spotify.com/search/The%20Chase%20Dave%20Weckl%20Dean%20Brown) | With Dave Weckl — study how guitar and drums create tension and release together. |
-| [Lost in the Stars](https://open.spotify.com/search/Lost%20in%20the%20Stars%20Dean%20Brown) | A ballad showing the lyrical side of his chord melody and lead playing. |
-| [Downtown Go-Go](https://open.spotify.com/search/Downtown%20Go-Go%20Dean%20Brown) | Up-tempo funk — listen for left-hand muting and right-hand sixteenth-note precision. |
 
 ## Kirk Covington
 

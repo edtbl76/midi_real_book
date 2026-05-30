@@ -10,8 +10,6 @@ Stevie Ray Vaughan and Double Trouble were a Texas blues-rock trio whose recordi
 |---|---|---|---|
 | [Kyle Brock](#kyle-brock) | Bass | [Wikipedia][kyle-brock-wiki] | — |
 | [Stevie Ray Vaughan](#stevie-ray-vaughan) | Guitar | [Wikipedia][stevie-ray-vaughan-wiki] | — |
-| [Eric Johnson](#eric-johnson) | Guitar | [Wikipedia][eric-johnson-wiki] | — |
-| [Blues Saraceno](#blues-saraceno) | Guitar | [Wikipedia][blues-saraceno-wiki] | — |
 | [Chris Layton](#chris-layton) | Drums | [Wikipedia][chris-layton-wiki] | — |
 | [Reese Wynans](#reese-wynans) | Keyboards | [Wikipedia][reese-wynans-wiki] | — |
 
@@ -84,73 +82,6 @@ Stevie Ray Vaughan (1954–1990) was a Texas blues guitarist who, with Double Tr
 | [Riviera Paradise](https://open.spotify.com/search/Riviera%20Paradise%20Stevie%20Ray%20Vaughan%20Double%20Trouble) | His longest studio guitar showcase — a slow, evolving instrumental that reveals his jazz-influenced phrasing. |
 | [Cold Shot](https://open.spotify.com/search/Cold%20Shot%20Stevie%20Ray%20Vaughan%20Double%20Trouble) | A groove-focused track where restraint is the story — fewer notes, more feel. |
 | [The House Is Rockin'](https://open.spotify.com/search/The%20House%20Is%20Rockin%27%20Stevie%20Ray%20Vaughan%20Double%20Trouble) | A boogie-rock stomper — focus on how the band locks in and the guitar drives without soloing. |
-
-## Eric Johnson
-
-Eric Johnson is an Austin, Texas guitarist known for an obsessive approach to tone and a right-hand picking technique of extraordinary precision. He came up in the same Austin scene as SRV — both played at Antone's and shared bills regularly — and he led the jazz-rock fusion band Electromagnets in the mid-1970s before embarking on a solo career. His 1990 album Ah Via Musicom went platinum and won the Grammy for Best Rock Instrumental Performance for "Cliffs of Dover." Johnson pays direct tribute to his friend with "S.R.V.," a track on his 1996 album Venus Isle that features Jimmie Vaughan as a guest. He is included here as a peer voice in the Texas blues-rock orbit, not as a Double Trouble member.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | Eric Johnson (solo) | [Wikipedia][eric-johnson-wiki] | — | Primary catalog context for this ensemble: Tones (1986), Ah Via Musicom (1990), Venus Isle (1996). |
-| Broader work | Electromagnets | — | — | Austin jazz-rock fusion band, mid-1970s, with Kyle Brock on bass. |
-| Broader work | Stevie Ray Vaughan / Double Trouble | [Wikipedia][stevie-ray-vaughan-double-trouble-wiki] | — | Peer artist from the same Austin scene; Johnson tributes SRV on Venus Isle. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Stratocaster (multiple), Gibson ES-335 |
-| Amplifiers | Marshall, Fender Deluxe Reverb (clean tones), dumble-influenced rigs |
-| Effects | Dallas Arbiter Fuzz Face, various overdrives; Johnson is famously particular about battery brand and signal chain order |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Eric%20Johnson) | Grammy-winning instrumental — the benchmark for his tone, picking precision, and melodic architecture. |
-| [Trademark](https://open.spotify.com/search/Trademark%20Eric%20Johnson%20Ah%20Via%20Musicom) | A more aggressive, riff-driven track that shows the rock side of his vocabulary alongside the fusion precision. |
-| [Righteous](https://open.spotify.com/search/Righteous%20Eric%20Johnson%20Ah%20Via%20Musicom) | One of his most direct blues-rock statements — study how he builds a solo arc from blues phrasing. |
-| [S.R.V.](https://open.spotify.com/search/S.R.V.%20Eric%20Johnson%20Venus%20Isle) | His instrumental tribute to Stevie Ray Vaughan, featuring Jimmie Vaughan — notice how he adapts his tone to honor the Texas blues vocabulary. |
-| [Soulful Terrain](https://open.spotify.com/search/Soulful%20Terrain%20Eric%20Johnson%20Tones) | Opening track from his debut Tones — an early fusion-inflected statement that shows his Hendrix and jazz roots. |
-| [Emerald Eyes](https://open.spotify.com/search/Emerald%20Eyes%20Eric%20Johnson%20Tones) | A lyrical, chord-melody approach that reveals his classical influence alongside the blues feel. |
-| [High Landrons](https://open.spotify.com/search/High%20Landrons%20Eric%20Johnson%20Ah%20Via%20Musicom) | Track the trio interaction — how he and Kyle Brock and Tommy Taylor lock in on a fast, clean instrumental. |
-| [Forty Mile Town](https://open.spotify.com/search/Forty%20Mile%20Town%20Eric%20Johnson%20Ah%20Via%20Musicom) | A slower, more spacious track — focus on phrasing choices and how much air he puts into each line. |
-| [Manhattan](https://open.spotify.com/search/Manhattan%20Eric%20Johnson%20Venus%20Isle) | More atmospheric and experimental — shows the range of his sound beyond the blues-rock core. |
-| [East Wes](https://open.spotify.com/search/East%20Wes%20Eric%20Johnson%20Ah%20Via%20Musicom) | A Wes Montgomery tribute that makes his jazz influence explicit — compare to the Texas blues tracks to hear the range. |
-
-## Blues Saraceno
-
-Blues Saraceno (born 1971, Hartford, Connecticut) is an American guitarist who was discovered at 16 and released his debut instrumental album Never Look Back in 1989 on Guitar Recordings. Two more albums followed — Plaid (1992) and Hairpick (1994) — before he joined Poison as lead guitarist in 1993, replacing Richie Kotzen. He later pivoted toward production and film/TV composition, scoring work for numerous major productions. His early solo records sit in the instrumental rock-shred tradition with blues-influenced phrasing, making him a stylistic neighbor to the Texas blues-rock orbit. He is included here as a guitar voice in the broader context, not as a Double Trouble member.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | Blues Saraceno (solo) | [Wikipedia][blues-saraceno-wiki] | — | Primary catalog context for this ensemble: Never Look Back (1989), Plaid (1992), Hairpick (1994). |
-| Broader work | Poison | — | — | Lead guitarist 1993–1994, recording Crack a Smile (released 2000). |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Never Look Back](https://open.spotify.com/search/Never%20Look%20Back%20Blues%20Saraceno) | Title track of his debut — listen for the melodic construction and how blues bends sit inside the instrumental rock format. |
-| [Full Tank](https://open.spotify.com/search/Full%20Tank%20Blues%20Saraceno) | A driving instrumental that shows his rhythm guitar approach — track the riff and how the groove is built. |
-| [Jay Walkin'](https://open.spotify.com/search/Jay%20Walkin%27%20Blues%20Saraceno) | Blues-inflected walking feel — listen for how he phrases over the chord movement. |
-| [The Shakes](https://open.spotify.com/search/The%20Shakes%20Blues%20Saraceno) | Study the interplay between the aggressive right-hand attack and melodic lead lines. |
-| [Before the Storm](https://open.spotify.com/search/Before%20the%20Storm%20Blues%20Saraceno) | A slower, more atmospheric track that reveals the melodic side of his vocabulary. |
-| [Last Train Out](https://open.spotify.com/search/Last%20Train%20Out%20Blues%20Saraceno%20Plaid) | Opening track from Plaid — harder-edged and more rock-forward; notice how his tone shifts between albums. |
-| [The Scratch](https://open.spotify.com/search/The%20Scratch%20Blues%20Saraceno%20Plaid) | Listen for the rhythmic feel and how the guitar handles the blues-funk pocket. |
-| [Friday's Walk](https://open.spotify.com/search/Friday%27s%20Walk%20Blues%20Saraceno%20Plaid) | A more introspective track — use this for studying lead phrasing, vibrato, and note choice over slower changes. |
-| [Girth](https://open.spotify.com/search/Girth%20Blues%20Saraceno%20Plaid) | Thick tone and heavy riffing — a contrast to his more melodic work. |
-| [Cat's Squirrel](https://open.spotify.com/search/Cat%27s%20Squirrel%20Blues%20Saraceno%20Plaid) | A version of the traditional blues instrumental — hear how he approaches a standard blues vehicle. |
 
 ## Chris Layton
 

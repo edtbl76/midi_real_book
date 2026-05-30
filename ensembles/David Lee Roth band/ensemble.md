@@ -10,8 +10,6 @@ David Lee Roth formed his solo band in 1985 after departing Van Halen, immediate
 |---|---|---|---|
 | [Billy Sheehan](#billy-sheehan) | Bass | [Wikipedia][billy-sheehan-wiki] | — |
 | [Steve Vai](#steve-vai) | Guitar | [Wikipedia][steve-vai-wiki] | [Website][steve-vai-site] |
-| [Paul Gilbert](#paul-gilbert) | Guitar | [Wikipedia][paul-gilbert-wiki] | — |
-| [Jason Becker](#jason-becker) | Guitar | [Wikipedia][jason-becker-wiki] | — |
 | [Mike Mangini](#mike-mangini) | Drums | [Wikipedia][mike-mangini-wiki] | — |
 | [Michael Keneally](#michael-keneally) | Keyboards | [Wikipedia][michael-keneally-wiki] | — |
 
@@ -88,73 +86,6 @@ American guitarist who emerged from Frank Zappa's band before becoming a major v
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Steve%20Vai) | Slow, devotional solo piece from *Passion and Warfare*; study the vibrato control and long-form melodic arc. |
 | [Erotic Nightmares](https://open.spotify.com/search/Erotic%20Nightmares%20Steve%20Vai) | Short but dense — listen for how many ideas Vai packs into two minutes without the track feeling rushed. |
 | [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Steve%20Vai) | Balladic solo piece from *Alien Love Secrets*; a showcase for Vai's singing tone and emotional phrasing outside the rock context. |
-
-## Paul Gilbert
-
-Paul Gilbert is a guitarist known for right-hand alternate-picking precision, string skipping, and extraordinary speed with clean articulation at high tempo. He replaced Steve Vai in the David Lee Roth band for the *A Little Ain't Enough* (1991) album and subsequent tour, bringing a more classically rock-oriented approach than Vai's flamboyant whammy style. Before joining the Roth band, Gilbert had already made his name through Racer X and as a teacher at GIT in Hollywood. After the Roth period he co-founded Mr. Big with Billy Sheehan, achieving massive commercial success while still demonstrating elite technique.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| 1985–1988 | Racer X | [Wikipedia](https://en.wikipedia.org/wiki/Racer_X_(band)) | — | Speed-metal vehicle that established Gilbert's reputation before the Roth gig. |
-| 1989–1997 | Mr. Big | [Wikipedia](https://en.wikipedia.org/wiki/Mr._Big_(American_band)) | — | Hard-rock supergroup co-founded with Billy Sheehan. |
-| 1997–present | Paul Gilbert (solo) | [Wikipedia][paul-gilbert-wiki] | — | Prolific solo career spanning hard rock and melodic rock styles. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [A Lil' Ain't Enough](https://open.spotify.com/search/A%20Lil%27%20Ain%27t%20Enough%20David%20Lee%20Roth) | Title track from the *A Little Ain't Enough* album — hear how Gilbert's tighter, less whammy-dependent style sits against the Roth band groove. |
-| [It's Showtime!](https://open.spotify.com/search/It%27s%20Showtime%20David%20Lee%20Roth) | High-energy opener from *A Little Ain't Enough*; focus on how Gilbert's alternate picking drives the rhythm feel. |
-| [Drop in the Bucket](https://open.spotify.com/search/Drop%20in%20the%20Bucket%20David%20Lee%20Roth) | Listen for the lead phrasing: clean, fast, and melodically direct — Gilbert's solo voice versus Vai's more textural approach. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Racer%20X) | Racer X's defining track — use this to study Gilbert's string-skipping and alternate-picking architecture at full speed. |
-| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Paul%20Gilbert) | From Gilbert's solo catalog — showcases the same precision picking applied to a more compositionally elaborate setting. |
-| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Mr.%20Big) | Mr. Big debut; notice how Gilbert and Sheehan divide the melodic load, with guitar taking lead in the chorus. |
-| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%20Brother%20Lover%20Little%20Boy%20Mr.%20Big) | One of Mr. Big's signature tracks — listen for Gilbert's drill-chuck guitar gimmick alongside the straight hard-rock rhythm work. |
-| [To Be With You](https://open.spotify.com/search/To%20Be%20With%20You%20Mr.%20Big) | Mr. Big's biggest commercial hit; like Sheehan, study how Gilbert restrains his technique completely to serve the song. |
-| [Green Tinted Sixties Mind](https://open.spotify.com/search/Green%20Tinted%20Sixties%20Mind%20Mr.%20Big) | Focus on the guitar solo — melodic and well-structured, demonstrating Gilbert's ability to build a lyrical argument under speed. |
-| [Be With You](https://open.spotify.com/search/Be%20With%20You%20Mr.%20Big) | A second Mr. Big ballad that contrasts with the heavier material; tracks Gilbert's range across the full album arc. |
-
-## Jason Becker
-
-Jason Becker is a guitarist associated with neoclassical metal and shred, whose technical precision and classical melodic sense place him in the tradition of Paganini-influenced rock guitar. He joined the David Lee Roth band to co-record *A Little Ain't Enough* (1991) after Paul Gilbert departed, but ALS was already affecting his motor function by the time the album was tracked, making those sessions a remarkable document of his ability under extreme physical duress. Before the Roth stint, Becker had released *Speed Metal Symphony* (1987) as a duo with Marty Friedman and his solo debut *Perpetual Burn* (1988), establishing himself as one of the most technically advanced guitarists of the shred era. His neoclassical phrasing — elaborate scalar sequences framed by precise alternate picking — brought a different intellectual weight to the Roth band context than either Vai's whammy theatrics or Gilbert's precision-rock approach.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| 1987–1989 | Cacophony (with Marty Friedman) | [Wikipedia](https://en.wikipedia.org/wiki/Cacophony_(band)) | — | Neoclassical shred duo; recorded *Speed Metal Symphony* and *Go Off!* |
-| 1988–1990 | Jason Becker (solo) | [Wikipedia][jason-becker-wiki] | — | Solo debut *Perpetual Burn* established his neoclassical voice. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [A Lil' Ain't Enough](https://open.spotify.com/search/A%20Lil%27%20Ain%27t%20Enough%20David%20Lee%20Roth) | Becker's work on the *A Little Ain't Enough* title track — focus on how his neoclassical phrasing contrasts with the straight hard-rock groove. |
-| [It's Showtime!](https://open.spotify.com/search/It%27s%20Showtime%20David%20Lee%20Roth) | Compare the guitar approach here to the Vai-era DLR tracks; Becker's lines are more harmonically ornate. |
-| [Drop in the Bucket](https://open.spotify.com/search/Drop%20in%20the%20Bucket%20David%20Lee%20Roth) | Listen for the lead tone and phrasing: Becker's vibrato is wider and more operatic than Gilbert's clipped precision. |
-| [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Jason%20Becker) | The title track of his 1988 solo album — a pure neoclassical showcase of scalar runs, arpeggios, and compositional logic. |
-| [Air](https://open.spotify.com/search/Air%20Cacophony%20Jason%20Becker) | From *Speed Metal Symphony* — one of the most melodically developed tracks from the Cacophony era; study the long-form solo arc. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Cacophony) | The centerpiece of the debut Cacophony album; use it to track how Becker and Friedman divide lead roles. |
-| [Altitudes](https://open.spotify.com/search/Altitudes%20Jason%20Becker) | Becker's solo acoustic piece from *Perpetual Burn* — stripped of the electric shred context, it reveals his melodic compositional thinking. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Jason%20Becker) | A key *Perpetual Burn* track — focus on the alternate picking speed and how Becker maintains melodic coherence at maximum tempo. |
-| [Mabel's Fatal Fable](https://open.spotify.com/search/Mabel%27s%20Fatal%20Fable%20Cacophony) | Cacophony track that blends neoclassical shred with humor; listen for how the dual-guitar arrangement is structured. |
-| [Serrana](https://open.spotify.com/search/Serrana%20Jason%20Becker) | From *Perpetual Burn* — one of Becker's most refined classical-influenced compositions, demonstrating harmonic sophistication beyond the shred context. |
 
 ## Mike Mangini
 

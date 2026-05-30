@@ -10,7 +10,6 @@ The Wrecking Crew was a loose collective of Los Angeles session musicians who pl
 |---|---|---|---|
 | [Carol Kaye](#carol-kaye) | Bass | [Wikipedia][carol-kaye-wiki] | — |
 | [Tommy Tedesco](#tommy-tedesco) | Guitar | [Wikipedia][tommy-tedesco-wiki] | — |
-| [Barney Kessel](#barney-kessel) | Guitar | [Wikipedia][barney-kessel-wiki] | — |
 | [Hal Blaine](#hal-blaine) | Drums | [Wikipedia][hal-blaine-wiki] | — |
 | [Leon Russell](#leon-russell) | Keyboards | [Wikipedia][leon-russell-wiki] | — |
 | [Plas Johnson](#plas-johnson) | Saxophone | [Wikipedia][plas-johnson-wiki] | — |
@@ -89,42 +88,6 @@ Tommy Tedesco was the most recorded guitarist in Hollywood history, known for hi
 | [Batman Theme — Neal Hefti (1966)](https://open.spotify.com/search/Batman%20Theme%20Neal%20Hefti%201966) | Tedesco's surf-inflected guitar riff is the hook of one of the most recognizable TV themes ever recorded — a case study in how a single guitar tone can define a character. |
 | [Bridge Over Troubled Water — Simon & Garfunkel (1970)](https://open.spotify.com/search/Bridge%20Over%20Troubled%20Water%20Simon%20Garfunkel) | Tedesco was among the LA session players on this record; his guitar sits deep in the orchestral texture, a reminder that great session work is often heard but not consciously noticed. |
 | [Mr. Tambourine Man — The Byrds (1965)](https://open.spotify.com/search/Mr%20Tambourine%20Man%20The%20Byrds) | The Wrecking Crew played the instruments behind the Byrds' vocals on this debut single; Tedesco's guitar work anchors the folk-rock sound that launched a genre. |
-
-## Barney Kessel
-
-Barney Kessel was a jazz guitarist of the first rank — a veteran of the Charlie Parker Jam sessions, a participant in the 1952 "Jazz at the Philharmonic" film, and a longtime collaborator with Oscar Peterson — who also worked extensively as a Wrecking Crew session player on Phil Spector productions and other pop dates in the early 1960s.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1952 | Jazz at the Philharmonic | [Wikipedia][jatp-wiki] | — | Appeared in the landmark Norman Granz concert film. |
-| 1952–1953 | Oscar Peterson Trio | [Wikipedia][oscar-peterson-wiki] | — | Briefly toured and recorded with Peterson. |
-| 1962–1964 | Phil Spector sessions | [Wikipedia][phil-spector-wiki] | — | "He's a Rebel," "Da Doo Ron Ron," "Be My Baby," and others. |
-| 1962–1965 | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Pop and R&B session work across multiple labels. |
-| 1956–1970 | Solo recordings (Contemporary Records) | — | — | Multiple jazz albums as leader for Contemporary Records. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson ES-350T (primary); Gibson ES-175 |
-| Approach | Warm, full-bodied archtop tone suited to both bebop lines and rhythm comping on pop sessions |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [He's a Rebel — The Crystals (1962)](https://open.spotify.com/search/He%27s%20a%20Rebel%20The%20Crystals) | An early Phil Spector Wall of Sound date; Kessel's rhythm guitar is layered into the dense texture — listen for how the guitar locks with the piano and percussion. |
-| [Da Doo Ron Ron — The Crystals (1963)](https://open.spotify.com/search/Da%20Doo%20Ron%20Ron%20The%20Crystals) | The Wall of Sound at its most exuberant; Kessel's guitar is a rhythmic and harmonic building block in the layered arrangement. |
-| [Be My Baby — The Ronettes (1963)](https://open.spotify.com/search/Be%20My%20Baby%20The%20Ronettes) | One of the defining Wall of Sound recordings; the guitar part contributes to the famous intro drum pattern's harmonic bed. |
-| [Then He Kissed Me — The Crystals (1963)](https://open.spotify.com/search/Then%20He%20Kissed%20Me%20The%20Crystals) | A churning, orchestrated arrangement where the guitar rhythm drives momentum through a rapidly moving chord progression. |
-| [Chapel of Love — The Dixie Cups (1964)](https://open.spotify.com/search/Chapel%20of%20Love%20The%20Dixie%20Cups) | A brighter, more open production than Spector's densest work — Kessel's guitar sits clearly in the mix, carrying the carefree feel of the track. |
-| [Easy Like — Barney Kessel Trio (1956)](https://open.spotify.com/search/Easy%20Like%20Barney%20Kessel) | A showcase for Kessel's jazz voice as a leader — fluid bop lines over a swinging trio, with characteristic warmth in his ES-350T tone. |
-| [On Green Dolphin Street — Barney Kessel (1968)](https://open.spotify.com/search/On%20Green%20Dolphin%20Street%20Barney%20Kessel) | Kessel navigates the jazz standard's Latin-to-swing form with sophisticated chord substitutions and unhurried melodic phrasing. |
-| [Autumn Leaves — Barney Kessel](https://open.spotify.com/search/Autumn%20Leaves%20Barney%20Kessel) | A clear demonstration of his chord-melody approach — melody, harmony, and bass line handled simultaneously on a single guitar. |
-| [Easy Living — Barney Kessel](https://open.spotify.com/search/Easy%20Living%20Barney%20Kessel) | A ballad that shows Kessel's touch and dynamic control; his tone on slower material differs significantly from his uptempo attack. |
-| [Let's Cook! — Barney Kessel (1957)](https://open.spotify.com/search/Let%27s%20Cook%20Barney%20Kessel) | An up-tempo blowing date that captures his bebop vocabulary at full speed — useful for studying how a jazz guitarist phrases across bar lines in a hard-swinging context. |
 
 ## Hal Blaine
 

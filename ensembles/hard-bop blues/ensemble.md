@@ -9,7 +9,6 @@ This ensemble gathers players from the 1950s and 1960s hard-bop and post-bop wor
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Charles Mingus](#charles-mingus) | Bass | [Wikipedia][charles-mingus-wiki] | — |
-| [Jim Hall](#jim-hall) | Guitar | [Wikipedia][jim-hall-wiki] | — |
 | [Kenny Burrell](#kenny-burrell) | Guitar | [Wikipedia][kenny-burrell-wiki] | — |
 | [Max Roach](#max-roach) | Drums | [Wikipedia][max-roach-wiki] | — |
 | [Jaki Byard](#jaki-byard) | Keyboards | [Wikipedia][jaki-byard-wiki] | — |
@@ -49,40 +48,6 @@ Charles Mingus is a bassist and composer associated with modern jazz, hard bop, 
 | [Work Song](https://open.spotify.com/search/Work%20Song%20Charles%20Mingus) | An older blues form updated — listen for how Mingus's bass makes the harmonic direction explicit. |
 | [The Black Saint and the Sinner Lady](https://open.spotify.com/search/The%20Black%20Saint%20and%20the%20Sinner%20Lady%20Charles%20Mingus) | Extended suite — study how bass functions across very long formal spans. |
 | [Pithecanthropus Erectus](https://open.spotify.com/search/Pithecanthropus%20Erectus%20Charles%20Mingus) | An early extended composition — free improvisation bounded by composed sections; study how the bass guides transitions. |
-
-## Jim Hall
-
-Jim Hall is a guitarist associated with jazz and cool jazz. His approach to the guitar was unusually restrained and contrapuntal for his era — where most jazz guitarists emphasized single-note improvisation, Hall integrated countermelodies, harmonic responses, and rhythmic displacement that made his guitar playing conversational in a chamber-music sense. He died in 2013.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1955–1959 | Chico Hamilton Quintet | [Wikipedia][chico-hamilton-wiki] | — | Early high-profile sideman role. |
-| 1960–1961 | Sonny Rollins | [Wikipedia][sonny-rollins-wiki] | — | The *The Bridge* album — guitar in a pianoless quartet. |
-| 1961–1965 | Bill Evans | [Wikipedia][bill-evans-wiki] | — | *Intermodulation* — guitar-piano duo; highly interactive chamber jazz. |
-| 1960s–2013 | Solo / various | — | — | Extensive solo career and collaborative recordings. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson ES-175 (his primary instrument throughout his career) |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Interplay](https://open.spotify.com/search/Interplay%20Jim%20Hall%20Bill%20Evans) | With Bill Evans — listen for how Hall and Evans create counterpoint, neither leading nor following but genuinely conversing. |
-| [My Funny Valentine](https://open.spotify.com/search/My%20Funny%20Valentine%20Jim%20Hall) | A classic standard — hear his harmonic reharmonization under a familiar melody. |
-| [Alone Together](https://open.spotify.com/search/Alone%20Together%20Jim%20Hall%20Ron%20Carter) | Guitar-bass duo with Ron Carter — study how two instruments create the illusion of a full trio. |
-| [Concierto de Aranjuez](https://open.spotify.com/search/Concierto%20de%20Aranjuez%20Jim%20Hall) | Classical piece translated to jazz guitar — Hall's most prominent album statement. |
-| [Careful](https://open.spotify.com/search/Careful%20Jim%20Hall) | From his own sessions — solo jazz guitar showing the full range of his approach. |
-| [Goodbye](https://open.spotify.com/search/Goodbye%20Jim%20Hall) | Ballad — listen for how sustained notes and silence create emotional weight. |
-| [All Across the City](https://open.spotify.com/search/All%20Across%20the%20City%20Jim%20Hall) | A later Hall record — how his voice evolved across decades without abandoning its essential character. |
-| [Waltz New](https://open.spotify.com/search/Waltz%20New%20Jim%20Hall) | From *Jim Hall Live!* — a waltz showing how he handles a different metric framework. |
-| [The Bridge](https://open.spotify.com/search/The%20Bridge%20Sonny%20Rollins%20Jim%20Hall) | With Sonny Rollins — a pianoless quartet; hear how guitar takes over some of the harmonic responsibility usually given to piano. |
-| [Stella by Starlight](https://open.spotify.com/search/Stella%20by%20Starlight%20Jim%20Hall) | Standard treatment — study how Hall plays changes with harmonic invention rather than literal chord-tone adherence. |
 
 ## Kenny Burrell
 

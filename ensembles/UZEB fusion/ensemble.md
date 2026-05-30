@@ -10,7 +10,6 @@ UZEB was a Canadian jazz-fusion trio active from 1976 to 1992: Alain Caron (fret
 |---|---|---|---|
 | [Alain Caron](#alain-caron) | Bass | [Wikipedia][alain-caron-wiki] | — |
 | [Mike Stern](#mike-stern) | Guitar | [Wikipedia][mike-stern-wiki] | — |
-| [Frank Gambale](#frank-gambale) | Guitar | [Wikipedia][frank-gambale-wiki] | — |
 | [Paul Brochu](#paul-brochu) | Drums | [Wikipedia][paul-brochu-wiki] | — |
 
 ---
@@ -83,41 +82,6 @@ Mike Stern (b. 1953, Boston) is an American jazz and fusion guitarist known for 
 | [Mood Swings](https://open.spotify.com/search/Mood%20Swings%20Mike%20Stern) | Interaction with bassist Lincoln Goines; study how Stern comps and solos in a rhythm-section dialogue. |
 | [Play](https://open.spotify.com/search/Play%20Mike%20Stern) | Later career album; the most refined version of his vocabulary in a contemporary production. |
 | [All Mixed Up](https://open.spotify.com/search/All%20Mixed%20Up%20Mike%20Stern) | Funk-fusion track with horn section; hear how Stern's solo fits inside a larger arrangement. |
-
-## Frank Gambale
-
-Frank Gambale (b. 1958, Australia) is a guitarist best known for developing sweep/economy-picking technique into a systematic approach documented in his instructional videos. He studied at GIT (Guitar Institute of Technology) and has taught there. He is most associated with Chick Corea's Elektric Band (1986–1997) and a solo career on the Legato and JVC labels. His picking economy allows him to cover the full fretboard at high speed with minimal motion.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1986–1997 | Chick Corea Elektric Band | [Wikipedia][frank-gambale-wiki] | — | *The Chick Corea Elektric Band* (1986), *Light Years* (1987), *Eye of the Beholder* (1988), *Inside Out* (1990), *Beneath the Mask* (1991) |
-| 1986–present | Solo | — | — | *Brave New Guitar* (1986), *Thunder from Down Under* (1990), *Passages* (1994), *The Frank Gambale Trio Live* (2004) |
-| Various | Session | — | — | Session work and instructional DVDs on economy picking |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Ibanez signature models; Gambale custom signature guitar |
-| Amp | Mesa/Boogie Tri-Axis and Strategy preamp/power amp combination |
-| Technique | Economy/sweep picking — the system he codified and taught |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Light Years](https://open.spotify.com/search/Light%20Years%20Chick%20Corea%20Elektric%20Band) | Gambale inside the Elektric Band: sweep-picking lines at high tempo with jazz vocabulary. |
-| [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%20Chick%20Corea%20Elektric%20Band) | One of the Elektric Band's signature tracks; Gambale's economy picking at full speed in a jazz-fusion framework. |
-| [Beneath the Mask](https://open.spotify.com/search/Beneath%20the%20Mask%20Chick%20Corea%20Elektric%20Band) | Title track of 1991 album; Gambale's mature Elektric Band sound in a more complex arrangement. |
-| [Thunder from Down Under](https://open.spotify.com/search/Thunder%20from%20Down%20Under%20Frank%20Gambale) | Solo album title track; the economy-picking system in its most explicit showcase form. |
-| [Passage](https://open.spotify.com/search/Passage%20Frank%20Gambale) | More melodic solo work; hear how sweep picking transitions into lyrical phrasing. |
-| [Brave New Guitar](https://open.spotify.com/search/Brave%20New%20Guitar%20Frank%20Gambale) | Debut album; early codification of his technique in a fusion-guitar context. |
-| [Funkaleon](https://open.spotify.com/search/Funkaleon%20UZEB) | UZEB-adjacent track: this style of funky electric fusion is Gambale's natural peer context. |
-| [Noisy Nights](https://open.spotify.com/search/Noisy%20Nights%20UZEB) | UZEB track representing the Canadian electric-fusion circuit Gambale worked within. |
-| [Eye of the Beholder](https://open.spotify.com/search/Eye%20of%20the%20Beholder%20Chick%20Corea%20Elektric%20Band) | Album title track; Gambale in the band's most compositionally complex period. |
-| [Inside Out](https://open.spotify.com/search/Inside%20Out%20Chick%20Corea%20Elektric%20Band) | Elektric Band in its most experimental mode; Gambale navigating free-fusion guitar. |
 
 ## Paul Brochu
 

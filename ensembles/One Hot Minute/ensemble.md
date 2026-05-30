@@ -9,7 +9,6 @@ The 1995 album *One Hot Minute* was recorded with Dave Navarro (ex-Jane's Addict
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Flea](#flea) | Bass | [Wikipedia][flea-wiki] | — |
-| [John Frusciante](#john-frusciante) | Guitar | [Wikipedia][john-frusciante-wiki] | — |
 | [Dave Navarro](#dave-navarro) | Guitar | [Wikipedia][dave-navarro-wiki] | — |
 | [Chad Smith](#chad-smith) | Drums | [Wikipedia][chad-smith-wiki] | — |
 
@@ -49,43 +48,6 @@ Flea (Michael Balzary) is the bassist and a founding member of Red Hot Chili Pep
 | [Around the World](https://open.spotify.com/search/Around%20the%20World%20Red%20Hot%20Chili%20Peppers) | The opening bass riff sets the entire harmonic frame; study how the line evolves over the song. |
 | [Suck My Kiss](https://open.spotify.com/search/Suck%20My%20Kiss%20Red%20Hot%20Chili%20Peppers) | Aggressive slap groove with short, punchy note lengths; focus on how density changes between sections. |
 | [By the Way](https://open.spotify.com/search/By%20the%20Way%20Red%20Hot%20Chili%20Peppers) | Notice how Flea operates in a more supportive role on this track while still anchoring the energy. |
-
-## John Frusciante
-
-John Frusciante is a guitarist and songwriter who joined Red Hot Chili Peppers in 1988, left in 1992 before *One Hot Minute* was recorded, and rejoined in 1998 for *Californication*. He did not play on *One Hot Minute* — that album features Dave Navarro on guitar — but Frusciante's voice is so central to RHCP's identity across multiple eras that understanding the band requires knowing both guitarists. His style blends melodic lead playing rooted in Jimi Hendrix and early rock with a rhythmically precise funk-rock chord vocabulary developed alongside Flea. His first two stints with the band produced *Blood Sugar Sex Magik*, *Californication*, *By the Way*, and *Stadium Arcadium*. He has also released a substantial body of solo work, ranging from raw acoustic recordings to layered synthesizer-driven albums.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1988 – 1992 | Red Hot Chili Peppers (first stint) | [Wikipedia][rhcp-wiki] | — | Played on *Mother's Milk* and *Blood Sugar Sex Magik*. |
-| 1998 – 2009 | Red Hot Chili Peppers (second stint) | [Wikipedia][rhcp-wiki] | — | Played on *Californication*, *By the Way*, *Stadium Arcadium*. |
-| 2019 – 2024 | Red Hot Chili Peppers (third stint) | [Wikipedia][rhcp-wiki] | — | Returned for *Unlimited Love* and *Return of the Dream Canteen*. |
-| 1994 – present | Solo career | [Wikipedia][john-frusciante-wiki] | — | Extensive solo discography across multiple genres. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar (primary) | 1961–62 Fender Stratocaster — his most-used instrument across RHCP recordings |
-| Guitar (also used) | Various Gibson models; other vintage Fenders and guitars |
-| Amplification | Vintage Marshall heads (plexi-era); often multiple amps blended |
-| Effects | Eclectic and varied: Electro-Harmonix Big Muff, various wah, delay, and modulation pedals |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Give It Away](https://open.spotify.com/search/Give%20It%20Away%20Red%20Hot%20Chili%20Peppers) | Study how the guitar functions rhythmically — it's closer to a percussion part than a traditional chord part. |
-| [Under the Bridge](https://open.spotify.com/search/Under%20the%20Bridge%20Red%20Hot%20Chili%20Peppers) | Frusciante's chord voicings and arpeggiated fingerpicking create the harmonic backdrop for one of RHCP's most famous songs. |
-| [Breaking the Girl](https://open.spotify.com/search/Breaking%20the%20Girl%20Red%20Hot%20Chili%20Peppers) | Focus on the acoustic-to-electric interplay and how he layers rhythm and lead simultaneously. |
-| [Soul to Squeeze](https://open.spotify.com/search/Soul%20to%20Squeeze%20Red%20Hot%20Chili%20Peppers) | A showcase for melodic lead construction: listen for phrase shape, bends, and dynamic variation. |
-| [Californication](https://open.spotify.com/search/Californication%20Red%20Hot%20Chili%20Peppers) | Clean tone, simple melody, enormous impact — a lesson in restraint and note choice. |
-| [Scar Tissue](https://open.spotify.com/search/Scar%20Tissue%20Red%20Hot%20Chili%20Peppers) | The slide guitar melody is instantly recognizable; study how it sits in the mix without overwhelming. |
-| [Can't Stop](https://open.spotify.com/search/Can%27t%20Stop%20Red%20Hot%20Chili%20Peppers) | Interlocking rhythm guitar parts with Flea's bass; track how each instrument occupies its own register. |
-| [By the Way](https://open.spotify.com/search/By%20the%20Way%20Red%20Hot%20Chili%20Peppers) | Dense layered guitar arrangements — Frusciante played most of the vocal harmonies and overdubs on this album. |
-| [Murderers](https://open.spotify.com/search/Murderers%20John%20Frusciante) | From his solo work; raw vocal and guitar, showing the intimate side of his writing outside RHCP. |
-| [The Past Recedes](https://open.spotify.com/search/The%20Past%20Recedes%20John%20Frusciante) | From *The Empyrean* (2009); orchestral solo record showing his melodic range beyond the band context. |
 
 ## Dave Navarro
 

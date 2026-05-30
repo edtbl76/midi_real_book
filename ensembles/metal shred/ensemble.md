@@ -9,8 +9,6 @@ This ensemble gathers players from the Yngwie Malmsteen orbit and the Swedish/Eu
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Marcel Jacob](#marcel-jacob) | Bass | [Wikipedia][marcel-jacob-wiki] | — |
-| [Yngwie Malmsteen](#yngwie-malmsteen) | Guitar | [Wikipedia][yngwie-malmsteen-wiki] | — |
-| [Vinnie Moore](#vinnie-moore) | Guitar | [Wikipedia][vinnie-moore-wiki] | — |
 | [Joe Stump](#joe-stump) | Guitar | [Wikipedia][joe-stump-wiki] | — |
 | [Ian Haugland](#ian-haugland) | Drums | [Wikipedia][ian-haugland-wiki] | — |
 | [Jens Johansson](#jens-johansson) | Keyboards | [Wikipedia][jens-johansson-wiki] | — |
@@ -48,73 +46,6 @@ Marcel Jacob is a bassist associated with hard rock and neoclassical metal. He w
 | [Arms of the City](https://open.spotify.com/search/Arms%20of%20the%20City%20Talisman) | Study how the bass navigates a complex arrangement with changing sections. |
 | [High on You](https://open.spotify.com/search/High%20on%20You%20Talisman) | A more groove-oriented Talisman track — how a metal bassist adapts to a funk-influenced framework. |
 | [Comin' Home](https://open.spotify.com/search/Comin%27%20Home%20Talisman) | Study melodic bass fills in a mid-tempo rock context. |
-
-## Yngwie Malmsteen
-
-Yngwie Malmsteen is a guitarist associated with neoclassical metal. He arrived in the United States from Sweden in 1983, and his playing on the Steeler and Alcatrazz albums immediately distinguished itself through its combination of classical-guitar training (Paganini, Bach), violin-influenced tremolo picking, and absolute command of the harmonic minor scale over distorted guitar. His solo debut *Rising Force* (1984) established the neoclassical metal genre.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1983 | Steeler | [Wikipedia][steeler-wiki] | — | US debut; *Steeler* self-titled album. |
-| 1983–1984 | Alcatrazz | [Wikipedia][alcatrazz-wiki] | — | *No Parole from Rock 'n' Roll*. |
-| 1984–present | Yngwie Malmsteen's Rising Force | [Wikipedia][yngwie-malmsteen-wiki] | — | Extensive solo catalog from *Rising Force* (1984) onward. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Stratocaster (scalloped fretboard, DiMarzio YJM pickups) |
-| Amplifier | Marshall 50W Plexi heads |
-| Strings | Fender .008-.046 |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Yngwie%20Malmsteen) | The iconic neoclassical shred instrumental from *Rising Force* — a complete showcase of alternate picking, sweeps, and harmonic minor scalar runs. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Yngwie%20Malmsteen) | Another *Rising Force* instrumental — study how he develops thematic material across an extended composition. |
-| [Icarus' Dream Suite, Op. 4](https://open.spotify.com/search/Icarus%20Dream%20Suite%20Yngwie%20Malmsteen) | From *Rising Force* — a multi-section composition showing his classical composition approach. |
-| [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20Yngwie%20Malmsteen) | With vocalist Jeff Scott Soto on *Marching Out* — hear how his lead style adapts inside a song format. |
-| [I Am a Viking](https://open.spotify.com/search/I%20Am%20a%20Viking%20Yngwie%20Malmsteen) | From *Marching Out* — an anthemic hard rock track built around a neoclassical guitar riff. |
-| [Rising Force](https://open.spotify.com/search/Rising%20Force%20Yngwie%20Malmsteen) | Album title track — Jens Johansson's keyboards are central here; listen for guitar-keyboard interplay. |
-| [Heaven Tonight](https://open.spotify.com/search/Heaven%20Tonight%20Yngwie%20Malmsteen) | From *Odyssey* — more polished production; study how his vocabulary fits inside a more commercial rock structure. |
-| [Now Your Ships Are Burned](https://open.spotify.com/search/Now%20Your%20Ships%20Are%20Burned%20Yngwie%20Malmsteen) | Alcatrazz — early US recording showing the raw neoclassical approach before the solo career. |
-| [The Prelude](https://open.spotify.com/search/The%20Prelude%20Yngwie%20Malmsteen) | Solo classical guitar — his formal training stated without electric amplification. |
-| [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20Yngwie%20Malmsteen) | From *Trilogy* — one of the most aggressive, fast tracks in the early catalog. |
-
-## Vinnie Moore
-
-Vinnie Moore is a guitarist associated with neoclassical metal and rock. He was signed to Shrapnel Records and released *Mind's Eye* in 1986, a neoclassical-shred album built on modal and harmonic minor vocabulary with a more melodic and spacious approach than Malmsteen's. He later joined UFO as a touring and recording guitarist, adapting his technique to a classic British hard rock context.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1986–1990s | Solo (Shrapnel Records) | [Wikipedia][shrapnel-records-wiki] | — | *Mind's Eye*, *Time Odyssey*, *Meltdown*. |
-| 2003–present | UFO | [Wikipedia][ufo-band-wiki] | — | Long-serving member replacing Michael Schenker. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Various Stratocaster and superstrat models |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20Vinnie%20Moore) | Title track of his debut — melodic neoclassical shred at a moderate tempo; note how phrasing breathes between runs. |
-| [Saved by Love](https://open.spotify.com/search/Saved%20by%20Love%20Vinnie%20Moore) | From *Mind's Eye* — a shorter, more song-oriented neoclassical composition. |
-| [The Journey](https://open.spotify.com/search/The%20Journey%20Vinnie%20Moore) | A multi-section instrumental demonstrating compositional scope. |
-| [Meltdown](https://open.spotify.com/search/Meltdown%20Vinnie%20Moore) | His third solo album — harder, more aggressive approach; listen for how his technique evolved. |
-| [Livin' for Tomorrow](https://open.spotify.com/search/Livin%27%20for%20Tomorrow%20Vinnie%20Moore) | A song-format track — how neoclassical vocabulary serves a vocal-based arrangement. |
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Vinnie%20Moore) | A ballad — sustained melodic lines and controlled vibrato. |
-| [You Stand Alone](https://open.spotify.com/search/You%20Stand%20Alone%20Vinnie%20Moore) | From *Time Odyssey* — study how he navigates between rhythm and lead roles in a full-band context. |
-| [Vintage](https://open.spotify.com/search/Vintage%20Vinnie%20Moore) | With UFO — hear how his neoclassical vocabulary adapts to a British classic-rock context. |
-| [The Burning (Reprise)](https://open.spotify.com/search/The%20Burning%20Vinnie%20Moore) | A dynamic instrumental — study the arc from quiet to full-power across a long composition. |
-| [Masquerade](https://open.spotify.com/search/Masquerade%20Vinnie%20Moore) | A melodic track showing the lyrical side of his approach separate from the shred vocabulary. |
 
 ## Joe Stump
 

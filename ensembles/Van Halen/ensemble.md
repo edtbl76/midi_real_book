@@ -10,7 +10,6 @@ Formed in Pasadena, California in 1974, Van Halen redefined hard rock and arena 
 |---|---|---|---|
 | [Michael Anthony](#michael-anthony) | Bass | [Wikipedia][michael-anthony-wiki] | — |
 | [Eddie Van Halen](#eddie-van-halen) | Guitar | [Wikipedia][eddie-van-halen-wiki] | — |
-| [Steve Stevens](#steve-stevens) | Guitar | [Wikipedia][steve-stevens-wiki] | — |
 | [Alex Van Halen](#alex-van-halen) | Drums | [Wikipedia][alex-van-halen-wiki] | — |
 
 ---
@@ -80,40 +79,6 @@ Eddie Van Halen was born January 26, 1955 in Amsterdam and moved to Pasadena, Ca
 | [Jump](https://open.spotify.com/search/Jump%20Eddie%20Van%20Halen%20Van%20Halen) | Van Halen's only US Billboard Hot 100 number-one single featured Eddie on an Oberheim OB-Xa synthesizer, not guitar — the solo he insisted on adding is short but perfectly phrased against the keyboard texture. |
 | [Little Guitars](https://open.spotify.com/search/Little%20Guitars%20Eddie%20Van%20Halen%20Van%20Halen) | From Diver Down (1982), Eddie plays a fingerpicked nylon-string intro that demonstrates the classical technique he absorbed during his early piano and music training. |
 | [And the Cradle Will Rock...](https://open.spotify.com/search/And%20the%20Cradle%20Will%20Rock...%20Eddie%20Van%20Halen%20Van%20Halen) | Eddie's guitar part is reportedly run through a Marshall amp modified to work with a keyboard preamp — the resulting distorted crunch is distinct from his usual brown sound. |
-
-## Steve Stevens
-
-Steve Stevens (born Steven Bruce Schneider, May 5, 1959, New York City) is a guitarist best known as Billy Idol's principal collaborator and co-writer from 1981 onward. Trained at the LaGuardia High School of Music & Art and influenced by Steve Howe, Robert Fripp, and classical guitar, Stevens brought an unusual breadth of texture to 1980s hard rock: whammy-bar vocabulary, layered overdubs, and flamenco-inflected phrasing coexist in his playing. He co-wrote and recorded three landmark Billy Idol albums — Billy Idol (1982), Rebel Yell (1983), and Whiplash Smile (1986) — and won a Grammy Award for Best Pop Instrumental Performance in 1987 for "Top Gun Anthem," his guitar feature on the Top Gun soundtrack alongside Harold Faltermeyer. Stevens endorsed and helped design two Hamer signature guitar models (the SS1 and SS2) during the mid-1980s and was inducted into the Rock and Roll Hall of Fame alongside Billy Idol in 2026.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Bozzio Levin Stevens | [Wikipedia][bozzio-levin-stevens-wiki] | — | Supergroup with Terry Bozzio and Tony Levin. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Hamer SS1 and SS2 signature models (1984 onward; mahogany body, DiMarzio pickups, superstrat layout); Kramer Pacer (used on "Rebel Yell" title track); Knaggs guitars (current) |
-| Amp | Friedman Steve Stevens Signature head (two channels: one voiced after a 1969 Marshall Plexi, one after a Fender Twin Reverb; EL34 tubes) |
-| Effects | Eventide H7600 Ultra-Harmonizer; TC Electronic D-Two; Line 6 Mod Pro and Echo Pro; MXR pedals; Moog pedals |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [White Wedding](https://open.spotify.com/search/White%20Wedding%20Steve%20Stevens%20Billy%20Idol) | Stevens opens with a harmonic pick scrape — a signature move that plants the song's aggressive character before a note is sung; from the Billy Idol debut album (1982). |
-| [Rebel Yell](https://open.spotify.com/search/Rebel%20Yell%20Steve%20Stevens%20Billy%20Idol) | Stevens co-wrote the song and recorded the rhythm guitar on a Kramer Pacer; the solo uses a divebomb and toy ray-gun-processed feedback to create what he called a "space-age gunfight." |
-| [Eyes Without a Face](https://open.spotify.com/search/Eyes%20Without%20a%20Face%20Steve%20Stevens%20Billy%20Idol) | A ballad from Rebel Yell (1983) where Stevens demonstrates restraint: arpeggiated clean chords, a melodic lead that avoids flash, and careful dynamic layering that serves the vocal. |
-| [Flesh for Fantasy](https://open.spotify.com/search/Flesh%20for%20Fantasy%20Steve%20Stevens%20Billy%20Idol) | The rhythm guitar uses muted 16th-note patterns and whammy-bar inflections to create a mechanized, propulsive feel — Stevens at his most rhythmically exact. |
-| [Catch My Fall](https://open.spotify.com/search/Catch%20My%20Fall%20Steve%20Stevens%20Billy%20Idol) | The fourth single from Rebel Yell (1984); listen for the way Stevens layers guitar tracks — the lead tone sits distinctly above the rhythm bed rather than competing with it. |
-| [To Be a Lover](https://open.spotify.com/search/To%20Be%20a%20Lover%20Steve%20Stevens%20Billy%20Idol) | A cover of the William Bell and Booker T. Jones R&B song on Whiplash Smile (1986); Stevens translates the song's groove into his hard-rock vocabulary without losing its melodic core. |
-| [Don't Need a Gun](https://open.spotify.com/search/Don%27t%20Need%20a%20Gun%20Steve%20Stevens%20Billy%20Idol) | From Whiplash Smile, the rhythm parts show Stevens' whammy-bar technique applied to rhythm guitar rather than lead — the bar inflections give chord stabs a lurching, threatening quality. |
-| [Top Gun Anthem](https://open.spotify.com/search/Top%20Gun%20Anthem%20Steve%20Stevens%20Harold%20Faltermeyer) | The Grammy-winning (1987) instrumental co-recorded with Harold Faltermeyer; Stevens' 64-bar solo was kept in full — a showcase for melodic lead construction at arena scale. |
-| [Mony Mony](https://open.spotify.com/search/Mony%20Mony%20Steve%20Stevens%20Billy%20Idol) | A live-recorded cover that became a US number-one hit in 1987; Stevens' guitar tracks are stripped back and percussive, serving the track's crowd-participation energy. |
-| [Dancing with Myself](https://open.spotify.com/search/Dancing%20with%20Myself%20Steve%20Stevens%20Billy%20Idol) | An early Idol single (Billy Idol album, 1982) where Stevens reworks the original Generation X recording into a harder-edged arrangement; the solo is concise and phrased to fit the song's single-minded pulse. |
 
 ## Alex Van Halen
 

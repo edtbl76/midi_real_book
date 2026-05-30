@@ -9,7 +9,6 @@ This ensemble draws from two dominant schools of 1960s American soul: the Motown
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [James Jamerson](#james-jamerson) | Bass | [Wikipedia][james-jamerson-wiki] | — |
-| [Dennis Coffey](#dennis-coffey) | Guitar | [Wikipedia][dennis-coffey-wiki] | — |
 | [Steve Cropper](#steve-cropper) | Guitar | [Wikipedia][steve-cropper-wiki] | — |
 | [Benny Benjamin](#benny-benjamin) | Drums | [Wikipedia][benny-benjamin-wiki] | — |
 | [Earl Van Dyke](#earl-van-dyke) | Keyboards | [Wikipedia][earl-van-dyke-wiki] | — |
@@ -52,41 +51,6 @@ James Jamerson was the primary bassist of the Motown Funk Brothers, the uncredit
 | [My Girl — The Temptations](https://open.spotify.com/search/My%20Girl%20Temptations) | The descending intro bass riff is one of the most recognized in pop music; the body of the track shows how restraint and simplicity serve the song. |
 | [Signed Sealed Delivered I'm Yours — Stevie Wonder](https://open.spotify.com/search/Signed%20Sealed%20Delivered%20Stevie%20Wonder) | A funkier, more percussive Jamerson — the bass almost doubles the kick pattern while still weaving melodic phrases between beats. |
 | [Cloud Nine — The Temptations](https://open.spotify.com/search/Cloud%20Nine%20Temptations) | Early psychedelic soul; the bass is heavier and more distorted-sounding than earlier Motown, reflecting the label's shift toward harder funk by 1968. |
-
-## Dennis Coffey
-
-Dennis Coffey was a Detroit-based session guitarist who joined the Motown Funk Brothers in the late 1960s and introduced the wah-wah pedal to the label's recordings over initial resistance. His entry coincided with Motown's shift toward harder, more psychedelic funk under producer Norman Whitfield. He also pursued a parallel solo career and scored a top-10 hit with the instrumental "Scorpio" in 1971.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Late 1960s–1972 | Motown Funk Brothers | [Wikipedia][funk-brothers-wiki] | — | Session guitarist at Hitsville U.S.A.; introduced wah-wah to Motown. |
-| 1968 | The Temptations | [Wikipedia][temptations-wiki] | — | "Cloud Nine" — first prominent wah-wah use on a Motown record. |
-| 1970 | Edwin Starr | [Wikipedia][edwin-starr-wiki] | — | "War" — one of his most recognized Motown session performances. |
-| 1971 | Solo | [Wikipedia][dennis-coffey-wiki] | — | "Scorpio" reached #6 on the Billboard Hot 100. |
-| 1972 | The Temptations | [Wikipedia][temptations-wiki] | — | "Papa Was a Rollin' Stone." |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson ES-335, Fender Stratocaster (various sessions); Cry Baby wah-wah pedal |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Cloud Nine — The Temptations](https://open.spotify.com/search/Cloud%20Nine%20Temptations) | Coffey's wah-wah on this track was the first prominent use of the effect on a Motown record; listen for how it cuts through the thick arrangement without dominating it. |
-| [Ball of Confusion — The Temptations](https://open.spotify.com/search/Ball%20of%20Confusion%20Temptations) | The rhythm guitar is aggressive and percussive; Coffey uses the wah to give the guitar a vocal quality that matches the track's chaotic energy. |
-| [War — Edwin Starr](https://open.spotify.com/search/War%20Edwin%20Starr) | One of the hardest funk grooves on a Motown record; the guitar is tightly locked into the rhythm section and uses wah for punctuation rather than continuous effect. |
-| [Papa Was a Rollin' Stone — The Temptations](https://open.spotify.com/search/Papa%20Was%20a%20Rollin%27%20Stone%20Temptations) | Coffey's guitar interweaves with the bass line over a long vamp; listen for how he creates tension and release over a one-chord groove. |
-| [Psychedelic Shack — The Temptations](https://open.spotify.com/search/Psychedelic%20Shack%20Temptations) | Early Norman Whitfield psychedelic soul; the guitar textures here are among Coffey's most experimental Motown work. |
-| [Scorpio — Dennis Coffey](https://open.spotify.com/search/Scorpio%20Dennis%20Coffey) | His solo hit showcases his wah-funk vocabulary unencumbered by a vocal arrangement; the guitar is the entire melodic and rhythmic argument. |
-| [Superstar (Remember How You Got Where You Are) — The Temptations](https://open.spotify.com/search/Superstar%20Remember%20How%20You%20Got%20Where%20You%20Are%20Temptations) | A slower Whitfield production where Coffey's guitar playing is more restrained and atmospheric; contrast with the busier funk tracks. |
-| [Ain't No Mountain High Enough — Diana Ross](https://open.spotify.com/search/Ain%27t%20No%20Mountain%20High%20Enough%20Diana%20Ross) | The 1970 full-arrangement version; Coffey's guitar is woven into a much larger orchestral setting, demonstrating his ability to serve a production without overplaying. |
-| [Smiling Faces Sometimes — The Undisputed Truth](https://open.spotify.com/search/Smiling%20Faces%20Sometimes%20Undisputed%20Truth) | Coffey played on this Norman Whitfield production; the guitar provides a menacing rhythmic churn beneath the paranoid lyric. |
-| [Tear It Down — Dennis Coffey](https://open.spotify.com/search/Tear%20It%20Down%20Dennis%20Coffey) | From his solo work; shows the full range of his Detroit funk guitar style — wah, tight rhythm chops, and controlled lead phrasing. |
 
 ## Steve Cropper
 

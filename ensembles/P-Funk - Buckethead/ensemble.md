@@ -9,8 +9,6 @@ Parliament-Funkadelic (P-Funk) is the collective enterprise led by George Clinto
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Bootsy Collins](#bootsy-collins) | Bass | [Wikipedia][bootsy-collins-wiki] | — |
-| [Eddie Hazel](#eddie-hazel) | Guitar | [Wikipedia][eddie-hazel-wiki] | — |
-| [Catfish Collins](#catfish-collins) | Guitar | [Wikipedia][catfish-collins-wiki] | — |
 | [Buckethead](#buckethead) | Guitar | [Wikipedia][buckethead-wiki] | — |
 | [Jerome Brailey](#jerome-brailey) | Drums | [Wikipedia][jerome-brailey-wiki] | — |
 | [Bernie Worrell](#bernie-worrell) | Keyboards | [Wikipedia][bernie-worrell-wiki] | — |
@@ -53,73 +51,6 @@ Bootsy Collins (b. 1951, Cincinnati) is one of the defining bass players in funk
 | [Red Hot Mama](https://open.spotify.com/search/Red%20Hot%20Mama%20Funkadelic) | Funkadelic rock-funk; Bootsy's bass in a heavier, more guitar-driven context. |
 | [Standing on the Verge of Getting It On](https://open.spotify.com/search/Standing%20on%20the%20Verge%20Funkadelic) | Hard-rock Funkadelic energy; bass locked with drums in a two-feel rather than typical funk syncopation. |
 | [Up for the Down Stroke](https://open.spotify.com/search/Up%20for%20the%20Down%20Stroke%20Parliament) | Parliament debut single; early Bootsy with cleaner tone before the full Space Bass era. |
-
-## Eddie Hazel
-
-Eddie Hazel (1950–1992) was the lead guitarist of Funkadelic and one of the most emotionally expressive guitarists in rock history. His playing blends psychedelic blues, Jimi Hendrix-influenced wah vocabulary, and soulful single-note phrasing. "Maggot Brain" (1971) — a 10-minute solo performed as if he had just heard his mother had died — is among the most celebrated guitar performances in any genre.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1969–1977 | Funkadelic | [Wikipedia][eddie-hazel-wiki] | — | *Funkadelic* (1970), *Free Your Mind* (1970), *Maggot Brain* (1971), *America Eats Its Young* (1972), *Cosmic Slop* (1973) |
-| 1977 | Solo | — | — | *Game, Dames and Guitar Thangs* (1977) |
-| 1980s | P-Funk alumni projects | — | — | Occasional P-Funk reunion appearances until his death in 1992 |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson guitars (Les Paul and SG style); Fender Stratocaster |
-| Effects | Wah pedal (central to his vocabulary), fuzz |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Maggot Brain](https://open.spotify.com/search/Maggot%20Brain%20Funkadelic) | Ten-minute solo over a single chord; study how emotional narrative is built through tone, vibrato, and sustained phrasing alone. |
-| [Red Hot Mama](https://open.spotify.com/search/Red%20Hot%20Mama%20Funkadelic) | Full band context; Hazel's wah-driven lead cuts through a thick rhythm section. |
-| [Super Stupid](https://open.spotify.com/search/Super%20Stupid%20Funkadelic) | Hard rock Funkadelic; Hazel at his most aggressive, channeling Hendrix energy into a rock riff. |
-| [Standing on the Verge of Getting It On](https://open.spotify.com/search/Standing%20on%20the%20Verge%20Funkadelic) | Title track 1974; Hazel's most guitar-hero-style showcase in a full band arrangement. |
-| [Cosmic Slop](https://open.spotify.com/search/Cosmic%20Slop%20Funkadelic) | Slow psychedelic blues; wah and sustain in a deliberate minor-key lament. |
-| [I Got a Thing, You Got a Thing, Everybody's Got a Thing](https://open.spotify.com/search/I%20Got%20a%20Thing%20Funkadelic) | Early Funkadelic; Hazel's proto-psychedelic-funk vocabulary before the full Maggot Brain breakthrough. |
-| [You and Your Folks, Me and My Folks](https://open.spotify.com/search/You%20and%20Your%20Folks%20Funkadelic) | Wah-driven funk guitar; rhythm and lead sharing space in the same phrase. |
-| [Hit It and Quit It](https://open.spotify.com/search/Hit%20It%20and%20Quit%20It%20Funkadelic) | Funk-rock groove; Hazel's tone and note choice inside a rhythm-guitar framework. |
-| [Eulogy and Light](https://open.spotify.com/search/Eulogy%20and%20Light%20Eddie%20Hazel) | Solo album (1977); his own voice without the Funkadelic ensemble. |
-| [California Dreamin'](https://open.spotify.com/search/California%20Dreamin%27%20Eddie%20Hazel) | *Game, Dames and Guitar Thangs* solo album cover; hear how his vocabulary transforms a standard into something unexpected. |
-
-## Catfish Collins
-
-Catfish Collins (1943–2010) is the rhythm guitarist of Funkadelic and older brother of Bootsy Collins. He was central to the James Brown band (as part of the JBs) before joining Parliament-Funkadelic. His right-hand rhythm technique — percussive, muted, deeply syncopated — is a model for funk rhythm guitar and closely connected to the Clyde Stubblefield/James Brown tradition.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1969–1971 | James Brown / The JBs | [Wikipedia][catfish-collins-wiki] | — | JBs rhythm guitar sessions |
-| 1972–1980s | Parliament-Funkadelic | — | — | Rhythm guitar throughout the peak P-Funk era |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Telecaster (primary), various solidbody guitars |
-| Effects | Minimal; his sound is defined by right-hand technique rather than processing |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Up for the Down Stroke](https://open.spotify.com/search/Up%20for%20the%20Down%20Stroke%20Parliament) | Parliament debut; Catfish's rhythm guitar is all percussive muting and syncopation, no fills. |
-| [Give Up the Funk](https://open.spotify.com/search/Give%20Up%20the%20Funk%20Parliament) | Full P-Funk production; study how his rhythm guitar fits between Bootsy's bass and the horn stabs. |
-| [One Nation Under a Groove](https://open.spotify.com/search/One%20Nation%20Under%20a%20Groove%20Funkadelic) | The ensemble groove at full power; Catfish's rhythm is nearly inaudible as a separate layer — that's the goal. |
-| [Mothership Connection (Star Child)](https://open.spotify.com/search/Mothership%20Connection%20Parliament) | Long-form groove; hear how he sustains a rhythmic figure for minutes without variation and why that works. |
-| [Flash Light](https://open.spotify.com/search/Flash%20Light%20Parliament) | Synth-bass-heavy track; Catfish's rhythm guitar adjusts its register to stay out of Worrell's Minimoog. |
-| [Red Hot Mama](https://open.spotify.com/search/Red%20Hot%20Mama%20Funkadelic) | Funkadelic rock context; his rhythm guitar shifts to a heavier attack for a more guitar-band sound. |
-| [Standing on the Verge of Getting It On](https://open.spotify.com/search/Standing%20on%20the%20Verge%20Funkadelic) | Hard rock Funkadelic; Catfish playing power chords rather than funk rhythm — shows his range. |
-| [Cosmic Slop](https://open.spotify.com/search/Cosmic%20Slop%20Funkadelic) | Slow psychedelic blues; rhythm guitar in a sustained, textural role under Hazel's lead. |
-| [Sex Machine](https://open.spotify.com/search/Sex%20Machine%20James%20Brown) | James Brown original with the JBs; Catfish's pre-P-Funk rhythm guitar vocabulary at its source. |
-| [Soul Power](https://open.spotify.com/search/Soul%20Power%20James%20Brown) | JBs era; percussive rhythm guitar inside a hard-funk context — the direct predecessor of the P-Funk approach. |
 
 ## Buckethead
 

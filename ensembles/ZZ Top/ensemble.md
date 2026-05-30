@@ -11,7 +11,6 @@ ZZ Top formed in Houston, Texas in 1969, coalescing around guitarist Billy Gibbo
 | [Dusty Hill](#dusty-hill) | Bass | [Wikipedia][dusty-hill-wiki] | — |
 | [Billy Gibbons](#billy-gibbons) | Guitar | [Wikipedia][billy-gibbons-wiki] | — |
 | [Frank Beard](#frank-beard) | Drums | [Wikipedia][frank-beard-wiki] | — |
-| [Joe Bonamassa](#joe-bonamassa) | Guitar | [Wikipedia][joe-bonamassa-wiki] | — |
 
 ---
 
@@ -120,40 +119,6 @@ Frank Lee Beard was born June 11, 1949, in Frankston, Texas, and grew up in Dall
 | [Cheap Sunglasses](https://open.spotify.com/search/Cheap%20Sunglasses%20Frank%20Beard%20ZZ%20Top) | Over a long improvisational track, listen for how Beard manages density — when he opens up the hi-hat, when he goes to the ride, and how those choices shape the guitar's phrasing above him. |
 | [Beer Drinkers & Hell Raisers](https://open.spotify.com/search/Beer%20Drinkers%20%26%20Hell%20Raisers%20Frank%20Beard%20ZZ%20Top) | High-energy early boogie where the kick drum doubles the guitar riff on the downbeat — a foundational ZZ Top rhythmic device that Beard returns to throughout the catalog. |
 | [Tube Snake Boogie](https://open.spotify.com/search/Tube%20Snake%20Boogie%20Frank%20Beard%20ZZ%20Top) | *El Loco* track with a tighter, more compressed studio sound than the *Tres Hombres* era; compare the snare tone here to "Tush" or "La Grange" to hear how the production evolved around essentially the same drummer. |
-
-## Joe Bonamassa
-
-Joe Bonamassa was born May 8, 1977, in Utica, New York, and began playing guitar at age 4; by the time he was 12 he was opening for B.B. King. He built his reputation through *Blues Deluxe* (2003) and a relentless catalog of studio and live records that followed, becoming one of the most prolific figures in contemporary blues-rock. His approach — a vintage guitar and amplifier obsession, a pentatonic blues vocabulary shaped by vibrato and pick attack rather than speed, and deep roots in the Texas and Gulf Coast tradition — shares direct DNA with ZZ Top's foundational aesthetic. He also led the hard rock power trio Black Country Communion alongside Glenn Hughes and Jason Bonham, a format that mirrors ZZ Top's own three-piece economy.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 2000–present | Solo career | [Wikipedia][joe-bonamassa-wiki] | — | More than 30 blues-rock studio and live albums. |
-| 2010–present | Black Country Communion (with Glenn Hughes and Jason Bonham) | [Wikipedia][black-country-communion-wiki] | — | Hard rock power trio. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | 1959 Gibson Les Paul Standard (various "Bursts"); various vintage Fender Stratocasters; Gibson Flying V |
-| Amplification | Howard Dumble ODS (Overdrive Special); vintage Marshall Super Lead 100W; vintage Fender Bassman |
-| Effects | Fulltone OCD overdrive; vintage fuzz units |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [A New Day Yesterday](https://open.spotify.com/search/A%20New%20Day%20Yesterday%20Joe%20Bonamassa) | Jethro Tull cover from *Blues Deluxe* that shows how he filters classic rock through blues vocabulary; compare his approach to this track against Gibbons's handling of the same British blues-rock tradition. |
-| [So Many Roads](https://open.spotify.com/search/So%20Many%20Roads%20Joe%20Bonamassa) | Slow blues from his breakthrough record; the focus is on phrasing and a vibrato-first approach, not speed — a direct parallel to Gibbons's patience-over-flash philosophy. |
-| [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20Joe%20Bonamassa) | Title track of the 2007 album; a Tim Rose cover transformed into one of his signature recorded statements — the solo builds slowly and lands with emotional weight. |
-| [Ballad of John Henry](https://open.spotify.com/search/Ballad%20of%20John%20Henry%20Joe%20Bonamassa) | Heavy riff-centered track from the 2009 album that directly evokes the ZZ Top boogie tradition; guitar tone is his most Texas-influenced. |
-| [Ball Peen Hammer](https://open.spotify.com/search/Ball%20Peen%20Hammer%20Joe%20Bonamassa) | Opening track of *Sloe Gin*; aggressive riff energy and a tone built from vintage amp saturation rather than effects. |
-| [Dust Bowl](https://open.spotify.com/search/Dust%20Bowl%20Joe%20Bonamassa) | Slow groove from the 2011 album of the same name; density is built note by note, and the three-piece dynamic context is close to ZZ Top's format. |
-| [Driving Towards the Daylight](https://open.spotify.com/search/Driving%20Towards%20the%20Daylight%20Joe%20Bonamassa) | Uptempo and riff-centered; the downstroke rhythm feel and pentatonic lead vocabulary make the ZZ Top stylistic thread explicit. |
-| [Blues of Desperation](https://open.spotify.com/search/Blues%20of%20Desperation%20Joe%20Bonamassa) | Stripped-back arrangement from the 2016 album that puts tone and phrasing forward; compare pick attack and midrange character to Gibbons's Pearly Gates tone on *Tres Hombres*. |
-| [Mountain Time](https://open.spotify.com/search/Mountain%20Time%20Joe%20Bonamassa) | Extended blues track from *Blues Deluxe* that demonstrates his live improvisational instinct; the unhurried solo approach matches Gibbons's patience-over-speed philosophy. |
-| [Dirt in My Pocket](https://open.spotify.com/search/Dirt%20in%20My%20Pocket%20Joe%20Bonamassa) | Mid-tempo blues from *Sloe Gin* where the rhythm guitar feel and note choices show his Gulf Coast roots most directly. |
 
 ## References
 

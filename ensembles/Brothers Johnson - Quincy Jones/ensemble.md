@@ -10,7 +10,6 @@ This ensemble draws together three distinct funk lineages: Louis Johnson and Wah
 |---|---|---|---|
 | [Louis Johnson](#louis-johnson) | Bass | [Wikipedia][louis-johnson-wiki] | — |
 | [Wah Wah Watson](#wah-wah-watson) | Guitar | [Wikipedia][wah-wah-watson-wiki] | — |
-| [Jimmy Nolen](#jimmy-nolen) | Guitar | [Wikipedia][jimmy-nolen-wiki] | — |
 | [Clyde Stubblefield](#clyde-stubblefield) | Drums | [Wikipedia][clyde-stubblefield-wiki] | — |
 | [Greg Phillinganes](#greg-phillinganes) | Keyboards | [Wikipedia][greg-phillinganes-wiki] | — |
 | [Jerry Hey](#jerry-hey) | Trumpet | [Wikipedia][jerry-hey-wiki] | — |
@@ -84,38 +83,6 @@ Wah Wah Watson (born Melvin Ragin, 1950) is a session guitarist whose name descr
 | [Stomp! — Brothers Johnson](https://open.spotify.com/search/Stomp%21%20Brothers%20Johnson) | Watson's wah guitar is a constant presence in the mix; note how it punctuates the horn stabs rather than sustaining through them. |
 | [Elementary — Wah Wah Watson](https://open.spotify.com/search/Elementary%20Wah%20Wah%20Watson) | His solo record puts the wah-guitar concept front and center — a good place to hear his full vocabulary without serving another artist's vision. |
 | [Zoom — Commodores](https://open.spotify.com/search/Zoom%20Commodores) | A smoother, more restrained context where Watson's guitar adds texture rather than rhythmic drive. |
-
-## Jimmy Nolen
-
-Jimmy Nolen (1934–1983) was James Brown's primary rhythm guitarist for most of Brown's peak years, and the inventor of what became known as "chicken scratch" — a percussive, muted, 16th-note rhythm guitar approach that stripped away everything except rhythmic function. That technique became the foundation of all subsequent funk guitar: every rhythm guitarist in this ensemble and beyond learned from what Nolen was doing behind Brown in the mid-1960s. He died of a heart attack in 1983, but the vocabulary he created was already built into the DNA of the music.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1965–1970 | James Brown | [Wikipedia][james-brown-wiki] | — | Primary rhythm guitarist during Brown's most influential period. |
-| 1972–1983 | James Brown | [Wikipedia][james-brown-wiki] | — | Returned to Brown's band for a second extended tenure. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson ES-335 |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Papa's Got a Brand New Bag — James Brown](https://open.spotify.com/search/Papa%27s%20Got%20a%20Brand%20New%20Bag%20James%20Brown) | The recording where Nolen's chicken-scratch technique first appears fully formed — the guitar is almost entirely rhythmic, no sustain, no lead. |
-| [I Got You (I Feel Good) — James Brown](https://open.spotify.com/search/I%20Got%20You%20I%20Feel%20Good%20James%20Brown) | Listen to how the rhythm guitar sets the pocket without a bass line taking up the same space — the interlocking is precise. |
-| [Cold Sweat — James Brown](https://open.spotify.com/search/Cold%20Sweat%20James%20Brown) | One of the most influential funk recordings ever made; Nolen's guitar work here is the template for an entire genre. |
-| [Give It Up or Turnit a Loose — James Brown](https://open.spotify.com/search/Give%20It%20Up%20or%20Turnit%20a%20Loose%20James%20Brown) | A live-energy recording where the guitar's rhythmic drive is relentless — notice the attack on the muted 16ths. |
-| [Sex Machine — James Brown](https://open.spotify.com/search/Sex%20Machine%20James%20Brown) | The groove here is built almost entirely from the guitar-bass-drum conversation; Nolen's part is impossible to separate from the beat. |
-| [Super Bad — James Brown](https://open.spotify.com/search/Super%20Bad%20James%20Brown) | Extended funk vamp gives you space to study the repetition and micro-variations in Nolen's chicken-scratch pattern. |
-| [Mother Popcorn — James Brown](https://open.spotify.com/search/Mother%20Popcorn%20James%20Brown) | Nolen and Clyde Stubblefield together: hear how the guitar and drums create one unified rhythmic texture. |
-| [Make It Funky — James Brown](https://open.spotify.com/search/Make%20It%20Funky%20James%20Brown) | The title says it: Nolen's guitar is pure rhythmic function, demonstrating why James Brown called the guitar a percussion instrument. |
-| [Talkin' Loud and Sayin' Nothing — James Brown](https://open.spotify.com/search/Talkin%27%20Loud%20and%20Sayin%27%20Nothing%20James%20Brown) | A later-period Brown track where Nolen's part is even more stripped back — all attack, no sustain, all pocket. |
-| [The Payback — James Brown](https://open.spotify.com/search/The%20Payback%20James%20Brown) | One of Nolen's most recorded grooves; the guitar riff on this track has been sampled countless times and still sounds fresh. |
 
 ## Clyde Stubblefield
 

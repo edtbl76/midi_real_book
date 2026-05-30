@@ -10,7 +10,6 @@ Primus formed in San Francisco in 1984, built around the trio of Les Claypool (b
 |---|---|---|---|
 | [Les Claypool](#les-claypool) | Bass | [Wikipedia][les-claypool-wiki] | — |
 | [Larry LaLonde](#larry-lalonde) | Guitar | [Wikipedia][larry-lalonde-wiki] | — |
-| [Buckethead](#buckethead) | Guitar | [Wikipedia][buckethead-wiki] | — |
 | [Tim Alexander](#tim-alexander) | Drums | [Wikipedia][tim-alexander-wiki] | — |
 | [Bernie Worrell](#bernie-worrell) | Keyboards | [Wikipedia][bernie-worrell-wiki] | — |
 | [Skerik](#skerik) | Saxophone | [Wikipedia][skerik-wiki] | — |
@@ -88,43 +87,6 @@ Larry LaLonde is the guitarist of Primus, joining the band in 1989 after a forma
 | [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Primus) | The guitar here is almost percussive; focus on how it accents rather than melodically leads. |
 | [My Name Is Mud](https://open.spotify.com/search/My%20Name%20Is%20Mud%20Primus) | Pork Soda-era heaviness — the guitar tone is at its most aggressive and distorted in this period. |
 | [Here Come the Bastards](https://open.spotify.com/search/Here%20Come%20the%20Bastards%20Primus) | Opening track from *Sailing the Seas of Cheese*; good introduction to how LaLonde frames a Primus arrangement. |
-
-## Buckethead
-
-Buckethead (Brian Carroll) is one of the most technically extraordinary and prolific guitarists in rock and metal, known for an ultrawide range spanning funk, metal, progressive rock, and experimental music. He performs in a KFC bucket and a white mask, and has released well over 300 solo albums under the Bucketheadland series, making him one of the most recorded instrumentalists alive. His playing combines blistering alternate picking, nunchuk tap choreography, and a bluesy melodic sensibility beneath the technical extremity. He has collaborated with Les Claypool in Colonel Claypool's Bucket of Bernie Brains and has been associated with the extended Primus orbit, though he was never a permanent Primus member. He also had a notable tenure with Guns N' Roses from 2000 to 2004.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Late 1980s–present | Solo (Bucketheadland series) | [Wikipedia][buckethead-wiki] | — | Prolific solo catalog of over 300 albums; core artistic output. |
-| 1994–1995 | Praxis | [Wikipedia](https://en.wikipedia.org/wiki/Praxis_(band)) | — | Experimental funk-metal project with Bill Laswell; *Transmutation* (1992), *Sacrifist* (1994). |
-| 2000–2004 | Guns N' Roses | [Wikipedia](https://en.wikipedia.org/wiki/Guns_N%27_Roses) | — | Lead guitarist during the *Chinese Democracy* recording sessions. |
-| 2004 | Colonel Claypool's Bucket of Bernie Brains | [Wikipedia](https://en.wikipedia.org/wiki/Colonel_Claypool%27s_Bucket_of_Bernie_Brains) | — | Collaborative project with Les Claypool, Brain, and Bernie Worrell. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar (primary) | Custom Gibson Les Paul–style guitars built by Dan Armstrong and other luthiers; also Gibson SGs and various custom instruments |
-| Tone character | Extremely wide dynamic and tonal range; clean to heavily distorted; often uses whammy bar and tapping |
-| Effects | DigiTech Whammy pedal is a signature tool; various modulation and delay effects |
-| Amplification | Marshall amplifiers; various setups across recordings |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Jordan](https://open.spotify.com/search/Jordan%20Buckethead) | One of his most famous pieces — near-superhuman alternate picking speed with melodic coherence underneath. |
-| [Soothsayer](https://open.spotify.com/search/Soothsayer%20Buckethead) | Slow, emotionally devastating lead guitar playing; shows the lyrical side beneath the technical flash. |
-| [Too Many Humans](https://open.spotify.com/search/Too%20Many%20Humans%20Buckethead) | Funk-influenced early track that connects to the Primus/Claypool orbit; heavy groove with technical fills. |
-| [Nottingham Lace](https://open.spotify.com/search/Nottingham%20Lace%20Buckethead) | Showcases his compositional range — atmospheric, eerie, and technically demanding simultaneously. |
-| [Padmasana](https://open.spotify.com/search/Padmasana%20Buckethead) | Extended solo piece demonstrating his ability to sustain musical narrative over a long form. |
-| [The Grand Pecking Order](https://open.spotify.com/search/The%20Grand%20Pecking%20Order%20Colonel%20Claypool%27s%20Bucket%20of%20Bernie%20Brains) | Colonel Claypool's Bucket of Bernie Brains track — hear how he functions inside a Claypool-led ensemble. |
-| [Binge and Grab](https://open.spotify.com/search/Binge%20and%20Grab%20Buckethead) | Funk-metal groove track; the rhythm guitar work here connects directly to the Primus sound world. |
-| [Spokes for the Wheel of Torment](https://open.spotify.com/search/Spokes%20for%20the%20Wheel%20of%20Torment%20Buckethead) | Demonstrates his death-metal-influenced extreme playing adjacent to the Possessed/LaLonde tradition. |
-| [Interworld and the New Innocence](https://open.spotify.com/search/Interworld%20and%20the%20New%20Innocence%20Buckethead) | From the Praxis collaboration with Bill Laswell; experimental funk-metal in the Primus orbit. |
-| [Aunt Suzie](https://open.spotify.com/search/Aunt%20Suzie%20Buckethead) | Melodic and accessible Bucketheadland track; useful for hearing his phrasing and note choice outside technical showcases. |
 
 ## Tim Alexander
 

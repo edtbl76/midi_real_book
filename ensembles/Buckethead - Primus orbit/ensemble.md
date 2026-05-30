@@ -9,7 +9,6 @@ This ensemble clusters around the avant-garde punk-funk world that Primus built 
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Les Claypool](#les-claypool) | Bass | [Wikipedia][les-claypool-wiki] | — |
-| [Larry LaLonde](#larry-lalonde) | Guitar | [Wikipedia][larry-lalonde-wiki] | — |
 | [Buckethead](#buckethead) | Guitar | [Wikipedia][buckethead-wiki] | — |
 | [Tim Alexander](#tim-alexander) | Drums | [Wikipedia][tim-alexander-wiki] | — |
 | [Bernie Worrell](#bernie-worrell) | Keyboards | [Wikipedia][bernie-worrell-wiki] | — |
@@ -51,39 +50,6 @@ Les Claypool (b. 1963) is the bassist, vocalist, and primary composer of Primus.
 | [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Primus) | Country-punk feel; hear how he modifies tone and attack for a different genre. |
 | [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Primus) | Solo bass opening; this is Claypool as a solo voice before the ensemble enters. |
 | [DMV](https://open.spotify.com/search/DMV%20Primus) | Odd-meter bass riffing; track how the groove lands on unusual subdivisions without losing feel. |
-
-## Larry LaLonde
-
-Larry LaLonde (b. 1968) is the guitarist of Primus. Before joining, he played in Possessed (early death metal) and was a student of Joe Satriani, giving him technical fluency that he largely suppresses in service of noise, dissonance, and avant-garde texture within Primus. His role is not to solo prominently but to create angular, noise-influenced guitar parts that contrast with Claypool's bass.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1985–1986 | Possessed | [Wikipedia][larry-lalonde-wiki] | — | *Seven Churches* (1985) — early death metal |
-| 1989–present | Primus | — | — | All major Primus albums |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Hamer guitars, various models |
-| Effects | Extensive effects chain for noise and texture; whammy, delays, chorus |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [My Name Is Mud](https://open.spotify.com/search/My%20Name%20Is%20Mud%20Primus) | LaLonde's guitar is dissonant smear over Claypool's groove; hear how he avoids the obvious. |
-| [DMV](https://open.spotify.com/search/DMV%20Primus) | Angular riff construction in an odd time feel: study how he functions as a noise texture. |
-| [Jerry Was a Race Car Driver](https://open.spotify.com/search/Jerry%20Was%20a%20Race%20Car%20Driver%20Primus) | Guitar nearly disappears into the rhythm section; deliberate anti-solo approach. |
-| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Primus) | Wiry, trebly rhythm guitar reinforcing Claypool without competing with him. |
-| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Primus) | Slow, menacing chord work; listen for how tension is built through static dissonance. |
-| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Primus) | Guitar plays minimal funk-noise stabs; study how he creates color without a melody. |
-| [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Primus) | Early Primus; LaLonde's chromatic noise-rock vocabulary placed against a bass-driven song. |
-| [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Primus) | More open, atmospheric role: hear how he creates space rather than filling it. |
-| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Primus) | Country-parodied tone but still noise-influenced; track how he bends genre without losing character. |
-| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Primus) | Minimal guitar presence; study absence as a tool — LaLonde knows when not to play. |
 
 ## Buckethead
 

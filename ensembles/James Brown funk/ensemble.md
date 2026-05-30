@@ -9,7 +9,6 @@ James Brown's bands from the mid-1960s through the 1980s invented the rhythmic v
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Louis Johnson](#louis-johnson) | Bass | [Wikipedia][louis-johnson-wiki] | — |
-| [Wah Wah Watson](#wah-wah-watson) | Guitar | [Wikipedia][wah-wah-watson-wiki] | — |
 | [Jimmy Nolen](#jimmy-nolen) | Guitar | [Wikipedia][jimmy-nolen-wiki] | — |
 | [Clyde Stubblefield](#clyde-stubblefield) | Drums | [Wikipedia][clyde-stubblefield-wiki] | — |
 | [Greg Phillinganes](#greg-phillinganes) | Keyboards | [Wikipedia][greg-phillinganes-wiki] | — |
@@ -48,41 +47,6 @@ Louis Johnson was the bassist and co-founder of The Brothers Johnson, the funk a
 | [Treasure](https://open.spotify.com/search/Treasure%20Brothers%20Johnson) | Listen for fills that answer the vocal or horn lines while keeping the groove stable. |
 | [Light Up the Night](https://open.spotify.com/search/Light%20Up%20the%20Night%20Brothers%20Johnson) | Study the balance between rhythmic locking and melodic motion in the bass part. |
 | [The Real Thing](https://open.spotify.com/search/The%20Real%20Thing%20Brothers%20Johnson) | Listen for how the low end supports the ensemble without crowding the arrangement. |
-
-## Wah Wah Watson
-
-Wah Wah Watson (born Melvin Ragin) was one of the premier session guitarists of the 1970s, working primarily out of Los Angeles in the Motown and Quincy Jones production orbit. He was not a James Brown band member, but his rhythm guitar approach — tight, percussive, wah-filtered — draws from the same funk vocabulary that Brown's records established. His name reflects his signature tool: the wah pedal was central to his sound and his identity, and he used wah-filtered chord stabs and rhythmic accents to create a highly textured rhythm guitar presence. He appeared on Marvin Gaye's landmark 1976 album "I Want You" and recorded the solo album "Elementary" (1976), which showcased his range across funk, soul, and jazz-inflected R&B. Watson's session work with Quincy Jones on "Body Heat" (1974) is another key document of this wah-driven rhythm-guitar style.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1971–1979 | Motown session work | [Wikipedia][wah-wah-watson-wiki] | — | Core Motown studio guitarist; worked across the label's roster. |
-| 1974 | Quincy Jones — Body Heat | — | — | Key session appearance; funk and soul production context. |
-| 1976 | Marvin Gaye — I Want You | — | — | Featured session guitarist on one of Gaye's most rhythmically dense albums. |
-| 1976 | Solo — Elementary | — | — | Solo debut showcasing wah-pedal funk and jazz-inflected R&B. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Stratocaster |
-| Effects | Wah pedal (central to his sound and stage identity; used for wah-filtered rhythm parts and chord stabs) |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [I Want You](https://open.spotify.com/search/I%20Want%20You%20Marvin%20Gaye) | Focus on wah-filtered chord stabs and how the guitar weaves through the dense rhythmic arrangement. |
-| [After the Dance](https://open.spotify.com/search/After%20the%20Dance%20Marvin%20Gaye) | Listen for how the rhythm guitar creates space and tension within the groove. |
-| [Body Heat](https://open.spotify.com/search/Body%20Heat%20Quincy%20Jones) | Track the percussive right-hand attack and how it locks with the kick drum. |
-| [One Chain Don't Make No Prison](https://open.spotify.com/search/One%20Chain%20Don%27t%20Make%20No%20Prison%20Quincy%20Jones) | Study voicings, muting, and the way the wah accent lands in the ensemble. |
-| [Elementary](https://open.spotify.com/search/Elementary%20Wah%20Wah%20Watson) | His solo album — listen for the full range of his wah and funk vocabulary outside of session context. |
-| [Superwoman (Where Were You When I Needed You)](https://open.spotify.com/search/Superwoman%20Stevie%20Wonder) | Listen for how wah-filtered guitar sits inside a large Motown production. |
-| [If You Want Me to Stay](https://open.spotify.com/search/If%20You%20Want%20Me%20to%20Stay%20Sly%20and%20the%20Family%20Stone) | Track how rhythm guitar precision supports a pocket groove without soloing. |
-| [Just to Keep You Satisfied](https://open.spotify.com/search/Just%20to%20Keep%20You%20Satisfied%20Marvin%20Gaye) | Focus on comping choices and how the guitar defines the band sound without dominating. |
-| [Feel All Right](https://open.spotify.com/search/Feel%20All%20Right%20Wah%20Wah%20Watson) | Listen for lead construction and the way wah filters shape the melodic argument. |
-| [Love Having You Around](https://open.spotify.com/search/Love%20Having%20You%20Around%20Stevie%20Wonder) | Study the rhythm-guitar pocket and how it interacts with bass motion rather than sitting on top. |
 
 ## Jimmy Nolen
 

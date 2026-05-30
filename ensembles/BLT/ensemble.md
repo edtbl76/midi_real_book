@@ -9,9 +9,7 @@ BLT — Bruce, Lordan, Trower — was a 1981 blues-rock supergroup formed around
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Jack Bruce](#jack-bruce) | Bass | [Wikipedia][jack-bruce-wiki] | — |
-| [Eric Clapton](#eric-clapton) | Guitar | [Wikipedia][eric-clapton-wiki] | — |
 | [Robin Trower](#robin-trower) | Guitar | [Wikipedia][robin-trower-wiki] | — |
-| [Gary Moore](#gary-moore) | Guitar | [Wikipedia][gary-moore-wiki] | — |
 | [Ginger Baker](#ginger-baker) | Drums | [Wikipedia][ginger-baker-wiki] | — |
 
 ---
@@ -52,42 +50,6 @@ Jack Bruce (1943–2014) was a Scottish bassist, vocalist, and composer who firs
 | [Life on Earth](https://open.spotify.com/search/Life%20on%20Earth%20BLT%20Robin%20Trower) | Hear how Bruce's voice sits on top of the band while the bass simultaneously drives the harmonic motion. |
 | [Once upon a Time in New York City](https://open.spotify.com/search/Once%20upon%20a%20Time%20in%20New%20York%20City%20BLT%20Robin%20Trower) | BLT album closing track; a good summary of Bruce's vocal authority and bass interplay with Trower. |
 
-## Eric Clapton
-
-Eric Clapton (b. 1945) is an English guitarist whose tenure in Cream (1966–68) alongside Jack Bruce and Ginger Baker established him as one of the defining voices of blues-rock guitar. His playing in that context is characterized by pentatonic blues vocabulary, a singing sustain on slower pieces, and an unusual restraint — he often left space that Bruce's busy bass lines filled. After Cream, he formed Derek and the Dominos, recorded the landmark *Layla and Other Assorted Love Songs* (1970), and went on to a long solo career spanning blues, rock, and pop. His connection to this ensemble's world is through the Cream partnership with Jack Bruce, which remains the most musically concentrated version of the blues-rock power trio template that BLT revisits. Clapton was not a member of BLT, but the Cream recordings are essential context for understanding what Bruce brought to the Trower collaboration.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1963–1965 | The Yardbirds | [Wikipedia](https://en.wikipedia.org/wiki/The_Yardbirds) | — | Early blues-rock apprenticeship. |
-| 1965–1966 | John Mayall's Bluesbreakers | [Wikipedia](https://en.wikipedia.org/wiki/Bluesbreakers_with_Eric_Clapton) | — | *Beano* album; first peak of his blues reputation. |
-| 1966–1968 | Cream | [Wikipedia](https://en.wikipedia.org/wiki/Cream_(band)) | — | Power trio with Bruce and Baker; the direct lineage for BLT. |
-| 1970 | Derek and the Dominos | [Wikipedia](https://en.wikipedia.org/wiki/Derek_and_the_Dominos) | — | *Layla* album with Duane Allman. |
-| 1970s–present | Solo career | [Wikipedia][eric-clapton-wiki] | — | Blues and rock recordings spanning five decades. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson Les Paul (Bluesbreakers era); Gibson SG (early Cream); Fender Stratocaster "Blackie" (1970s solo career) |
-| Amplifiers | Marshall stacks (Cream era); Fender amps (later career) |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [White Room](https://open.spotify.com/search/White%20Room%20Cream) | Clapton's wah-drenched lead tone frames the song; listen for how he phrases against Bruce's independent bass melody. |
-| [Sunshine of Your Love](https://open.spotify.com/search/Sunshine%20of%20Your%20Love%20Cream) | The guitar riff is doubled by bass; focus on how Clapton's lead solo builds from pentatonic vocabulary into long, singing lines. |
-| [Strange Brew](https://open.spotify.com/search/Strange%20Brew%20Cream) | A showcase for Clapton's Albert King-influenced phrasing — slow, deliberate bends with maximum expressiveness. |
-| [Crossroads](https://open.spotify.com/search/Crossroads%20Cream%20Wheels%20of%20Fire) | Live Cream performance; one of the defining blues-rock guitar solos on record, showing his peak improvisational intensity. |
-| [Badge](https://open.spotify.com/search/Badge%20Cream) | Co-written with George Harrison; hear how Clapton's melodic instincts work in a more composed, less improvised context. |
-| [Politician](https://open.spotify.com/search/Politician%20Cream) | Heavy riff track where the guitar and bass lock into a hypnotic groove; Clapton's rhythm work here is often overlooked. |
-| [Layla](https://open.spotify.com/search/Layla%20Derek%20and%20the%20Dominos) | Post-Cream peak; the opening riff and dual-guitar interplay with Duane Allman show how his style developed after Bruce. |
-| [Cocaine](https://open.spotify.com/search/Cocaine%20Eric%20Clapton) | Solo-era riff track; useful for hearing how his power-trio sensibility carried forward into a more mainstream context. |
-| [Spoonful](https://open.spotify.com/search/Spoonful%20Cream%20Wheels%20of%20Fire) | Extended live improvisation from *Wheels of Fire*; a document of how Cream approached open-ended blues jamming. |
-| [Have You Ever Loved a Woman](https://open.spotify.com/search/Have%20You%20Ever%20Loved%20a%20Woman%20Derek%20and%20the%20Dominos) | From *Layla*; slow blues where Clapton's vibrato and note choice are at their most emotionally direct. |
-
 ## Robin Trower
 
 Robin Trower (b. 1945) is an English guitarist who first came to prominence as a member of Procol Harum (1967–71) before launching a solo career that established him as one of the most distinctive Hendrix-influenced guitarists in rock. His solo debut *Twice Removed from Yesterday* (1973) introduced his signature partnership with drummer Bill Lordan, and *Bridge of Sighs* (1974) remains his most celebrated album, featuring a thick, sustained Stratocaster tone built on heavy use of vibrato, whammy bar, and a deep, reverberant amp sound. He brought that established trio sound directly into BLT, where his guitar work frames Jack Bruce's bass and vocals the way it had long framed Lordan's drumming. Trower's playing is less about flash and speed than about tone and sustain — single notes that hang and breathe — which makes the interplay with Bruce's melodic bass lines especially rich. He has continued recording and touring into the 2020s, maintaining the power-trio format as his primary vehicle.
@@ -125,43 +87,6 @@ Robin Trower (b. 1945) is an English guitarist who first came to prominence as a
 | [Stop](https://open.spotify.com/search/Stop%20BLT%20Robin%20Trower) | From the BLT album (1981); hear how Trower's guitar wraps around Bruce's lead vocal and bass. |
 | [No Island Lost](https://open.spotify.com/search/No%20Island%20Lost%20BLT%20Robin%20Trower) | BLT album track; a sustained, melodic piece that demonstrates the Trower-Bruce guitar-bass conversation. |
 | [Carmen](https://open.spotify.com/search/Carmen%20BLT%20Robin%20Trower) | BLT album track; a good example of the trio's dynamic range and Trower's ability to support the ensemble as well as lead it. |
-
-## Gary Moore
-
-Gary Moore (1952–2011) was a Northern Irish guitarist whose career spanned hard rock, heavy metal, and blues, and whose connection to this ensemble's world runs directly through his long collaboration with Jack Bruce. Moore played with Bruce in a series of contexts including the live album *Things We Like* (1970, recorded earlier) and the studio album *Around the Next Dream* (1994), which was effectively a blues-rock supergroup session with Bruce and Ginger Baker. His blues playing — showcased on *Still Got the Blues* (1990) — is characterized by intense, singing vibrato, long sustain, and an emotional directness rooted in Albert King and Peter Green. As a hard rock player, he worked with Thin Lizzy and recorded a series of high-energy solo albums. Moore was not a member of BLT, but his recorded work with Bruce represents one of the closest musical parallels to the BLT sound: heavy blues-rock with a technically accomplished lead guitarist and Bruce's dominant bass and vocal. His Fender Stratocaster and Les Paul tones are distinct but always blues-anchored.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1968–1973 | Skid Row (Irish) | [Wikipedia](https://en.wikipedia.org/wiki/Skid_Row_(Irish_band)) | — | Early career; blues and hard rock foundation. |
-| 1974–1979 | Thin Lizzy (intermittent) | [Wikipedia](https://en.wikipedia.org/wiki/Thin_Lizzy) | — | Hard rock context; multiple stints with Lynott. |
-| 1979–1989 | Solo hard rock period | [Wikipedia][gary-moore-wiki] | — | *Corridors of Power*, *Victims of the Future*, *Run for Cover*. |
-| 1990 | Solo — *Still Got the Blues* | [Wikipedia](https://en.wikipedia.org/wiki/Still_Got_the_Blues) | — | Commercial and critical peak; pure blues focus. |
-| 1994 | BBM — *Around the Next Dream* | [Wikipedia](https://en.wikipedia.org/wiki/Around_the_Next_Dream) | — | Supergroup with Jack Bruce and Ginger Baker. |
-| 1999–2011 | Solo blues period continued | [Wikipedia][gary-moore-wiki] | — | *Dark Days in Paradise*, *Power of the Blues*, *Bad for You Baby*. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson Les Paul (primary blues era); Fender Stratocaster (Peter Green's 1959 Les Paul acquired and used 1970–2006) |
-| Amplifiers | Marshall stacks; Soldano SLO-100 |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Gary%20Moore) | The defining Gary Moore blues recording; focus on the vibrato depth, the bend into notes, and the emotional arc of the solo. |
-| [Parisienne Walkways](https://open.spotify.com/search/Parisienne%20Walkways%20Gary%20Moore) | Slow blues with Phil Lynott on vocals; Moore's melodic restraint and sustain are at their most lyrical here. |
-| [Empty Rooms](https://open.spotify.com/search/Empty%20Rooms%20Gary%20Moore) | Hard rock ballad from the 1980s; shows how his lead style translates into a more structured, produced setting. |
-| [The Loner](https://open.spotify.com/search/The%20Loner%20Gary%20Moore) | Instrumental from *Wild Frontier* (1987); a showcase for his melodic single-note playing without vocal distraction. |
-| [Oh Pretty Woman](https://open.spotify.com/search/Oh%20Pretty%20Woman%20Gary%20Moore%20Still%20Got%20the%20Blues) | From *Still Got the Blues*; hear how he approaches a standard blues shuffle and makes it his own. |
-| [Too Tired](https://open.spotify.com/search/Too%20Tired%20Gary%20Moore%20Still%20Got%20the%20Blues) | *Still Got the Blues* track with Albert Collins; a slow blues that shows Moore's command of the genre's dynamics. |
-| [Bring My Baby Back](https://open.spotify.com/search/Bring%20My%20Baby%20Back%20BBM) | From the BBM (*Around the Next Dream*) album with Jack Bruce and Ginger Baker; the direct Cream-lineage context. |
-| [Where in the World](https://open.spotify.com/search/Where%20in%20the%20World%20BBM) | BBM album track; hear Moore's guitar in the power-trio format with the same rhythm section Bruce used in BLT. |
-| [Cold Wind Blows](https://open.spotify.com/search/Cold%20Wind%20Blows%20BBM) | BBM track; a heavier piece that shows how Moore's hard rock background enriches the blues-rock trio. |
-| [Walking by Myself](https://open.spotify.com/search/Walking%20by%20Myself%20Gary%20Moore%20Still%20Got%20the%20Blues) | *Still Got the Blues* shuffle; a good entry point for hearing how Moore's rhythm and lead interact in a trio-based context. |
 
 ## Ginger Baker
 

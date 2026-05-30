@@ -9,7 +9,6 @@ ZZ Top defined the Texas blues-rock power trio from 1969 onward, with Billy Gibb
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Dusty Hill](#dusty-hill) | Bass | [Wikipedia][dusty-hill-wiki] | — |
-| [Billy Gibbons](#billy-gibbons) | Guitar | [Wikipedia][billy-gibbons-wiki] | — |
 | [Joe Bonamassa](#joe-bonamassa) | Guitar | [Wikipedia][joe-bonamassa-wiki] | — |
 | [Frank Beard](#frank-beard) | Drums | [Wikipedia][frank-beard-wiki] | — |
 
@@ -46,41 +45,6 @@ Dusty Hill was ZZ Top's bassist and co-vocalist from the band's formation in 196
 | [Tube Snake Boogie][tube-snake-boogie-spotify] | Locomotive boogie bass line; notice how Hill's consistent pulse creates a platform for Gibbons's guitar to cut through. |
 | [Rough Boy][rough-boy-spotify] | Slow blues ballad; Hill strips down to long, sustained notes that give the track its emotional weight. |
 | [Doubleback][doubleback-spotify] | Later-period ZZ Top; Hill's bass holds together a polished pop-rock arrangement with the same economy he used in the early years. |
-
-## Billy Gibbons
-
-Billy Gibbons is ZZ Top's guitarist and principal songwriter. His playing combines Texas blues roots with an instantly recognizable tone — thick, mid-heavy, and harmonically rich — built on vintage Les Pauls, hot-rodded wiring, and a unconventional picking technique using a peso as a pick. Gibbons is a study in how personality, tone, and restraint can make even simple pentatonic vocabulary feel like a complete statement.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1967–1969 | Moving Sidewalks | [Wikipedia][moving-sidewalks-wiki] | — | Pre-ZZ Top Houston psychedelic rock band |
-| 1969–present | ZZ Top | [Wikipedia][zz-top-wiki] | — | Founding member; primary guitarist and songwriter |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | 1959 Gibson Les Paul ("Pearly Gates"); Gretsch Billy-Bo Jupiter Thunderbird; custom Fender Telecaster |
-| Pick | Mexican peso (copper/nickel) — distinctive thick attack |
-| Amplifier | Marshall Super Lead 100W; Mesa/Boogie |
-| Effects | Dunlop Cry Baby wah; various vintage fuzz pedals |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [La Grange][la-grange-spotify] | The opening boogie riff and the build into double-time shuffle are among rock's most recognized guitar statements — listen to how he moves from clean to overdriven with the band's intensity. |
-| [Sharp Dressed Man][sharp-dressed-man-spotify] | Gibbons's rhythm guitar work under the synth arrangement is a master class in restraint — he leaves room and enters with maximum impact. |
-| [Tush][tush-spotify] | Three chords, but the tone and phrasing say everything — study how Gibbons makes a simple I-IV-V feel like an event. |
-| [Jesus Just Left Chicago][jesus-spotify] | Slow Chicago blues with Gibbons improvising in open spaces; his vibrato and string bending here are among his best documented. |
-| [Just Got Paid][just-got-paid-spotify] | Early period rawness — Gibbons before the polished sound, playing direct blues-rock with more grit and less production. |
-| [Cheap Sunglasses][cheap-sunglasses-spotify] | Boogie-rock guitar; notice how the riff functions rhythmically as much as melodically. |
-| [Rough Boy][rough-boy-spotify] | Gibbons in slow-blues mode, extracting maximum expression from minimal notes. |
-| [Tube Snake Boogie][tube-snake-boogie-spotify] | The main riff is a pure Texas boogie guitar lesson — steady, locked, and driving. |
-| [I'm Bad, I'm Nationwide][im-bad-spotify] | Shuffle-groove guitar on *Degüello* (1979); Gibbons plays into the blues band arrangement without showboating. |
-| [Gimme All Your Lovin'][gimme-all-your-lovin-spotify] | The synth-era ZZ Top adaptation; Gibbons keeps the blues-rock identity alive inside a pop-sheen production. |
 
 ## Joe Bonamassa
 

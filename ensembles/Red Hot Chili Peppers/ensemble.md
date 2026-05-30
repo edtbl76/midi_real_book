@@ -10,7 +10,6 @@ Red Hot Chili Peppers formed in Los Angeles in 1983, built on a fusion of funk, 
 |---|---|---|---|
 | [Flea](#flea) | Bass | [Wikipedia][flea-wiki] | — |
 | [John Frusciante](#john-frusciante) | Guitar | [Wikipedia][john-frusciante-wiki] | — |
-| [Dave Navarro](#dave-navarro) | Guitar | [Wikipedia][dave-navarro-wiki] | — |
 | [Chad Smith](#chad-smith) | Drums | [Wikipedia][chad-smith-wiki] | — |
 
 ---
@@ -84,41 +83,6 @@ John Frusciante (born in Queens, New York, 1970; raised in Los Angeles) joined R
 | [Dani California](https://open.spotify.com/search/Dani%20California%20John%20Frusciante%20Red%20Hot%20Chili%20Peppers) | *Stadium Arcadium* era — listen for the classic-rock influenced pentatonic solo in the second half, which shows how Frusciante incorporates 1970s vocabulary into a funk-rock context. |
 | [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20John%20Frusciante%20Red%20Hot%20Chili%20Peppers) | Stevie Wonder cover that Frusciante rearranges for hard funk-rock; the wah-rhythm part in the verse is a good introduction to his effects-as-rhythm-texture approach. |
 | [Give It Away](https://open.spotify.com/search/Give%20It%20Away%20John%20Frusciante%20Red%20Hot%20Chili%20Peppers) | Frusciante deliberately steps back from the mix to let Flea and Smith carry the groove — study where he does and does not add guitar, and how sparse comping serves the track. |
-
-## Dave Navarro
-
-Dave Navarro (born in Santa Monica, California, 1967) is primarily known as the guitarist of Jane's Addiction, with whom he recorded *Nothing's Shocking* (1988) and *Ritual de lo Habitual* (1990), two albums that defined the late-1980s alt-rock and art-rock underground. He replaced John Frusciante in RHCP in 1993 and recorded one studio album with the band, *One Hot Minute* (1995), before departing in 1998. Navarro's playing brings a darker, more atmospheric quality to RHCP's sound — he favors sustained, heavily effected tones, wah pedal as a textural device, and draws on goth and post-punk vocabulary that sits notably differently against Flea's funk bass than Frusciante's cleaner attack. He later released a solo album, *Trust No One* (2001), and has rejoined Jane's Addiction through multiple subsequent reunions.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | Red Hot Chili Peppers | [Wikipedia][red-hot-chili-peppers-wiki] | — | Main musical setting for this ensemble; *One Hot Minute* (1995) only. |
-| Broader work | Jane's Addiction | [Wikipedia](https://en.wikipedia.org/wiki/Jane%27s_Addiction) | — | Primary band; *Nothing's Shocking* (1988), *Ritual de lo Habitual* (1990), *Strays* (2003), *The Great Escape Artist* (2011). |
-| Broader work | Solo | [Wikipedia](https://en.wikipedia.org/wiki/Dave_Navarro) | — | *Trust No One* (2001). |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | PRS guitars (primary from mid-career onward); Gibson Les Paul (earlier work); various custom instruments |
-| Amplification | Marshall JCM 800 and JCM 900 heads; Mesa/Boogie |
-| Effects | Dunlop Cry Baby wah (central to his textural approach); various modulation and delay units; heavy use of sustain and feedback |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Warped](https://open.spotify.com/search/Warped%20Dave%20Navarro%20Red%20Hot%20Chili%20Peppers) | The album opener; Navarro's heavily processed, wah-driven guitar tone is immediately distinct from Frusciante's — listen for how the atmosphere differs from earlier RHCP records. |
-| [My Friends](https://open.spotify.com/search/My%20Friends%20Dave%20Navarro%20Red%20Hot%20Chili%20Peppers) | A rare RHCP ballad-leaning track; study Navarro's restrained approach to texture and how he supports a vocal-led arrangement without filling the mid-range. |
-| [Aeroplane](https://open.spotify.com/search/Aeroplane%20Dave%20Navarro%20Red%20Hot%20Chili%20Peppers) | One of the most energetic tracks on the album; listen for how Navarro's funk-informed rhythm guitar adapts to Flea's slap groove while bringing his own harder edge. |
-| [Coffee Shop](https://open.spotify.com/search/Coffee%20Shop%20Dave%20Navarro%20Red%20Hot%20Chili%20Peppers) | The guitar riff here draws on Jane's Addiction-style noise-rock texture; notice how the sustained, effects-heavy chord work contrasts with the band's usual percussive attack. |
-| [One Big Mob](https://open.spotify.com/search/One%20Big%20Mob%20Dave%20Navarro%20Red%20Hot%20Chili%20Peppers) | An extended groove track that shows Navarro willing to stay in a single tonal area — follow how he builds density across the song's long arc. |
-| [Walkabout](https://open.spotify.com/search/Walkabout%20Dave%20Navarro%20Red%20Hot%20Chili%20Peppers) | Spacious, psychedelic feel; Navarro uses ambient sustain and slide-inflected phrases in a way that foregrounds his post-punk and art-rock background. |
-| [Tearjerker](https://open.spotify.com/search/Tearjerker%20Dave%20Navarro%20Red%20Hot%20Chili%20Peppers) | An elegy written by Kiedis for Kurt Cobain; Navarro's clean tone and understated fingerpicked lines here are some of his most delicate playing on the record. |
-| [Falling Into Grace](https://open.spotify.com/search/Falling%20Into%20Grace%20Dave%20Navarro%20Red%20Hot%20Chili%20Peppers) | Track the way Navarro comps behind the verse melody, mostly in sustain and space rather than rhythmic chop — the opposite of the band's usual funk-scratch approach. |
-| [Shallow Be Thy Game](https://open.spotify.com/search/Shallow%20Be%20Thy%20Game%20Dave%20Navarro%20Red%20Hot%20Chili%20Peppers) | Harder, more aggressive riff-driven arrangement; this is where Navarro's heavy-rock vocabulary is most directly expressed within the RHCP context. |
-| [Transcending](https://open.spotify.com/search/Transcending%20Dave%20Navarro%20Red%20Hot%20Chili%20Peppers) | The album's closer; listen for how Navarro sustains and fades the guitar texture across the song's outro — a different kind of dynamic control than the band typically uses. |
 
 ## Chad Smith
 

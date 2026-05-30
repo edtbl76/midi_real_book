@@ -9,7 +9,6 @@ Intervals is a Canadian progressive metal band founded by guitarist Aaron Marsha
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Simon Grove](#simon-grove) | Bass | [Wikipedia][simon-grove-wiki] | — |
-| [Plini](#plini) | Guitar | [Wikipedia][plini-wiki] | — |
 | [Aaron Marshall](#aaron-marshall) | Guitar | [Wikipedia][aaron-marshall-wiki] | — |
 | [Troy Wright](#troy-wright) | Drums | [Wikipedia][troy-wright-wiki] | — |
 
@@ -46,40 +45,6 @@ Simon Grove is the bassist of Intervals and a member of the Australian progressi
 | [Light](https://open.spotify.com/search/Light%20Intervals) | Melody-forward track from *Circadian*; bass role is harmonic support rather than rhythmic anchor. |
 | [Belvedere](https://open.spotify.com/search/Belvedere%20Intervals) | Groove-forward track; hear how the bass locks with kick to create a djent-funk feel. |
 | [The Escape](https://open.spotify.com/search/The%20Escape%20Intervals) | Early EP track; the bass is more aggressive here, tracking the heavy riff architecture closely. |
-
-## Plini
-
-Plini (b. 1991, Sydney) is an Australian guitarist, composer, and producer who releases music independently and has become a central figure in the modern progressive fusion scene. His playing is characterized by legato fluency, harmonic sophistication, and an unusually clean tone for the genre. He shares the progressive-fusion scene with Intervals and has toured with them. His albums — *Handmade Cities* (2016), *Sunhead* (2018), *Impulse Voices* (2022) — define the melodic prog-fusion aesthetic.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 2011–present | Plini (solo/band) | [Wikipedia][plini-wiki] | — | *The End of Everything* EP (2013), *Sweet Nothings* EP (2013), *Other Things* EP (2014), *Handmade Cities* (2016), *Sunhead* (2018), *Impulse Voices* (2022) |
-| Various | Intervals collaboration | — | — | Touring and scene overlap with Intervals and Aaron Marshall |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Aristides guitars, various signature and custom instruments |
-| Amp | Fractal Audio Axe-Fx (primary live and studio rig) |
-| Effects | Strymon Timeline delay, light reverb; clean-to-crunch range |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Cascade](https://open.spotify.com/search/Cascade%20Plini) | Signature Plini tone: legato waterfall lines over a clean prog-fusion chord progression. |
-| [Every Piece Matters](https://open.spotify.com/search/Every%20Piece%20Matters%20Plini) | Melody-forward approach; listen for how each phrase has a beginning, development, and resolution. |
-| [Electric Sunrise](https://open.spotify.com/search/Electric%20Sunrise%20Plini) | The closest he gets to rock intensity while keeping the melodic clarity intact. |
-| [Selenium Forest](https://open.spotify.com/search/Selenium%20Forest%20Plini) | Collaboration with Intervals's Aaron Marshall; hear the two guitar styles interacting. |
-| [Handmade Cities](https://open.spotify.com/search/Handmade%20Cities%20Plini) | Title track of his 2016 album; production and arrangement sophistication at the peak of his early style. |
-| [Salt + Charcoal](https://open.spotify.com/search/Salt%20Charcoal%20Plini) | Funky groove and jazz harmony alongside prog structure; the fusion side of his vocabulary. |
-| [Inhale](https://open.spotify.com/search/Inhale%20Plini) | Ballad phrasing; study vibrato width and depth as emotional communication tools. |
-| [The Glass Bead Game](https://open.spotify.com/search/The%20Glass%20Bead%20Game%20Plini) | Complex composition; full band context showing how his guitar fits into an ensemble rather than dominating. |
-| [Sunhead](https://open.spotify.com/search/Sunhead%20Plini) | Title track from 2018; most polished production and most song-like structure in his catalog. |
-| [Pan](https://open.spotify.com/search/Pan%20Plini) | Introspective slow piece; economy of notes and control of space rather than display of technique. |
 
 ## Aaron Marshall
 

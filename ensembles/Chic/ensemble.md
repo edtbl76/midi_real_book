@@ -10,7 +10,6 @@ Chic was formed in New York in 1976 by guitarist Nile Rodgers and bassist Bernar
 |---|---|---|---|
 | [Bernard Edwards](#bernard-edwards) | Bass | [Wikipedia][bernard-edwards-wiki] | — |
 | [Nile Rodgers](#nile-rodgers) | Guitar | [Wikipedia][nile-rodgers-wiki] | — |
-| [David Williams](#david-williams) | Guitar | [Wikipedia][david-williams-wiki] | — |
 | [Tony Thompson](#tony-thompson) | Drums | [Wikipedia][tony-thompson-wiki] | — |
 
 ---
@@ -87,38 +86,6 @@ Nile Rodgers (born 1952) is an American guitarist, composer, and producer who co
 | [Like a Virgin](https://open.spotify.com/search/Like%20a%20Virgin%20Madonna) | As producer, Rodgers shaped the sound of one of the best-selling albums of the 1980s — hear his arrangement instincts at work. |
 | [Upside Down](https://open.spotify.com/search/Upside%20Down%20Diana%20Ross) | His production for Diana Ross applies the Chic rhythmic intelligence to a more mainstream pop context. |
 | [Get Lucky](https://open.spotify.com/search/Get%20Lucky%20Daft%20Punk) | Rodgers's guitar on Daft Punk's 2013 hit brought the Chic sound to a new generation — compare the tone directly to "Le Freak." |
-
-## David Williams
-
-David Williams (1950–1997) was an American session guitarist who served as the second guitarist in Chic during the band's peak years, providing rhythm guitar alongside Nile Rodgers and contributing to the ensemble's layered, interlocking guitar textures. He was also an in-demand session musician in Los Angeles, contributing to numerous pop and R&B recordings through the late 1970s and 1980s. Williams died in 1997.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1976–1983 | Chic | [Wikipedia][chic-wiki] | — | Second guitarist during primary Chic recording period. |
-| 1970s–1980s | Various session work | — | — | Active session guitarist in LA pop and R&B. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Dance Dance Dance (Yowsah, Yowsah, Yowsah)](https://open.spotify.com/search/Dance%20Dance%20Dance%20Yowsah%20Chic) | The debut Chic single — hear how Williams's second guitar locks with Rodgers's to thicken the rhythmic texture. |
-| [My Forbidden Lover](https://open.spotify.com/search/My%20Forbidden%20Lover%20Chic) | Focus on how two rhythm guitars occupy different frequencies and rhythmic slots without colliding. |
-| [Soup for One](https://open.spotify.com/search/Soup%20for%20One%20Chic) | From the 1982 soundtrack — listen for how the rhythm guitar layers contribute to the groove. |
-| [My Feet Keep Dancing](https://open.spotify.com/search/My%20Feet%20Keep%20Dancing%20Chic) | Track how the guitar line interacts with bass motion rather than simply doubling the rhythm. |
-| [Hangin'](https://open.spotify.com/search/Hangin%27%20Chic) | From Tongue in Chic (1982) — one of the later Chic recordings featuring Williams in the ensemble. |
-| [Everybody Dance](https://open.spotify.com/search/Everybody%20Dance%20Chic) | Listen for how the dual guitar arrangement creates a fuller rhythmic palette than a single guitar could. |
-| [At Last I Am Free](https://open.spotify.com/search/At%20Last%20I%20Am%20Free%20Chic) | A slower tempo that reveals how Williams supports the harmonic framework while leaving space for the bass. |
-| [Rebels Are We](https://open.spotify.com/search/Rebels%20Are%20We%20Chic) | From Real People (1980) — hear the guitar ensemble approach adapting to a slightly harder-edged Chic sound. |
-| [Stage Fright](https://open.spotify.com/search/Stage%20Fright%20Chic) | From Take It Off (1981) — listen for how the rhythm guitar maintains the Chic groove in a leaner arrangement. |
-| [Chic Mystique](https://open.spotify.com/search/Chic%20Mystique%20Chic) | From Tongue in Chic (1982) — track how the guitar texture has evolved from the classic disco period. |
 
 ## Tony Thompson
 

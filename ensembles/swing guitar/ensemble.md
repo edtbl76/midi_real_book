@@ -9,7 +9,6 @@ The Oscar Peterson Trio with Ray Brown on bass represents one of the defining ac
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Ray Brown](#ray-brown) | Bass | [Wikipedia][ray-brown-wiki] | — |
-| [Joe Pass](#joe-pass) | Guitar | [Wikipedia][joe-pass-wiki] | — |
 | [Barney Kessel](#barney-kessel) | Guitar | [Wikipedia][barney-kessel-wiki] | — |
 | [Buddy Rich](#buddy-rich) | Drums | [Wikipedia][buddy-rich-wiki] | — |
 | [Oscar Peterson](#oscar-peterson) | Piano | [Wikipedia][oscar-peterson-wiki] | — |
@@ -50,41 +49,6 @@ Ray Brown was one of the great bassists of the twentieth century, equally renown
 | [Honeysuckle Rose][honeysuckle-rose-spotify] | Peterson Trio; walking bass at its most definitive. |
 | [Ray Brown's Bag][ray-browns-bag-spotify] | Ray Brown solo/trio record; his compositional voice and bass playing as leader. |
 | [The Shadow of Your Smile][shadow-smile-spotify] | Ray Brown ballad playing; how he sustains warmth and melodic shape at slow tempos. |
-
-## Joe Pass
-
-Joe Pass was an American jazz guitarist whose recovery from heroin addiction led to a remarkable second act in his career — he emerged in the early 1970s as one of the most complete jazz guitar players alive and recorded the solo guitar album *Virtuoso* (1973) for Pablo Records, an extraordinary document of unaccompanied jazz guitar that became a landmark recording. Pass subsequently worked extensively with Oscar Peterson, Ella Fitzgerald, and other Pablo Records artists. His chord-melody approach, ability to walk bass while soloing, and bebop vocabulary made him one of the most studied jazz guitarists of any era.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1973–1994 | Solo / Pablo Records | [Wikipedia][joe-pass-wiki] | — | Extensive solo discography; *Virtuoso* series |
-| 1973–1993 | Oscar Peterson collaborations | [Wikipedia][oscar-peterson-wiki] | — | Duo and ensemble recordings |
-| 1973–1993 | Ella Fitzgerald | [Wikipedia][ella-fitzgerald-wiki] | — | Duo and ensemble recordings for Pablo |
-| 1973–1993 | Dizzy Gillespie / Norman Granz recordings | [Wikipedia][dizzy-gillespie-wiki] | — | Pablo Records All-Star settings |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson ES-175 (his primary instrument); Ibanez Joe Pass signature model |
-| Strings | Light gauge; clean, warm tone approach |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [How High the Moon][how-high-moon-spotify] | From *Virtuoso* (1973) — unaccompanied solo guitar; Pass walking bass, soloing, and maintaining harmonic structure simultaneously. |
-| [Sweet Georgia Brown][sweet-georgia-brown-spotify] | Solo guitar from *Virtuoso*; medium-swing with Pass demonstrating his bebop single-line vocabulary. |
-| [Night and Day][night-and-day-spotify] | *Virtuoso*; Pass on a Cole Porter standard — chord-melody and single-line improvisation in solo context. |
-| [Satin Doll][satin-doll-spotify] | Pass in a duo or trio setting; the Ellington standard in his hands. |
-| [Take the A Train][take-a-train-spotify] | Ellington standard; Pass demonstrating his swing vocabulary in an ensemble context. |
-| [Lester Leaps In][lester-leaps-in-spotify] | Lester Young standard; Pass's bebop roots in a fast swing context. |
-| [Them There Eyes][them-there-eyes-spotify] | With Ella Fitzgerald; Pass in a duo context accompanying one of jazz's great vocalists. |
-| [Cherokee][cherokee-pass-spotify] | Bebop standard; Pass navigating complex changes in fast swing. |
-| [Blues for Alley Cats][blues-alley-cats-pass-spotify] | Blues with Ray Brown; Pass in a trio jazz setting with Brown. |
-| [Seven Come Eleven][seven-come-eleven-pass-spotify] | Charlie Christian tune; Pass paying homage to the guitarist who defined the swing guitar tradition. |
 
 ## Barney Kessel
 

@@ -10,8 +10,6 @@ King's X formed in Springfield, Missouri (later relocating to Houston) around 19
 |---|---|---|---|
 | [Dug Pinnick](#dug-pinnick) | Bass | [Wikipedia][dug-pinnick-wiki] | — |
 | [Ty Tabor](#ty-tabor) | Guitar | [Wikipedia][ty-tabor-wiki] | — |
-| [Nuno Bettencourt](#nuno-bettencourt) | Guitar | [Wikipedia][nuno-bettencourt-wiki] | — |
-| [Vernon Reid](#vernon-reid) | Guitar | [Wikipedia][vernon-reid-wiki] | — |
 | [Jerry Gaskill](#jerry-gaskill) | Drums | [Wikipedia][jerry-gaskill-wiki] | — |
 
 ---
@@ -84,74 +82,6 @@ Ty Tabor is the lead guitarist and co-vocalist of King's X, and his playing is d
 | [We Were Born to Be Loved](https://open.spotify.com/search/We%20Were%20Born%20to%20Be%20Loved%20King%27s%20X) | Focus on how the guitar part is arranged to support the three-part vocal harmony rather than compete with it. |
 | [Black Flag](https://open.spotify.com/search/Black%20Flag%20King%27s%20X) | Listen for the riff construction and how the guitar and bass create the ensemble feel together. |
 | [Pleiades](https://open.spotify.com/search/Pleiades%20King%27s%20X) | Track how the guitar creates atmosphere and melodic tension without relying on technical display. |
-
-## Nuno Bettencourt
-
-Nuno Bettencourt is the lead guitarist of Extreme, the Boston-based hard rock band whose peak period (1989–1995) overlapped directly with King's X's most important albums, and whose musical world shares significant territory with the King's X orbit: heavy rock informed by funk, pop songwriting, and serious guitar craft. Bettencourt is not a King's X member, but he belongs in this ensemble as a representative of the adjacent alternative metal/hard rock space that formed alongside and around King's X in the late 1980s and early '90s. His technique is distinctive — a percussive right-hand approach, tapping vocabulary, and string-skipping lines drawn from both classical and funk influences — and he is closely identified with the Washburn N4, his signature guitar. Extreme's catalog ranges from acoustic ballads ("More Than Words") to funk-rock grooves ("Decadence Dance") to full-bandwidth hard rock, giving Bettencourt a wide tonal and stylistic range to draw from. His playing rewards close listening for right-hand articulation, note economy under high technical demand, and the way his lines fit Extreme's tight rhythm section.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1985–present | Extreme | — | — | Core member; lead guitar, primary songwriter. |
-| Various | Solo / Rihanna / other collaborations | — | — | Extensive session and production work. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Washburn N4 (signature model; primary instrument) |
-| Amplification | Mesa/Boogie amplifiers |
-| Amplification | Marshall amplifiers |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Decadence Dance](https://open.spotify.com/search/Decadence%20Dance%20Extreme) | Hear the funk-rock right-hand technique that defines Bettencourt's rhythmic approach; listen for percussive muting and syncopation. |
-| [He-Man Woman Hater](https://open.spotify.com/search/He-Man%20Woman%20Hater%20Extreme) | Focus on the heavy riff construction and how the guitar locks with the rhythm section. |
-| [Rest in Peace](https://open.spotify.com/search/Rest%20in%20Peace%20Extreme) | Use this for lead tone and phrasing — one of Bettencourt's most focused and melodic solos. |
-| [Play with Me](https://open.spotify.com/search/Play%20with%20Me%20Extreme) | Listen for the classical-influenced rapid-fire technique and how it sits in a full-band rock context. |
-| [More Than Words](https://open.spotify.com/search/More%20Than%20Words%20Extreme) | Track the acoustic fingerpicking approach and how Bettencourt uses touch and dynamics without a pick. |
-| [Hole Hearted](https://open.spotify.com/search/Hole%20Hearted%20Extreme) | Focus on the chord voicings and how the acoustic guitar carries the full harmonic weight of the song. |
-| [Get the Funk Out](https://open.spotify.com/search/Get%20the%20Funk%20Out%20Extreme) | Listen for the funk-rhythm guitar interplay and how Bettencourt's right-hand precision drives the groove. |
-| [Tragic Comic](https://open.spotify.com/search/Tragic%20Comic%20Extreme) | Track the unconventional chord movement and how the guitar serves the songwriting rather than the solo. |
-| [Pornograffitti](https://open.spotify.com/search/Pornograffitti%20Extreme) | Hear the full-band dynamic range; listen for how the guitar shifts between heavy and melodic roles. |
-| [Song for Love](https://open.spotify.com/search/Song%20for%20Love%20Extreme) | Use this for dynamic control — how Bettencourt builds and releases tension across a longer-form track. |
-
-## Vernon Reid
-
-Vernon Reid is the lead guitarist of Living Colour, the New York-based hard rock and funk metal band that, like King's X, was doing something genuinely outside the mainstream formula of late-1980s rock: blending heavy riffs with jazz harmonic vocabulary, funk rhythm, and lyrical ambition. Reid is not a King's X member, but he occupies adjacent territory in the alternative metal and heavy rock world of that era, and his musical range overlaps directly with the ideas at play in King's X. His playing draws on jazz, avant-garde, blues, and metal simultaneously, and he is known for an extensive effects rig that produces highly abstracted tones — whammy-bar use, pitch-shifting, unusual textures — that sit alongside technically demanding melodic lines. His work with Living Colour (and in jazz and experimental contexts outside the band) represents a different but complementary approach to the same question King's X was asking: how much harmonic and rhythmic complexity can you build into a rock band without losing the weight? Reid plays various guitars including Gibson Les Paul and custom instruments.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1983–present | Living Colour | — | — | Core member; lead guitar, co-songwriter. |
-| Various | Masque / solo / jazz collaborations | — | — | Broad work outside Living Colour in jazz and experimental contexts. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson Les Paul (primary) |
-| Guitar | Various custom instruments |
-| Effects | Extensive effects rig; whammy bar, pitch-shifting, and experimental textures central to his sound |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Cult of Personality](https://open.spotify.com/search/Cult%20of%20Personality%20Living%20Colour) | Hear Reid's riff construction and lead tone at their most iconic; track how the guitar drives the arrangement without crowding the vocal. |
-| [Glamour Boys](https://open.spotify.com/search/Glamour%20Boys%20Living%20Colour) | Focus on the melodic guitar line and how it sits against Living Colour's rhythm section. |
-| [Love Rears Its Ugly Head](https://open.spotify.com/search/Love%20Rears%20Its%20Ugly%20Head%20Living%20Colour) | Listen for how Reid supports a melodic song with restrained but harmonically rich playing. |
-| [Time's Up](https://open.spotify.com/search/Time%27s%20Up%20Living%20Colour) | Track the dynamic range and how Reid shifts registers — from jazz-inflected chords to heavy riffs within a single track. |
-| [Funny Vibe](https://open.spotify.com/search/Funny%20Vibe%20Living%20Colour) | Use this for rhythm guitar: listen to the funk-metal interplay and how the guitar locks with bassist Muzz Skillings. |
-| [Solace of You](https://open.spotify.com/search/Solace%20of%20You%20Living%20Colour) | Focus on tone and phrasing in a slower, more melodic context — Reid's blues vocabulary and restraint. |
-| [Desperate People](https://open.spotify.com/search/Desperate%20People%20Living%20Colour) | Listen for the jazz harmonic vocabulary in a rock context and how the chord movement is constructed. |
-| [Type](https://open.spotify.com/search/Type%20Living%20Colour) | Track the avant-garde textural use of effects alongside more conventional rock phrasing. |
-| [Information Overload](https://open.spotify.com/search/Information%20Overload%20Living%20Colour) | Hear the heavy, driving side of Reid's playing and how the guitar creates density without muddying the arrangement. |
-| [Nothingness](https://open.spotify.com/search/Nothingness%20Living%20Colour) | Use this for extended soloing and how Reid develops ideas over a longer arc. |
 
 ## Jerry Gaskill
 

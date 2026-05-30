@@ -9,7 +9,6 @@ UZEB was a Canadian jazz-fusion trio formed in Montreal in 1976, built around ba
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Alain Caron](#alain-caron) | Bass | [Wikipedia][alain-caron-wiki] | — |
-| [Mike Stern](#mike-stern) | Guitar | [Wikipedia][mike-stern-wiki] | — |
 | [Frank Gambale](#frank-gambale) | Guitar | [Wikipedia][frank-gambale-wiki] | — |
 | [Paul Brochu](#paul-brochu) | Drums | [Wikipedia][paul-brochu-wiki] | — |
 
@@ -46,41 +45,6 @@ Alain Caron is a bassist associated with jazz fusion and electric jazz. His play
 | [Pato](https://open.spotify.com/search/Pato%20Alain%20Caron) | Solo album — a Brazilian-influenced track showcasing melodic clarity and rhythmic fluency. |
 | [Blue Miles](https://open.spotify.com/search/Blue%20Miles%20UZEB) | A more atmospheric UZEB track — listen for how the bass defines the harmonic center on a sparse arrangement. |
 | [Hey Madeleine](https://open.spotify.com/search/Hey%20Madeleine%20UZEB) | Canadian pop-fusion track — how his technique adapts to a more accessible, song-based structure. |
-
-## Mike Stern
-
-Mike Stern is a guitarist associated with jazz fusion and hard bop. He came to prominence through Miles Davis's early-1980s electric band and has led his own projects since, recording consistently for Atlantic Jazz. His playing combines bebop harmonic fluency with a distorted rock tone — a combination that places him in the same zone as John Scofield but with a more aggressive edge.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1981–1983 | Miles Davis | [Wikipedia][miles-davis-wiki] | — | Appeared on *The Man with the Horn* and *We Want Miles*. |
-| 1983–1985 | Jaco Pastorius Word of Mouth | — | — | Toured with Pastorius's large ensemble. |
-| 1985–present | Solo (Atlantic Jazz) | — | — | Extensive solo catalog of jazz-fusion albums. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | 1963 Fender Stratocaster (his primary instrument) |
-| Amplifier | Music Man HD-150 head |
-| Effects | Boss CE-2 chorus; various overdrives |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Chromazone](https://open.spotify.com/search/Chromazone%20Mike%20Stern) | Title track of his debut solo album — bebop-influenced phrasing over a rhythmically active fusion groove. |
-| [Upside Downside](https://open.spotify.com/search/Upside%20Downside%20Mike%20Stern) | From his second album — track how he alternates inside and outside harmonic choices. |
-| [Mood Swing](https://open.spotify.com/search/Mood%20Swing%20Mike%20Stern) | A slower ballad context — listen for his warm, sustained chord-melody approach. |
-| [Whatchamacallit](https://open.spotify.com/search/Whatchamacallit%20Mike%20Stern) | Up-tempo fusion — study how bebop vocabulary translates through a heavily distorted tone. |
-| [Give and Take](https://open.spotify.com/search/Give%20and%20Take%20Mike%20Stern) | From his *Give and Take* record — guitar and saxophone interplay in a modern jazz-fusion context. |
-| [Mile High](https://open.spotify.com/search/Mile%20High%20Mike%20Stern) | A well-known track showing his combination of jazz articulation and rock tone. |
-| [Play](https://open.spotify.com/search/Play%20Mike%20Stern) | Rhythm guitar focus — listen for how he comps behind other soloists with bebop-inflected chord voicings. |
-| [Catching Up](https://open.spotify.com/search/Catching%20Up%20Mike%20Stern) | From a later album — how his vocabulary evolved while maintaining the core jazz-fusion identity. |
-| [Rumble Seat](https://open.spotify.com/search/Rumble%20Seat%20Mike%20Stern) | Blues-influenced track — hear how his blues vocabulary sits inside the jazz-fusion framework. |
-| [Cool It](https://open.spotify.com/search/Cool%20It%20Mike%20Stern) | Funk-oriented fusion — study how he approaches rhythm guitar in a groove context vs. a blowing context. |
 
 ## Frank Gambale
 

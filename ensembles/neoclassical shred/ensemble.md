@@ -9,9 +9,7 @@ Yngwie Malmsteen's Rising Force, formed in Los Angeles in 1983, established the 
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Marcel Jacob](#marcel-jacob) | Bass | [Wikipedia][marcel-jacob-wiki] | — |
-| [Yngwie Malmsteen](#yngwie-malmsteen) | Guitar | [Wikipedia][yngwie-malmsteen-wiki] | — |
 | [Vinnie Moore](#vinnie-moore) | Guitar | [Wikipedia][vinnie-moore-wiki] | — |
-| [Joe Stump](#joe-stump) | Guitar | [Wikipedia][joe-stump-wiki] | — |
 | [Ian Haugland](#ian-haugland) | Drums | [Wikipedia][ian-haugland-wiki] | — |
 | [Jens Johansson](#jens-johansson) | Keyboards | [Wikipedia][jens-johansson-wiki] | — |
 
@@ -50,42 +48,6 @@ Marcel Jacob was a Swedish bassist and a founding member of Yngwie Malmsteen's R
 | [Change of Heart][change-of-heart-spotify] | Talisman; showing Jacob's range beyond the Malmsteen neoclassical setting. |
 | [Life][life-talisman-spotify] | Talisman; Jacob's melodic bass in a more pop-oriented hard-rock arrangement. |
 
-## Yngwie Malmsteen
-
-Yngwie Johan Malmsteen is a Swedish guitarist born in 1963 who moved to the United States in 1983 and almost immediately reshaped the language of rock guitar. Drawing from Johann Sebastian Bach, Niccolo Paganini, and Jimi Hendrix, he developed a style built on scalloped fretboards, heavy pick attack, and an intimate knowledge of Baroque counterpoint translated into electric guitar. His debut *Rising Force* (1984) and the albums that followed it made neoclassical metal a recognized subgenre and inspired thousands of guitarists.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1983 | Steeler | [Wikipedia][steeler-wiki] | — | American debut; early Shrapnel Records phase |
-| 1983–1984 | Alcatrazz | [Wikipedia][alcatrazz-wiki] | — | British hard rock band; international exposure |
-| 1984–present | Yngwie Malmsteen Rising Force | [Wikipedia][yngwie-malmsteen-wiki] | — | Solo vehicle; over 20 studio albums |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Stratocaster (scalloped fretboard, heavy strings); custom YJM Stratocaster signature model |
-| Pickups | DiMarzio YJM pickups (custom designed) |
-| Amplifier | Marshall 50W Super Lead "Plexi" (vintage 1968-1969 models) |
-| Effects | DOD 250 Overdrive; Korg digital delay |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Black Star][black-star-ym-spotify] | *Rising Force* (1984) — the opening instrumental; the track that announced neoclassical metal to the world. Listen to the classical phrasing and harmonic minor scale work. |
-| [Far Beyond the Sun][far-beyond-ym-spotify] | *Rising Force*; Malmsteen's most technically demanding and musically coherent composition from the early period; sweep arpeggios and Baroque melodic development. |
-| [Now Your Ships Are Burned][now-your-ships-ym-spotify] | *Marching Out* (1985) — the first Rising Force track with a full vocal, showing how his neoclassical vocabulary adapts to song form. |
-| [Trilogy Suite Op. 5][trilogy-suite-ym-spotify] | *Trilogy* (1986) — a multi-part classical guitar suite demonstrating Malmsteen's deepest engagement with Baroque composition. |
-| [Rising Force][rising-force-track-spotify] | Title track from the debut; fast instrumental with all of Malmsteen's signature elements — harmonic minor, pedal tones, arpeggios. |
-| [I'll See the Light Tonight][ill-see-light-spotify] | *Marching Out*; vocal song with Malmsteen's rhythm guitar and lead construction within a rock song context. |
-| [You Don't Remember, I'll Never Forget][you-dont-remember-ym-spotify] | *Trilogy*; ballad showing his melodic, sustain-oriented side alongside the pyrotechnic playing. |
-| [Liar][liar-ym-spotify] | *Trilogy*; uptempo neoclassical metal in a band-ensemble context. |
-| [Dreaming (Tell Me)][dreaming-spotify] | *Marching Out*; Malmsteen incorporating blues bending into his neoclassical vocabulary. |
-| [Deja Vu (Blues)][deja-vu-spotify] | Showing Malmsteen's blues playing — the foundation he built on before developing the neoclassical approach. |
-
 ## Vinnie Moore
 
 Vinnie Moore is a guitarist from Delaware who released his debut album *Mind's Eye* on Shrapnel Records in 1987. His playing combines Malmsteen-influenced neoclassical technique with a stronger emphasis on melodic development and a harder rock texture. Moore joined UFO in 1999 and has been their primary guitarist since, giving him a rock institution through-line alongside his solo neoclassical work.
@@ -118,40 +80,6 @@ Vinnie Moore is a guitarist from Delaware who released his debut album *Mind's E
 | [The Maze][the-maze-spotify] | Compositionally sophisticated neoclassical track with Moore developing a multi-section piece. |
 | [Man on a Mission][man-on-a-mission-spotify] | UFO track with Moore integrating into the British hard-rock band's established sound. |
 | [Badlands][badlands-ufo-spotify] | UFO; Moore bringing his technique to classic rock territory. |
-
-## Joe Stump
-
-Joe Stump is a Boston-based guitarist and music educator who has recorded extensively in the neoclassical shred style on his own releases while simultaneously building a career as a Berklee College of Music faculty member. His playing is explicitly rooted in Malmsteen's approach — harmonic minor, diminished arpeggios, alternate picking — but he has developed a distinct voice within that tradition. Stump also led the power metal band Reign of Terror.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1990s–present | Solo Career | [Wikipedia][joe-stump-wiki] | — | Multiple albums on Shrapnel and his own label |
-| 1990s–present | Reign of Terror | — | — | Power metal band with Stump as leader |
-| Various | Berklee College of Music | — | — | Faculty member; guitar instructor |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Stratocaster (scalloped fretboard following Malmsteen approach) |
-| Amplifier | Marshall |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Tower of Axes][tower-of-axes-spotify] | Joe Stump solo album — full-speed neoclassical shred with sweep arpeggios and harmonic minor scale vocabulary. |
-| [Evil Twin][evil-twin-spotify] | Stump track; rhythmically aggressive neoclassical metal with his picking speed and melodic line construction on display. |
-| [The Shredding Demon][shredding-demon-spotify] | Solo record title track; unambiguous technical showcase within a compositional framework. |
-| [Metallic Warfare][metallic-warfare-spotify] | Reign of Terror; Stump's guitar in a power metal band context. |
-| [Baroque 'n' Roll][baroque-n-roll-spotify] | Album title from 2000; Stump being explicit about the classical-metal synthesis his playing represents. |
-| [Speed Metal Messiah][speed-metal-messiah-spotify] | Stump solo; uptempo neoclassical metal in his direct Malmsteen-lineage mode. |
-| [Hyper Acceleration][hyper-accel-spotify] | Technical showcase piece demonstrating Stump's alternate picking velocity. |
-| [Flying Fingers][flying-fingers-spotify] | Stump solo; the title describes the approach — maximum speed within a harmonic minor framework. |
-| [Neoclassical][neoclassical-stump-spotify] | Direct stylistic statement from Stump; worth comparing to Malmsteen's approach to hear the differences. |
-| [Path to Destruction][path-destruction-spotify] | Reign of Terror; Stump in a full power-metal band with vocal and production context. |
 
 ## Ian Haugland
 

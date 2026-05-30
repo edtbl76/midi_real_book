@@ -10,8 +10,6 @@ Cream was a British power trio active from 1966 to 1968, comprising guitarist Er
 |---|---|---|---|
 | [Jack Bruce](#jack-bruce) | Bass | [Wikipedia][jack-bruce-wiki] | — |
 | [Eric Clapton](#eric-clapton) | Guitar | [Wikipedia][eric-clapton-wiki] | — |
-| [Robin Trower](#robin-trower) | Guitar | [Wikipedia][robin-trower-wiki] | — |
-| [Gary Moore](#gary-moore) | Guitar | [Wikipedia][gary-moore-wiki] | — |
 | [Ginger Baker](#ginger-baker) | Drums | [Wikipedia][ginger-baker-wiki] | — |
 
 ---
@@ -84,76 +82,6 @@ Eric Clapton (born 1945) came up through the Yardbirds and John Mayall's Bluesbr
 | [Tales of Brave Ulysses](https://open.spotify.com/search/Tales%20of%20Brave%20Ulysses%20Eric%20Clapton%20Cream) | Clapton reportedly used the wah-wah as a fixed tone shaper here rather than a swept effect — listen to the characteristic sound of the Disraeli Gears woman tone. |
 | [Outside Woman Blues](https://open.spotify.com/search/Outside%20Woman%20Blues%20Eric%20Clapton%20Cream) | A minor blues featuring slide guitar, showing a different tonal range from Clapton's usual approach in this era. |
 | [Politician](https://open.spotify.com/search/Politician%20Eric%20Clapton%20Cream) | Heavy, slow riff with space for Clapton to phrase in the gaps; good example of how the guitar functions as a rhythmic anchor in a power-trio context. |
-
-## Robin Trower
-
-Robin Trower (born 1945) grew up in Southend-on-Sea and first came to prominence with Procol Harum from 1967 to 1971, appearing on their first five albums, before leaving to lead his own power trio. His defining sound — Fender Stratocaster through Marshall 100-watt heads with a Uni-Vibe for chorus and vibrato — drew immediate comparisons to Jimi Hendrix, whom Trower has cited as his primary influence, though his phrasing is distinctively darker and more methodical. His 1974 album Bridge of Sighs broke through commercially in the United States and remains his best-known work, with songs like "Too Rolling Stoned" and the title track becoming live staples; he released four consecutive gold-certified albums between 1974 and 1977. In the early 1980s he began a long collaborative relationship with Jack Bruce, recording BLT (1981) and Truce (1982) with Bruce and drummer Bill Lordan, and later Seven Moons (2007) with Bruce and Gary Husband.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | BLT (Bruce, Lordan, Trower) | [Wikipedia][blt-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Robin Trower Band | [Wikipedia][robin-trower-wiki] | — | Solo power trio, 1973–present. |
-| Broader work | Procol Harum | [Wikipedia][procol-harum-wiki] | — | Progressive rock band, 1967–71. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Fender Stratocaster (black, used on Bridge of Sighs); later Fender Robin Trower Signature Stratocaster |
-| Amp | Marshall JMP-100 Mark II 100-watt heads (pair); Marshall 1960-B 4×12 cabinets |
-| Effects | Uni-Vibe (chorus/vibrato, central to his signature sound); Dunlop Cry Baby wah; volume boost pedal |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Bridge of Sighs](https://open.spotify.com/search/Bridge%20of%20Sighs%20Robin%20Trower) | The title track from his 1974 breakthrough album — the Uni-Vibe-drenched tone is definitive Trower; study how he sustains and bends within a slow, heavy blues feel. |
-| [Too Rolling Stoned](https://open.spotify.com/search/Too%20Rolling%20Stoned%20Robin%20Trower) | From Bridge of Sighs; an uptempo blues-rock workout where Trower's mid-song solo escalates through the full range of his Strat-Marshall combination. |
-| [Day of the Eagle](https://open.spotify.com/search/Day%20of%20the%20Eagle%20Robin%20Trower) | A concert staple from his Bridge of Sighs-era live set; aggressive power-trio riffing that shows the heavier side of his playing. |
-| [Little Bit of Sympathy](https://open.spotify.com/search/Little%20Bit%20of%20Sympathy%20Robin%20Trower) | From Bridge of Sighs; widely regarded as one of his finest recorded solos — track the phrasing and the way his vibrato shapes each held note. |
-| [Twice Removed from Yesterday](https://open.spotify.com/search/Twice%20Removed%20from%20Yesterday%20Robin%20Trower) | Title track from his 1973 solo debut; shows his Hendrix influence most directly, with wah-wah playing that is deliberately melodic rather than rhythmic. |
-| [Daydream](https://open.spotify.com/search/Daydream%20Robin%20Trower) | From Twice Removed from Yesterday; slow and atmospheric, with Trower sculpting individual notes carefully before building into denser clusters. |
-| [Caledonia](https://open.spotify.com/search/Caledonia%20Robin%20Trower) | From Long Misty Days (1976); a fast, funky riff-based track and one of his most celebrated studio performances. |
-| [In This Place](https://open.spotify.com/search/In%20This%20Place%20Robin%20Trower) | From Bridge of Sighs; mid-tempo blues where the Uni-Vibe is subtle and the phrasing centers on dynamics and space. |
-| [Alethea](https://open.spotify.com/search/Alethea%20Robin%20Trower) | From For Earth Below (1975); showcases the blues-soul side of his approach, with restrained, well-edited lead work. |
-| [I Can't Wait Much Longer](https://open.spotify.com/search/I%20Can%27t%20Wait%20Much%20Longer%20Robin%20Trower) | Opening track of his debut solo album; sets up the power-trio template he would refine on Bridge of Sighs — bass, drums, and guitar all present in equal measure. |
-
-## Gary Moore
-
-Gary Moore (1952–2011) was born in Belfast and moved to Dublin at sixteen to join Skid Row, establishing himself as an unusually powerful blues-rock guitarist in his teens. He had multiple stints with Thin Lizzy — most significantly recording the album Black Rose: A Rock Legend (1979) — before turning to a sustained solo career that ranged from hard rock (Corridors of Power, 1982) through melodic rock (Wild Frontier, 1987) to a full blues pivot with Still Got the Blues (1990), his best-selling album, which brought him collaborations with Albert King, Albert Collins, and George Harrison. His primary instrument for much of his solo career was a 1959 Gibson Les Paul Standard nicknamed "Greeny," previously owned by Peter Green of Fleetwood Mac, whose reversed neck pickup gave the guitar its distinctive hollow, nasal sound; he later favoured another 1959 Les Paul nicknamed "Stripe." In 1993 he joined Jack Bruce and Ginger Baker to form BBM, releasing Around the Next Dream (1994), a deliberate return to the power-trio blues-rock format of Cream.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | BBM (Baker, Bruce, Moore) | [Wikipedia][bbm-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Gary Moore solo | [Wikipedia][gary-moore-wiki] | — | Solo blues-rock catalog, 1978–2010. |
-| Broader work | Thin Lizzy | [Wikipedia][thin-lizzy-wiki] | — | Hard rock band; Moore recorded Black Rose with them (1979). |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | 1959 Gibson Les Paul Standard ("Greeny," ex-Peter Green, reversed neck pickup); 1959 Gibson Les Paul Standard ("Stripe," acquired 1989) |
-| Amp | Marshall JTM45 2245 (reissue); Marshall 1960B 4×12 cabinet with Electrovoice speakers |
-| Effects | Marshall Guv'nor overdrive (Mk I); otherwise a relatively direct signal chain |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Gary%20Moore) | His signature slow blues ballad from the 1990 album of the same name — the solo is a clinic in vibrato control and emotional phrasing at low tempo. |
-| [Oh Pretty Woman](https://open.spotify.com/search/Oh%20Pretty%20Woman%20Gary%20Moore) | From Still Got the Blues; an uptempo blues shuffle where Moore demonstrates how to build intensity through a series of escalating choruses. |
-| [Walking By Myself](https://open.spotify.com/search/Walking%20By%20Myself%20Gary%20Moore) | A mid-tempo boogie from Still Got the Blues showing the more rhythmically driving, riff-based side of his playing. |
-| [Parisienne Walkways](https://open.spotify.com/search/Parisienne%20Walkways%20Gary%20Moore) | His 1979 breakthrough single, featuring Phil Lynott on vocals; the slow, melodic lead line is one of the most recognised guitar statements of the era. |
-| [Cold Day in Hell](https://open.spotify.com/search/Cold%20Day%20in%20Hell%20Gary%20Moore) | Opening track of After Hours (1992); aggressive hard-blues with attacking dynamics showing the more direct, hard-rock side of his blues output. |
-| [Story of the Blues](https://open.spotify.com/search/Story%20of%20the%20Blues%20Gary%20Moore) | From After Hours; a dramatic slow blues that ranks among his most emotionally sustained recorded solos. |
-| [Midnight Blues](https://open.spotify.com/search/Midnight%20Blues%20Gary%20Moore) | From Still Got the Blues; a late-night slow blues where the Les Paul's sustain and his legato phrasing are used to maximum effect. |
-| [King of the Blues](https://open.spotify.com/search/King%20of%20the%20Blues%20Gary%20Moore) | From Still Got the Blues; a driving blues in the style of Albert King, who was a direct influence on Moore's attack and string-bending. |
-| [Over the Hills and Far Away](https://open.spotify.com/search/Over%20the%20Hills%20and%20Far%20Away%20Gary%20Moore) | From Wild Frontier (1987); rock balladry with an extended, melodic lead that shows the connection between his hard-rock and blues periods. |
-| [Out in the Fields](https://open.spotify.com/search/Out%20in%20the%20Fields%20Gary%20Moore%20Phil%20Lynott) | A 1985 collaboration with Phil Lynott from Run for Cover; urgent, riff-driven playing in a power-duo context that anticipates the trio format of BBM. |
 
 ## Ginger Baker
 

@@ -9,7 +9,6 @@ This ensemble connects the CAB project — Bunny Brunel and Tony MacAlpine's fus
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Bunny Brunel](#bunny-brunel) | Bass | [Wikipedia][bunny-brunel-wiki] | — |
-| [Tony MacAlpine](#tony-macalpine) | Guitar | [Wikipedia][tony-macalpine-wiki] | — |
 | [Jon Finn](#jon-finn) | Guitar | [Wikipedia][jon-finn-wiki] | — |
 | [Dennis Chambers](#dennis-chambers) | Drums | [Wikipedia][dennis-chambers-wiki] | — |
 | [Chick Corea](#chick-corea) | Keyboards | [Wikipedia][chick-corea-wiki] | — |
@@ -48,41 +47,6 @@ Bunny Brunel is a bassist associated with jazz fusion. He worked extensively wit
 | [Carnaval](https://open.spotify.com/search/Carnaval%20Bunny%20Brunel) | From his solo work — a Latin-inflected track showing the range of his vocabulary. |
 | [Suite for Violin and Jazz Piano](https://open.spotify.com/search/Suite%20for%20Violin%20and%20Jazz%20Piano%20Chick%20Corea%20Brunel) | Corea collaboration — classical-jazz fusion in a chamber ensemble context. |
 | [Nice](https://open.spotify.com/search/Nice%20Bunny%20Brunel) | Solo record — listen for how French jazz vocabulary blends into his electric fusion style. |
-
-## Tony MacAlpine
-
-Tony MacAlpine is a guitarist associated with neoclassical metal and jazz fusion. He trained as a classical pianist before taking up guitar, and this foundation gives his phrasing — particularly his use of diminished and harmonic minor scales — a compositional logic that distinguishes him from pure technique-focused shred guitarists. He has recorded extensively for Shrapnel and Mascot, and co-led CAB.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1986–present | Solo (Shrapnel / Mascot) | [Wikipedia][shrapnel-records-wiki] | — | *Edge of Insanity*, *Maximum Security*, and extensive solo catalog. |
-| 1990s | MARS / CAB | — | — | Collaborative projects alongside solo work. |
-| 2000–2006 | CAB | — | — | Three albums with Bunny Brunel and Dennis Chambers. |
-| 2007–present | Steve Vai band (touring) | [Wikipedia][steve-vai-wiki] | — | Touring keyboardist and guitarist with Vai's live group. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Ibanez Tony MacAlpine signature models |
-| Amplifier | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [The Taker](https://open.spotify.com/search/The%20Taker%20CAB%20Tony%20MacAlpine) | CAB — listen for how classical piano vocabulary translates into sweep-picked guitar runs. |
-| [Edge of Insanity](https://open.spotify.com/search/Edge%20of%20Insanity%20Tony%20MacAlpine) | Title track from his debut — Baroque-influenced scalar runs over a neoclassical metal framework. |
-| [Tears of Sahara](https://open.spotify.com/search/Tears%20of%20Sahara%20Tony%20MacAlpine) | CAB — study melodic development across an extended jazz-fusion solo. |
-| [The Stranger](https://open.spotify.com/search/The%20Stranger%20CAB) | Listen for how diminished scale patterns work inside a fusion-harmony context rather than a metal one. |
-| [Hundreds of Thousands](https://open.spotify.com/search/Hundreds%20of%20Thousands%20Tony%20MacAlpine) | High-tempo — study economy of picking and how arpeggios are integrated with scalar runs. |
-| [Autumn Lords](https://open.spotify.com/search/Autumn%20Lords%20CAB) | CAB — a more atmospheric track showing MacAlpine's lyrical side. |
-| [Maximum Security](https://open.spotify.com/search/Maximum%20Security%20Tony%20MacAlpine) | From his second solo album — neoclassical-shred in a full-band arrangement. |
-| [Freedom to Fly](https://open.spotify.com/search/Freedom%20to%20Fly%20Tony%20MacAlpine) | A ballad-influenced track — listen for his melodic phrasing outside the fast-shred context. |
-| [Hundreds of Thousands (Live)](https://open.spotify.com/search/Hundreds%20of%20Thousands%20CAB%20live) | Live CAB — hear how his technique holds up in a real-time, unrehearsed context. |
-| [Half the World](https://open.spotify.com/search/Half%20the%20World%20Tony%20MacAlpine) | Solo album fusion track — jazz-influenced harmony under the shred vocabulary. |
 
 ## Jon Finn
 

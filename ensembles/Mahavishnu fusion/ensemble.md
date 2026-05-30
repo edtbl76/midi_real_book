@@ -10,8 +10,6 @@ John McLaughlin founded the Mahavishnu Orchestra in New York in 1971, assembling
 |---|---|---|---|
 | [Stanley Clarke](#stanley-clarke) | Bass | [Wikipedia][stanley-clarke-wiki] | — |
 | [John McLaughlin](#john-mclaughlin) | Guitar | [Wikipedia][john-mclaughlin-wiki] | — |
-| [Al Di Meola](#al-di-meola) | Guitar | [Wikipedia][al-di-meola-wiki] | — |
-| [Bill Connors](#bill-connors) | Guitar | [Wikipedia][bill-connors-wiki] | — |
 | [Lenny White](#lenny-white) | Drums | [Wikipedia][lenny-white-wiki] | — |
 | [Chick Corea](#chick-corea) | Keyboards | [Wikipedia][chick-corea-wiki] | — |
 | [Jean-Luc Ponty](#jean-luc-ponty) | Violin | [Wikipedia][jean-luc-ponty-wiki] | — |
@@ -85,72 +83,6 @@ John McLaughlin was born in Yorkshire, England in 1942 and developed his guitar 
 | [Eternity's Breath](https://open.spotify.com/search/Eternity%27s%20Breath%20Mahavishnu%20Orchestra) | Focus on McLaughlin's role in the second lineup — how the orchestral context changes his guitar approach. |
 | [Joy](https://open.spotify.com/search/Joy%20Shakti%20John%20McLaughlin) | Listen for how McLaughlin translates his fusion vocabulary to acoustic guitar in an Indian classical framework. |
 | [Friday Night in San Francisco](https://open.spotify.com/search/Friday%20Night%20in%20San%20Francisco%20McLaughlin%20Di%20Meola%20de%20Lucia) | Track how the guitar fits three virtuoso voices in a live acoustic setting — articulation, dynamics, and interplay. |
-
-## Al Di Meola
-
-Al Di Meola was born in New Jersey in 1954 and came to wide attention at age 19 when he replaced Bill Connors in Return to Forever, appearing on *Where Have I Known You Before* (1974), *No Mystery* (1975, Grammy winner), and *Romantic Warrior* (1976). His playing is defined by elite alternate-picking velocity, a command of Latin and flamenco rhythmic vocabulary applied to fusion contexts, and an unusually precise right-hand technique. His debut solo album *Land of the Midnight Sun* (1976) followed immediately after leaving RTF, and *Elegant Gypsy* (1977) and *Casino* (1978) cemented his solo reputation. His trio work with Paco de Lucía and John McLaughlin, especially the live *Friday Night in San Francisco* (1981), brought acoustic guitar virtuosity to a mainstream jazz-rock audience.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | Mahavishnu fusion | [Wikipedia][mahavishnu-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | RTF guitarist 1974–76, three studio albums. |
-| Broader work | Al Di Meola solo | [Wikipedia][al-di-meola-wiki] | — | Solo career from 1976; *Elegant Gypsy*, *Casino*, *Splendido Hotel*. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson Les Paul (electric fusion work), Martin and Ovation acoustics (flamenco/acoustic recordings) |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Return%20to%20Forever) | Di Meola's first RTF album — listen for the blend of his flatpick attack within Clarke's composition. |
-| [Song to the Pharaoh Kings](https://open.spotify.com/search/Song%20to%20the%20Pharaoh%20Kings%20Return%20to%20Forever) | Track how the guitar line interacts with bass and keyboards over a long-form structure. |
-| [Majestic Dance](https://open.spotify.com/search/Majestic%20Dance%20Return%20to%20Forever) | Di Meola's own composition on *Romantic Warrior* — use this for lead construction and his approach to prog-fusion structure. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Al%20Di%20Meola) | Focus on alternate-picking velocity and rhythmic precision in a high-tempo fusion-flamenco context. |
-| [Elegant Gypsy Suite](https://open.spotify.com/search/Elegant%20Gypsy%20Suite%20Al%20Di%20Meola) | Listen for how Di Meola builds a full compositional arc — phrasing, tone, and dynamic contrast across multiple sections. |
-| [Mediterranean Sundance](https://open.spotify.com/search/Mediterranean%20Sundance%20Al%20Di%20Meola) | Focus on acoustic technique, melodic invention, and the interplay with Paco de Lucía. |
-| [Egyptian Danza](https://open.spotify.com/search/Egyptian%20Danza%20Al%20Di%20Meola) | Listen for how rhythmic density and harmonic color work together in a non-Western-influenced fusion setting. |
-| [Land of the Midnight Sun](https://open.spotify.com/search/Land%20of%20the%20Midnight%20Sun%20Al%20Di%20Meola) | Track how Di Meola structures a long improvisation — entrances, development, and release. |
-| [Casino](https://open.spotify.com/search/Casino%20Al%20Di%20Meola%20album) | Listen for how the guitar fits the ensemble across shifting feels — the full range of Di Meola's fusion language. |
-| [Midnight Tango](https://open.spotify.com/search/Midnight%20Tango%20Al%20Di%20Meola) | Focus on phrasing, tone, and how Di Meola shapes the melodic argument in a Latin-influenced groove. |
-
-## Bill Connors
-
-Bill Connors was born in Los Angeles in 1949 and is best known as the original electric guitarist in Chick Corea's Return to Forever, appearing on *Hymn of the Seventh Galaxy* (1973) before departing to pursue acoustic work. He brought a distinctly angular, rock-influenced guitar language to RTF — distorted, intervallic, and compositionally bold — that set the template for the group's electric period. After leaving RTF he largely abandoned electric guitar for acoustic, recording a sequence of solo ECM albums including *Theme to the Guardian* (1974), *Of Mist and Melting* (1978, with Jan Garbarek, Gary Peacock, and Jack DeJohnette), and *Swimming with a Hole in My Body* (1980). He returned to electric guitar on *Step It* (1984), collaborating with Dave Weckl and Tom Kennedy in a style influenced by Allan Holdsworth.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | Mahavishnu fusion | [Wikipedia][mahavishnu-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | RTF guitarist on *Hymn of the Seventh Galaxy* (1973). |
-| Broader work | Bill Connors solo (ECM) | [Wikipedia][bill-connors-wiki] | — | Acoustic solo records 1974–80 on ECM. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Electric guitar (RTF era, distorted rock tone), acoustic guitar (ECM solo era) |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Return%20to%20Forever) | Connors's defining statement — listen for his distorted, intervallic attack and how it drives the RTF sound. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Return%20to%20Forever) | Track how the guitar line interacts with Clarke's bass motion and sets up the compositional arc. |
-| [Captain Senor Mouse](https://open.spotify.com/search/Captain%20Senor%20Mouse%20Return%20to%20Forever) | Use this for lead construction: how Connors enters, develops a line, and releases tension in a fusion context. |
-| [Theme to the Mothership](https://open.spotify.com/search/Theme%20to%20the%20Mothership%20Return%20to%20Forever) | Listen for how the guitar fits the ensemble — angular, rock-rooted, but serving the group's collective vision. |
-| [The Game Maker](https://open.spotify.com/search/The%20Game%20Maker%20Return%20to%20Forever) | Focus on Connors's rhythmic placement and intervallic phrasing against the band's complex harmonic motion. |
-| [Space Circus](https://open.spotify.com/search/Space%20Circus%20Return%20to%20Forever) | Listen for how the rhythm guitar lays into the groove and how Connors's tone anchors the mix. |
-| [Of Mist and Melting](https://open.spotify.com/search/Of%20Mist%20and%20Melting%20Bill%20Connors) | Connors on solo acoustic ECM — focus on phrasing, space, and how his musical language transferred to the instrument. |
-| [Swimming with a Hole in My Body](https://open.spotify.com/search/Swimming%20with%20a%20Hole%20in%20My%20Body%20Bill%20Connors) | Track how Connors shapes the melodic argument without a band — pure compositional intent on acoustic guitar. |
-| [Theme to the Guardian](https://open.spotify.com/search/Theme%20to%20the%20Guardian%20Bill%20Connors) | His first solo acoustic statement; listen for how the RTF energy translates to a solo acoustic setting. |
-| [Step It](https://open.spotify.com/search/Step%20It%20Bill%20Connors) | Connors's return to electric guitar — listen for the Holdsworth influence and the contrast with his RTF years. |
 
 ## Lenny White
 

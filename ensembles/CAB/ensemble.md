@@ -10,7 +10,6 @@ CAB was a jazz-fusion project led by bassist Bunny Brunel, with the name various
 |---|---|---|---|
 | [Bunny Brunel](#bunny-brunel) | Bass | [Wikipedia][bunny-brunel-wiki] | — |
 | [Tony MacAlpine](#tony-macalpine) | Guitar / Keyboards | [Wikipedia][tony-macalpine-wiki] | — |
-| [Jon Finn](#jon-finn) | Guitar | [Wikipedia][jon-finn-wiki] | — |
 | [Dennis Chambers](#dennis-chambers) | Drums | [Wikipedia][dennis-chambers-wiki] | — |
 | [Chick Corea](#chick-corea) | Keyboards | [Wikipedia][chick-corea-wiki] | — |
 
@@ -88,40 +87,6 @@ Tony MacAlpine (b. 1960) is a guitarist and classically trained pianist who emer
 | [No Turning Back](https://open.spotify.com/search/No%20Turning%20Back%20CAB%202%20Tony%20MacAlpine) | From CAB 2 — MacAlpine in a fusion context, trading with Finn and reacting to Chambers' groove in real time. |
 | [Chromatic Fantasy](https://open.spotify.com/search/Chromatic%20Fantasy%20CAB%20Tony%20MacAlpine) | His reading of Bach's BWV 903 in the CAB context: neoclassical integrity preserved inside a fusion ensemble. |
 | [Madness](https://open.spotify.com/search/Madness%20Tony%20MacAlpine%201993) | The most compositionally ambitious of his solo records — listen for how structure and improvisation are balanced track by track. |
-
-## Jon Finn
-
-Jon Finn is a Boston-based guitarist and longtime Berklee College of Music faculty member whose playing combines neoclassical melodic logic with jazz-fusion command. He appeared on the CAB album series alongside Bunny Brunel and Dennis Chambers, and has led the Jon Finn Group on his own records.
-
-### Timeline
-
-| Period | Band / Collaborator | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1998 | Jon Finn Group | — | — | "Don't Look So Surprised" (1998). |
-| 1998–2003 | CAB | [Wikipedia][cab-wiki] | — | Guitar across CAB albums. |
-| 2005 | Jon Finn Group | — | — | "Wicked" (2005). |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-| Amplification | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [For Joe](https://open.spotify.com/search/For%20Joe%20Jon%20Finn%20CAB) | Finn's phrasing against the ensemble — track how he leaves space for Brunel rather than filling every bar. |
-| [Alphonse](https://open.spotify.com/search/Alphonse%20Jon%20Finn%20CAB) | Listen for his melodic construction: phrases that have a beginning, development, and clear endpoint. |
-| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20Jon%20Finn%20CAB) | Focus on how Finn navigates the harmonic movement — the passing tones he chooses reveal his jazz foundation. |
-| [Cab](https://open.spotify.com/search/Cab%20Jon%20Finn%20CAB) | The title track puts both guitarists in a tight ensemble context; notice how Finn's tone sits in the mix differently from MacAlpine's. |
-| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20Jon%20Finn%20CAB) | A funkier track — Finn's comping is as instructive as his lead work, matching the rhythmic vocabulary of the groove. |
-| [No Turning Back](https://open.spotify.com/search/No%20Turning%20Back%20CAB%202%20Jon%20Finn) | From CAB 2; listen for the guitar interplay between Finn and MacAlpine — two different melodic philosophies sharing a track. |
-| [Bernard](https://open.spotify.com/search/Bernard%20Jon%20Finn%20CAB) | Track how Finn's solos are shaped around the song form rather than running freely over the changes. |
-| [Don't Look So Surprised](https://open.spotify.com/search/Don%27t%20Look%20So%20Surprised%20Jon%20Finn%20Group) | His own record, his own band — the compositional voice is clearer here than in the all-star CAB context. |
-| [Wicked](https://open.spotify.com/search/Wicked%20Jon%20Finn%20Group%202005) | From his 2005 solo release; heavier production than the first record but the Berklee harmonic vocabulary is constant. |
-| [Chromatic Fantasy](https://open.spotify.com/search/Chromatic%20Fantasy%20CAB%20Jon%20Finn) | The Bach arrangement puts Finn in direct dialogue with MacAlpine over complex voice-leading — both players' classical awareness is on display. |
 
 ## Dennis Chambers
 

@@ -10,7 +10,6 @@ This music is centered on L.A. fusion/session: L.A. Listen for how the rhythm se
 |---|---|---|---|
 | [Jimmy Earl](#jimmy-earl) | Bass | [Wikipedia][jimmy-earl-wiki] | — |
 | [Mike Miller](#mike-miller) | Guitar | [Wikipedia][mike-miller-wiki] | — |
-| [Michael Landau](#michael-landau) | Guitar | [Wikipedia][michael-landau-wiki] | — |
 | [Vinnie Colaiuta](#vinnie-colaiuta) | Drums | [Wikipedia][vinnie-colaiuta-wiki] | — |
 | [Jeff Babko](#jeff-babko) | Keyboards | [Wikipedia][jeff-babko-wiki] | — |
 
@@ -79,38 +78,6 @@ Mike Miller is a guitarist associated with jazz fusion, session, rock. Musically
 | [Eruption](https://open.spotify.com/search/Eruption%20Mike%20Miller%20L.A.%20fusion/session) | Listen for how the guitar fits the band. |
 | [Little Wing](https://open.spotify.com/search/Little%20Wing%20Mike%20Miller%20L.A.%20fusion/session) | Focus on phrasing, tone, bends, and how Mike Miller shapes the melodic argument. |
 | [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Mike%20Miller%20L.A.%20fusion/session) | Listen for how the rhythm guitar lays into the groove. |
-
-## Michael Landau
-
-Michael Landau is a guitarist associated with rock, fusion, jazz-rock. Musically, the important traits here are elite legato fluency, hybrid picking sophistication, harmonic depth, melodic precision. In this ensemble: L.A. fusion / session. Related listening: Vinnie Colaiuta / Jeff Babko orbit.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| Ensemble focus | L.A. fusion/session | [Wikipedia][l-a-fusion-session-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Vinnie Colaiuta / Jeff Babko orbit | — | — | Related artists. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Georgy Porgy](https://open.spotify.com/search/Georgy%20Porgy%20Michael%20Landau%20L.A.%20fusion/session) | Listen for how the guitar fits the band. |
-| [Stratus](https://open.spotify.com/search/Stratus%20Michael%20Landau%20L.A.%20fusion/session) | Focus on phrasing, tone, bends, and how Michael Landau shapes the melodic argument. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Michael%20Landau%20L.A.%20fusion/session) | Listen for how the rhythm guitar lays into the groove. |
-| [Room 335](https://open.spotify.com/search/Room%20335%20Michael%20Landau%20L.A.%20fusion/session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Michael%20Landau%20L.A.%20fusion/session) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Michael%20Landau%20L.A.%20fusion/session) | Listen for how the guitar fits the band. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Michael%20Landau%20L.A.%20fusion/session) | Focus on phrasing, tone, bends, and how Michael Landau shapes the melodic argument. |
-| [Aja](https://open.spotify.com/search/Aja%20Michael%20Landau%20L.A.%20fusion/session) | Listen for how the rhythm guitar lays into the groove. |
-| [Peg](https://open.spotify.com/search/Peg%20Michael%20Landau%20L.A.%20fusion/session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Michael%20Landau%20L.A.%20fusion/session) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Vinnie Colaiuta
 

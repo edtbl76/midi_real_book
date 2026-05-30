@@ -9,8 +9,6 @@ Living Colour formed in New York City in 1984 around guitarist Vernon Reid, who 
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Dug Pinnick](#dug-pinnick) | Bass | [Wikipedia][dug-pinnick-wiki] | — |
-| [Ty Tabor](#ty-tabor) | Guitar | [Wikipedia][ty-tabor-wiki] | — |
-| [Nuno Bettencourt](#nuno-bettencourt) | Guitar | [Wikipedia][nuno-bettencourt-wiki] | — |
 | [Vernon Reid](#vernon-reid) | Guitar | [Wikipedia][vernon-reid-wiki] | — |
 | [Jerry Gaskill](#jerry-gaskill) | Drums | [Wikipedia][jerry-gaskill-wiki] | — |
 
@@ -50,76 +48,6 @@ Dug Pinnick is the bassist and co-vocalist of King's X, a band formed in Houston
 | [Dogman](https://open.spotify.com/search/Dogman%20King%27s%20X) | Title track of the 1994 album; heavier production, same principle — thick bass tone driving the arrangement. |
 | [Summerland](https://open.spotify.com/search/Summerland%20King%27s%20X) | Melodic and relatively open; focus on his three-way vocal blend with Tabor and Gaskill in the harmonies. |
 | [Legal Kill](https://open.spotify.com/search/Legal%20Kill%20King%27s%20X) | An example of his playing at mid-tempo funk-influenced grooves within a heavy context. |
-
-## Ty Tabor
-
-Ty Tabor is the lead guitarist of King's X and one of the most harmonically sophisticated players to emerge from the late-1980s hard rock scene. He is known for note choices that reflect jazz and classical awareness rather than blues pentatonic convention, and for a clean-tone vocabulary that sits alongside his heavier rhythm work without the two feeling like separate modes. His playing is careful — he avoids wasted notes and favors melodic development and arrival over sheer speed or technique display, though his technical command is considerable. He and Pinnick are close musical collaborators within King's X, and their guitar-bass conversation is one of the defining features of the band's sound. Outside King's X he has maintained a solo career across multiple albums and has worked with Platypus alongside Pinnick, Derek Sherinian, and Rod Morgenstein.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1980s–present | King's X | [Wikipedia](https://en.wikipedia.org/wiki/King%27s_X) | — | Lead guitar; primary creative voice alongside Pinnick. |
-| 1990s | Platypus | [Wikipedia](https://en.wikipedia.org/wiki/Platypus_(band)) | — | Progressive supergroup; three albums. |
-| 2000s–present | Solo (various albums) | — | — | Multiple solo records exploring melodic rock and progressive styles. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Gibson ES-335 and various semi-hollow Gibsons; also Hamer guitars in earlier years |
-| Amplifier | Mesa/Boogie and Marshall; clean tones often through Fender-style amplification |
-| Effects | Chorus, delay, and reverb feature heavily in his clean-tone work |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Groove Machine](https://open.spotify.com/search/Groove%20Machine%20King%27s%20X) | Listen for how the lead guitar melody is constructed — where it breathes and where it resolves. |
-| [Goldilox](https://open.spotify.com/search/Goldilox%20King%27s%20X) | One of the most melodically direct moments in the King's X catalog; trace the arc of the solo. |
-| [The Difference (in the Garden of St. Anne's-on-the-Hill)](https://open.spotify.com/search/The%20Difference%20King%27s%20X) | Demonstrates his clean-tone harmonic work; listen for voicings that don't fit standard rock patterns. |
-| [Lost in Germany](https://open.spotify.com/search/Lost%20in%20Germany%20King%27s%20X) | His rhythm playing here is as important as the lead; note how the chords imply jazz harmony. |
-| [Complain](https://open.spotify.com/search/Complain%20King%27s%20X) | Up-tempo; use this for studying how he places lead accents within a driving groove. |
-| [Flies and Blue Skies](https://open.spotify.com/search/Flies%20and%20Blue%20Skies%20King%27s%20X) | Mid-period King's X; his tone shifted somewhat here — compare with earlier work. |
-| [Picture](https://open.spotify.com/search/Picture%20King%27s%20X) | A ballad setting that reveals his dynamic control and phrase economy. |
-| [Mississippi Moon](https://open.spotify.com/search/Mississippi%20Moon%20King%27s%20X) | Blues-rooted but filtered through his harmonic sensibility — not a standard pentatonic reading. |
-| [Manic Depression](https://open.spotify.com/search/Manic%20Depression%20King%27s%20X) | Their cover of the Hendrix track demonstrates how he interprets an iconic guitar piece on his own terms. |
-| [Visions](https://open.spotify.com/search/Visions%20King%27s%20X) | Slow and expansive; focus on his vibrato, sustain, and note placement against the harmonic backdrop. |
-
-## Nuno Bettencourt
-
-Nuno Bettencourt is the guitarist of Extreme, the Boston-formed hard rock band best known for the acoustic ballad "More Than Words" but whose broader catalog is a showcase for Bettencourt's exceptional technical ability across funk, metal, and pop contexts. His right-hand technique is percussive and precise — he incorporates muted thumb strokes, tapping, and string-skipping in ways that emphasize rhythm and texture as much as melody. He is a devoted student of Jimi Hendrix's sense of guitar-as-everything-at-once and shares with Living Colour's Vernon Reid the quality of making the guitar function simultaneously as a rhythm section and a lead voice. His Washburn N-series signature guitar became well known in the early 1990s. Outside Extreme he has worked as a producer, has been a touring guitarist for Rihanna, and recorded with his own band Mourning Widows.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1985–present | Extreme | [Wikipedia](https://en.wikipedia.org/wiki/Extreme_(band)) | — | Primary band; debut 1989, commercial peak with *Pornograffitti* (1990). |
-| 1990s | Mourning Widows | [Wikipedia](https://en.wikipedia.org/wiki/Mourning_Widows) | — | Side project; two albums. |
-| 2000s–present | Solo / touring / production | — | — | Production work; touring guitarist for Rihanna (2011). |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Washburn N-series (signature model, primary instrument); also various Fender and Gibson guitars |
-| Amplifier | Marshall JCM series; has also used Bogner and Mesa/Boogie |
-| Effects | Wah, chorus, and delay; right-hand technique often replaces the need for heavy processing |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Decadence Dance](https://open.spotify.com/search/Decadence%20Dance%20Extreme) | Full-band funk-metal with Bettencourt's percussive rhythm approach at the center — listen for the muted-string work. |
-| [He-Man Woman Hater](https://open.spotify.com/search/He-Man%20Woman%20Hater%20Extreme) | Demonstrates how he uses right-hand technique rhythmically in a straight rock context. |
-| [Get the Funk Out](https://open.spotify.com/search/Get%20the%20Funk%20Out%20Extreme) | His funk-guitar playing closest to a P-Funk/Hendrix lineage; watch the chord shapes he uses. |
-| [More Than Words](https://open.spotify.com/search/More%20Than%20Words%20Extreme) | Acoustic fingerstyle; reveals how much of his tone comes from right-hand articulation. |
-| [Hole Hearted](https://open.spotify.com/search/Hole%20Hearted%20Extreme) | Another acoustic-driven track; listen for the bassline he implies with thumb and fingers simultaneously. |
-| [Pornograffitti](https://open.spotify.com/search/Pornograffitti%20Extreme) | Suite-style track from the album of the same name; his lead playing integrates multiple genre vocabularies. |
-| [Rest in Peace](https://open.spotify.com/search/Rest%20in%20Peace%20Extreme) | Metal-leaning riffing alongside the band's pop-harmony instincts; listen for how the parts layer. |
-| [Midnight Express](https://open.spotify.com/search/Midnight%20Express%20Extreme) | Instrumental showcase; demonstrates tapping, string-skipping, and melodic construction. |
-| [Hip Today](https://open.spotify.com/search/Hip%20Today%20Extreme) | From *III Sides to Every Story*; a more aggressive rock context, showing adaptability. |
-| [Stop the World](https://open.spotify.com/search/Stop%20the%20World%20Extreme) | Ballad with a strong lead; use this for studying his melodic phrasing over slow harmonic movement. |
 
 ## Vernon Reid
 

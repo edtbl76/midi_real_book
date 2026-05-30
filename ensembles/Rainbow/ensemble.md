@@ -9,10 +9,7 @@ Rainbow was founded by guitarist Ritchie Blackmore in 1975 after his departure f
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Bob Daisley](#bob-daisley) | Bass | [Wikipedia][bob-daisley-wiki] | — |
-| [Randy Rhoads](#randy-rhoads) | Guitar | [Wikipedia][randy-rhoads-wiki] | — |
-| [Gary Moore](#gary-moore) | Guitar | [Wikipedia][gary-moore-wiki] | — |
 | [Ritchie Blackmore](#ritchie-blackmore) | Guitar | [Wikipedia][ritchie-blackmore-wiki] | — |
-| [Uli Jon Roth](#uli-jon-roth) | Guitar | [Wikipedia][uli-jon-roth-wiki] | — |
 | [Tommy Aldridge](#tommy-aldridge) | Drums | [Wikipedia][tommy-aldridge-wiki] | — |
 | [Don Airey](#don-airey) | Keyboards | [Wikipedia][don-airey-wiki] | — |
 
@@ -51,74 +48,6 @@ Bob Daisley is an Australian bassist who was a member of Rainbow from 1975 throu
 | [Man on the Silver Mountain](https://open.spotify.com/search/Man%20on%20the%20Silver%20Mountain%20Rainbow) | The debut single — a foundational hard rock bass line that established Rainbow's sonic identity from the first note. |
 | [Crazy Train](https://open.spotify.com/search/Crazy%20Train%20Ozzy%20Osbourne) | Not a Rainbow track, but essential Daisley: he wrote the riff with Randy Rhoads and his bass playing is a cornerstone of the Osbourne catalog. |
 
-## Randy Rhoads
-
-Randy Rhoads was an American guitarist who trained classically from childhood, studying with private teachers in the Los Angeles area and developing an approach that grafted Bach-influenced counterpoint and Baroque melodic sequences onto hard rock rhythm and lead playing. He came to international attention as Ozzy Osbourne's guitarist on *Blizzard of Ozz* (1980) and *Diary of a Madman* (1981), recordings that had an outsized influence on the development of neoclassical and shred guitar in the 1980s. Rhoads was known for meticulous preparation, precise alternate picking, wide vibrato, and a tonal clarity unusual for heavy rock at the time. He was planning to leave the touring life to pursue formal university studies in classical guitar at the time of his death in a plane accident in March 1982. Though never a member of Rainbow, his neoclassical vocabulary drew deeply from the same European melodic tradition that Blackmore had established, making his work closely related to and frequently studied alongside the Rainbow catalog.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1975–1979 | Quiet Riot | [Wikipedia](https://en.wikipedia.org/wiki/Quiet_Riot) | — | Pre-fame LA band; recorded two Japan-only albums. |
-| 1980–1982 | Ozzy Osbourne | [Wikipedia](https://en.wikipedia.org/wiki/Ozzy_Osbourne) | — | Recorded Blizzard of Ozz and Diary of a Madman; died March 1982. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Custom Karl Sandoval V (white), 1974 Gibson Les Paul Custom (black), Marshall JMP 100W heads |
-| Amplifiers | Marshall JMP series |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Crazy Train](https://open.spotify.com/search/Crazy%20Train%20Ozzy%20Osbourne) | The opening riff is one of the most recognizable in rock; the solo showcases his alternate picking precision and scalar control under speed. |
-| [Mr. Crowley](https://open.spotify.com/search/Mr%20Crowley%20Ozzy%20Osbourne) | His most fully neoclassical solo — listen for the Bach-like melodic sequences and how he builds from a slow organ introduction to full intensity. |
-| [Revelation (Mother Earth)](https://open.spotify.com/search/Revelation%20Mother%20Earth%20Ozzy%20Osbourne) | An acoustic showcase that demonstrates his classical training and fingerpicking facility separate from his electric technique. |
-| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Ozzy%20Osbourne) | A brighter, more uptempo track from *Diary of a Madman* — focus on how he navigates a major-key environment with the same command he brings to minor. |
-| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Ozzy%20Osbourne) | The opening track of *Diary of a Madman*; listen for the driving rhythm guitar and how the lead phrases land between sections. |
-| [Goodbye to Romance](https://open.spotify.com/search/Goodbye%20to%20Romance%20Ozzy%20Osbourne) | A ballad that shows his melodic restraint and tone control; the solo is lyrical rather than speed-focused. |
-| [S.A.T.O.](https://open.spotify.com/search/SATO%20Ozzy%20Osbourne) | A rhythmically complex track where his picking hand articulation is especially clear; listen for the interaction with Bob Daisley's bass. |
-| [Suicide Solution](https://open.spotify.com/search/Suicide%20Solution%20Ozzy%20Osbourne) | A Blizzard of Ozz track with a particularly raw tone; listen for how his rhythm playing drives the song's forward momentum. |
-| [Dee](https://open.spotify.com/search/Dee%20Randy%20Rhoads%20Ozzy%20Osbourne) | A solo acoustic piece on *Blizzard of Ozz* named for his mother; a brief but concentrated display of his classical facility. |
-| [Diary of a Madman](https://open.spotify.com/search/Diary%20of%20a%20Madman%20Ozzy%20Osbourne) | Title track of the second album — a brooding, progressive piece where he matches Blackmore-era complexity with his own scalar vocabulary. |
-
-## Gary Moore
-
-Gary Moore was a Northern Irish guitarist whose career encompassed hard rock, heavy metal, jazz fusion, and eventually deep blues, making him one of the most technically complete and stylistically versatile guitarists of his generation. He had a brief association with Rainbow in 1978–1979, joining as a live touring guitarist during the *Long Live Rock 'n' Roll* period, though he did not appear on a Rainbow studio album. His primary recorded work spans his years with Thin Lizzy (alongside Phil Lynott), his collaborative recordings with Ozzy Osbourne and Greg Lake, and a long solo career that peaked commercially with the blues album *Still Got the Blues* (1990). His playing is distinguished by an exceptionally singing, sustained vibrato, enormous dynamic range, and the ability to convey genuine emotional weight within technically demanding passages. Moore's neoclassical and European hard-rock phrasing connects directly to the Rainbow lineage even in the absence of a studio recording together.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1974–1977, 1978–1979 | Thin Lizzy | [Wikipedia](https://en.wikipedia.org/wiki/Thin_Lizzy) | — | Recorded Back on the Streets and Live and Dangerous-era touring. |
-| 1978–1979 | Rainbow | [Wikipedia][rainbow-wiki] | — | Live touring member during the Long Live Rock 'n' Roll period. |
-| 1982–1984 | Solo / Gary Moore Band | [Wikipedia](https://en.wikipedia.org/wiki/Gary_Moore) | — | Corridors of Power, Victims of the Future. |
-| 1990 | Solo | [Wikipedia](https://en.wikipedia.org/wiki/Gary_Moore) | — | Still Got the Blues — commercial and critical peak. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | 1959 Gibson Les Paul Standard (Peter Green's original), Gibson Les Paul various models |
-| Amplifiers | Marshall JCM800, various Marshall heads |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Gary%20Moore) | His signature track — the opening melody and long, sustained solo phrases show his vibrato at its most expressive and emotionally direct. |
-| [Parisienne Walkways](https://open.spotify.com/search/Parisienne%20Walkways%20Gary%20Moore) | A slow blues with Phil Lynott on vocals; the lead playing here is about pacing and emotional arc over raw speed. |
-| [Out in the Fields](https://open.spotify.com/search/Out%20in%20the%20Fields%20Gary%20Moore%20Phil%20Lynott) | A hard rock duet with Phil Lynott from 1985; listen for the interplay between the two melodic sensibilities. |
-| [Empty Rooms](https://open.spotify.com/search/Empty%20Rooms%20Gary%20Moore) | A melodic hard rock track from *Victims of the Future* — shows his ability to serve a hook-driven song while still soloing with authority. |
-| [Wishing Well](https://open.spotify.com/search/Wishing%20Well%20Gary%20Moore) | From *Still Got the Blues* — a mid-tempo blues shuffle where his tone and string-bending technique are especially prominent. |
-| [The Loner](https://open.spotify.com/search/The%20Loner%20Gary%20Moore) | An instrumental from *Wild Frontier* that demonstrates his melodic construction and his classical-influenced approach to lead phrasing. |
-| [After the War](https://open.spotify.com/search/After%20the%20War%20Gary%20Moore) | A driving hard rock track — listen for how his rhythm guitar locks in and how the solo builds into the arrangement. |
-| [Cold Day in Hell](https://open.spotify.com/search/Cold%20Day%20in%20Hell%20Gary%20Moore) | A harder-edged blues from *Still Got the Blues*; the tone is rawer and the phrasing more aggressive than his ballad work. |
-| [Oh Well](https://open.spotify.com/search/Oh%20Well%20Gary%20Moore) | A cover of the Peter Green/Fleetwood Mac classic that connects his blues roots to his hard rock vocabulary. |
-| [Military Man](https://open.spotify.com/search/Military%20Man%20Gary%20Moore) | From *Dirty Fingers* — an early hard rock track that shows where his neoclassical leanings were heading before the blues pivot. |
-
 ## Ritchie Blackmore
 
 Ritchie Blackmore is an English guitarist who founded Rainbow in 1975 after departing Deep Purple, and remained the band's sole constant member across every lineup change and era through to the 2015 revival. His playing vocabulary blends blues-rooted pentatonic phrasing with European classical and Baroque melodic shapes — scales derived from Dorian and Phrygian modes, Bach-like sequenced runs, and dramatic minor-key harmonic movement — and he developed much of this language during his Deep Purple years before refining it further in Rainbow. He is one of the primary architects of what became neoclassical heavy metal, directly influencing players including Yngwie Malmsteen and Randy Rhoads. His rhythm guitar playing is equally important: he pioneered riff construction that layered classical interval structures over hard rock power chord energy. Since the mid-1990s he has led Blackmore's Night, a Renaissance and medieval folk project with his partner Candice Night.
@@ -152,40 +81,6 @@ Ritchie Blackmore is an English guitarist who founded Rainbow in 1975 after depa
 | [Since You Been Gone](https://open.spotify.com/search/Since%20You%20Been%20Gone%20Rainbow) | The Bonnet-era pop hit — listen for how Blackmore adapts his tone and approach to a tighter, more commercial arrangement without disappearing into it. |
 | [All Night Long](https://open.spotify.com/search/All%20Night%20Long%20Rainbow) | Another *Down to Earth* track with a strong mid-tempo groove; the solo uses pentatonic vocabulary more than on the Dio-era recordings. |
 | [Stone Cold](https://open.spotify.com/search/Stone%20Cold%20Rainbow) | A Turner-era power ballad from *Straight Between the Eyes* — one of the most melodically restrained solos in the catalog; listen for how he builds space and then resolves it. |
-
-## Uli Jon Roth
-
-Uli Jon Roth is a German guitarist who was the lead guitarist of Scorpions from 1973 to 1978, appearing on the albums *Fly to the Rainbow*, *In Trance*, *Virgin Killer*, *Taken by Force*, and the live *Tokyo Tapes* before departing to form Electric Sun. His playing in the Scorpions period is among the earliest documented examples of neo-classical guitar in hard rock: he used sweep arpeggios, classical scalar sequences, wide vibrato, and advanced left-hand techniques well before these elements became formalized genre conventions. After leaving Scorpions, he pursued increasingly classical and symphonic directions, eventually developing his own Sky Guitar instrument designed to replicate the upper register of a violin. Though not a Rainbow member, his neoclassical vocabulary developed in parallel with Blackmore's and the two are consistently studied alongside each other as co-founders of the European neoclassical guitar tradition.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1973–1978 | Scorpions | [Wikipedia](https://en.wikipedia.org/wiki/Scorpions_(band)) | — | Lead guitarist; Fly to the Rainbow through Taken by Force. |
-| 1978–1985 | Electric Sun | [Wikipedia](https://en.wikipedia.org/wiki/Electric_Sun) | — | Solo project; Earthquake, Firewind, Beyond the Astral Skies. |
-| 1990s–present | Solo / Symphonic | [Wikipedia](https://en.wikipedia.org/wiki/Uli_Jon_Roth) | — | Sky Guitar development and orchestral crossover work. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | Custom Sky Guitar (extended upper register), various Fender Stratocaster-style instruments |
-| Amplifiers | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [In Trance](https://open.spotify.com/search/In%20Trance%20Scorpions) | Title track of the 1975 Scorpions album — one of the earliest recordings to document his sweeping, violin-like melodic approach at full intensity. |
-| [Fly to the Rainbow](https://open.spotify.com/search/Fly%20to%20the%20Rainbow%20Scorpions) | The closing track of the debut Roth-era Scorpions album; listen for the extended, lyrical guitar work that foreshadows his full neo-classical development. |
-| [He's a Woman — She's a Man](https://open.spotify.com/search/He%27s%20a%20Woman%20She%27s%20a%20Man%20Scorpions) | One of the most well-known Roth-era Scorpions tracks; the riff and solo show his pentatonic-to-classical modal pivot in real time. |
-| [Speedy's Coming](https://open.spotify.com/search/Speedy%27s%20Coming%20Scorpions) | A high-energy track from *Fly to the Rainbow* — fast, focused, and a good introduction to his rhythmic precision under speed. |
-| [Virgin Killer](https://open.spotify.com/search/Virgin%20Killer%20Scorpions) | Title track of the 1976 album; the lead playing here is particularly aggressive and sets a benchmark for European metal guitar vocabulary of the era. |
-| [Taken by Force](https://open.spotify.com/search/Taken%20by%20Force%20Scorpions) | Title track of the 1977 album; listen for how the arrangement and the guitar line interact as the band pushes toward more complex structures. |
-| [The Sails of Charon](https://open.spotify.com/search/The%20Sails%20of%20Charon%20Scorpions) | From *Taken by Force* — widely cited as one of the greatest proto-neoclassical guitar performances on record; the intro and solo are essential listening. |
-| [We'll Burn the Sky](https://open.spotify.com/search/We%27ll%20Burn%20the%20Sky%20Scorpions) | A slower, more atmospheric piece from *Taken by Force* that showcases his melodic and emotional range beyond sheer speed. |
-| [Earthquake](https://open.spotify.com/search/Earthquake%20Electric%20Sun%20Uli%20Jon%20Roth) | From his first Electric Sun album — post-Scorpions work that shows the direction he pursued after leaving the band. |
-| [All Night Long](https://open.spotify.com/search/All%20Night%20Long%20Scorpions%20Tokyo%20Tapes) | From *Tokyo Tapes* (1978 live album) — a high-energy live performance that captures the full Roth-era Scorpions sound at peak intensity. |
 
 ## Tommy Aldridge
 

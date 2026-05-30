@@ -9,11 +9,7 @@ King Crimson formed in London in 1968 and released *In the Court of the Crimson 
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Tony Levin](#tony-levin) | Bass | [Wikipedia][tony-levin-wiki] | — |
-| [John Petrucci](#john-petrucci) | Guitar | [Wikipedia][john-petrucci-wiki] | — |
 | [Adrian Belew](#adrian-belew) | Guitar | [Wikipedia][adrian-belew-wiki] | [Website][adrian-belew-site] |
-| [David Rhodes](#david-rhodes) | Guitar | [Wikipedia][david-rhodes-wiki] | — |
-| [Mike Portnoy](#mike-portnoy) | Drums | [Wikipedia][mike-portnoy-wiki] | — |
-| [Pat Mastelotto](#pat-mastelotto) | Drums | [Wikipedia][pat-mastelotto-wiki] | — |
 | [Jordan Rudess](#jordan-rudess) | Keyboards | [Wikipedia][jordan-rudess-wiki] | — |
 | [Mel Collins](#mel-collins) | Saxophone | [Wikipedia][mel-collins-wiki] | — |
 
@@ -54,41 +50,6 @@ Tony Levin (born 1946 in Boston) is an American bassist and Chapman Stick player
 | [VROOOM](https://open.spotify.com/search/VROOOM%20Tony%20Levin%20King%20Crimson) | The Mk VII opener — two bassists (Levin and Gunn) operate in different registers; isolate Levin's lower-register Stick lines against Gunn's warr guitar. |
 | [Dinosaur](https://open.spotify.com/search/Dinosaur%20Tony%20Levin%20King%20Crimson) | Belew's lyric is absurdist; the bass underpins a lurching rhythmic feel — listen for how Levin anchors the groove while leaving room for the double-drum interplay above. |
 
-## John Petrucci
-
-John Petrucci (born 1967 in Kings Park, New York) is the co-founder and lead guitarist of Dream Theater, the progressive-metal band he formed at Berklee College of Music in 1985. He is known for technically demanding alternate picking, fluid legato lines, and a compositional approach that integrates intricate odd-meter rhythms with melodic lead work across extended song forms. Petrucci was never a member of King Crimson; his connection to Crimson's world runs through Tony Levin, whom he met when Levin joined Liquid Tension Experiment — the instrumental supergroup Petrucci formed in 1997 with Levin, Mike Portnoy, and Jordan Rudess. His signature guitar tones, built around Mesa/Boogie amplifiers and Ernie Ball Music Man guitars, became a defining sound of progressive metal in the 1990s and 2000s.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1985–present | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Co-founder; lead guitarist across all studio albums. |
-| 1997–present | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Instrumental supergroup with Tony Levin, Portnoy, and Rudess. |
-| 2001–present | Solo | — | — | Multiple solo albums including *Suspended Animation* (2005) and *Terminal Velocity* (2020). |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitars | Ernie Ball Music Man JP signature series, PRS guitars (early career) |
-| Amplifiers | Mesa/Boogie Mark series heads |
-| Effects | TC Electronic G-Force, Eventide Eclipse, various rack processing |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Paradigm Shift](https://open.spotify.com/search/Paradigm%20Shift%20Liquid%20Tension%20Experiment) | Liquid Tension Experiment — the opening track of LTE's debut showcases Petrucci's alternate-picking runs in an ensemble that includes Levin and Portnoy; notice how the guitar lines respond to Levin's Stick parts. |
-| [Acid Rain](https://open.spotify.com/search/Acid%20Rain%20Liquid%20Tension%20Experiment) | LTE's most melodically direct track — Petrucci's lead tone and vibrato are exposed with minimal orchestration beneath them. |
-| [Metropolis Pt. 1](https://open.spotify.com/search/Metropolis%20Pt%201%20Dream%20Theater) | Dream Theater's most influential composition — 12 minutes of interlocking guitar and keyboard parts across shifting meters; Petrucci's rhythm and lead integration is fully on display. |
-| [A Change of Seasons](https://open.spotify.com/search/A%20Change%20of%20Seasons%20Dream%20Theater) | A 23-minute suite where Petrucci moves through acoustic passages, blues-influenced bends, and high-register shred; one of the most complete showcases of his stylistic range. |
-| [The Mirror](https://open.spotify.com/search/The%20Mirror%20Dream%20Theater) | A heavier rhythmic approach — listen for how Petrucci mutes and accents in asymmetric time signatures without losing the groove's forward momentum. |
-| [Under a Glass Moon](https://open.spotify.com/search/Under%20a%20Glass%20Moon%20Dream%20Theater) | Often cited as a peak display of his picking technique; the solo builds from melodic opening phrases into full alternate-picking acceleration. |
-| [Stream of Consciousness](https://open.spotify.com/search/Stream%20of%20Consciousness%20Dream%20Theater) | An entirely instrumental Dream Theater track — Petrucci composes and solos across three extended movements without the guitar ever losing its narrative thread. |
-| [Lines in the Sand](https://open.spotify.com/search/Lines%20in%20the%20Sand%20Dream%20Theater) | Features dueling melodic themes shared between guitar and keyboards; focus on how Petrucci phrases to complement rather than compete with Rudess. |
-| [Suspended Animation](https://open.spotify.com/search/Suspended%20Animation%20John%20Petrucci) | Solo record — more varied orchestration than Dream Theater; the title track shows Petrucci's compositional range beyond progressive metal into jazz-inflected writing. |
-| [Raven](https://open.spotify.com/search/Raven%20Liquid%20Tension%20Experiment%203) | From LTE3 (2021) — a reunion recording with Levin; hear how Petrucci's playing has evolved toward wider melodic intervals and more patient phrasing over decades of work with Levin's bass. |
-
 ## Adrian Belew
 
 Adrian Belew (born 1949 in Covington, Kentucky) came to international attention when Frank Zappa discovered him performing in a Nashville club in 1977, leading almost immediately to tours with Zappa, David Bowie, and Talking Heads before Robert Fripp recruited him for King Crimson in 1981. In Crimson's Mk IV lineup, Belew served as co-lead guitarist, vocalist, and primary lyricist — his guitar style, characterized by extreme whammy-bar manipulation, animal-sound textures, and percussive rhythmic interlocking with Fripp's guitar, defined the sound of Discipline, Beat, and Three of a Perfect Pair. He returned for the double-trio Mk VII (Thrak, 1995) and the Double Duo that recorded The ConstruKction of Light (2000). Outside Crimson, Belew has led the Adrian Belew Power Trio and released numerous solo albums exploring guitar synthesis, looping, and avant-garde song structures.
@@ -124,115 +85,6 @@ Adrian Belew (born 1949 in Covington, Kentucky) came to international attention 
 | [VROOOM](https://open.spotify.com/search/VROOOM%20Adrian%20Belew%20King%20Crimson) | The opening track of the Mk VII comeback EP — two guitar players and two drummers create density without mud; Belew's lead entries are spacious and deliberate above the low-end weight. |
 | [The ConstruKction of Light](https://open.spotify.com/search/The%20ConstruKction%20of%20Light%20Adrian%20Belew%20King%20Crimson) | The Double Duo album's opening track — a more abrasive sound than Thrak; Belew's guitar textures are heavily processed and the interlocking with Mastelotto's drum patterns is tighter and more aggressive. |
 | [Three of a Perfect Pair](https://open.spotify.com/search/Three%20of%20a%20Perfect%20Pair%20Adrian%20Belew%20King%20Crimson) | The farewell track of the Mk IV era — Belew's melody is catchier than most Crimson material, and the song's pop accessibility makes the guitar interplay between him and Fripp easier to track for new listeners. |
-
-## David Rhodes
-
-David Rhodes (born 1956 in England) is a guitarist best known as Peter Gabriel's principal studio and touring guitarist, a role he has held since Gabriel's 1980 album *Peter Gabriel III* (commonly called *Melt*). He came to Gabriel's orbit through the band Random Hold, which he co-founded in the late 1970s and which toured with Gabriel in 1979. Rhodes is not a King Crimson member, but his presence in this file reflects his deep connection to Tony Levin through decades of shared work in Gabriel's band — the two have played together on Gabriel's So (1986), Us (1992), Up (2002), and associated world tours. His guitar style is atmospheric and song-serving rather than technically showy: he specializes in distinctive timbral textures, odd chord voicings, and long-note sustain shapes that give Gabriel's music much of its distinctive sonic character.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1980–present | Peter Gabriel | [Wikipedia][peter-gabriel-wiki] | — | Principal studio and touring guitarist across Gabriel's solo catalog. |
-| 1977–1980 | Random Hold | — | — | Post-punk art-rock band that toured with Peter Gabriel in 1979. |
-| Various | Kate Bush / other collaborations | — | — | Session and touring work with multiple UK art-rock artists. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitars | Fender Stratocaster, various vintage and custom electrics |
-| Effects | Extensive use of volume swells, EBow, delay-based textures |
-| Amplifiers | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Peter%20Gabriel) | From *So* — the track's horn-driven groove is dense but Rhodes's guitar cuts through with crisp, rhythmically placed accents rather than continuous strumming. |
-| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Peter%20Gabriel) | Rhodes plays atmosphere and countermelody rather than chord blocks; notice how his guitar fills the upper register without competing with the prominent bass and synths. |
-| [Red Rain](https://open.spotify.com/search/Red%20Rain%20Peter%20Gabriel) | The opening track of *So* — a six-note guitar figure recurs throughout the song as a rhythmic anchor; Rhodes's understated approach establishes the tone before the song fully opens. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Peter%20Gabriel) | From *Peter Gabriel IV* — an earlier example of his texture-over-riff approach; the guitar is aggressive in patches but quickly retreats into ambient smear. |
-| [San Jacinto](https://open.spotify.com/search/San%20Jacinto%20Peter%20Gabriel) | A long, slow-building track from *Peter Gabriel IV*; Rhodes sustains notes across wide dynamic ranges and the guitar functions almost as orchestral color rather than a rock instrument. |
-| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Peter%20Gabriel) | From *Us* — a heavy, drum-driven arrangement; Rhodes's guitar contributions are harder-edged than his *So* work, with more distortion and rhythmic bite. |
-| [Come Talk to Me](https://open.spotify.com/search/Come%20Talk%20to%20Me%20Peter%20Gabriel) | The opening track of *Us* — Rhodes and Levin share the low-mid register; listen for how guitar and bass stay out of each other's way while both contributing to the track's texture. |
-| [Secret World](https://open.spotify.com/search/Secret%20World%20Peter%20Gabriel) | The closing track of *Us* — Rhodes plays lead lines that shadow Gabriel's vocal melody at a distance rather than harmonizing directly, creating an eerie, searching quality. |
-| [More Than This](https://open.spotify.com/search/More%20Than%20This%20Peter%20Gabriel%20Up) | From *Up* — Gabriel's densest production period; Rhodes's guitar is buried deeper in the mix but remains an essential textural component of the arrangement. |
-| [Don't Give Up](https://open.spotify.com/search/Don%27t%20Give%20Up%20Peter%20Gabriel%20Kate%20Bush) | A slow duet between Gabriel and Kate Bush — Rhodes's guitar provides the harmonic bed; the sustained chord voicings he chooses give the song its melancholy warmth. |
-
-## Mike Portnoy
-
-Mike Portnoy (born 1967 in Long Island, New York) co-founded Dream Theater at Berklee College of Music in 1985 and served as its drummer and primary creative director until his departure in 2010. His playing is distinguished by an unusually large kit configuration (often 12 or more pieces), a compositional approach to fills that mirrors the band's song structures, and consistent facility in odd and shifting meters over arrangements running 10 to 20 minutes. Portnoy was never a member of King Crimson; his connection to the Crimson world is entirely through Liquid Tension Experiment, which he founded in 1997 with Tony Levin, John Petrucci, and Jordan Rudess. He has since played in Winery Dogs, Sons of Apollo, and a reformed Dream Theater.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1985–2010 | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Co-founder and drummer through the band's formative and peak commercial years. |
-| 1997–present | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Instrumental supergroup with Tony Levin, Petrucci, and Rudess. |
-| 2012–present | Winery Dogs | — | — | Hard rock trio with Richie Kotzen and Billy Sheehan. |
-| 2017–present | Sons of Apollo | — | — | Progressive metal group with Sheehan, Sherinian, Soto, and Bumblefoot. |
-| 2023–present | Dream Theater (rejoined) | [Wikipedia][dream-theater-wiki] | — | Returned to Dream Theater following the departure of Mike Mangini. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Drums | Tama Starclassic kit (primary across most of career), DW (later period) |
-| Cymbals | Sabian, Zildjian |
-| Hardware | Extensive multi-bass-drum setup; double bass pedal |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Paradigm Shift](https://open.spotify.com/search/Paradigm%20Shift%20Liquid%20Tension%20Experiment) | Liquid Tension Experiment — Portnoy's kit sound in an instrumental prog context without a vocal to work around; notice how drum fills function as punctuation for Petrucci's guitar phrases. |
-| [Acid Rain](https://open.spotify.com/search/Acid%20Rain%20Liquid%20Tension%20Experiment) | LTE's most melodic piece — Portnoy plays restraint here, supporting the guitar-and-Stick melody rather than competing with it. |
-| [Metropolis Pt. 1](https://open.spotify.com/search/Metropolis%20Pt%201%20Dream%20Theater) | 12-minute Dream Theater piece with multiple metric sections; Portnoy navigates the transitions between sections cleanly while maintaining energy across each shift. |
-| [A Change of Seasons](https://open.spotify.com/search/A%20Change%20of%20Seasons%20Dream%20Theater) | 23 minutes long — the drums must sustain forward momentum without the arrangement ever feeling static; this is the benchmark track for his dynamic control across long forms. |
-| [The Mirror](https://open.spotify.com/search/The%20Mirror%20Dream%20Theater) | A heavier piece with a two-part structure; listen for how the drum groove changes character between the verse and chorus and how Portnoy marks those boundaries with the kit. |
-| [Learning to Live](https://open.spotify.com/search/Learning%20to%20Live%20Dream%20Theater) | The closing track of *Images and Words* — 11 minutes; Portnoy's performance here is widely cited as among his most musically complete because dynamics and arrangement, not velocity, drive the piece. |
-| [Six Degrees of Inner Turbulence](https://open.spotify.com/search/Six%20Degrees%20of%20Inner%20Turbulence%20Dream%20Theater) | An eight-movement, 42-minute suite; how a drummer sustains coherence across that span without repeating himself is the core lesson this track offers. |
-| [Pull Me Under](https://open.spotify.com/search/Pull%20Me%20Under%20Dream%20Theater) | Dream Theater's most commercially successful track — simpler meter than their typical work, which makes Portnoy's cymbal and snare placement choices easier to isolate and study. |
-| [The Count of Tuscany](https://open.spotify.com/search/The%20Count%20of%20Tuscany%20Dream%20Theater) | A 19-minute track from his final Dream Theater album; the extended guitar solo section mid-track shows how he comps under a sustained improvisation. |
-| [Beating the Odds](https://open.spotify.com/search/Beating%20the%20Odds%20Liquid%20Tension%20Experiment%203) | From LTE3 (2021) — a reunion recording with Tony Levin; Portnoy's feel in the rhythm section with Levin after 20 years is audibly more settled than the debut. |
-
-## Pat Mastelotto
-
-Pat Mastelotto (born 1955 in Stockton, California) was the drummer for Mr. Mister, the pop group whose "Broken Wings" and "Kyrie" reached number one on the U.S. Billboard Hot 100 in 1985–86, before Robert Fripp recruited him for the reconstituted King Crimson in 1994. In the Mk VII double-trio lineup, Mastelotto formed a two-drummer engine alongside Bill Bruford — an unusual arrangement where each drummer played distinct parts rather than doubling each other, extending the polyrhythmic logic that Crimson had employed since the Mk III era. When Bruford departed after Thrak, Mastelotto became Crimson's sole drummer through The ConstruKction of Light (2000) and The Power to Believe (2003), later working in expanded percussion configurations with Gavin Harrison, Bill Rieflin, and Jeremy Stacey in the band's later years. He is Crimson's longest-serving drummer by tenure and is notable for seamlessly integrating acoustic and electronic drum triggering within live performance.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 1994–97 | King Crimson (Mk VII Double Trio) | [Wikipedia][king-crimson-wiki] | — | VROOOM EP (1994), Thrak (1995), alongside Bill Bruford. |
-| 1997–2003 | King Crimson (Double Duo / quartet) | [Wikipedia][king-crimson-wiki] | — | The ConstruKction of Light (2000), The Power to Believe (2003). |
-| 2014–2021 | King Crimson (later lineups) | [Wikipedia][king-crimson-wiki] | — | Seven-piece touring and recording lineup with Harrison, Rieflin, and Stacey. |
-| 1982–1990 | Mr. Mister | — | — | Pop group; two Billboard Hot 100 number-one singles in 1985–86. |
-| Various | Stick Men | — | — | Trio with Tony Levin and Markus Reuter; ongoing project. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Drums | Roland V-Drums electronic kit; hybrid acoustic/electronic configurations |
-| Acoustic kit | Yamaha |
-| Triggering | Roland and other drum trigger systems integrated into acoustic shells |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [VROOOM](https://open.spotify.com/search/VROOOM%20King%20Crimson) | The 1994 EP opener — Mastelotto and Bruford play simultaneously but differently; isolate the left and right channels to hear how their parts diverge and intersect. |
-| [Dinosaur](https://open.spotify.com/search/Dinosaur%20King%20Crimson%20Thrak) | From Thrak — the double-drum arrangement under Belew's absurdist lyric; notice how the two kits respond to each other rather than both locking to a single pulse. |
-| [Sex Sleep Eat Drink Dream](https://open.spotify.com/search/Sex%20Sleep%20Eat%20Drink%20Dream%20King%20Crimson) | From Thrak — a heavier groove track that shows how the double-drum setup can function more like a single powerful kit when the material calls for it. |
-| [Thrak](https://open.spotify.com/search/Thrak%20King%20Crimson) | The album's title track — an extended piece where the double trio's rhythmic complexity is most fully deployed; watch how the percussion layers build and release tension. |
-| [B'Boom](https://open.spotify.com/search/B%27Boom%20King%20Crimson) | A percussion feature from the Thrak live record — Mastelotto and Bruford duet; one of the clearest examples of their contrasting approaches to time and texture. |
-| [The ConstruKction of Light](https://open.spotify.com/search/The%20ConstruKction%20of%20Light%20King%20Crimson) | After Bruford's departure, Mastelotto alone — notice how the rhythmic character of the ensemble shifts when the double-drum architecture is replaced by a single player. |
-| [Level Five](https://open.spotify.com/search/Level%20Five%20King%20Crimson) | From the *Level Five* EP — an aggressive piece where Mastelotto integrates electronic triggering with acoustic playing; a good example of his hybrid approach in a live-studio context. |
-| [Happy with What You Have to Be Happy With](https://open.spotify.com/search/Happy%20with%20What%20You%20Have%20to%20Be%20Happy%20With%20King%20Crimson) | From *The Power to Believe* — the band's most punk-adjacent moment; Mastelotto's playing is deliberately blunt and direct, contrasting his more complex work elsewhere. |
-| [The Power to Believe](https://open.spotify.com/search/The%20Power%20to%20Believe%20King%20Crimson) | The suite that closes the 2003 album — drum parts shift character across four movements, which makes it a useful study in how Mastelotto adjusts density to match the ensemble's dynamics. |
-| [Radical Action to Unseat the Hold of Monkey Mind](https://open.spotify.com/search/Radical%20Action%20Monkey%20Mind%20King%20Crimson) | From the 2015–2021 touring era — the seven-piece lineup's percussion section is three players; hear how Mastelotto's role shifts again when he is one of three drummers rather than one of two. |
 
 ## Jordan Rudess
 

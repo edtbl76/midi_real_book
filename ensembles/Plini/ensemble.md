@@ -10,7 +10,6 @@ Plini (Oliver Messiaen-influenced stage name adopted by Oliver Pulvirenti) is a 
 |---|---|---|---|
 | [Simon Grove](#simon-grove) | Bass | [Wikipedia][simon-grove-wiki] | — |
 | [Plini](#plini) | Guitar | [Wikipedia][plini-wiki] | — |
-| [Aaron Marshall](#aaron-marshall) | Guitar | [Wikipedia][aaron-marshall-wiki] | — |
 | [Troy Wright](#troy-wright) | Drums | [Wikipedia][troy-wright-wiki] | — |
 
 ---
@@ -79,38 +78,6 @@ Plini (b. 1992, Sydney, Australia) is a self-taught guitarist and composer who b
 | [Salt + Charcoal](https://open.spotify.com/search/Salt%20%2B%20Charcoal%20Plini) | Groove-forward "Impulse Voices" track; shows how his compositional language expanded toward rhythmic diversity on the second album. |
 | [Pan](https://open.spotify.com/search/Pan%20Plini) | Extended form on "Impulse Voices"; the longest arc he has attempted — hear how melodic themes develop and return across the full structure. |
 | [Mmxx](https://open.spotify.com/search/Mmxx%20Plini) | Quiet and introspective; one of the most harmonically still tracks in his catalog, useful for isolating the guitar tone and vibrato without rhythmic distraction. |
-
-## Aaron Marshall
-
-Aaron Marshall is the founder and primary guitarist of Intervals, a Canadian progressive metal band known for its melodic approach to djent and its clean guitar tones. He has appeared as a guest collaborator on Plini's recordings, contributing his own legato and rhythmic approach to the ensemble sound.
-
-### Timeline
-
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
-|---|---|---|---|---|
-| 2011–present | Intervals | [Wikipedia][intervals-wiki] | — | Founder; "A Voice Within" (2014), "The Shape of Colour" (2015), "The Way Forward" (2021). |
-| Various | Plini (guest) | [Wikipedia][plini-wiki] | — | Collaborative appearances on Plini recordings. |
-
-### Known Gear
-
-| Category | Gear |
-|---|---|
-| Guitar | — |
-
-### 10 Key Recordings
-
-| Song | Why Listen |
-|---|---|
-| [Libra](https://open.spotify.com/search/Libra%20Intervals) | Key Intervals track; Marshall's clean-tone legato approach and the band's melodic djent language is most clearly heard here. |
-| [Momento](https://open.spotify.com/search/Momento%20Intervals) | From "A Voice Within"; the rhythmic guitar work and harmonic development show how Marshall structures longer instrumental sections. |
-| [The Shape of Colour](https://open.spotify.com/search/The%20Shape%20of%20Colour%20Intervals) | Title track from the 2015 album; one of the more groove-forward compositions in the Intervals catalog. |
-| [Sure Shot](https://open.spotify.com/search/Sure%20Shot%20Intervals) | Straight-ahead progressive metal with a strong rhythmic riff base — a good introduction to Marshall's rhythm-guitar priorities. |
-| [Ephemeral](https://open.spotify.com/search/Ephemeral%20Intervals) | Melodic and atmospheric; the layered guitar approach here is closest in spirit to the Plini collaboration context. |
-| [Electric Sunrise](https://open.spotify.com/search/Electric%20Sunrise%20Plini) | Plini track; one of the recordings where the two guitarists' tonal and melodic sensibilities overlap most directly. |
-| [Cascade](https://open.spotify.com/search/Cascade%20Plini) | Plini track; the rhythmic guitar counterpart to Plini's lead phrasing demonstrates Marshall's ensemble role as a collaborator. |
-| [The Way Forward](https://open.spotify.com/search/The%20Way%20Forward%20Intervals) | Title track from the 2021 Intervals album; the most compositionally mature single statement in the band's catalog. |
-| [Grapevine](https://open.spotify.com/search/Grapevine%20Intervals) | Intervals track with a more song-like structure; shows how Marshall's melodic instincts can operate within a more conventional formal frame. |
-| [Touch and Go](https://open.spotify.com/search/Touch%20and%20Go%20Intervals) | Extended technique showcase that makes the connection to the progressive metal tradition explicit. |
 
 ## Troy Wright
 
