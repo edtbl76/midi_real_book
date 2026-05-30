@@ -1,4 +1,4 @@
-# Ensemble: Scorpions
+# Ensemble: European Hard Rock - Roth
 
 ## Context
 

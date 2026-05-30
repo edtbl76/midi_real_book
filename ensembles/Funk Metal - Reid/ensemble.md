@@ -1,4 +1,4 @@
-# Ensemble: Living Colour
+# Ensemble: Funk Metal - Reid
 
 ## Context
 

@@ -40,7 +40,8 @@
       cards.forEach(function (card) {
         const show = !q ||
           card.textContent.toLowerCase().includes(q) ||
-          (card.dataset.players || '').toLowerCase().includes(q);
+          (card.dataset.players || '').toLowerCase().includes(q) ||
+          (card.dataset.influences || '').toLowerCase().includes(q);
         card.hidden = !show;
         if (show) visible += 1;
       });

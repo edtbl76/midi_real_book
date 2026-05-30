@@ -1,4 +1,4 @@
-# Ensemble: UFO
+# Ensemble: Classic Hard Rock - Schenker
 
 ## Context
 

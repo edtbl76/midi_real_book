@@ -30,5 +30,18 @@ module.exports = {
         .map((m) => m.replace(/^## /, "").trim())
         .filter((n) => !system.has(n.toLowerCase()));
     },
+    bandInfluence: (data) => {
+      const md = fs.readFileSync(data.page.inputPath, "utf-8");
+      // Extract player names and instruments from the Players table
+      let bassist = null, guitarist = null;
+      for (const m of md.matchAll(/^\|\s*\[([^\]]+)\][^\|]*\|\s*([^\|]+)\|/gm)) {
+        const name = m[1].trim();
+        const inst = m[2].trim().toLowerCase();
+        if (!bassist && inst.includes("bass")) bassist = name;
+        if (!guitarist && (inst.includes("guitar") || inst.includes("lead"))) guitarist = name;
+      }
+      if (!bassist || !guitarist) return "";
+      return (data.pairings || {})[`${bassist}|${guitarist}`] || "";
+    },
   },
 };

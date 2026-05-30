@@ -1,4 +1,4 @@
-var CACHE_VERSION = 'v15';
+var CACHE_VERSION = 'v16';
 var CACHE_NAME = 'midi-real-book-' + CACHE_VERSION;
 
 // Only precache the shell — HTML pages are cached lazily as visited

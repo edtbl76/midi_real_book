@@ -1,4 +1,4 @@
-# Ensemble: Billy Idol
+# Ensemble: MTV Hard Rock - Stevens
 
 ## Context
 

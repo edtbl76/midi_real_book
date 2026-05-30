@@ -1,4 +1,4 @@
-# Ensemble: Winger
+# Ensemble: 80s Hard Rock - Beach
 
 ## Context
 
