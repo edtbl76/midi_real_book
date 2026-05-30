@@ -2,7 +2,7 @@
 
 ## Context
 
-This music is centered on UZEB fusion: fretless jazz fusion / electric fusion circuit. Listen for how the rhythm section, guitar, and harmony work together. Related listening: UZEB.
+UZEB was a Canadian jazz-fusion trio active from 1976 to 1992: Alain Caron (fretless 6-string bass), Michel Cusson (guitar), and Paul Brochu (drums). They were one of the most respected fusion acts in the French-Canadian and international circuit, touring Europe and Japan extensively. This ensemble file also includes Mike Stern and Frank Gambale — two guitarists from the same electric-fusion world who are related listening rather than UZEB members. The core band sound is built on Caron's fretless bass mastery and Brochu's precise, funk-influenced drumming.
 
 ## Players
 
@@ -17,110 +17,118 @@ This music is centered on UZEB fusion: fretless jazz fusion / electric fusion ci
 
 ## Alain Caron
 
-Alain Caron is a bassist associated with jazz fusion, fusion, electric jazz. Musically, the important traits here are fretless 6-string mastery, jazz-fusion harmonic language, clean melodic execution. In this ensemble: fretless jazz fusion / electric fusion circuit. Related listening: UZEB.
+Alain Caron (b. 1955, Quebec) is a Canadian bassist and the defining voice of UZEB. He plays a 6-string fretless bass and is known for fretless intonation accuracy, jazz-fusion harmonic language, and the ability to function as both the melodic and harmonic engine of a trio. After UZEB disbanded in 1992 he pursued a solo career. He endorses F Bass and Pedulla fretless instruments.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | UZEB | — | — | Related artists. |
+| 1976–1992 | UZEB | [Wikipedia][alain-caron-wiki] | — | *Fast Emotion* (1982), *Ha!* (1983), *Live in Europe* (1985), *Noisy Nights* (1986), *Between the Lines* (1987), *Live in Japan* (1990) |
+| 1995–present | Solo | — | — | *Rhythm 'n Jazz* (1995), *Le Band* (1997), *Conversations* (2005) |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | — |
+| Bass | F Bass BN6 fretless 6-string (primary); Pedulla Hexabuzz fretless 6-string |
+| Effects | Light chorus for fretless shimmer; minimal processing |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Wake Up Call](https://open.spotify.com/search/Wake%20Up%20Call%20Alain%20Caron%20UZEB%20fusion) | Track the pocket, note length, and how Alain Caron makes the harmony feel grounded. |
-| [Mile Zero](https://open.spotify.com/search/Mile%20Zero%20Alain%20Caron%20UZEB%20fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Slinky](https://open.spotify.com/search/Slinky%20Alain%20Caron%20UZEB%20fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Cool It](https://open.spotify.com/search/Cool%20It%20Alain%20Caron%20UZEB%20fusion) | Listen for how the player shapes and attacks each note. |
-| [Funkaleon](https://open.spotify.com/search/Funkaleon%20Alain%20Caron%20UZEB%20fusion) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Mister Moe](https://open.spotify.com/search/Mister%20Moe%20Alain%20Caron%20UZEB%20fusion) | Track the pocket, note length, and how Alain Caron makes the harmony feel grounded. |
-| [Power](https://open.spotify.com/search/Power%20Alain%20Caron%20UZEB%20fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Alain%20Caron%20UZEB%20fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Alain%20Caron%20UZEB%20fusion) | Listen for how the player shapes and attacks each note. |
-| [Continuum](https://open.spotify.com/search/Continuum%20Alain%20Caron%20UZEB%20fusion) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Tarp](https://open.spotify.com/search/Tarp%20UZEB) | The UZEB signature track; Caron's fretless tone and intonation under pressure at tempo. |
+| [Brazilian Nights](https://open.spotify.com/search/Brazilian%20Nights%20UZEB) | Bossa-influenced fusion; fretless melodic lines over a light Latin groove. |
+| [Fast Emotion](https://open.spotify.com/search/Fast%20Emotion%20UZEB) | Title track of the 1982 debut; Caron establishing the trio's harmonic identity through bass. |
+| [Ha!](https://open.spotify.com/search/Ha!%20UZEB) | Title track of 1983 album; aggressive fusion with Caron driving both the groove and the melody. |
+| [Noisy Nights](https://open.spotify.com/search/Noisy%20Nights%20UZEB) | Funkier approach; hear how he uses the full 6-string range for rhythm and melody simultaneously. |
+| [Between the Lines](https://open.spotify.com/search/Between%20the%20Lines%20UZEB) | Title track from 1987; mature trio sound with Caron at his most harmonically sophisticated. |
+| [Funkaleon](https://open.spotify.com/search/Funkaleon%20UZEB) | Funk-fusion hybrid; fretless bass in a groove-dominant role with minimal noodling. |
+| [Uzeb Club](https://open.spotify.com/search/Uzeb%20Club%20UZEB) | Live document; Caron's real-time pitch adjustment and intonation control over a long take. |
+| [Rhythm 'n Jazz](https://open.spotify.com/search/Rhythm%20n%20Jazz%20Alain%20Caron) | Solo career debut; the fretless vocabulary without the UZEB trio framework. |
+| [Le Band](https://open.spotify.com/search/Le%20Band%20Alain%20Caron) | Solo album with a full ensemble; study how his bass voice changes when it's not carrying the full harmonic load. |
 
 ## Mike Stern
 
-Mike Stern is a guitarist associated with jazz fusion, fusion rock, bebop. Musically, the important traits here are bebop/jazz-fusion articulation, right-hand precision, harmonic language, improvisational command. In this ensemble: fretless jazz fusion / electric fusion circuit. Related listening: UZEB.
+Mike Stern (b. 1953, Boston) is an American jazz and fusion guitarist known for his work with Miles Davis (1981–1983, 1985) and a long solo career. His playing combines bebop articulation with rock tone and energy — a Fender Stratocaster with medium overdrive through a Tube Screamer — and is a major reference point for the electric-fusion guitar sound. He has won multiple Grammy Awards.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | UZEB | — | — | Related artists. |
+| 1976–1978 | Blood Sweat & Tears | [Wikipedia][mike-stern-wiki] | — | Early career |
+| 1981–1983, 1985 | Miles Davis | — | — | *The Man with the Horn* (1981), *Star People* (1983), *You're Under Arrest* (1985) |
+| 1985–present | Solo | — | — | *Upside Downside* (1986), *Standards (and Other Songs)* (1992), *Is What It Is* (1994), *Give and Take* (1997), *These Times* (2012) |
+| Various | Session/collaboration | — | — | Work with Jaco Pastorius, Dave Weckl, and many others |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | — |
+| Guitar | Fender Stratocaster (primary, well-worn); signature Yamaha models |
+| Effects | Ibanez Tube Screamer (essential part of his overdrive sound), Boss effects |
+| Amp | Fender Super Reverb or similar vintage combo |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Spider](https://open.spotify.com/search/Spider%20Mike%20Stern%20UZEB%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Riff 55](https://open.spotify.com/search/Riff%2055%20Mike%20Stern%20UZEB%20fusion) | Listen for how the guitar fits the band. |
-| [Wake Up Call](https://open.spotify.com/search/Wake%20Up%20Call%20Mike%20Stern%20UZEB%20fusion) | Focus on phrasing, tone, bends, and how Mike Stern shapes the melodic argument. |
-| [Mile Zero](https://open.spotify.com/search/Mile%20Zero%20Mike%20Stern%20UZEB%20fusion) | Listen for how the rhythm guitar lays into the groove. |
-| [Slinky](https://open.spotify.com/search/Slinky%20Mike%20Stern%20UZEB%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Cool It](https://open.spotify.com/search/Cool%20It%20Mike%20Stern%20UZEB%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Mike%20Stern%20UZEB%20fusion) | Listen for how the guitar fits the band. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Mike%20Stern%20UZEB%20fusion) | Focus on phrasing, tone, bends, and how Mike Stern shapes the melodic argument. |
-| [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Mike%20Stern%20UZEB%20fusion) | Listen for how the rhythm guitar lays into the groove. |
-| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Mike%20Stern%20UZEB%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Chromazone](https://open.spotify.com/search/Chromazone%20Mike%20Stern) | Stern's debut solo track; bebop lines over a hard-fusion groove with Strat tone at its most characteristic. |
+| [Upside Downside](https://open.spotify.com/search/Upside%20Downside%20Mike%20Stern) | Title track of 1986 debut album; the Tube Screamer midrange defined. |
+| [Wishing Well](https://open.spotify.com/search/Wishing%20Well%20Mike%20Stern) | Slower ballad approach; hear how his bebop vocabulary adjusts for a melodic context. |
+| [What It Is](https://open.spotify.com/search/What%20It%20Is%20Mike%20Stern) | *Is What It Is* (1994); mature fusion playing with Michael Brecker and Dave Weckl. |
+| [Give and Take](https://open.spotify.com/search/Give%20and%20Take%20Mike%20Stern) | Title track; Stern in a post-bop ensemble context with lighter touch and more chord-melody. |
+| [Star People](https://open.spotify.com/search/Star%20People%20Miles%20Davis) | Miles Davis *Star People* (1983); Stern's rock-blues guitar inside Miles's electric-era band. |
+| [Spider](https://open.spotify.com/search/Spider%20Mike%20Stern) | Solo album instrumental; long-form improvisation showing his full range from bluesy to bebop. |
+| [Mood Swings](https://open.spotify.com/search/Mood%20Swings%20Mike%20Stern) | Interaction with bassist Lincoln Goines; study how Stern comps and solos in a rhythm-section dialogue. |
+| [Play](https://open.spotify.com/search/Play%20Mike%20Stern) | Later career album; the most refined version of his vocabulary in a contemporary production. |
+| [All Mixed Up](https://open.spotify.com/search/All%20Mixed%20Up%20Mike%20Stern) | Funk-fusion track with horn section; hear how Stern's solo fits inside a larger arrangement. |
 
 ## Frank Gambale
 
-Frank Gambale is a guitarist associated with jazz fusion, fusion rock, progressive rock. Musically, the important traits here are sweep/economy-picking mastery, harmonic fluency, jazz/fusion command. In this ensemble: fretless jazz fusion / electric fusion circuit. Related listening: UZEB.
+Frank Gambale (b. 1958, Australia) is a guitarist best known for developing sweep/economy-picking technique into a systematic approach documented in his instructional videos. He studied at GIT (Guitar Institute of Technology) and has taught there. He is most associated with Chick Corea's Elektric Band (1986–1997) and a solo career on the Legato and JVC labels. His picking economy allows him to cover the full fretboard at high speed with minimal motion.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | UZEB | — | — | Related artists. |
+| 1986–1997 | Chick Corea Elektric Band | [Wikipedia][frank-gambale-wiki] | — | *The Chick Corea Elektric Band* (1986), *Light Years* (1987), *Eye of the Beholder* (1988), *Inside Out* (1990), *Beneath the Mask* (1991) |
+| 1986–present | Solo | — | — | *Brave New Guitar* (1986), *Thunder from Down Under* (1990), *Passages* (1994), *The Frank Gambale Trio Live* (2004) |
+| Various | Session | — | — | Session work and instructional DVDs on economy picking |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | — |
+| Guitar | Ibanez signature models; Gambale custom signature guitar |
+| Amp | Mesa/Boogie Tri-Axis and Strategy preamp/power amp combination |
+| Technique | Economy/sweep picking — the system he codified and taught |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Funkaleon](https://open.spotify.com/search/Funkaleon%20Frank%20Gambale%20UZEB%20fusion) | Listen for how the guitar fits the band. |
-| [Mister Moe](https://open.spotify.com/search/Mister%20Moe%20Frank%20Gambale%20UZEB%20fusion) | Focus on phrasing, tone, bends, and how Frank Gambale shapes the melodic argument. |
-| [Uzeb Club](https://open.spotify.com/search/Uzeb%20Club%20Frank%20Gambale%20UZEB%20fusion) | Listen for how the rhythm guitar lays into the groove. |
-| [Noisy Nights](https://open.spotify.com/search/Noisy%20Nights%20Frank%20Gambale%20UZEB%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Spider](https://open.spotify.com/search/Spider%20Frank%20Gambale%20UZEB%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Riff 55](https://open.spotify.com/search/Riff%2055%20Frank%20Gambale%20UZEB%20fusion) | Listen for how the guitar fits the band. |
-| [Aja](https://open.spotify.com/search/Aja%20Frank%20Gambale%20UZEB%20fusion) | Focus on phrasing, tone, bends, and how Frank Gambale shapes the melodic argument. |
-| [Peg](https://open.spotify.com/search/Peg%20Frank%20Gambale%20UZEB%20fusion) | Listen for how the rhythm guitar lays into the groove. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Frank%20Gambale%20UZEB%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Frank%20Gambale%20UZEB%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
+| [Light Years](https://open.spotify.com/search/Light%20Years%20Chick%20Corea%20Elektric%20Band) | Gambale inside the Elektric Band: sweep-picking lines at high tempo with jazz vocabulary. |
+| [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%20Chick%20Corea%20Elektric%20Band) | One of the Elektric Band's signature tracks; Gambale's economy picking at full speed in a jazz-fusion framework. |
+| [Beneath the Mask](https://open.spotify.com/search/Beneath%20the%20Mask%20Chick%20Corea%20Elektric%20Band) | Title track of 1991 album; Gambale's mature Elektric Band sound in a more complex arrangement. |
+| [Thunder from Down Under](https://open.spotify.com/search/Thunder%20from%20Down%20Under%20Frank%20Gambale) | Solo album title track; the economy-picking system in its most explicit showcase form. |
+| [Passage](https://open.spotify.com/search/Passage%20Frank%20Gambale) | More melodic solo work; hear how sweep picking transitions into lyrical phrasing. |
+| [Brave New Guitar](https://open.spotify.com/search/Brave%20New%20Guitar%20Frank%20Gambale) | Debut album; early codification of his technique in a fusion-guitar context. |
+| [Funkaleon](https://open.spotify.com/search/Funkaleon%20UZEB) | UZEB-adjacent track: this style of funky electric fusion is Gambale's natural peer context. |
+| [Noisy Nights](https://open.spotify.com/search/Noisy%20Nights%20UZEB) | UZEB track representing the Canadian electric-fusion circuit Gambale worked within. |
+| [Eye of the Beholder](https://open.spotify.com/search/Eye%20of%20the%20Beholder%20Chick%20Corea%20Elektric%20Band) | Album title track; Gambale in the band's most compositionally complex period. |
+| [Inside Out](https://open.spotify.com/search/Inside%20Out%20Chick%20Corea%20Elektric%20Band) | Elektric Band in its most experimental mode; Gambale navigating free-fusion guitar. |
 
 ## Paul Brochu
 
-Paul Brochu is a drummer whose playing helps shape this music. Listen for how the drum part affects fretless jazz fusion / electric fusion circuit: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is UZEB.
+Paul Brochu is the drummer of UZEB and the rhythmic foundation that allowed Alain Caron's fretless bass to function as the melodic and harmonic engine. His playing combines jazz-fusion precision with funk pocket, clean subdivision, and the discipline to leave space in a trio format where the bass is carrying more weight than usual. After UZEB he has continued as a session and touring drummer in Quebec.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | UZEB fusion | [Wikipedia][uzeb-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | UZEB | — | — | Related artists. |
+| 1976–1992 | UZEB | [Wikipedia][paul-brochu-wiki] | — | *Fast Emotion* (1982), *Ha!* (1983), *Live in Europe* (1985), *Noisy Nights* (1986), *Between the Lines* (1987), *Live in Japan* (1990) |
+| 1992–present | Session and live | — | — | Montreal session and touring scene |
 
 ### Known Gear
 
@@ -132,21 +140,21 @@ Paul Brochu is a drummer whose playing helps shape this music. Listen for how th
 
 | Song | Why Listen |
 |---|---|
-| [Riff 55](https://open.spotify.com/search/Riff%2055%20Paul%20Brochu%20UZEB%20fusion) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Wake Up Call](https://open.spotify.com/search/Wake%20Up%20Call%20Paul%20Brochu%20UZEB%20fusion) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Mile Zero](https://open.spotify.com/search/Mile%20Zero%20Paul%20Brochu%20UZEB%20fusion) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Slinky](https://open.spotify.com/search/Slinky%20Paul%20Brochu%20UZEB%20fusion) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Cool It](https://open.spotify.com/search/Cool%20It%20Paul%20Brochu%20UZEB%20fusion) | Use this for groove architecture rather than just surface-level chops. |
-| [Funkaleon](https://open.spotify.com/search/Funkaleon%20Paul%20Brochu%20UZEB%20fusion) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Birdland](https://open.spotify.com/search/Birdland%20Paul%20Brochu%20UZEB%20fusion) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Paul%20Brochu%20UZEB%20fusion) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [The Crunge](https://open.spotify.com/search/The%20Crunge%20Paul%20Brochu%20UZEB%20fusion) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Stratus](https://open.spotify.com/search/Stratus%20Paul%20Brochu%20UZEB%20fusion) | Use this for groove architecture rather than just surface-level chops. |
+| [Tarp](https://open.spotify.com/search/Tarp%20UZEB) | The trio locked at tempo; study how Brochu's hi-hat and kick give Caron's fretless a clear rhythmic floor. |
+| [Fast Emotion](https://open.spotify.com/search/Fast%20Emotion%20UZEB) | 1982 debut track; the UZEB rhythmic approach at its most direct and driving. |
+| [Ha!](https://open.spotify.com/search/Ha!%20UZEB) | Title track; aggressive funk-fusion drumming where Brochu pushes the ensemble energy. |
+| [Noisy Nights](https://open.spotify.com/search/Noisy%20Nights%20UZEB) | Funkier groove; listen for how the hi-hat pattern changes the feel from jazz to R&B-funk. |
+| [Brazilian Nights](https://open.spotify.com/search/Brazilian%20Nights%20UZEB) | Latin-influenced feel; Brochu adapts his approach for a bossa/samba rhythmic framework. |
+| [Between the Lines](https://open.spotify.com/search/Between%20the%20Lines%20UZEB) | Mature UZEB sound; Brochu's most refined interplay with Caron in a slower, more harmonic track. |
+| [Funkaleon](https://open.spotify.com/search/Funkaleon%20UZEB) | Straight funk groove; hear how he locks kick and snare for maximum pocket in a fusion context. |
+| [Uzeb Club](https://open.spotify.com/search/Uzeb%20Club%20UZEB) | Live document; real-time interaction and how Brochu adjusts fills for a live-trio setting. |
+| [Live in Europe](https://open.spotify.com/search/Live%20in%20Europe%20UZEB) | Full live context from the 1985 European tour; how the drum part sounds under live acoustic conditions. |
+| [Live in Japan](https://open.spotify.com/search/Live%20in%20Japan%20UZEB) | 1990 live album; Brochu at the peak of the trio's development, the most refined version of his UZEB approach. |
 
 ## References
 
-[alain-caron-wiki]: https://en.wikipedia.org/wiki/Alain_Caron
+[alain-caron-wiki]: https://en.wikipedia.org/wiki/Alain_Caron_(musician)
 [mike-stern-wiki]: https://en.wikipedia.org/wiki/Mike_Stern
 [frank-gambale-wiki]: https://en.wikipedia.org/wiki/Frank_Gambale
-[paul-brochu-wiki]: https://en.wikipedia.org/wiki/Paul_Brochu
-[uzeb-fusion-wiki]: https://en.wikipedia.org/wiki/UZEB_fusion
+[paul-brochu-wiki]: https://en.wikipedia.org/wiki/UZEB
+[uzeb-wiki]: https://en.wikipedia.org/wiki/UZEB
