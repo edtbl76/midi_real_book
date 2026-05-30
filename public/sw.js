@@ -1,4 +1,4 @@
-var CACHE_VERSION = 'v8';
+var CACHE_VERSION = 'v9';
 var CACHE_NAME = 'midi-real-book-' + CACHE_VERSION;
 
 var URLS_TO_CACHE = [
@@ -141,6 +141,8 @@ self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
       return cache.addAll(URLS_TO_CACHE);
+    }).then(function () {
+      return self.skipWaiting();
     })
   );
 });
