@@ -31,7 +31,7 @@ Cliff Burton is a bassist associated with thrash metal, heavy metal. Musically, 
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -63,7 +63,7 @@ James Hetfield is a guitarist associated with thrash metal, heavy metal. Musical
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -95,7 +95,7 @@ Kirk Hammett is a guitarist associated with thrash metal, heavy metal. Musically
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -127,7 +127,7 @@ Marty Friedman is a guitarist associated with neoclassical metal, rock, J-rock i
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -159,7 +159,7 @@ Lars Ulrich is a drummer whose playing helps shape this music. Listen for how th
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 

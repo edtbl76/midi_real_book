@@ -30,7 +30,7 @@ Dusty Hill is a bassist associated with blues-rock, rock. Musically, the importa
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -62,7 +62,7 @@ Billy Gibbons is a guitarist associated with blues-rock, rock. Musically, the im
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -94,7 +94,7 @@ Joe Bonamassa is a guitarist associated with blues-rock, hard rock, blues. Music
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -126,7 +126,7 @@ Frank Beard is a drummer whose playing helps shape this music. Listen for how th
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 

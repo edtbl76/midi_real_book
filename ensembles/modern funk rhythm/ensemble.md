@@ -30,7 +30,7 @@ Mark King is a bassist associated with funk, pop-funk, jazz fusion. Musically, t
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -62,7 +62,7 @@ Cory Wong is a guitarist associated with funk, pop, neo-soul. Musically, the imp
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -94,7 +94,7 @@ Phil Gould is a drummer whose playing helps shape this music. Listen for how the
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -126,7 +126,7 @@ Mike Lindup is a keyboard player whose playing helps shape this music. Listen fo
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 

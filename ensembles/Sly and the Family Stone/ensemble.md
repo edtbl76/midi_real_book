@@ -2,7 +2,7 @@
 
 ## Context
 
-This music lives in the Sly and the Family Stone world: funk / R&B / psychedelic soul. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Sly and the Family Stone / Graham Central Station help give you a feel for the style.
+Sly and the Family Stone was founded in 1966 in San Francisco by Sly Stone (born Sylvester Stewart) — a racially integrated band that fused funk, soul, psychedelic rock, and gospel in a way no one had attempted before. Their peak years (1968–1971) produced some of the most innovative recordings in American music: joyful, polyrhythmic, and politically charged simultaneously. What makes this ensemble distinctive is Sly Stone's kaleidoscopic vision coordinating multiple lead voices (every member sings), Larry Graham's invention of slap bass technique, and a rhythm section that creates a dense, locked groove with enough space for each element to breathe.
 
 ## Players
 
@@ -11,170 +11,171 @@ This music lives in the Sly and the Family Stone world: funk / R&B / psychedelic
 | [Larry Graham](#larry-graham) | Bass | [Wikipedia][larry-graham-wiki] | — |
 | [Freddie Stone](#freddie-stone) | Guitar | [Wikipedia][freddie-stone-wiki] | — |
 | [Greg Errico](#greg-errico) | Drums | [Wikipedia][greg-errico-wiki] | — |
-| [Sly Stone](#sly-stone) | Keyboards | [Wikipedia][sly-stone-wiki] | — |
+| [Sly Stone](#sly-stone) | Keyboards / Vocals / Arranger | [Wikipedia][sly-stone-wiki] | — |
 | [Maceo Parker](#maceo-parker) | Saxophone | [Wikipedia][maceo-parker-wiki] | — |
 
 ---
 
 ## Larry Graham
 
-Larry Graham is a bassist associated with funk, R&B, soul. Musically, the important traits here are invented slap bass technique, foundational funk vocabulary executed with precision and authority. In this ensemble: funk / R&B / psychedelic soul. Related listening: Sly and the Family Stone / Graham Central Station.
+Larry Graham is the bassist who anchored Sly and the Family Stone and, in doing so, invented slap bass — a technique he developed to compensate for the band's early lack of a drummer, thumping the low strings with his thumb and popping the high strings with his index finger to fill rhythmic space. That innovation became one of the most influential contributions to the vocabulary of the bass guitar, shaping funk, R&B, and pop bass playing for decades. After leaving the Family Stone in 1972, he formed Graham Central Station, where he pushed the slap technique further into dense, virtuosic ensemble funk. His playing is simultaneously melodic and percussive: he drives the groove while making the harmony feel inevitable.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related artists. |
+| 1966–1972 | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Core member; invented slap bass during this period. |
+| 1973–1980s | Graham Central Station | — | — | Led his own funk band after leaving the Family Stone. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | Fender bass guitars (primary throughout career); Guild basses; invented the slap/pop bass technique |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Thank You](https://open.spotify.com/search/Thank%20You%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Track the pocket, note length, and how Larry Graham makes the harmony feel grounded. |
-| [Dance to the Music](https://open.spotify.com/search/Dance%20to%20the%20Music%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Everyday People](https://open.spotify.com/search/Everyday%20People%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [I Want to Take You Higher](https://open.spotify.com/search/I%20Want%20to%20Take%20You%20Higher%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for how the player shapes and attacks each note. |
-| [Family Affair](https://open.spotify.com/search/Family%20Affair%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Stand](https://open.spotify.com/search/Stand%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Track the pocket, note length, and how Larry Graham makes the harmony feel grounded. |
-| [Come On, Come Over](https://open.spotify.com/search/Come%20On%2C%20Come%20Over%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for how the player shapes and attacks each note. |
-| [Dean Town](https://open.spotify.com/search/Dean%20Town%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
+| [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20Falettinme%20Be%20Mice%20Elf%20Agin%20Sly%20and%20the%20Family%20Stone) | The slap bass line here is foundational — track how Graham uses thumb and pop to hold the entire groove. |
+| [Dance to the Music](https://open.spotify.com/search/Dance%20to%20the%20Music%20Sly%20and%20the%20Family%20Stone) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Everyday People](https://open.spotify.com/search/Everyday%20People%20Sly%20and%20the%20Family%20Stone) | Listen for how the low end supports the feel without crowding the arrangement. |
+| [I Want to Take You Higher](https://open.spotify.com/search/I%20Want%20to%20Take%20You%20Higher%20Sly%20and%20the%20Family%20Stone) | Track how Graham shapes and attacks each note against Errico's kick. |
+| [Stand!](https://open.spotify.com/search/Stand%20Sly%20and%20the%20Family%20Stone) | Notice how the bass holds forward momentum during an unusually long form. |
+| [Family Affair](https://open.spotify.com/search/Family%20Affair%20Sly%20and%20the%20Family%20Stone) | Listen for the understated bass under a sparse, drum-machine-driven arrangement. |
+| [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Sly%20and%20the%20Family%20Stone) | Study the rhythmic interlock between bass and drums on a deceptively simple groove. |
+| [If You Want Me to Stay](https://open.spotify.com/search/If%20You%20Want%20Me%20to%20Stay%20Sly%20and%20the%20Family%20Stone) | One of Graham's most melodic bass lines — track how it doubles and departs from the vocal. |
+| [The Jam](https://open.spotify.com/search/The%20Jam%20Graham%20Central%20Station) | Graham Central Station showcase; hear slap technique developed into a full ensemble language. |
+| [One in a Million You](https://open.spotify.com/search/One%20in%20a%20Million%20You%20Larry%20Graham) | Graham's 1980 solo hit — a different context that shows melodic range beyond the funk pocket. |
 
 ## Freddie Stone
 
-Freddie Stone is a guitarist associated with funk, psychedelic soul, R&B. Musically, the important traits here are Sly and the Family Stone rhythm guitar, psychedelic soul/funk groove, ensemble vocal-guitar support. In this ensemble: funk / R&B / psychedelic soul. Related listening: Sly and the Family Stone / Graham Central Station.
+Freddie Stone (born Frederick Stewart) is the guitarist and Sly Stone's younger brother, a core member of Sly and the Family Stone from the beginning. His rhythm guitar work sits in a distinctly psychedelic-funk pocket — chunky, syncopated, and locked into the groove rather than soloing over it — while his lead playing adds color without overplaying the ensemble's busy texture. He also sang, contributing to the band's signature multi-voice unison and call-and-response vocal arrangements. Freddie remained with the band through its various lineups into the 1970s and later pursued gospel and Christian music. Specific guitar model details from his Family Stone years are not well documented.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related artists. |
+| 1966–1970s | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Core member throughout the band's peak period. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Stand](https://open.spotify.com/search/Stand%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Focus on phrasing, tone, bends, and how Freddie Stone shapes the melodic argument. |
-| [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the rhythm guitar lays into the groove. |
-| [M'Lady](https://open.spotify.com/search/M%27Lady%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [You Can Make It If You Try](https://open.spotify.com/search/You%20Can%20Make%20It%20If%20You%20Try%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [If You Want Me to Stay](https://open.spotify.com/search/If%20You%20Want%20Me%20to%20Stay%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the guitar fits the band. |
-| [Thank You](https://open.spotify.com/search/Thank%20You%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Focus on phrasing, tone, bends, and how Freddie Stone shapes the melodic argument. |
-| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the rhythm guitar lays into the groove. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Room 335](https://open.spotify.com/search/Room%20335%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the guitar fits the band. |
+| [Stand!](https://open.spotify.com/search/Stand%20Sly%20and%20the%20Family%20Stone) | Focus on how the rhythm guitar locks into the pocket without overplaying the dense arrangement. |
+| [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Sly%20and%20the%20Family%20Stone) | Listen for how the guitar lays into the groove and punctuates vocal phrases. |
+| [Dance to the Music](https://open.spotify.com/search/Dance%20to%20the%20Music%20Sly%20and%20the%20Family%20Stone) | Track the guitar's role in building the arrangement's escalating energy. |
+| [Everyday People](https://open.spotify.com/search/Everyday%20People%20Sly%20and%20the%20Family%20Stone) | Notice how minimal guitar leaves space in an unusually open mix. |
+| [You Can Make It If You Try](https://open.spotify.com/search/You%20Can%20Make%20It%20If%20You%20Try%20Sly%20and%20the%20Family%20Stone) | Use this for rhythm guitar feel: entrances, syncopation, and how it frames the vocal. |
+| [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20Falettinme%20Be%20Mice%20Elf%20Agin%20Sly%20and%20the%20Family%20Stone) | The guitar rhythm here sits under Larry Graham's slap bass — notice how they avoid each other's space. |
+| [If You Want Me to Stay](https://open.spotify.com/search/If%20You%20Want%20Me%20to%20Stay%20Sly%20and%20the%20Family%20Stone) | Listen for how the guitar fits into the leaner Fresh-era sound. |
+| [M'Lady](https://open.spotify.com/search/M%27Lady%20Sly%20and%20the%20Family%20Stone) | Track how the guitar line interacts with bass motion rather than sitting on top of it. |
+| [Don't Call Me Nigger, Whitey](https://open.spotify.com/search/Don%27t%20Call%20Me%20Nigger%20Whitey%20Sly%20and%20the%20Family%20Stone) | Listen for the raw, distorted guitar feel that runs against the smoother soul arrangements. |
+| [I Want to Take You Higher](https://open.spotify.com/search/I%20Want%20to%20Take%20You%20Higher%20Sly%20and%20the%20Family%20Stone) | Use this for the ensemble guitar-bass-drum interlock at peak energy. |
 
 ## Greg Errico
 
-Greg Errico is a drummer whose playing helps shape this music. Listen for how the drum part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Sly and the Family Stone / Graham Central Station.
+Greg Errico is the drummer who powered Sly and the Family Stone through their peak years (1966–1971), providing the rhythmic foundation for some of the most important funk recordings of that era. His playing is notably tight and precise without feeling mechanical — he drives the groove with authority while leaving room for the dense ensemble around him, something that required real discipline given how many elements competed for space in the mix. Errico left the band in 1971 before the release of There's a Riot Goin' On, departing as the group shifted toward a darker, more studio-layered sound. He later worked as a producer and session drummer. Specific kit configurations from his Family Stone years are not well documented.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related artists. |
+| 1966–1971 | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Core drummer through the band's peak recordings. |
+| Post-1971 | Session work / production | — | — | Left the band before There's a Riot Goin' On. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Thank You](https://open.spotify.com/search/Thank%20You%20Greg%20Errico%20Sly%20and%20the%20Family%20Stone) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Dance to the Music](https://open.spotify.com/search/Dance%20to%20the%20Music%20Greg%20Errico%20Sly%20and%20the%20Family%20Stone) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Everyday People](https://open.spotify.com/search/Everyday%20People%20Greg%20Errico%20Sly%20and%20the%20Family%20Stone) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [I Want to Take You Higher](https://open.spotify.com/search/I%20Want%20to%20Take%20You%20Higher%20Greg%20Errico%20Sly%20and%20the%20Family%20Stone) | Use this for groove architecture rather than just surface-level chops. |
-| [Family Affair](https://open.spotify.com/search/Family%20Affair%20Greg%20Errico%20Sly%20and%20the%20Family%20Stone) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Stand](https://open.spotify.com/search/Stand%20Greg%20Errico%20Sly%20and%20the%20Family%20Stone) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Come Together](https://open.spotify.com/search/Come%20Together%20Greg%20Errico%20Sly%20and%20the%20Family%20Stone) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [YYZ](https://open.spotify.com/search/YYZ%20Greg%20Errico%20Sly%20and%20the%20Family%20Stone) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Birdland](https://open.spotify.com/search/Birdland%20Greg%20Errico%20Sly%20and%20the%20Family%20Stone) | Use this for groove architecture rather than just surface-level chops. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Greg%20Errico%20Sly%20and%20the%20Family%20Stone) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20Falettinme%20Be%20Mice%20Elf%20Agin%20Sly%20and%20the%20Family%20Stone) | Focus on how Errico locks with Graham's slap bass to create the defining funk pocket. |
+| [Dance to the Music](https://open.spotify.com/search/Dance%20to%20the%20Music%20Sly%20and%20the%20Family%20Stone) | Listen for how the drum part frames the bass line and sets ensemble weight. |
+| [Everyday People](https://open.spotify.com/search/Everyday%20People%20Sly%20and%20the%20Family%20Stone) | Track the restraint here — sparse drumming in service of a laid-back, open feel. |
+| [I Want to Take You Higher](https://open.spotify.com/search/I%20Want%20to%20Take%20You%20Higher%20Sly%20and%20the%20Family%20Stone) | Use this for groove architecture: how Errico builds density and drives sections forward. |
+| [Stand!](https://open.spotify.com/search/Stand%20Sly%20and%20the%20Family%20Stone) | Focus on time feel, cymbal placement, and fill discipline across a long form. |
+| [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Sly%20and%20the%20Family%20Stone) | Listen for the drum groove that holds a deceptively simple song together. |
+| [Don't Call Me Nigger, Whitey](https://open.spotify.com/search/Don%27t%20Call%20Me%20Nigger%20Whitey%20Sly%20and%20the%20Family%20Stone) | Track the transitions: fills, pushes, and how sections are announced. |
+| [You Can Make It If You Try](https://open.spotify.com/search/You%20Can%20Make%20It%20If%20You%20Try%20Sly%20and%20the%20Family%20Stone) | Listen for dynamic control and how Errico changes density without losing pulse. |
+| [M'Lady](https://open.spotify.com/search/M%27Lady%20Sly%20and%20the%20Family%20Stone) | Study the interplay between kick drum and Larry Graham's bass. |
+| [Life](https://open.spotify.com/search/Life%20Sly%20and%20the%20Family%20Stone) | Use this for raw drive: aggressive drumming from the Dance to the Music album. |
 
 ## Sly Stone
 
-Sly Stone is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Sly and the Family Stone / Graham Central Station.
+Sly Stone (born Sylvester Stewart) is the founder, primary songwriter, arranger, vocalist, and multi-instrumentalist behind Sly and the Family Stone — one of the most visionary creative figures in American popular music. He played keyboards (Hammond organ, piano, and synthesizers) throughout the band's recordings, but his role extended far beyond any single instrument: he produced and arranged the records, sang lead and in ensemble, and held together a complex group vision that fused gospel euphoria with political urgency and psychedelic texture. His keyboard playing is colorful and orchestral — he uses organ to thicken the low-mid texture and piano for rhythmic punch, and on later records introduced synthesizers that pushed the sound further into the future. His production work on There's a Riot Goin' On (1971) was a landmark in studio-as-instrument thinking.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related artists. |
+| Mid-1960s | Radio DJ / session work | — | — | Was a DJ and producer in the Bay Area before forming the Family Stone. |
+| 1966–1975 | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Founder, leader, primary songwriter, arranger, and multi-instrumentalist. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | Hammond organ, piano, synthesizers |
+| Other | Multi-instrumentalist (guitar, drums, trumpet, and others); primary vocalist and arranger |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Stand](https://open.spotify.com/search/Stand%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [M'Lady](https://open.spotify.com/search/M%27Lady%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [You Can Make It If You Try](https://open.spotify.com/search/You%20Can%20Make%20It%20If%20You%20Try%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the keys support and color the arrangement. |
-| [If You Want Me to Stay](https://open.spotify.com/search/If%20You%20Want%20Me%20to%20Stay%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [Thank You](https://open.spotify.com/search/Thank%20You%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [You Are the Sunshine of My Life](https://open.spotify.com/search/You%20Are%20the%20Sunshine%20of%20My%20Life%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [As](https://open.spotify.com/search/As%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the keys support and color the arrangement. |
-| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
+| [Stand!](https://open.spotify.com/search/Stand%20Sly%20and%20the%20Family%20Stone) | Focus on how the keyboards glue the arrangement and Sly's vocal delivery organizes the ensemble. |
+| [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Sly%20and%20the%20Family%20Stone) | Listen for organ and piano layering — how Sly uses keyboard color to fill harmonic space. |
+| [Everyday People](https://open.spotify.com/search/Everyday%20People%20Sly%20and%20the%20Family%20Stone) | Track the vocal arrangement: how multiple lead voices are coordinated without losing coherence. |
+| [You Can Make It If You Try](https://open.spotify.com/search/You%20Can%20Make%20It%20If%20You%20Try%20Sly%20and%20the%20Family%20Stone) | Listen for keyboard voicings and how Sly's phrasing shapes the gospel undertow. |
+| [If You Want Me to Stay](https://open.spotify.com/search/If%20You%20Want%20Me%20to%20Stay%20Sly%20and%20the%20Family%20Stone) | Study how the keyboard carries the harmonic map in the leaner Fresh-era sound. |
+| [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20Falettinme%20Be%20Mice%20Elf%20Agin%20Sly%20and%20the%20Family%20Stone) | Focus on how Sly's vocal performance sits inside the groove rather than over it. |
+| [Family Affair](https://open.spotify.com/search/Family%20Affair%20Sly%20and%20the%20Family%20Stone) | Listen for the synthesizer and studio-layered production — a turning point in how he used the studio. |
+| [Runnin' Away](https://open.spotify.com/search/Runnin%27%20Away%20Sly%20and%20the%20Family%20Stone) | Track the arrangement economy — how much is achieved with very few elements. |
+| [Don't Call Me Nigger, Whitey](https://open.spotify.com/search/Don%27t%20Call%20Me%20Nigger%20Whitey%20Sly%20and%20the%20Family%20Stone) | Use this for the political charge that runs beneath the groove. |
+| [Dance to the Music](https://open.spotify.com/search/Dance%20to%20the%20Music%20Sly%20and%20the%20Family%20Stone) | The opening track of his breakthrough album — listen for how the arrangement builds from instrument to instrument as each player is introduced. |
 
 ## Maceo Parker
 
-Maceo Parker is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Sly and the Family Stone / Graham Central Station.
+Maceo Parker is an alto saxophonist whose primary musical home was James Brown's band, where he became one of the most recognizable horn voices in funk — his playing on "Cold Sweat," "Mother Popcorn," and "Make It Funky" defined what a funk saxophone sounds like. He is an orbit player here: his world intersects with Sly and the Family Stone's through the shared funk vocabulary, the James Brown–Sly axis of 1960s–70s Black American popular music, and his later work with Parliament-Funkadelic. Maceo brings the horn language that Sly's band drew from and contributed to. His phrasing is bluesy, assertive, and deeply rhythmic — he plays in the pocket the way a drummer would, and his articulation is a master class in making every note count.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related artists. |
+| 1964–1970s | James Brown / The JBs | — | — | Primary musical home; defined the funk horn voice. |
+| 1970s–1980s | Parliament-Funkadelic | — | — | Extended funk orbit; worked with George Clinton's collective. |
+| 1990s–present | Maceo Parker solo | — | — | Touring and recording as a bandleader in his own right. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Associated instruments and touring/studio tools. |
+| Saxophone | Alto saxophone (primary) |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Stand](https://open.spotify.com/search/Stand%20Maceo%20Parker%20Sly%20and%20the%20Family%20Stone) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
-| [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Maceo%20Parker%20Sly%20and%20the%20Family%20Stone) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
-| [M'Lady](https://open.spotify.com/search/M%27Lady%20Maceo%20Parker%20Sly%20and%20the%20Family%20Stone) | Track how the saxophone line changes the ensemble from groove to conversation. |
-| [You Can Make It If You Try](https://open.spotify.com/search/You%20Can%20Make%20It%20If%20You%20Try%20Maceo%20Parker%20Sly%20and%20the%20Family%20Stone) | Use this for tone, attack, and phrase endings inside the idiom. |
-| [If You Want Me to Stay](https://open.spotify.com/search/If%20You%20Want%20Me%20to%20Stay%20Maceo%20Parker%20Sly%20and%20the%20Family%20Stone) | Listen for melodic contrast against bass and guitar figures. |
-| [Thank You](https://open.spotify.com/search/Thank%20You%20Maceo%20Parker%20Sly%20and%20the%20Family%20Stone) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
-| [Chameleon](https://open.spotify.com/search/Chameleon%20Maceo%20Parker%20Sly%20and%20the%20Family%20Stone) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
-| [Birdland](https://open.spotify.com/search/Birdland%20Maceo%20Parker%20Sly%20and%20the%20Family%20Stone) | Track how the saxophone line changes the ensemble from groove to conversation. |
-| [Donna Lee](https://open.spotify.com/search/Donna%20Lee%20Maceo%20Parker%20Sly%20and%20the%20Family%20Stone) | Use this for tone, attack, and phrase endings inside the idiom. |
-| [Straight, No Chaser](https://open.spotify.com/search/Straight%2C%20No%20Chaser%20Maceo%20Parker%20Sly%20and%20the%20Family%20Stone) | Listen for melodic contrast against bass and guitar figures. |
+| [Cold Sweat](https://open.spotify.com/search/Cold%20Sweat%20James%20Brown) | One of the defining funk horn performances — track how Maceo's alto sits in the pocket rhythmically. |
+| [Make It Funky](https://open.spotify.com/search/Make%20It%20Funky%20James%20Brown) | Focus on phrasing, breath shape, and articulation: how the horn answers the rhythm section. |
+| [Mother Popcorn](https://open.spotify.com/search/Mother%20Popcorn%20James%20Brown) | Listen for blues language and motivic development in a pure funk context. |
+| [Pass the Peas](https://open.spotify.com/search/Pass%20the%20Peas%20The%20JBs) | The JBs showcase — track how Maceo leads the horn section and solos inside the groove. |
+| [Shake Everything You've Got](https://open.spotify.com/search/Shake%20Everything%20You%27ve%20Got%20Maceo%20Parker) | Solo-era Maceo: use this for tone, attack, and phrase endings inside the idiom. |
+| [Bring It On...Bring It On](https://open.spotify.com/search/Bring%20It%20On%20Maceo%20Parker) | Listen for how his phrasing balances blues vocabulary with rhythmic precision. |
+| [Soul Power](https://open.spotify.com/search/Soul%20Power%20James%20Brown) | Track how the saxophone line changes the ensemble from groove to conversation. |
+| [I Got You (I Feel Good)](https://open.spotify.com/search/I%20Got%20You%20I%20Feel%20Good%20James%20Brown) | Listen for melodic contrast against the horn arrangement and how Maceo colors the texture. |
+| [Everyday People](https://open.spotify.com/search/Everyday%20People%20Sly%20and%20the%20Family%20Stone) | The Sly side of the orbit — listen for how the horn language Maceo developed fits this world. |
+| [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Sly%20and%20the%20Family%20Stone) | Use this to hear how the Sly horn vocabulary connects to the James Brown idiom Maceo inhabited. |
 
 ## References
 

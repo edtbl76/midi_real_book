@@ -31,7 +31,7 @@ Bunny Brunel is a bassist associated with jazz fusion, fusion. Musically, the im
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -63,7 +63,7 @@ Tony MacAlpine is a guitarist associated with neoclassical metal, jazz fusion, r
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -95,7 +95,7 @@ Jon Finn is a guitarist associated with neoclassical rock, jazz fusion, shred. M
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -127,7 +127,7 @@ Dennis Chambers is a drummer whose playing helps shape this music. Listen for ho
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -159,7 +159,7 @@ Chick Corea is a keyboard player whose playing helps shape this music. Listen fo
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 

@@ -32,7 +32,7 @@ Ray Brown is a bassist associated with swing, bebop, big band, jazz. Musically, 
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -64,7 +64,7 @@ Joe Pass is a guitarist associated with jazz, bebop, swing. Musically, the impor
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -96,7 +96,7 @@ Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musica
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -128,7 +128,7 @@ Buddy Rich is a drummer whose playing helps shape this music. Listen for how the
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -160,7 +160,7 @@ Oscar Peterson is a keyboard player whose playing helps shape this music. Listen
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 
@@ -192,7 +192,7 @@ Dizzy Gillespie is a trumpeter whose playing helps shape this music. Listen for 
 
 | Category | Gear |
 |---|---|
-| Trumpet | Associated instruments and touring/studio tools. |
+| Trumpet | — |
 
 ### 10 Key Recordings
 

@@ -2,7 +2,7 @@
 
 ## Context
 
-This music is centered on David Lee Roth band: hard rock / shred. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
+David Lee Roth formed his solo band in 1985 after departing Van Halen, immediately assembling a lineup of elite virtuosos rather than a conventional backing group. The classic *Eat 'Em and Smile* (1986) lineup featured guitarist Steve Vai, bassist Billy Sheehan, and drummer Gregg Bissonette, whose technical firepower turned Roth's theatrical showmanship into a high-octane glam/hard-rock spectacle. The band's format was built around Roth's larger-than-life stage persona while giving each player room to showcase genuine virtuosity — a deliberate contrast to the anonymity of typical frontman backing bands.
 
 ## Players
 
@@ -19,196 +19,211 @@ This music is centered on David Lee Roth band: hard rock / shred. Listen for how
 
 ## Billy Sheehan
 
-Billy Sheehan is a bassist associated with hard rock, rock, shred. Musically, the important traits here are hard-rock shred bass, three-finger speed, tapping, lead-bass phrasing. In this ensemble: hard rock / shred. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
+Billy Sheehan is a bassist whose career stretches from the Buffalo hard-rock scene with Talas through his landmark tenure in David Lee Roth's band and co-founding Mr. Big. His playing is defined by three-finger right-hand speed, aggressive use of tapping across two-handed patterns, and a lead-bass approach that treats the instrument as a melodic voice rather than purely a rhythm anchor. On *Eat 'Em and Smile* he pioneered a technique of picking notes with his right-hand palm anchored near the bridge, producing a percussive attack unlike standard plucking. He later co-founded Mr. Big with Paul Gilbert, where his bass work continued to push the boundary between rhythm section and frontline soloist.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
+| 1976–1985 | Talas | [Wikipedia](https://en.wikipedia.org/wiki/Talas_(band)) | — | Buffalo hard-rock band where Sheehan developed his signature lead-bass style. |
+| 1989–1997 | Mr. Big | [Wikipedia](https://en.wikipedia.org/wiki/Mr._Big_(American_band)) | — | Hard-rock supergroup co-founded with Paul Gilbert. |
+| 1997–present | Solo / Billy Sheehan | [Wikipedia][billy-sheehan-wiki] | — | Ongoing solo and collaborative work. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | Yamaha Attitude bass (custom P-bass style with three pickups) |
+| Amplification | Ampeg SVT |
+| Preamp | Pearce BC-1 preamp |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Track the pocket, note length, and how Billy Sheehan makes the harmony feel grounded. |
-| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Skyscraper](https://open.spotify.com/search/Skyscraper%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Hot Dog and a Shake](https://open.spotify.com/search/Hot%20Dog%20and%20a%20Shake%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for how the player shapes and attacks each note. |
-| [Just Like Paradise](https://open.spotify.com/search/Just%20Like%20Paradise%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Stratus](https://open.spotify.com/search/Stratus%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Track the pocket, note length, and how Billy Sheehan makes the harmony feel grounded. |
-| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20%28Falettinme%20Be%20Mice%20Elf%20Agin%29%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for how the player shapes and attacks each note. |
+| [Yankee Rose](https://open.spotify.com/search/Yankee%20Rose%20David%20Lee%20Roth) | The opening track of *Eat 'Em and Smile* — listen for how Sheehan's bass stays melodically active while locking with Bissonette's kick drum. |
+| [Shyboy](https://open.spotify.com/search/Shyboy%20David%20Lee%20Roth) | Originally a Talas showcase, this version lets Sheehan trade pyrotechnics with Vai; focus on the tapping runs and right-hand palm-attack tone. |
+| [Ladies' Nite in Buffalo?](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20David%20Lee%20Roth) | Listen for fills that answer the vocal or guitar while keeping the groove stable throughout the mid-section. |
+| [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20David%20Lee%20Roth) | Track the pocket, note length, and how Sheehan makes the harmony feel grounded on this blues-rock cover. |
+| [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20David%20Lee%20Roth) | Focus on the bass movement between chord roots, anticipations, and the way the low end drives the chorus lift. |
+| [Just Like Paradise](https://open.spotify.com/search/Just%20Like%20Paradise%20David%20Lee%20Roth) | From *Skyscraper* — listen for how Sheehan supports a more pop-oriented arrangement without losing his characteristic attack. |
+| [Shy Boy](https://open.spotify.com/search/Shy%20Boy%20Talas) | The original Talas recording that built Sheehan's reputation; compare the bass tone and approach to the later DLR version. |
+| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Mr.%20Big) | Mr. Big debut track — hear how Sheehan and Gilbert trade roles, with bass taking melodic lead in the verses. |
+| [To Be With You](https://open.spotify.com/search/To%20Be%20With%20You%20Mr.%20Big) | Mr. Big's biggest hit; notice how Sheehan restrains his technique entirely to serve the song's acoustic dynamic. |
+| [Green Tinted Sixties Mind](https://open.spotify.com/search/Green%20Tinted%20Sixties%20Mind%20Mr.%20Big) | Focus on the bass line's melodic independence during the guitar solo sections. |
 
 ## Steve Vai
 
-American guitarist who emerged from Frank Zappa's band before becoming a major virtuoso rock solo artist. In this `David Lee Roth band` ensemble, the focus is guitar function inside hard rock / shred: how the player supports, contrasts, or defines the ensemble sound. The broad biographical frame is Long Island, New York, active mainly from late 1970s-present, with styles centered on virtuoso rock, Zappa-style reading, whammy phrasing, shred.
+American guitarist who emerged from Frank Zappa's band before becoming a major virtuoso rock solo artist. Vai joined David Lee Roth's band in 1985 fresh off his work with Alcatraz, and his guitar work on *Eat 'Em and Smile* (1986) and *Skyscraper* (1988) defined the sound of high-concept shred-rock: elaborate whammy-bar phrasing, harmonic screams, and a tone built around the Ibanez JEM prototype he co-developed with Ibanez. He grew up on Long Island, New York, studied at Berklee, and transcribed Zappa compositions before joining Zappa's live band in the early 1980s. After leaving the Roth band he launched a celebrated solo career with *Passion and Warfare* (1990), consistently pushing guitar technique and studio composition into new territory.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
+| 1980–1983 | Frank Zappa | [Wikipedia](https://en.wikipedia.org/wiki/Frank_Zappa) | — | Hired as a note-perfect transcriptionist and live guitarist for Zappa's band. |
+| 1984–1985 | Alcatrazz | [Wikipedia](https://en.wikipedia.org/wiki/Alcatrazz) | — | Hard-rock vehicle that preceded the Roth gig; one studio album. |
+| 1990–present | Steve Vai (solo) | [Wikipedia][steve-vai-wiki] | [Website][steve-vai-site] | Solo career beginning with *Passion and Warfare*. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitars | Ibanez JEM and Universe models |
-| Effects / Amps | Eventide-style harmonizers, Carvin/Legacy-era amps, Fractal-era rigs |
+| Guitars | Ibanez JEM777 (primary on *Eat 'Em and Smile* era); various custom Ibanez Universe 7-string |
+| Effects | DigiTech Whammy |
+| Amplification | Carvin Legacy amplifier |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20Steve%20Vai%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
-| [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Steve%20Vai%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Steve Vai shapes the melodic argument. |
-| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
-| [Skyscraper](https://open.spotify.com/search/Skyscraper%20Steve%20Vai%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Hot Dog and a Shake](https://open.spotify.com/search/Hot%20Dog%20and%20a%20Shake%20Steve%20Vai%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Europa](https://open.spotify.com/search/Europa%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
-| [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Steve%20Vai%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Steve Vai shapes the melodic argument. |
-| [Crossroads](https://open.spotify.com/search/Crossroads%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
-| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Steve%20Vai%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Yankee Rose](https://open.spotify.com/search/Yankee%20Rose%20David%20Lee%20Roth) | The guitar-vocal call-and-response in the intro is a masterclass in using whammy-bar inflection to mimic speech. |
+| [Shyboy](https://open.spotify.com/search/Shyboy%20David%20Lee%20Roth) | Use this for lead construction: how Vai builds tension across a long solo section with melodic entrances and whammy releases. |
+| [Ladies' Nite in Buffalo?](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20David%20Lee%20Roth) | Listen for how the rhythm guitar locks into the groove while still leaving space for Vai's characteristic harmonic pops. |
+| [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20David%20Lee%20Roth) | Focus on phrasing, tone, and bends — Vai's blues-influenced side surfaces here more than on the purely technical tracks. |
+| [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20David%20Lee%20Roth) | Track how the guitar line interacts with Sheehan's bass motion rather than simply sitting on top of it. |
+| [Just Like Paradise](https://open.spotify.com/search/Just%20Like%20Paradise%20David%20Lee%20Roth) | From *Skyscraper* — notice how Vai adapts to a more radio-friendly arrangement without abandoning his signature touches. |
+| [The Audience Is Listening](https://open.spotify.com/search/The%20Audience%20Is%20Listening%20Steve%20Vai) | From *Passion and Warfare* — Vai at his most theatrical, blending classical structure with whammy-bar acrobatics. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Steve%20Vai) | Slow, devotional solo piece from *Passion and Warfare*; study the vibrato control and long-form melodic arc. |
+| [Erotic Nightmares](https://open.spotify.com/search/Erotic%20Nightmares%20Steve%20Vai) | Short but dense — listen for how many ideas Vai packs into two minutes without the track feeling rushed. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Steve%20Vai) | Balladic solo piece from *Alien Love Secrets*; a showcase for Vai's singing tone and emotional phrasing outside the rock context. |
 
 ## Paul Gilbert
 
-Paul Gilbert is a guitarist associated with rock, shred, instrumental rock, hard rock. Musically, the important traits here are right-hand alternate picking precision, string skipping, speed and precision, clean stamina. In this ensemble: hard rock / shred. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
+Paul Gilbert is a guitarist known for right-hand alternate-picking precision, string skipping, and extraordinary speed with clean articulation at high tempo. He replaced Steve Vai in the David Lee Roth band for the *A Little Ain't Enough* (1991) album and subsequent tour, bringing a more classically rock-oriented approach than Vai's flamboyant whammy style. Before joining the Roth band, Gilbert had already made his name through Racer X and as a teacher at GIT in Hollywood. After the Roth period he co-founded Mr. Big with Billy Sheehan, achieving massive commercial success while still demonstrating elite technique.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
+| 1985–1988 | Racer X | [Wikipedia](https://en.wikipedia.org/wiki/Racer_X_(band)) | — | Speed-metal vehicle that established Gilbert's reputation before the Roth gig. |
+| 1989–1997 | Mr. Big | [Wikipedia](https://en.wikipedia.org/wiki/Mr._Big_(American_band)) | — | Hard-rock supergroup co-founded with Billy Sheehan. |
+| 1997–present | Paul Gilbert (solo) | [Wikipedia][paul-gilbert-wiki] | — | Prolific solo career spanning hard rock and melodic rock styles. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Elephant Gun](https://open.spotify.com/search/Elephant%20Gun%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
-| [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Paul Gilbert shapes the melodic argument. |
-| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
-| [Skyscraper](https://open.spotify.com/search/Skyscraper%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Paul Gilbert shapes the melodic argument. |
-| [Red House](https://open.spotify.com/search/Red%20House%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
+| [A Lil' Ain't Enough](https://open.spotify.com/search/A%20Lil%27%20Ain%27t%20Enough%20David%20Lee%20Roth) | Title track from the *A Little Ain't Enough* album — hear how Gilbert's tighter, less whammy-dependent style sits against the Roth band groove. |
+| [It's Showtime!](https://open.spotify.com/search/It%27s%20Showtime%20David%20Lee%20Roth) | High-energy opener from *A Little Ain't Enough*; focus on how Gilbert's alternate picking drives the rhythm feel. |
+| [Drop in the Bucket](https://open.spotify.com/search/Drop%20in%20the%20Bucket%20David%20Lee%20Roth) | Listen for the lead phrasing: clean, fast, and melodically direct — Gilbert's solo voice versus Vai's more textural approach. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Racer%20X) | Racer X's defining track — use this to study Gilbert's string-skipping and alternate-picking architecture at full speed. |
+| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Paul%20Gilbert) | From Gilbert's solo catalog — showcases the same precision picking applied to a more compositionally elaborate setting. |
+| [Addicted to That Rush](https://open.spotify.com/search/Addicted%20to%20That%20Rush%20Mr.%20Big) | Mr. Big debut; notice how Gilbert and Sheehan divide the melodic load, with guitar taking lead in the chorus. |
+| [Daddy, Brother, Lover, Little Boy](https://open.spotify.com/search/Daddy%20Brother%20Lover%20Little%20Boy%20Mr.%20Big) | One of Mr. Big's signature tracks — listen for Gilbert's drill-chuck guitar gimmick alongside the straight hard-rock rhythm work. |
+| [To Be With You](https://open.spotify.com/search/To%20Be%20With%20You%20Mr.%20Big) | Mr. Big's biggest commercial hit; like Sheehan, study how Gilbert restrains his technique completely to serve the song. |
+| [Green Tinted Sixties Mind](https://open.spotify.com/search/Green%20Tinted%20Sixties%20Mind%20Mr.%20Big) | Focus on the guitar solo — melodic and well-structured, demonstrating Gilbert's ability to build a lyrical argument under speed. |
+| [Be With You](https://open.spotify.com/search/Be%20With%20You%20Mr.%20Big) | A second Mr. Big ballad that contrasts with the heavier material; tracks Gilbert's range across the full album arc. |
 
 ## Jason Becker
 
-Jason Becker is a guitarist associated with neoclassical metal, shred, rock. Musically, the important traits here are neoclassical shred precision, speed and clarity, classical phrasing, elite alternate picking. In this ensemble: hard rock / shred. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
+Jason Becker is a guitarist associated with neoclassical metal and shred, whose technical precision and classical melodic sense place him in the tradition of Paganini-influenced rock guitar. He joined the David Lee Roth band to co-record *A Little Ain't Enough* (1991) after Paul Gilbert departed, but ALS was already affecting his motor function by the time the album was tracked, making those sessions a remarkable document of his ability under extreme physical duress. Before the Roth stint, Becker had released *Speed Metal Symphony* (1987) as a duo with Marty Friedman and his solo debut *Perpetual Burn* (1988), establishing himself as one of the most technically advanced guitarists of the shred era. His neoclassical phrasing — elaborate scalar sequences framed by precise alternate picking — brought a different intellectual weight to the Roth band context than either Vai's whammy theatrics or Gilbert's precision-rock approach.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
+| 1987–1989 | Cacophony (with Marty Friedman) | [Wikipedia](https://en.wikipedia.org/wiki/Cacophony_(band)) | — | Neoclassical shred duo; recorded *Speed Metal Symphony* and *Go Off!* |
+| 1988–1990 | Jason Becker (solo) | [Wikipedia][jason-becker-wiki] | — | Solo debut *Perpetual Burn* established his neoclassical voice. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20Jason%20Becker%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
-| [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Jason%20Becker%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Jason Becker shapes the melodic argument. |
-| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
-| [Skyscraper](https://open.spotify.com/search/Skyscraper%20Jason%20Becker%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Hot Dog and a Shake](https://open.spotify.com/search/Hot%20Dog%20and%20a%20Shake%20Jason%20Becker%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
-| [Red House](https://open.spotify.com/search/Red%20House%20Jason%20Becker%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Jason Becker shapes the melodic argument. |
-| [La Grange](https://open.spotify.com/search/La%20Grange%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Jason%20Becker%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [A Lil' Ain't Enough](https://open.spotify.com/search/A%20Lil%27%20Ain%27t%20Enough%20David%20Lee%20Roth) | Becker's work on the *A Little Ain't Enough* title track — focus on how his neoclassical phrasing contrasts with the straight hard-rock groove. |
+| [It's Showtime!](https://open.spotify.com/search/It%27s%20Showtime%20David%20Lee%20Roth) | Compare the guitar approach here to the Vai-era DLR tracks; Becker's lines are more harmonically ornate. |
+| [Drop in the Bucket](https://open.spotify.com/search/Drop%20in%20the%20Bucket%20David%20Lee%20Roth) | Listen for the lead tone and phrasing: Becker's vibrato is wider and more operatic than Gilbert's clipped precision. |
+| [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Jason%20Becker) | The title track of his 1988 solo album — a pure neoclassical showcase of scalar runs, arpeggios, and compositional logic. |
+| [Air](https://open.spotify.com/search/Air%20Cacophony%20Jason%20Becker) | From *Speed Metal Symphony* — one of the most melodically developed tracks from the Cacophony era; study the long-form solo arc. |
+| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Cacophony) | The centerpiece of the debut Cacophony album; use it to track how Becker and Friedman divide lead roles. |
+| [Altitudes](https://open.spotify.com/search/Altitudes%20Jason%20Becker) | Becker's solo acoustic piece from *Perpetual Burn* — stripped of the electric shred context, it reveals his melodic compositional thinking. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Jason%20Becker) | A key *Perpetual Burn* track — focus on the alternate picking speed and how Becker maintains melodic coherence at maximum tempo. |
+| [Mabel's Fatal Fable](https://open.spotify.com/search/Mabel%27s%20Fatal%20Fable%20Cacophony) | Cacophony track that blends neoclassical shred with humor; listen for how the dual-guitar arrangement is structured. |
+| [Serrana](https://open.spotify.com/search/Serrana%20Jason%20Becker) | From *Perpetual Burn* — one of Becker's most refined classical-influenced compositions, demonstrating harmonic sophistication beyond the shred context. |
 
 ## Mike Mangini
 
-Mike Mangini is a drummer whose drum role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The related listening is Mr. Big / David Lee Roth / Shrapnel orbit.
+Mike Mangini is a drummer whose playing combines mechanical precision with genuinely musical phrasing — he is as comfortable playing to a click in a studio as he is navigating complex metric figures in a live setting. He joined the David Lee Roth band in the later touring cycle and had previously worked as a touring drummer with Steve Vai, giving him direct familiarity with the high-demand technical context of that scene. He later became a professor of percussion at Berklee College of Music and joined Dream Theater in 2011 after winning an open audition, making him one of the few high-profile drummers to hold both academic and arena-rock credentials simultaneously. In the Roth band context, listen for how he balances groove function with the ensemble's demand for flashy transitions and dramatic fills.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
+| 1990s | Steve Vai (touring) | [Wikipedia][steve-vai-wiki] | — | Touring drummer for Vai before the DLR association. |
+| 1990s–2000s | Annihilator | [Wikipedia](https://en.wikipedia.org/wiki/Annihilator_(band)) | — | Canadian thrash-metal band; one of several sideman engagements. |
+| 2011–present | Dream Theater | [Wikipedia](https://en.wikipedia.org/wiki/Dream_Theater) | — | Joined as full member after a televised open audition. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | Pearl drum kit |
+| Cymbals | — |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Mike%20Mangini%20David%20Lee%20Roth%20band) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Mike%20Mangini%20David%20Lee%20Roth%20band) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Skyscraper](https://open.spotify.com/search/Skyscraper%20Mike%20Mangini%20David%20Lee%20Roth%20band) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Hot Dog and a Shake](https://open.spotify.com/search/Hot%20Dog%20and%20a%20Shake%20Mike%20Mangini%20David%20Lee%20Roth%20band) | Use this for groove architecture rather than just surface-level chops. |
-| [Just Like Paradise](https://open.spotify.com/search/Just%20Like%20Paradise%20Mike%20Mangini%20David%20Lee%20Roth%20band) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Yankee Rose](https://open.spotify.com/search/Yankee%20Rose%20Mike%20Mangini%20David%20Lee%20Roth%20band) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Samba de Orfeu](https://open.spotify.com/search/Samba%20de%20Orfeu%20Mike%20Mangini%20David%20Lee%20Roth%20band) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Superstition](https://open.spotify.com/search/Superstition%20Mike%20Mangini%20David%20Lee%20Roth%20band) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Babylon Sisters](https://open.spotify.com/search/Babylon%20Sisters%20Mike%20Mangini%20David%20Lee%20Roth%20band) | Use this for groove architecture rather than just surface-level chops. |
-| [One Word](https://open.spotify.com/search/One%20Word%20Mike%20Mangini%20David%20Lee%20Roth%20band) | Listen for dynamic control and how the drummer changes density without losing pulse. |
+| [Yankee Rose](https://open.spotify.com/search/Yankee%20Rose%20David%20Lee%20Roth) | The opening track of *Eat 'Em and Smile* — focus on how the drum part anchors Roth's theatrical intro without crowding it. |
+| [Just Like Paradise](https://open.spotify.com/search/Just%20Like%20Paradise%20David%20Lee%20Roth) | From *Skyscraper* — listen for dynamic control and how the drummer changes density without losing pulse on a more pop-oriented track. |
+| [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20David%20Lee%20Roth) | Focus on time feel, subdivision, cymbal placement, and fill discipline throughout this blues-rock arrangement. |
+| [Ladies' Nite in Buffalo?](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20David%20Lee%20Roth) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Damn Good](https://open.spotify.com/search/Damn%20Good%20David%20Lee%20Roth) | *Skyscraper* ballad — study how the drum part opens up to support a slower, more expansive arrangement. |
+| [A Lil' Ain't Enough](https://open.spotify.com/search/A%20Lil%27%20Ain%27t%20Enough%20David%20Lee%20Roth) | From the *A Little Ain't Enough* album — track the groove architecture relative to the Bissonette-era DLR tracks. |
+| [In the Name of God](https://open.spotify.com/search/In%20the%20Name%20of%20God%20Dream%20Theater) | Dream Theater track from *Train of Thought* — use this to hear Mangini's predecessor in context and calibrate the expectations for his later work. |
+| [On the Backs of Angels](https://open.spotify.com/search/On%20the%20Backs%20of%20Angels%20Dream%20Theater) | From *A Dramatic Turn of Events* (2011), the first Dream Theater album featuring Mangini — listen for how he settles into the ensemble. |
+| [The Count of Tuscany](https://open.spotify.com/search/The%20Count%20of%20Tuscany%20Dream%20Theater) | Extended Dream Theater track — use it to study Mangini's transitions, fills, and how he handles metric complexity across a long form. |
+| [Breaking All Illusions](https://open.spotify.com/search/Breaking%20All%20Illusions%20Dream%20Theater) | Focus on the groove architecture rather than just surface-level chops — how Mangini supports a shifting arrangement across multiple sections. |
 
 ## Michael Keneally
 
-Michael Keneally is a keyboard player whose keyboard role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The related listening is Mr. Big / David Lee Roth / Shrapnel orbit.
+Michael Keneally is a multi-instrumentalist — primarily guitars and keyboards — whose musical sensibility is shaped by the Frank Zappa tradition of genre-collapsing, technically demanding rock. He joined Frank Zappa's band in 1988 as a "stunt guitarist" and rhythm section anchor, developing an ability to read and perform complex composed music at high speed that made him a natural fit for Steve Vai's solo touring band and subsequently for various configurations of the David Lee Roth band. His keyboard role in the DLR context is to provide harmonic color and arrangement glue in a band where the guitar and bass already occupy the melodic foreground. He has also maintained a prolific solo career known for eccentric songwriting, dense arrangements, and a sardonic wit that carries the Zappa influence forward.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
+| 1988–1993 | Frank Zappa | [Wikipedia](https://en.wikipedia.org/wiki/Frank_Zappa) | — | Joined as stunt guitarist and multi-instrumentalist for Zappa's final touring band. |
+| 1993–present | Steve Vai (touring) | [Wikipedia][steve-vai-wiki] | — | Long-running association with Vai's band as guitarist and keyboardist. |
+| 1994–present | Michael Keneally (solo) | [Wikipedia][michael-keneally-wiki] | — | Solo career; debut *hat.* released 1992. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Elephant Gun](https://open.spotify.com/search/Elephant%20Gun%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for how the keys support and color the arrangement. |
-| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [Skyscraper](https://open.spotify.com/search/Skyscraper%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Peg](https://open.spotify.com/search/Peg%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for how the keys support and color the arrangement. |
-| [Riders on the Storm](https://open.spotify.com/search/Riders%20on%20the%20Storm%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [Frankenstein](https://open.spotify.com/search/Frankenstein%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [Lingus](https://open.spotify.com/search/Lingus%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Yankee Rose](https://open.spotify.com/search/Yankee%20Rose%20David%20Lee%20Roth) | Track how the keyboard part provides harmonic glue between Vai's guitar and Sheehan's bass on the *Eat 'Em and Smile* opener. |
+| [Ladies' Nite in Buffalo?](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20David%20Lee%20Roth) | Listen for the keyboard role as both harmonic map and melodic counterweight to the guitar. |
+| [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20David%20Lee%20Roth) | Focus on voicings, pads, and how the keyboard part glues the arrangement without crowding the blues-rock feel. |
+| [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20David%20Lee%20Roth) | Listen for how the keys share space with guitar and bass without blurring the groove. |
+| [Just Like Paradise](https://open.spotify.com/search/Just%20Like%20Paradise%20David%20Lee%20Roth) | From *Skyscraper* — notice how the keyboard role shifts in a more synth-forward pop arrangement. |
+| [Damn Good](https://open.spotify.com/search/Damn%20Good%20David%20Lee%20Roth) | *Skyscraper* ballad — listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Trumpet Vodka](https://open.spotify.com/search/Trumpet%20Vodka%20Michael%20Keneally) | Keneally solo track from *hat.* — hear how his Zappa-influenced compositional thinking works when he is leading the ensemble. |
+| [Boil That Dust Speck](https://open.spotify.com/search/Boil%20That%20Dust%20Speck%20Michael%20Keneally) | From Keneally's solo work — focus on the keyboard voicings and how they interact with unconventional song structures. |
+| [Potato](https://open.spotify.com/search/Potato%20Michael%20Keneally) | Keneally solo — a denser arrangement that shows his range as a multi-instrumentalist beyond the sideman context. |
+| [The Universe Will Provide](https://open.spotify.com/search/The%20Universe%20Will%20Provide%20Michael%20Keneally) | From Keneally's solo catalog — use this to hear his keyboard writing at its most compositionally adventurous. |
 
 ## References
 

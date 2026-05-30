@@ -29,7 +29,7 @@ Michael Manring is a bassist associated with solo bass, avant-garde, new age, fu
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -61,7 +61,7 @@ Buckethead is a guitarist associated with metal, funk, experimental, progressive
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -93,7 +93,7 @@ Terry Bozzio is a drummer whose playing helps shape this music. Listen for how t
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 

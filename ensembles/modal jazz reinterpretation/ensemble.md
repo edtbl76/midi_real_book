@@ -31,7 +31,7 @@ Jimmy Garrison is a bassist associated with modal jazz, post-bop, avant-garde ja
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -63,7 +63,7 @@ Bill Frisell is a guitarist associated with jazz, Americana, avant-garde, post-b
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -95,7 +95,7 @@ Elvin Jones is a drummer whose playing helps shape this music. Listen for how th
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -127,7 +127,7 @@ McCoy Tyner is a keyboard player whose playing helps shape this music. Listen fo
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 
@@ -159,7 +159,7 @@ John Coltrane is a saxophonist whose playing helps shape this music. Listen for 
 
 | Category | Gear |
 |---|---|
-| Saxophone | Associated instruments and touring/studio tools. |
+| Saxophone | — |
 
 ### 10 Key Recordings
 

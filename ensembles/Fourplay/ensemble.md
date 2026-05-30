@@ -32,7 +32,7 @@ Nathan East is a bassist associated with session, pop, R&B, jazz fusion. Musical
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -64,7 +64,7 @@ Larry Carlton is a guitarist associated with jazz fusion, jazz-rock, session. Mu
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -96,7 +96,7 @@ Lee Ritenour is a guitarist associated with jazz fusion, session, jazz. Musicall
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -128,7 +128,7 @@ Harvey Mason is a drummer whose playing helps shape this music. Listen for how t
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -160,7 +160,7 @@ Bob James is a keyboard player whose playing helps shape this music. Listen for 
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 
@@ -192,7 +192,7 @@ Eric Marienthal is a saxophonist whose playing helps shape this music. Listen fo
 
 | Category | Gear |
 |---|---|
-| Saxophone | Associated instruments and touring/studio tools. |
+| Saxophone | — |
 
 ### 10 Key Recordings
 

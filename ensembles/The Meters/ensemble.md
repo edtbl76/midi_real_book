@@ -2,7 +2,7 @@
 
 ## Context
 
-This music lives in the The Meters world: New Orleans funk / second-line. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
+The Meters were a New Orleans funk quartet — later quintet — who built one of the most influential grooves in American music from almost nothing: a single-chord vamp, a locked bass-and-drums pocket, wah-inflected rhythm guitar, and organ. Formed in 1965 and active through 1977, they served as the de facto house rhythm section for Allen Toussaint's productions at Sea-Saint Studios, backing artists from Dr. John to Robert Palmer while developing the stripped-down second-line funk style that hip-hop producers would mine for decades. Their recordings are studied for what they leave out as much as what they play.
 
 ## Players
 
@@ -11,170 +11,173 @@ This music lives in the The Meters world: New Orleans funk / second-line. Listen
 | [George Porter Jr.](#george-porter-jr) | Bass | [Wikipedia][george-porter-jr-wiki] | — |
 | [Leo Nocentelli](#leo-nocentelli) | Guitar | [Wikipedia][leo-nocentelli-wiki] | — |
 | [Zigaboo Modeliste](#zigaboo-modeliste) | Drums | [Wikipedia][zigaboo-modeliste-wiki] | — |
-| [Art Neville](#art-neville) | Keyboards | [Wikipedia][art-neville-wiki] | — |
+| [Art Neville](#art-neville) | Keyboards / Vocals | [Wikipedia][art-neville-wiki] | — |
 | [Charles Neville](#charles-neville) | Saxophone | [Wikipedia][charles-neville-wiki] | — |
 
 ---
 
 ## George Porter Jr.
 
-George Porter Jr. is a bassist associated with New Orleans funk, funk, R&B. Musically, the important traits here are New Orleans funk pocket, syncopated repetition, understated melodic movement, second-line bass logic. In this ensemble: New Orleans funk / second-line. Related listening: The Meters.
+George Porter Jr. is a bassist and one of the founding members of The Meters. His playing is defined by a deep New Orleans pocket: syncopated, economical, and melodically restrained. The "Cissy Strut" bass line is among the most sampled in hip-hop history. After The Meters disbanded in 1977 he continued session work, led solo projects, and co-founded The Funky Meters.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | The Meters | — | — | Related artists. |
+| 1965–1977 | The Meters | [Wikipedia][the-meters-wiki] | — | Founding bassist; all studio albums. |
+| 1989–present | The Funky Meters | — | — | Reunion band with Nocentelli and Modeliste. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | Fender Jazz Bass, Fender Precision Bass |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Funky Miracle](https://open.spotify.com/search/Funky%20Miracle%20George%20Porter%20Jr.%20The%20Meters) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Fire on the Bayou](https://open.spotify.com/search/Fire%20on%20the%20Bayou%20George%20Porter%20Jr.%20The%20Meters) | Track the pocket, note length, and how George Porter Jr. makes the harmony feel grounded. |
-| [Hey Pocky A-Way](https://open.spotify.com/search/Hey%20Pocky%20A-Way%20George%20Porter%20Jr.%20The%20Meters) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Ease Back](https://open.spotify.com/search/Ease%20Back%20George%20Porter%20Jr.%20The%20Meters) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Sophisticated Cissy](https://open.spotify.com/search/Sophisticated%20Cissy%20George%20Porter%20Jr.%20The%20Meters) | Listen for how the player shapes and attacks each note. |
-| [Chicken Strut](https://open.spotify.com/search/Chicken%20Strut%20George%20Porter%20Jr.%20The%20Meters) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Hysteria](https://open.spotify.com/search/Hysteria%20George%20Porter%20Jr.%20The%20Meters) | Track the pocket, note length, and how George Porter Jr. makes the harmony feel grounded. |
-| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20George%20Porter%20Jr.%20The%20Meters) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20George%20Porter%20Jr.%20The%20Meters) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Hair](https://open.spotify.com/search/Hair%20George%20Porter%20Jr.%20The%20Meters) | Listen for how the player shapes and attacks each note. |
+| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20The%20Meters) | The bass line that started it all — a two-bar syncopated figure over a single chord that has been sampled hundreds of times; study how Porter plays just ahead of the downbeat on beat three. |
+| [Ease Back](https://open.spotify.com/search/Ease%20Back%20The%20Meters) | Porter locks so tightly with Modeliste's hi-hat that the bass and snare feel like one instrument; listen for how little melodic movement he uses to keep the groove alive. |
+| [Look-Ka Py Py](https://open.spotify.com/search/Look-Ka%20Py%20Py%20The%20Meters) | The bass carries the entire harmonic identity of the track while the guitar chops in the upper register — a masterclass in registral division of labor. |
+| [Sophisticated Cissy](https://open.spotify.com/search/Sophisticated%20Cissy%20The%20Meters) | An earlier cousin of "Cissy Strut" where Porter's syncopated anticipations set up the guitar wah figure; notice the deliberate space before each resolution. |
+| [People Say](https://open.spotify.com/search/People%20Say%20The%20Meters) | On their Rejuvenation breakthrough, Porter adds subtle octave movement and a brief walking line under the chorus without ever losing the second-line pocket. |
+| [Hey Pocky A-Way](https://open.spotify.com/search/Hey%20Pocky%20A-Way%20The%20Meters) | The bass pushes the groove forward with a one-note riff that repeats for most of the track — economy as a statement of intent. |
+| [Just Kissed My Baby](https://open.spotify.com/search/Just%20Kissed%20My%20Baby%20The%20Meters) | Porter uses a descending chromatic line in the verses to add melodic interest while keeping the low-end anchor steady beneath the vocal. |
+| [Fire on the Bayou](https://open.spotify.com/search/Fire%20on%20the%20Bayou%20The%20Meters) | The bass groove here is looser and more conversational than on the early singles — a sign of the band's growing range by 1975. |
+| [They All Ask'd for You](https://open.spotify.com/search/They%20All%20Ask%27d%20for%20You%20The%20Meters) | Porter navigates a song structure with a clear verse-chorus arc, showing how his pocket holds across changes without relying on repetition alone. |
+| [Running Fast](https://open.spotify.com/search/Running%20Fast%20The%20Meters) | A faster tempo than most Meters tracks; listen for how Porter maintains the same relaxed attack despite the increased pace. |
 
 ## Leo Nocentelli
 
-Leo Nocentelli is a guitarist associated with New Orleans funk, funk, R&B. Musically, the important traits here are New Orleans funk rhythm, second-line syncopation, economical single-note and chordal groove. In this ensemble: New Orleans funk / second-line. Related listening: The Meters.
+Leo Nocentelli is a guitarist and founding member of The Meters. His approach is rhythm-first: he chops the groove rather than soloing, using a wah pedal to carve out melodic phrases within a tight rhythmic frame. His parts on the early Josie singles defined the texture of New Orleans funk guitar.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | The Meters | — | — | Related artists. |
+| 1965–1977 | The Meters | [Wikipedia][the-meters-wiki] | — | Founding guitarist; all studio albums. |
+| 1989–present | The Funky Meters | — | — | Reunion band continuing the Meters tradition. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | Fender Stratocaster, Gibson ES-335 |
+| Effects | Wah pedal |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Look-Ka Py Py](https://open.spotify.com/search/Look-Ka%20Py%20Py%20Leo%20Nocentelli%20The%20Meters) | Listen for how the rhythm guitar lays into the groove. |
-| [Just Kissed My Baby](https://open.spotify.com/search/Just%20Kissed%20My%20Baby%20Leo%20Nocentelli%20The%20Meters) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [People Say](https://open.spotify.com/search/People%20Say%20Leo%20Nocentelli%20The%20Meters) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Funky Miracle](https://open.spotify.com/search/Funky%20Miracle%20Leo%20Nocentelli%20The%20Meters) | Listen for how the guitar fits the band. |
-| [Fire on the Bayou](https://open.spotify.com/search/Fire%20on%20the%20Bayou%20Leo%20Nocentelli%20The%20Meters) | Focus on phrasing, tone, bends, and how Leo Nocentelli shapes the melodic argument. |
-| [Hey Pocky A-Way](https://open.spotify.com/search/Hey%20Pocky%20A-Way%20Leo%20Nocentelli%20The%20Meters) | Listen for how the rhythm guitar lays into the groove. |
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Leo%20Nocentelli%20The%20Meters) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Leo%20Nocentelli%20The%20Meters) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Red House](https://open.spotify.com/search/Red%20House%20Leo%20Nocentelli%20The%20Meters) | Listen for how the guitar fits the band. |
-| [La Grange](https://open.spotify.com/search/La%20Grange%20Leo%20Nocentelli%20The%20Meters) | Focus on phrasing, tone, bends, and how Leo Nocentelli shapes the melodic argument. |
+| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20The%20Meters) | The wah-filtered rhythm figure that opens the track is Nocentelli's signature — a two-bar call-and-response phrase between the guitar and the bass pocket. |
+| [Look-Ka Py Py](https://open.spotify.com/search/Look-Ka%20Py%20Py%20The%20Meters) | Nocentelli chops high on the neck while Porter handles the bottom, creating a textural split that makes the groove feel wider than four players should. |
+| [Ease Back](https://open.spotify.com/search/Ease%20Back%20The%20Meters) | A rare track where the guitar is almost purely rhythmic — single-string chops placed between the drum accents with near-perfect placement. |
+| [Here Comes the Meter Man](https://open.spotify.com/search/Here%20Comes%20the%20Meter%20Man%20The%20Meters) | Nocentelli takes a more melodic role here, using brief single-note fills to punctuate the groove between the piano riff statements. |
+| [Sophisticated Cissy](https://open.spotify.com/search/Sophisticated%20Cissy%20The%20Meters) | Study how the wah phrase evolves over the track's repeated vamp — Nocentelli opens and closes the pedal in slightly different rhythmic positions each time. |
+| [Africa](https://open.spotify.com/search/Africa%20The%20Meters) | A more open texture that lets Nocentelli's single-note lines breathe; listen for how he builds tension through repetition rather than harmonic movement. |
+| [People Say](https://open.spotify.com/search/People%20Say%20The%20Meters) | Nocentelli supports the vocal melody without duplicating it — his chops fall in the spaces Art Neville leaves between lyric phrases. |
+| [Hey Pocky A-Way](https://open.spotify.com/search/Hey%20Pocky%20A-Way%20The%20Meters) | The guitar part is almost purely percussive here; Nocentelli mutes the strings and uses the body of the chord hit as a rhythmic event rather than a harmonic one. |
+| [Fire on the Bayou](https://open.spotify.com/search/Fire%20on%20the%20Bayou%20The%20Meters) | A slightly longer song form gives Nocentelli room for a more developed melodic statement — hear how he reintroduces the opening riff after the break. |
+| [Hand Clapping Song](https://open.spotify.com/search/Hand%20Clapping%20Song%20The%20Meters) | The guitar locks with the hand claps rhythmically; Nocentelli plays a syncopated funk chop pattern that demonstrates the second-line sense of rhythmic layering. |
 
 ## Zigaboo Modeliste
 
-Zigaboo Modeliste is a drummer whose playing helps shape this music. Listen for how the drum part affects New Orleans funk / second-line: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is The Meters.
+Zigaboo Modeliste is the drummer and a founding member of The Meters. He created the second-line funk drum vocabulary: syncopated hi-hat patterns on the off-eighth, accented ghost notes, and snare placements that land where other drummers would leave silence. His grooves are among the most sampled in recorded music.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | The Meters | — | — | Related artists. |
+| 1965–1977 | The Meters | [Wikipedia][the-meters-wiki] | — | Founding drummer; all studio albums. |
+| 1989–present | The Funky Meters | — | — | Reunion band; ongoing live work. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | Ludwig kit |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Ease Back](https://open.spotify.com/search/Ease%20Back%20Zigaboo%20Modeliste%20The%20Meters) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Sophisticated Cissy](https://open.spotify.com/search/Sophisticated%20Cissy%20Zigaboo%20Modeliste%20The%20Meters) | Use this for groove architecture rather than just surface-level chops. |
-| [Chicken Strut](https://open.spotify.com/search/Chicken%20Strut%20Zigaboo%20Modeliste%20The%20Meters) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Zigaboo%20Modeliste%20The%20Meters) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Look-Ka Py Py](https://open.spotify.com/search/Look-Ka%20Py%20Py%20Zigaboo%20Modeliste%20The%20Meters) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Just Kissed My Baby](https://open.spotify.com/search/Just%20Kissed%20My%20Baby%20Zigaboo%20Modeliste%20The%20Meters) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Seven Days](https://open.spotify.com/search/Seven%20Days%20Zigaboo%20Modeliste%20The%20Meters) | Use this for groove architecture rather than just surface-level chops. |
-| [50 Ways to Leave Your Lover](https://open.spotify.com/search/50%20Ways%20to%20Leave%20Your%20Lover%20Zigaboo%20Modeliste%20The%20Meters) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Sing Sing Sing](https://open.spotify.com/search/Sing%20Sing%20Sing%20Zigaboo%20Modeliste%20The%20Meters) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Take Five](https://open.spotify.com/search/Take%20Five%20Zigaboo%20Modeliste%20The%20Meters) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20The%20Meters) | The definitive second-line funk drum performance — study the hi-hat pattern where Modeliste plays the off-eighth consistently while placing ghost notes between the main beats. |
+| [Look-Ka Py Py](https://open.spotify.com/search/Look-Ka%20Py%20Py%20The%20Meters) | Modeliste drops the kick on beats one and the-and-of-two, skipping beat three entirely — a pocket that feels simultaneously delayed and perfectly placed. |
+| [Ease Back](https://open.spotify.com/search/Ease%20Back%20The%20Meters) | Focus on how the hi-hat opens and closes in conversation with Porter's bass syncopations — the two instruments build a rhythmic dialogue rather than a simple foundation. |
+| [Sophisticated Cissy](https://open.spotify.com/search/Sophisticated%20Cissy%20The%20Meters) | An earlier Modeliste groove with a tighter hi-hat pattern; compare to "Cissy Strut" to hear how his style crystallized between the two recordings. |
+| [Africa](https://open.spotify.com/search/Africa%20The%20Meters) | A slower tempo that exposes Modeliste's ghost-note technique more clearly — hear how he fills space around the snare without breaking the groove. |
+| [People Say](https://open.spotify.com/search/People%20Say%20The%20Meters) | Modeliste adjusts his kick pattern in the verse and chorus to support the vocal — a subtle structural move that keeps the song feeling forward. |
+| [Hey Pocky A-Way](https://open.spotify.com/search/Hey%20Pocky%20A-Way%20The%20Meters) | One of the most studied second-line grooves in drum pedagogy; the snare placement on the-and-of-three defies standard funk backbeat logic while still feeling inevitable. |
+| [Fire on the Bayou](https://open.spotify.com/search/Fire%20on%20the%20Bayou%20The%20Meters) | Modeliste's hi-hat is slightly more open here than on earlier recordings, giving the groove a looser, more human feel appropriate to the song's relaxed tempo. |
+| [Just Kissed My Baby](https://open.spotify.com/search/Just%20Kissed%20My%20Baby%20The%20Meters) | Listen for Modeliste's use of the ride cymbal in the second half of the track — a textural shift that lifts the arrangement without changing the tempo or feel. |
+| [Running Fast](https://open.spotify.com/search/Running%20Fast%20The%20Meters) | At an above-average tempo for the Meters, this track shows Modeliste maintaining his signature ghost-note density even as the BPM increases. |
 
 ## Art Neville
 
-Art Neville is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects New Orleans funk / second-line: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is The Meters.
+Art Neville (1937–2019) is the keyboardist, primary vocalist, and a founding member of The Meters. He had already recorded as a solo artist ("Cha Dooky Doo," 1958) before forming the group. His organ and piano parts anchor the harmonic center of each track without crowding the guitar or bass — a restraint that defines the Meters sound. He is the brother of Charles, Aaron, Cyril, and Ivan Neville.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | The Meters | — | — | Related artists. |
+| 1954–1965 | Art Neville solo / The Hawketts | — | — | Early recordings including "Cha Dooky Doo" (1958). |
+| 1965–1977 | The Meters | [Wikipedia][the-meters-wiki] | — | Founding keyboardist and lead vocalist. |
+| 1977–2019 | The Neville Brothers | — | — | Family group alongside Aaron, Charles, and Cyril Neville. |
+| 1989–2019 | The Funky Meters | — | — | Reunion ensemble continuing the Meters legacy. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | Hammond organ, Fender Rhodes |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Ease Back](https://open.spotify.com/search/Ease%20Back%20Art%20Neville%20The%20Meters) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Sophisticated Cissy](https://open.spotify.com/search/Sophisticated%20Cissy%20Art%20Neville%20The%20Meters) | Listen for how the keys support and color the arrangement. |
-| [Chicken Strut](https://open.spotify.com/search/Chicken%20Strut%20Art%20Neville%20The%20Meters) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Art%20Neville%20The%20Meters) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [Look-Ka Py Py](https://open.spotify.com/search/Look-Ka%20Py%20Py%20Art%20Neville%20The%20Meters) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [Just Kissed My Baby](https://open.spotify.com/search/Just%20Kissed%20My%20Baby%20Art%20Neville%20The%20Meters) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Art%20Neville%20The%20Meters) | Listen for how the keys support and color the arrangement. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Art%20Neville%20The%20Meters) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Art%20Neville%20The%20Meters) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Art%20Neville%20The%20Meters) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20The%20Meters) | Neville's organ is barely audible under the guitar and bass — a deliberate mix choice that demonstrates how the Meters used the keyboard as texture rather than lead voice. |
+| [Look-Ka Py Py](https://open.spotify.com/search/Look-Ka%20Py%20Py%20The%20Meters) | The organ riff carries the melodic hook while the guitar chops above it; listen for how Neville voices the chord to leave room for Porter's bass on the bottom. |
+| [Ease Back](https://open.spotify.com/search/Ease%20Back%20The%20Meters) | Neville keeps the keyboard part extremely sparse — single-note stabs that punctuate rather than fill; study what he doesn't play as much as what he does. |
+| [People Say](https://open.spotify.com/search/People%20Say%20The%20Meters) | His most prominent vocal performance on a Meters track; listen for how the keyboard part mirrors the vocal phrasing rather than running independently. |
+| [Hey Pocky A-Way](https://open.spotify.com/search/Hey%20Pocky%20A-Way%20The%20Meters) | The call-and-response between Neville's organ stabs and the rest of the band is the structural engine of the track — each stab lands in a different rhythmic position. |
+| [Fire on the Bayou](https://open.spotify.com/search/Fire%20on%20the%20Bayou%20The%20Meters) | A more atmospheric organ role than on earlier recordings; Neville sustains chords beneath the horn lines to create harmonic depth without melodic competition. |
+| [Africa](https://open.spotify.com/search/Africa%20The%20Meters) | Listen for Neville's organ pads under the guitar solo — he fills harmonic space without imposing movement, supporting rather than directing the arrangement. |
+| [Just Kissed My Baby](https://open.spotify.com/search/Just%20Kissed%20My%20Baby%20The%20Meters) | Neville doubles the vocal melody on the piano for brief moments — a subtle harmonic reinforcement that makes the hook feel larger without adding more players. |
+| [They All Ask'd for You](https://open.spotify.com/search/They%20All%20Ask%27d%20for%20You%20The%20Meters) | The keyboard leads the arrangement more than on most Meters tracks; study how Neville navigates the chord changes while keeping the second-line feel alive. |
+| [Hand Clapping Song](https://open.spotify.com/search/Hand%20Clapping%20Song%20The%20Meters) | Neville's organ locks rhythmically with the hand claps and guitar chops — here the keyboard is clearly a percussion instrument as much as a harmonic one. |
 
 ## Charles Neville
 
-Charles Neville is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects New Orleans funk / second-line: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is The Meters.
+Charles Neville (1938–2018) is a saxophonist and the brother of Art, Aaron, and Cyril Neville. He appeared on The Meters' later recordings, particularly from the Cabbage Alley era (1972) onward, when the band expanded its arrangements to include horn parts. His saxophone adds a New Orleans R&B voice to the funk foundation the core quartet established.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | The Meters | [Wikipedia][the-meters-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | The Meters | — | — | Related artists. |
+| 1972–1977 | The Meters | [Wikipedia][the-meters-wiki] | — | Saxophone contributions on later albums. |
+| 1977–2018 | The Neville Brothers | — | — | Primary ensemble; recorded and toured extensively. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | Associated instruments and touring/studio tools. |
+| Saxophone | — |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Funky Miracle](https://open.spotify.com/search/Funky%20Miracle%20Charles%20Neville%20The%20Meters) | Listen for melodic contrast against bass and guitar figures. |
-| [Fire on the Bayou](https://open.spotify.com/search/Fire%20on%20the%20Bayou%20Charles%20Neville%20The%20Meters) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
-| [Hey Pocky A-Way](https://open.spotify.com/search/Hey%20Pocky%20A-Way%20Charles%20Neville%20The%20Meters) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
-| [Ease Back](https://open.spotify.com/search/Ease%20Back%20Charles%20Neville%20The%20Meters) | Track how the saxophone line changes the ensemble from groove to conversation. |
-| [Sophisticated Cissy](https://open.spotify.com/search/Sophisticated%20Cissy%20Charles%20Neville%20The%20Meters) | Use this for tone, attack, and phrase endings inside the idiom. |
-| [Chicken Strut](https://open.spotify.com/search/Chicken%20Strut%20Charles%20Neville%20The%20Meters) | Listen for melodic contrast against bass and guitar figures. |
-| [So What](https://open.spotify.com/search/So%20What%20Charles%20Neville%20The%20Meters) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
-| [Impressions](https://open.spotify.com/search/Impressions%20Charles%20Neville%20The%20Meters) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
-| [Mr. P.C.](https://open.spotify.com/search/Mr.%20P.C.%20Charles%20Neville%20The%20Meters) | Track how the saxophone line changes the ensemble from groove to conversation. |
-| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Charles%20Neville%20The%20Meters) | Use this for tone, attack, and phrase endings inside the idiom. |
+| [People Say](https://open.spotify.com/search/People%20Say%20The%20Meters) | From Rejuvenation (1974); listen for how the saxophone adds a melodic upper layer above the rhythm section without displacing the groove. |
+| [Hey Pocky A-Way](https://open.spotify.com/search/Hey%20Pocky%20A-Way%20The%20Meters) | The horn punctuates the spaces in the rhythm section's call-and-response — each saxophone phrase is placed to answer rather than overlap. |
+| [Fire on the Bayou](https://open.spotify.com/search/Fire%20on%20the%20Bayou%20The%20Meters) | From Fire on the Bayou (1975); Neville's saxophone takes a more sustained melodic role, sustaining lines over the organ pad that Art Neville lays underneath. |
+| [Just Kissed My Baby](https://open.spotify.com/search/Just%20Kissed%20My%20Baby%20The%20Meters) | Listen for the saxophone's interaction with the vocal melody — Neville shadows Art Neville's phrasing without duplicating it. |
+| [Africa](https://open.spotify.com/search/Africa%20The%20Meters) | From Rejuvenation (1974); the saxophone line here is brief but well-placed, using space and silence as part of its phrasing rather than filling every bar. |
+| [It Ain't No Use](https://open.spotify.com/search/It%20Ain%27t%20No%20Use%20The%20Meters) | From Rejuvenation (1974); Neville's horn gives the track a classic New Orleans R&B feeling that connects the Meters to their deeper roots in the city's recording tradition. |
+| [Running Fast](https://open.spotify.com/search/Running%20Fast%20The%20Meters) | At the faster tempo, the saxophone takes on a more rhythmic, staccato phrasing — listen for how Neville adapts his articulation to match the increased pace. |
+| [They All Ask'd for You](https://open.spotify.com/search/They%20All%20Ask%27d%20for%20You%20The%20Meters) | From Fire on the Bayou (1975); one of the fuller horn arrangements in the Meters catalog — listen for how the saxophone fits within the ensemble texture. |
+| [Cabbage Alley](https://open.spotify.com/search/Cabbage%20Alley%20The%20Meters) | The title track of the 1972 album marks the period when Charles Neville's saxophone became a more regular presence in the Meters sound. |
+| [Funky Miracle](https://open.spotify.com/search/Funky%20Miracle%20The%20Meters) | Listen for how the saxophone punctuates the groove differently from the guitar chops — Neville uses longer note values against Nocentelli's staccato rhythm parts. |
 
 ## References
 

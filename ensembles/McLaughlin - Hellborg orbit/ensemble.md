@@ -31,7 +31,7 @@ Jonas Hellborg is a bassist associated with jazz fusion, avant-garde, world fusi
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -63,7 +63,7 @@ John McLaughlin is a guitarist associated with jazz fusion, Indian classical fus
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -95,7 +95,7 @@ Tony Williams is a drummer whose playing helps shape this music. Listen for how 
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -127,7 +127,7 @@ Zakir Hussain is a tabla player whose playing helps shape this music. Listen for
 
 | Category | Gear |
 |---|---|
-| Tabla | Associated instruments and touring/studio tools. |
+| Tabla | — |
 
 ### 10 Key Recordings
 
@@ -159,7 +159,7 @@ L. Shankar is a violinist whose playing helps shape this music. Listen for how t
 
 | Category | Gear |
 |---|---|
-| Violin | Associated instruments and touring/studio tools. |
+| Violin | — |
 
 ### 10 Key Recordings
 

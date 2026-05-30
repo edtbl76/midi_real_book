@@ -2,7 +2,7 @@
 
 ## Context
 
-This music lives in the Genesis world: art prog. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
+Genesis formed at Charterhouse School in 1967, emerging from a shared love of ambitious song structures and literary storytelling. The band's first decade — with Peter Gabriel as theatrical frontman through *The Lamb Lies Down on Broadway* (1974) — defined British progressive rock: extended suites, odd meters, and elaborate costume stagecraft. After Gabriel's departure, Phil Collins stepped forward as vocalist on *A Trick of the Tail* (1976) and the band evolved toward a more direct, commercially successful sound without abandoning complexity. What makes the ensemble distinctive is the interlock of its parts: Steve Hackett's classical and flamenco fingerstyle guitar technique (and his pioneering use of legato tapping), Tony Banks's layered keyboards shifting between Hammond organ, Mellotron, and synthesizer, Mike Rutherford's simultaneous command of bass pedals and 12-string, and Phil Collins's jazz-schooled drumming that anchors the most intricate arrangements.
 
 ## Players
 
@@ -18,20 +18,21 @@ This music lives in the Genesis world: art prog. Listen for how the players buil
 
 ## Mike Rutherford
 
-Mike Rutherford is a bassist associated with progressive rock, art rock. Musically, the important traits here are art-prog architecture and restrained melodic support. In this ensemble: art prog. Related listening: Genesis.
+Mike Rutherford was a founding member of Genesis, joining fellow Charterhouse pupils Tony Banks and Peter Gabriel to form the band in the late 1960s. His distinctive approach combines bass guitar with bass pedals — he frequently played simultaneous bass pedal lines while handling melodic parts — and his command of the Shergold doubleneck allowed him to move fluidly between bass and 12-string guitar within a single song. After Genesis shifted toward a pop-oriented sound in the 1980s, Rutherford formed Mike + the Mechanics in 1985, scoring international hits including "Silent Running," "All I Need Is a Miracle," and the UK/US number one "The Living Years" (1988). He has remained a core member of Genesis throughout the band's run, participating in their 2007 and 2021 reunion tours.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Genesis | — | — | Related artists. |
+| 1985 – present | Mike + the Mechanics | [Wikipedia][mike-and-the-mechanics-wiki] | — | Pop-rock side project; major commercial success with "The Living Years." |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass / Doubleneck | Shergold doubleneck (bass + 12-string guitar); Rickenbacker 4001 bass |
+| Bass Pedals | Taurus bass pedals for low-end foundation while playing melodic parts |
 
 ### 10 Key Recordings
 
@@ -50,20 +51,23 @@ Mike Rutherford is a bassist associated with progressive rock, art rock. Musical
 
 ## Steve Hackett
 
-Steve Hackett is a guitarist associated with progressive rock, classical, folk. Musically, the important traits here are classical fingerstyle foundation, acoustic-electric texture, prog-rock atmospheric phrasing. In this ensemble: art prog. Related listening: Genesis.
+Steve Hackett joined Genesis in 1970 and quickly became one of the most technically distinctive guitarists in progressive rock, credited as a pioneer of the two-handed legato tapping technique on electric guitar — a technique later widely adopted by Eddie Van Halen and others. His classical fingerstyle on nylon-string guitar gave Genesis an acoustic texture rare in the genre, heard most clearly in the solo piece "Horizons" and his contributions to *Selling England by the Pound*. He left Genesis in 1977 after *Wind & Wuthering*, feeling his contributions were being marginalized, and launched a prolific solo career spanning hard rock (*Spectral Mornings*, 1979), orchestral classical guitar (*Bay of Kings*, 1983), and prog-revisionist projects. He has toured extensively under the banner "Genesis Revisited," performing the classic catalog with a live band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Genesis | — | — | Related artists. |
+| Ensemble focus | Genesis (1970–1977) | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
+| 1975 | Voyage of the Acolyte (solo debut) | [Wikipedia][steve-hackett-wiki] | — | Released while still in Genesis; established his solo voice. |
+| 1977 – present | Solo career | [Wikipedia][steve-hackett-wiki] | — | Spanning prog rock, classical guitar, and Genesis Revisited tours. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Electric Guitar | Gibson SG Standard (primary electric; used for tapping and lead work) |
+| Acoustic / Classical | Nylon-string classical guitar; used for fingerstyle passages and orchestral textures |
+| Other | Volume pedal (for swells and sustained notes); effects for atmospheric lead tone |
 
 ### 10 Key Recordings
 
@@ -82,20 +86,23 @@ Steve Hackett is a guitarist associated with progressive rock, classical, folk. 
 
 ## Phil Collins
 
-Phil Collins is a drummer whose playing helps shape this music. Listen for how the drum part affects art prog: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Genesis.
+Phil Collins joined Genesis in 1970 as drummer, bringing a jazz-schooled technique that gave the band's complex compositions a fluid, musical feel rather than a metronomic one — his ability to push and pull against odd meters while keeping the emotional narrative intact is a defining characteristic of the classic Genesis sound. When Peter Gabriel left in 1975, Collins stepped into the vocalist role against his own initial reluctance, and proved equally gifted as a front-of-stage performer. His parallel involvement with the jazz-fusion group Brand X (1975–1980) sharpened his technical vocabulary. His solo career, launched with *Face Value* in 1981, became one of the most commercially dominant of the decade, producing the gated-reverb drum sound on "In the Air Tonight" that reshaped pop production; he had three consecutive US number-one singles in 1985 alone.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Genesis | — | — | Related artists. |
+| 1975 – 1980 | Brand X | [Wikipedia][brand-x-wiki] | — | Jazz-fusion side project; sharpened his technical and improvisational drumming. |
+| 1981 – present | Solo career | [Wikipedia][phil-collins-wiki] | — | Massively successful pop solo work; Face Value through Both Sides. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | Ludwig kit (primary acoustic kit throughout Genesis and early solo work) |
+| Electronics | Simmons electronic pads (later Genesis era and solo work); Roland CR-78 drum machine used on "In the Air Tonight" |
+| Sound signature | Heavy gated reverb on snare — the defining drum sound of early 1980s pop production |
 
 ### 10 Key Recordings
 
@@ -114,20 +121,22 @@ Phil Collins is a drummer whose playing helps shape this music. Listen for how t
 
 ## Tony Banks
 
-Tony Banks is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects art prog: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Genesis.
+Tony Banks is the longest-serving original member of Genesis and has been the band's primary keyboard player and one of its main composers throughout its entire history. His sound is defined by the layering of multiple keyboards — Hammond organ for rock weight, Mellotron for orchestral atmosphere, and a succession of synthesizers including the RMI Electra-Piano, ARP Pro-Soloist, and Yamaha CS-80 — creating dense harmonic textures that underpin even the most complex Genesis arrangements. Banks's classical piano training feeds into his fondness for extended harmonic movement and his willingness to write genuinely long-form instrumental passages. His debut solo album *A Curious Feeling* (1979) is a concept record drawn from Daniel Keyes's *Flowers for Algernon*, and he has released several orchestral works, including *Seven: A Suite for Orchestra* (2004), that sit entirely outside rock.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Genesis | — | — | Related artists. |
+| 1979 | A Curious Feeling (solo debut) | [Wikipedia][tony-banks-wiki] | — | Prog concept album; closer to his Genesis keyboard style than later solo work. |
+| 2004 – present | Orchestral solo work | [Wikipedia][tony-banks-wiki] | — | Seven: A Suite for Orchestra and Six Pieces for Orchestra; pure classical writing. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | Hammond organ; Mellotron M400; RMI Electra-Piano; ARP Pro-Soloist synthesizer |
+| Later additions | Yamaha CS-80; Roland and Sequential Circuits synthesizers (later Genesis albums) |
 
 ### 10 Key Recordings
 
@@ -146,35 +155,37 @@ Tony Banks is a keyboard player whose playing helps shape this music. Listen for
 
 ## Peter Gabriel
 
-Peter Gabriel is a flute player whose playing helps shape this music. Listen for how the flute part affects art prog: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Genesis.
+Peter Gabriel was a founding member of Genesis and the band's theatrical frontman from the group's earliest recordings through *The Lamb Lies Down on Broadway* (1974), the last album to feature him. His performance style — elaborate costume and mask changes mid-set, storytelling interludes, and narrative alter egos — redefined what a rock frontman could do, and his dramatic bass-baritone voice shaped the distinctive tone of the band's progressive era. He left Genesis in 1975 citing personal and creative reasons and launched a solo career that took him in a markedly different direction: his third and fourth solo albums (1980 and 1982) explored industrial textures and world music influences, while *So* (1986) became a landmark pop-art record and a commercial juggernaut, producing "Sledgehammer," "In Your Eyes," and "Don't Give Up." He has remained one of rock's most influential solo artists and a key figure in world music through his Real World Records label.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Genesis | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Genesis | — | — | Related artists. |
+| Ensemble focus | Genesis (1967–1975) | [Wikipedia][genesis-wiki] | — | Main musical setting for this ensemble. |
+| 1977 – present | Solo career | [Wikipedia][peter-gabriel-wiki] | — | From art rock to world-music-influenced pop; So (1986) is the commercial peak. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Flute | Associated instruments and touring/studio tools. |
+| Vocals | Bass-baritone voice; theatrical delivery with wide dynamic range |
+| Woodwinds | Flute; oboe (used on early Genesis recordings for orchestral color) |
+| Stagecraft | Elaborate theatrical costumes and masks — integral to the live Genesis experience |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Turn It On Again](https://open.spotify.com/search/Turn%20It%20On%20Again%20Peter%20Gabriel%20Genesis) | Listen for phrasing, placement, and how the part supports the groove. |
-| [Dodo/Lurker](https://open.spotify.com/search/Dodo/Lurker%20Peter%20Gabriel%20Genesis) | Track the arrangement function: contrast, lift, transition, or counterline. |
-| [Abacab](https://open.spotify.com/search/Abacab%20Peter%20Gabriel%20Genesis) | Use this as a reference for how it fits the style. |
-| [Mama](https://open.spotify.com/search/Mama%20Peter%20Gabriel%20Genesis) | Listen for how this voice interacts with bass, drums, and guitar. |
-| [The Musical Box](https://open.spotify.com/search/The%20Musical%20Box%20Peter%20Gabriel%20Genesis) | Focus on role-specific color and how it changes the ensemble conversation. |
-| [Watcher of the Skies](https://open.spotify.com/search/Watcher%20of%20the%20Skies%20Peter%20Gabriel%20Genesis) | Listen for phrasing, placement, and how the part supports the groove. |
-| [Firth of Fifth](https://open.spotify.com/search/Firth%20of%20Fifth%20Peter%20Gabriel%20Genesis) | Track the arrangement function: contrast, lift, transition, or counterline. |
-| [Supper's Ready](https://open.spotify.com/search/Supper%27s%20Ready%20Peter%20Gabriel%20Genesis) | Use this as a reference for how it fits the style. |
-| [Dancing with the Moonlit Knight](https://open.spotify.com/search/Dancing%20with%20the%20Moonlit%20Knight%20Peter%20Gabriel%20Genesis) | Listen for how this voice interacts with bass, drums, and guitar. |
-| [The Cinema Show](https://open.spotify.com/search/The%20Cinema%20Show%20Peter%20Gabriel%20Genesis) | Focus on role-specific color and how it changes the ensemble conversation. |
+| [The Musical Box](https://open.spotify.com/search/The%20Musical%20Box%20Peter%20Gabriel%20Genesis) | Listen for how Gabriel's voice shifts register and intensity through a structured dramatic arc. |
+| [Watcher of the Skies](https://open.spotify.com/search/Watcher%20of%20the%20Skies%20Peter%20Gabriel%20Genesis) | Track the arrangement function: how the vocal enters and defines the ensemble's weight. |
+| [Supper's Ready](https://open.spotify.com/search/Supper%27s%20Ready%20Peter%20Gabriel%20Genesis) | Use this 23-minute suite as a reference for theatrical phrasing across wildly contrasting sections. |
+| [Dancing with the Moonlit Knight](https://open.spotify.com/search/Dancing%20with%20the%20Moonlit%20Knight%20Peter%20Gabriel%20Genesis) | Listen for how Gabriel opens with solo voice before the band enters — pure narrative setup. |
+| [Firth of Fifth](https://open.spotify.com/search/Firth%20of%20Fifth%20Peter%20Gabriel%20Genesis) | Focus on how the voice shares space with Banks's piano and Hackett's guitar without crowding. |
+| [The Cinema Show](https://open.spotify.com/search/The%20Cinema%20Show%20Peter%20Gabriel%20Genesis) | Track the vocal character: intimate in the verses, expansive as the arrangement opens up. |
+| [In the Cage](https://open.spotify.com/search/In%20the%20Cage%20Peter%20Gabriel%20Genesis) | Listen for phrasing and how Gabriel inhabits the Rael character — dread, urgency, irony. |
+| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Peter%20Gabriel) | Solo debut single (1977); hear the same storytelling instinct stripped to a simpler arrangement. |
+| [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Peter%20Gabriel) | Focus on the rhythmic delivery and how Gabriel uses vocal texture as percussive color. |
+| [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Peter%20Gabriel) | Listen for how his voice commands a funk groove — the same dynamic control, different context. |
 
 ## References
 
@@ -183,4 +194,6 @@ Peter Gabriel is a flute player whose playing helps shape this music. Listen for
 [phil-collins-wiki]: https://en.wikipedia.org/wiki/Phil_Collins
 [tony-banks-wiki]: https://en.wikipedia.org/wiki/Tony_Banks
 [peter-gabriel-wiki]: https://en.wikipedia.org/wiki/Peter_Gabriel
-[genesis-wiki]: https://en.wikipedia.org/wiki/Genesis
+[genesis-wiki]: https://en.wikipedia.org/wiki/Genesis_(band)
+[mike-and-the-mechanics-wiki]: https://en.wikipedia.org/wiki/Mike_and_the_Mechanics
+[brand-x-wiki]: https://en.wikipedia.org/wiki/Brand_X_(band)

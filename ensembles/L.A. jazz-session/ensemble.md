@@ -32,7 +32,7 @@ Carol Kaye is a bassist associated with session, pop, R&B, rock. Musically, the 
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -64,7 +64,7 @@ Tommy Tedesco is a guitarist associated with jazz, session, studio. Musically, t
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -96,7 +96,7 @@ Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musica
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -128,7 +128,7 @@ Hal Blaine is a drummer whose playing helps shape this music. Listen for how the
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -160,7 +160,7 @@ Leon Russell is a keyboard player whose playing helps shape this music. Listen f
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 
@@ -192,7 +192,7 @@ Plas Johnson is a saxophonist whose playing helps shape this music. Listen for h
 
 | Category | Gear |
 |---|---|
-| Saxophone | Associated instruments and touring/studio tools. |
+| Saxophone | — |
 
 ### 10 Key Recordings
 

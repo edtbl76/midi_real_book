@@ -31,7 +31,7 @@ Matt Garrison is a bassist associated with jazz fusion, modern fusion. Musically
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -63,7 +63,7 @@ Greg Howe is a guitarist associated with rock, fusion, jazz-rock. Musically, the
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -95,7 +95,7 @@ Gene Lake is a drummer whose playing helps shape this music. Listen for how the 
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -127,7 +127,7 @@ Herbie Hancock is a keyboard player whose playing helps shape this music. Listen
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 
@@ -159,7 +159,7 @@ Ravi Coltrane is a saxophonist whose playing helps shape this music. Listen for 
 
 | Category | Gear |
 |---|---|
-| Saxophone | Associated instruments and touring/studio tools. |
+| Saxophone | — |
 
 ### 10 Key Recordings
 

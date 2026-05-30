@@ -130,7 +130,7 @@ Vinnie Colaiuta is a drummer whose playing helps shape this music. Listen for ho
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -162,7 +162,7 @@ American composer, guitarist, bandleader, and producer whose bands mixed rock, j
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 

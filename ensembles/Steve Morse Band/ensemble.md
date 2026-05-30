@@ -31,7 +31,7 @@ Dave LaRue is a bassist associated with jazz fusion, rock, fusion. Musically, th
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -63,7 +63,7 @@ Steve Morse is a guitarist associated with rock, fusion, progressive rock, count
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -95,7 +95,7 @@ Rod Morgenstein is a drummer whose playing helps shape this music. Listen for ho
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -127,7 +127,7 @@ T Lavitz is a keyboard player whose playing helps shape this music. Listen for h
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 
@@ -159,7 +159,7 @@ Jerry Goodman is a violinist whose playing helps shape this music. Listen for ho
 
 | Category | Gear |
 |---|---|
-| Violin | Associated instruments and touring/studio tools. |
+| Violin | — |
 
 ### 10 Key Recordings
 

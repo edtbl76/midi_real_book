@@ -2,7 +2,7 @@
 
 ## Context
 
-This music lives in the Living Colour world: heavy funk / alternative metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from King's X / Extreme / Living Colour help give you a feel for the style.
+Living Colour formed in New York City in 1984 around guitarist Vernon Reid, who had been active in the Black Rock Coalition, and solidified into a core quartet of Corey Glover (vocals), Vernon Reid (guitar), Muzz Skillings and later Doug Wimbish (bass), and William Calhoun (drums). The band fuses hard rock and heavy metal architecture with deep funk grooves, jazz harmony, and avant-garde sensibility, placing them in a lineage that runs from Jimi Hendrix through James Brown and Miles Davis simultaneously. Reid's guitar voice is the defining element: he draws on a wide harmonic range, applies jazz vocabulary and hip-hop-influenced sonics to metal contexts, and builds signature heavy riffs that sit alongside abstract whammy-bar excursions and envelope-filtered funk figures. The players in this ensemble are drawn from the Living Colour world and its immediate orbit — King's X and Extreme — bands that shared the same late-1980s hard rock scene and similarly prioritized musical sophistication over genre orthodoxy.
 
 ## Players
 
@@ -18,163 +18,179 @@ This music lives in the Living Colour world: heavy funk / alternative metal. Lis
 
 ## Dug Pinnick
 
-Dug Pinnick is a bassist associated with alternative metal, heavy rock. Musically, the important traits here are melodic heavy groove, vocal-bass coordination, spacious authority. In this ensemble: heavy funk / alternative metal. Related listening: King's X / Extreme / Living Colour.
+Dug Pinnick is the bassist and co-vocalist of King's X, a band formed in Houston, Texas whose records from the late 1980s and early 1990s rank among the most harmonically sophisticated hard rock of that era. His bass playing is notable for its thickness — he typically runs two bass signals (one clean, one heavily distorted) simultaneously, creating a wall of low-end that doubles as a rhythm guitar bed beneath the actual guitar parts. Rhythmically he locks with drummer Jerry Gaskill to form one of the tightest rhythm sections in rock, and his melodic instincts come directly from gospel and soul rather than rock bass convention. His voice is a powerful baritone capable of gospel melisma as well as raw rock power, and he and Ty Tabor trade harmonies in a way that gives King's X an almost vocal-group quality. Beyond King's X he has recorded prolifically as a solo artist and collaborated with players including Dokken's George Lynch on the side project Platypus.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | King's X / Extreme / Living Colour | — | — | Related artists. |
+| 1980s–present | King's X | [Wikipedia](https://en.wikipedia.org/wiki/King%27s_X) | — | Primary band; formed in Houston, major-label debut 1988. |
+| 1990s | Platypus | [Wikipedia](https://en.wikipedia.org/wiki/Platypus_(band)) | — | Supergroup with Ty Tabor, Derek Sherinian, Rod Morgenstein. |
+| 2000s–present | Solo (Pinnick Gales Pridgen, KXM, etc.) | — | — | Ongoing solo and collaborative projects. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | Typically runs a dual-signal rig: one clean bass amp and one heavily overdriven channel (often Marshall heads) blended together |
+| Strings | Heavy gauge to support the thick low-end tone |
+| Effects | Minimal; the distortion comes from the amp channel rather than pedals |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Desperate People](https://open.spotify.com/search/Desperate%20People%20Dug%20Pinnick%20Living%20Colour) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Time's Up](https://open.spotify.com/search/Time%27s%20Up%20Dug%20Pinnick%20Living%20Colour) | Listen for how the player shapes and attacks each note. |
-| [Glamour Boys](https://open.spotify.com/search/Glamour%20Boys%20Dug%20Pinnick%20Living%20Colour) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Cult of Personality](https://open.spotify.com/search/Cult%20of%20Personality%20Dug%20Pinnick%20Living%20Colour) | Track the pocket, note length, and how Dug Pinnick makes the harmony feel grounded. |
-| [Middle Man](https://open.spotify.com/search/Middle%20Man%20Dug%20Pinnick%20Living%20Colour) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Open Letter to a Landlord](https://open.spotify.com/search/Open%20Letter%20to%20a%20Landlord%20Dug%20Pinnick%20Living%20Colour) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Dug%20Pinnick%20Living%20Colour) | Listen for how the player shapes and attacks each note. |
-| [Power](https://open.spotify.com/search/Power%20Dug%20Pinnick%20Living%20Colour) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Dug%20Pinnick%20Living%20Colour) | Track the pocket, note length, and how Dug Pinnick makes the harmony feel grounded. |
-| [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Dug%20Pinnick%20Living%20Colour) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Over My Head](https://open.spotify.com/search/Over%20My%20Head%20King%27s%20X) | The opening track of *Gretchen Goes to Nebraska* — listen for how Pinnick's dual-signal bass creates the entire low-frequency foundation under Tabor's guitar. |
+| [It's Love](https://open.spotify.com/search/It%27s%20Love%20King%27s%20X) | His lead vocal here is one of the finest in hard rock; trace how the bass line and vocal melody relate to each other. |
+| [Everybody Knows a Little Bit of Something](https://open.spotify.com/search/Everybody%20Knows%20a%20Little%20Bit%20of%20Something%20King%27s%20X) | Listen for the gospel-inflected bass walk and how it frames the harmonic movement. |
+| [Silent Wind](https://open.spotify.com/search/Silent%20Wind%20King%27s%20X) | A slow tempo exposes his note choices and sustain; focus on how little he plays and how much it matters. |
+| [Moanjam](https://open.spotify.com/search/Moanjam%20King%27s%20X) | Extended improvisational form; listen for the conversation between bass and drums. |
+| [Cigarettes](https://open.spotify.com/search/Cigarettes%20King%27s%20X) | Grooves closer to funk-rock; watch how the bass locks with the kick drum and how Pinnick plays the rests. |
+| [Black Flag](https://open.spotify.com/search/Black%20Flag%20King%27s%20X) | Demonstrates the distorted-bass wall at its most aggressive; the low end practically replaces a rhythm guitar. |
+| [Dogman](https://open.spotify.com/search/Dogman%20King%27s%20X) | Title track of the 1994 album; heavier production, same principle — thick bass tone driving the arrangement. |
+| [Summerland](https://open.spotify.com/search/Summerland%20King%27s%20X) | Melodic and relatively open; focus on his three-way vocal blend with Tabor and Gaskill in the harmonies. |
+| [Legal Kill](https://open.spotify.com/search/Legal%20Kill%20King%27s%20X) | An example of his playing at mid-tempo funk-influenced grooves within a heavy context. |
 
 ## Ty Tabor
 
-Ty Tabor is a guitarist associated with progressive rock, hard rock. Musically, the important traits here are prog-rock harmonic sensitivity, unconventional note choices, tonal depth. In this ensemble: heavy funk / alternative metal. Related listening: King's X / Extreme / Living Colour.
+Ty Tabor is the lead guitarist of King's X and one of the most harmonically sophisticated players to emerge from the late-1980s hard rock scene. He is known for note choices that reflect jazz and classical awareness rather than blues pentatonic convention, and for a clean-tone vocabulary that sits alongside his heavier rhythm work without the two feeling like separate modes. His playing is careful — he avoids wasted notes and favors melodic development and arrival over sheer speed or technique display, though his technical command is considerable. He and Pinnick are close musical collaborators within King's X, and their guitar-bass conversation is one of the defining features of the band's sound. Outside King's X he has maintained a solo career across multiple albums and has worked with Platypus alongside Pinnick, Derek Sherinian, and Rod Morgenstein.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | King's X / Extreme / Living Colour | — | — | Related artists. |
+| 1980s–present | King's X | [Wikipedia](https://en.wikipedia.org/wiki/King%27s_X) | — | Lead guitar; primary creative voice alongside Pinnick. |
+| 1990s | Platypus | [Wikipedia](https://en.wikipedia.org/wiki/Platypus_(band)) | — | Progressive supergroup; three albums. |
+| 2000s–present | Solo (various albums) | — | — | Multiple solo records exploring melodic rock and progressive styles. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | Gibson ES-335 and various semi-hollow Gibsons; also Hamer guitars in earlier years |
+| Amplifier | Mesa/Boogie and Marshall; clean tones often through Fender-style amplification |
+| Effects | Chorus, delay, and reverb feature heavily in his clean-tone work |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Desperate People](https://open.spotify.com/search/Desperate%20People%20Ty%20Tabor%20Living%20Colour) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Time's Up](https://open.spotify.com/search/Time%27s%20Up%20Ty%20Tabor%20Living%20Colour) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Glamour Boys](https://open.spotify.com/search/Glamour%20Boys%20Ty%20Tabor%20Living%20Colour) | Listen for how the guitar fits the band. |
-| [Cult of Personality](https://open.spotify.com/search/Cult%20of%20Personality%20Ty%20Tabor%20Living%20Colour) | Focus on phrasing, tone, bends, and how Ty Tabor shapes the melodic argument. |
-| [Middle Man](https://open.spotify.com/search/Middle%20Man%20Ty%20Tabor%20Living%20Colour) | Listen for how the rhythm guitar lays into the groove. |
-| [Open Letter to a Landlord](https://open.spotify.com/search/Open%20Letter%20to%20a%20Landlord%20Ty%20Tabor%20Living%20Colour) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Ty%20Tabor%20Living%20Colour) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Ty%20Tabor%20Living%20Colour) | Listen for how the guitar fits the band. |
-| [Europa](https://open.spotify.com/search/Europa%20Ty%20Tabor%20Living%20Colour) | Focus on phrasing, tone, bends, and how Ty Tabor shapes the melodic argument. |
-| [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Ty%20Tabor%20Living%20Colour) | Listen for how the rhythm guitar lays into the groove. |
+| [Groove Machine](https://open.spotify.com/search/Groove%20Machine%20King%27s%20X) | Listen for how the lead guitar melody is constructed — where it breathes and where it resolves. |
+| [Goldilox](https://open.spotify.com/search/Goldilox%20King%27s%20X) | One of the most melodically direct moments in the King's X catalog; trace the arc of the solo. |
+| [The Difference (in the Garden of St. Anne's-on-the-Hill)](https://open.spotify.com/search/The%20Difference%20King%27s%20X) | Demonstrates his clean-tone harmonic work; listen for voicings that don't fit standard rock patterns. |
+| [Lost in Germany](https://open.spotify.com/search/Lost%20in%20Germany%20King%27s%20X) | His rhythm playing here is as important as the lead; note how the chords imply jazz harmony. |
+| [Complain](https://open.spotify.com/search/Complain%20King%27s%20X) | Up-tempo; use this for studying how he places lead accents within a driving groove. |
+| [Flies and Blue Skies](https://open.spotify.com/search/Flies%20and%20Blue%20Skies%20King%27s%20X) | Mid-period King's X; his tone shifted somewhat here — compare with earlier work. |
+| [Picture](https://open.spotify.com/search/Picture%20King%27s%20X) | A ballad setting that reveals his dynamic control and phrase economy. |
+| [Mississippi Moon](https://open.spotify.com/search/Mississippi%20Moon%20King%27s%20X) | Blues-rooted but filtered through his harmonic sensibility — not a standard pentatonic reading. |
+| [Manic Depression](https://open.spotify.com/search/Manic%20Depression%20King%27s%20X) | Their cover of the Hendrix track demonstrates how he interprets an iconic guitar piece on his own terms. |
+| [Visions](https://open.spotify.com/search/Visions%20King%27s%20X) | Slow and expansive; focus on his vibrato, sustain, and note placement against the harmonic backdrop. |
 
 ## Nuno Bettencourt
 
-Nuno Bettencourt is a guitarist associated with hard rock, funk-rock, rock. Musically, the important traits here are right-hand percussive technique, tapping vocabulary, string skipping, technical rock phrasing. In this ensemble: heavy funk / alternative metal. Related listening: King's X / Extreme / Living Colour.
+Nuno Bettencourt is the guitarist of Extreme, the Boston-formed hard rock band best known for the acoustic ballad "More Than Words" but whose broader catalog is a showcase for Bettencourt's exceptional technical ability across funk, metal, and pop contexts. His right-hand technique is percussive and precise — he incorporates muted thumb strokes, tapping, and string-skipping in ways that emphasize rhythm and texture as much as melody. He is a devoted student of Jimi Hendrix's sense of guitar-as-everything-at-once and shares with Living Colour's Vernon Reid the quality of making the guitar function simultaneously as a rhythm section and a lead voice. His Washburn N-series signature guitar became well known in the early 1990s. Outside Extreme he has worked as a producer, has been a touring guitarist for Rihanna, and recorded with his own band Mourning Widows.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | King's X / Extreme / Living Colour | — | — | Related artists. |
+| 1985–present | Extreme | [Wikipedia](https://en.wikipedia.org/wiki/Extreme_(band)) | — | Primary band; debut 1989, commercial peak with *Pornograffitti* (1990). |
+| 1990s | Mourning Widows | [Wikipedia](https://en.wikipedia.org/wiki/Mourning_Widows) | — | Side project; two albums. |
+| 2000s–present | Solo / touring / production | — | — | Production work; touring guitarist for Rihanna (2011). |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | Washburn N-series (signature model, primary instrument); also various Fender and Gibson guitars |
+| Amplifier | Marshall JCM series; has also used Bogner and Mesa/Boogie |
+| Effects | Wah, chorus, and delay; right-hand technique often replaces the need for heavy processing |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Type](https://open.spotify.com/search/Type%20Nuno%20Bettencourt%20Living%20Colour) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Love Rears Its Ugly Head](https://open.spotify.com/search/Love%20Rears%20Its%20Ugly%20Head%20Nuno%20Bettencourt%20Living%20Colour) | Listen for how the guitar fits the band. |
-| [Elvis Is Dead](https://open.spotify.com/search/Elvis%20Is%20Dead%20Nuno%20Bettencourt%20Living%20Colour) | Focus on phrasing, tone, bends, and how Nuno Bettencourt shapes the melodic argument. |
-| [Funny Vibe](https://open.spotify.com/search/Funny%20Vibe%20Nuno%20Bettencourt%20Living%20Colour) | Listen for how the rhythm guitar lays into the groove. |
-| [Desperate People](https://open.spotify.com/search/Desperate%20People%20Nuno%20Bettencourt%20Living%20Colour) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Time's Up](https://open.spotify.com/search/Time%27s%20Up%20Nuno%20Bettencourt%20Living%20Colour) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Nuno%20Bettencourt%20Living%20Colour) | Listen for how the guitar fits the band. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Nuno%20Bettencourt%20Living%20Colour) | Focus on phrasing, tone, bends, and how Nuno Bettencourt shapes the melodic argument. |
-| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Nuno%20Bettencourt%20Living%20Colour) | Listen for how the rhythm guitar lays into the groove. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Nuno%20Bettencourt%20Living%20Colour) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Decadence Dance](https://open.spotify.com/search/Decadence%20Dance%20Extreme) | Full-band funk-metal with Bettencourt's percussive rhythm approach at the center — listen for the muted-string work. |
+| [He-Man Woman Hater](https://open.spotify.com/search/He-Man%20Woman%20Hater%20Extreme) | Demonstrates how he uses right-hand technique rhythmically in a straight rock context. |
+| [Get the Funk Out](https://open.spotify.com/search/Get%20the%20Funk%20Out%20Extreme) | His funk-guitar playing closest to a P-Funk/Hendrix lineage; watch the chord shapes he uses. |
+| [More Than Words](https://open.spotify.com/search/More%20Than%20Words%20Extreme) | Acoustic fingerstyle; reveals how much of his tone comes from right-hand articulation. |
+| [Hole Hearted](https://open.spotify.com/search/Hole%20Hearted%20Extreme) | Another acoustic-driven track; listen for the bassline he implies with thumb and fingers simultaneously. |
+| [Pornograffitti](https://open.spotify.com/search/Pornograffitti%20Extreme) | Suite-style track from the album of the same name; his lead playing integrates multiple genre vocabularies. |
+| [Rest in Peace](https://open.spotify.com/search/Rest%20in%20Peace%20Extreme) | Metal-leaning riffing alongside the band's pop-harmony instincts; listen for how the parts layer. |
+| [Midnight Express](https://open.spotify.com/search/Midnight%20Express%20Extreme) | Instrumental showcase; demonstrates tapping, string-skipping, and melodic construction. |
+| [Hip Today](https://open.spotify.com/search/Hip%20Today%20Extreme) | From *III Sides to Every Story*; a more aggressive rock context, showing adaptability. |
+| [Stop the World](https://open.spotify.com/search/Stop%20the%20World%20Extreme) | Ballad with a strong lead; use this for studying his melodic phrasing over slow harmonic movement. |
 
 ## Vernon Reid
 
-Vernon Reid is a guitarist associated with rock, jazz fusion, funk metal, avant-garde. Musically, the important traits here are jazz/avant-garde harmonic vocabulary, whammy-bar abstraction, technically sophisticated multi-genre command. In this ensemble: heavy funk / alternative metal. Related listening: King's X / Extreme / Living Colour.
+Vernon Reid is the founder and guitarist of Living Colour, one of the most technically and harmonically ambitious guitarists in rock, and the primary architect of the band's sound from its formation in New York City in 1984. His playing encompasses hard rock riffing of considerable weight and aggression, jazz-derived harmonic vocabulary applied to metal contexts, envelope-filter funk, and abstract noise and pitch-shifting that reflects his interest in avant-garde and hip-hop sonics. He co-founded the Black Rock Coalition in 1985 to advocate for Black artists in rock and non-traditional genres, and this political and cultural context runs through Living Colour's music directly. His solo work — particularly the 1996 album *Masque* — extends into instrumental jazz-fusion and free improvisation, and he has recorded with figures including James Blood Ulmer and Ronald Shannon Jackson. He is one of a small number of rock guitarists who command total fluency across metal, jazz, and funk simultaneously without flattening any of them.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | King's X / Extreme / Living Colour | — | — | Related artists. |
+| 1984–present | Living Colour | [Wikipedia](https://en.wikipedia.org/wiki/Living_Colour) | — | Founder and lead guitarist; four studio albums and ongoing reunion activity. |
+| 1985 | Black Rock Coalition (co-founder) | [Wikipedia](https://en.wikipedia.org/wiki/Black_Rock_Coalition) | — | Advocacy organization for Black artists in rock. |
+| 1996 | Solo — *Masque* | [Wikipedia](https://en.wikipedia.org/wiki/Vernon_Reid) | — | Solo debut; jazz-fusion and avant-garde contexts. |
+| 1980s–present | James Blood Ulmer | [Wikipedia](https://en.wikipedia.org/wiki/James_Blood_Ulmer) | — | Collaborator; blues-jazz avant-garde. |
+| 1980s | Ronald Shannon Jackson | [Wikipedia](https://en.wikipedia.org/wiki/Ronald_Shannon_Jackson) | — | Collaborator; free jazz and electric funk contexts. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | PRS guitars (early career); Hamer guitars; various Gibson models including ES-335 and Flying V variants |
+| Effects | Wide array: envelope filter, octave pedal, pitch-shifting (DigiTech Whammy), wah; signal chain is characteristically complex |
+| Amplifier | Marshall amplifiers; has used multiple amp configurations live to support his varied tonal range |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Funny Vibe](https://open.spotify.com/search/Funny%20Vibe%20Vernon%20Reid%20Living%20Colour) | Listen for how the rhythm guitar lays into the groove. |
-| [Desperate People](https://open.spotify.com/search/Desperate%20People%20Vernon%20Reid%20Living%20Colour) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Time's Up](https://open.spotify.com/search/Time%27s%20Up%20Vernon%20Reid%20Living%20Colour) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Glamour Boys](https://open.spotify.com/search/Glamour%20Boys%20Vernon%20Reid%20Living%20Colour) | Listen for how the guitar fits the band. |
-| [Cult of Personality](https://open.spotify.com/search/Cult%20of%20Personality%20Vernon%20Reid%20Living%20Colour) | Focus on phrasing, tone, bends, and how Vernon Reid shapes the melodic argument. |
-| [Middle Man](https://open.spotify.com/search/Middle%20Man%20Vernon%20Reid%20Living%20Colour) | Listen for how the rhythm guitar lays into the groove. |
-| [Room 335](https://open.spotify.com/search/Room%20335%20Vernon%20Reid%20Living%20Colour) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Vernon%20Reid%20Living%20Colour) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Vernon%20Reid%20Living%20Colour) | Listen for how the guitar fits the band. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Vernon%20Reid%20Living%20Colour) | Focus on phrasing, tone, bends, and how Vernon Reid shapes the melodic argument. |
+| [Cult of Personality](https://open.spotify.com/search/Cult%20of%20Personality%20Living%20Colour) | The opening riff is one of the signature heavy guitar statements of the late 1980s; listen for how the funk-influenced rhythmic placement differs from straight metal. |
+| [Glamour Boys](https://open.spotify.com/search/Glamour%20Boys%20Living%20Colour) | His rhythm playing here demonstrates jazz chord voicings inside a hard rock arrangement. |
+| [Open Letter (to a Landlord)](https://open.spotify.com/search/Open%20Letter%20to%20a%20Landlord%20Living%20Colour) | A mid-tempo groove where his tone and phrasing show the blues-soul influence beneath the rock exterior. |
+| [Funny Vibe](https://open.spotify.com/search/Funny%20Vibe%20Living%20Colour) | Funk-forward; listen for envelope filter use and how the guitar locks into a groove rather than leading it. |
+| [Type](https://open.spotify.com/search/Type%20Living%20Colour) | From *Time's Up*; aggressive and compressed — listen for the riff construction and rhythmic displacement. |
+| [Love Rears Its Ugly Head](https://open.spotify.com/search/Love%20Rears%20Its%20Ugly%20Head%20Living%20Colour) | His most restrained playing on record; the guitar supports the song rather than dominating it. |
+| [Elvis Is Dead](https://open.spotify.com/search/Elvis%20Is%20Dead%20Living%20Colour) | Demonstrates his ability to shift genre reference points within a single track. |
+| [Solace of You](https://open.spotify.com/search/Solace%20of%20You%20Living%20Colour) | Melodic and harmonically open; his lead playing here reflects jazz phrasing more than rock convention. |
+| [Ignorance Is Bliss](https://open.spotify.com/search/Ignorance%20Is%20Bliss%20Living%20Colour) | From *Stain*; heavier and more abrasive production — listen for how his tone changed with Doug Wimbish in the rhythm section. |
+| [Leave It Alone](https://open.spotify.com/search/Leave%20It%20Alone%20Living%20Colour) | A slow, heavy groove where his pitch-shifting and whammy-bar work appears alongside straight riffing. |
 
 ## Jerry Gaskill
 
-Jerry Gaskill is a drummer whose playing helps shape this music. Listen for how the drum part affects heavy funk / alternative metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is King's X / Extreme / Living Colour.
+Jerry Gaskill is the drummer of King's X and one of the most musical drummers in hard rock — his playing is notably unshowy for the genre, focused on serving the song's dynamic arc and maintaining a deep pocket rather than demonstrating technical display. His feel is rooted in gospel and R&B drumming, which connects directly to Dug Pinnick's bass sensibility, and the two function as a rhythm section whose strength is in their consistency and mutual lock rather than flashiness. Gaskill sings as well, contributing to King's X's three-part vocal harmonies, which is uncommon for drummers at his level. He suffered a serious heart attack in 2012 and a second one in 2016, returning to touring and recording after each; his perseverance has been widely noted by the rock community. His playing rewards careful listening because its sophistication operates below the surface — you hear it more in how the music feels than in any individual moment he creates.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Living Colour | [Wikipedia][living-colour-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | King's X / Extreme / Living Colour | — | — | Related artists. |
+| 1980s–present | King's X | [Wikipedia](https://en.wikipedia.org/wiki/King%27s_X) | — | Primary band; consistent member throughout the band's history. |
+| 2012 / 2016 | Health events and returns | — | — | Two heart attacks; returned to performing after each. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | Tama drums; has used various configurations across the band's career |
+| Cymbals | Zildjian cymbals |
+| Approach | Gospel- and R&B-rooted feel; prioritizes pocket and dynamics over technical complexity |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Love Rears Its Ugly Head](https://open.spotify.com/search/Love%20Rears%20Its%20Ugly%20Head%20Jerry%20Gaskill%20Living%20Colour) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Elvis Is Dead](https://open.spotify.com/search/Elvis%20Is%20Dead%20Jerry%20Gaskill%20Living%20Colour) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Funny Vibe](https://open.spotify.com/search/Funny%20Vibe%20Jerry%20Gaskill%20Living%20Colour) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Desperate People](https://open.spotify.com/search/Desperate%20People%20Jerry%20Gaskill%20Living%20Colour) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Time's Up](https://open.spotify.com/search/Time%27s%20Up%20Jerry%20Gaskill%20Living%20Colour) | Use this for groove architecture rather than just surface-level chops. |
-| [Glamour Boys](https://open.spotify.com/search/Glamour%20Boys%20Jerry%20Gaskill%20Living%20Colour) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Birdland](https://open.spotify.com/search/Birdland%20Jerry%20Gaskill%20Living%20Colour) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Jerry%20Gaskill%20Living%20Colour) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [The Crunge](https://open.spotify.com/search/The%20Crunge%20Jerry%20Gaskill%20Living%20Colour) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Stratus](https://open.spotify.com/search/Stratus%20Jerry%20Gaskill%20Living%20Colour) | Use this for groove architecture rather than just surface-level chops. |
+| [Over My Head](https://open.spotify.com/search/Over%20My%20Head%20King%27s%20X) | The groove here is deceptively simple; listen for where he places the kick relative to Pinnick's bass. |
+| [It's Love](https://open.spotify.com/search/It%27s%20Love%20King%27s%20X) | Mid-tempo with strong dynamic shaping; focus on how he builds and releases tension across the song. |
+| [Groove Machine](https://open.spotify.com/search/Groove%20Machine%20King%27s%20X) | Funkier than most King's X material; his hi-hat and snare placement show the R&B influence. |
+| [Goldilox](https://open.spotify.com/search/Goldilox%20King%27s%20X) | A ballad that demonstrates his restraint; he plays almost nothing, and what he does play is perfectly placed. |
+| [Black Flag](https://open.spotify.com/search/Black%20Flag%20King%27s%20X) | Heavy and aggressive; listen for how he maintains a consistent internal pulse through the intensity. |
+| [Dogman](https://open.spotify.com/search/Dogman%20King%27s%20X) | Title track; the drumming is more raw and driving here than on earlier records. |
+| [Moanjam](https://open.spotify.com/search/Moanjam%20King%27s%20X) | Extended improvisation; his approach to open-ended playing is conversational rather than solistic. |
+| [The Difference (in the Garden of St. Anne's-on-the-Hill)](https://open.spotify.com/search/The%20Difference%20King%27s%20X) | Listen for how he handles time in a song with an unusual harmonic rhythm. |
+| [Complain](https://open.spotify.com/search/Complain%20King%27s%20X) | Up-tempo; track how his cymbal work frames the guitar line rather than running independently. |
+| [Flies and Blue Skies](https://open.spotify.com/search/Flies%20and%20Blue%20Skies%20King%27s%20X) | Mid-period King's X; compare his approach here to the earlier records to hear how his role evolved. |
 
 ## References
 

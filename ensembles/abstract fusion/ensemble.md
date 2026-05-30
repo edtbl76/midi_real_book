@@ -32,7 +32,7 @@ Gary Willis is a bassist associated with jazz fusion, fusion. Musically, the imp
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -64,7 +64,7 @@ Scott Henderson is a guitarist associated with jazz fusion, fusion blues, rock. 
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -96,7 +96,7 @@ Wayne Krantz is a guitarist associated with jazz fusion, experimental, abstract.
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -128,7 +128,7 @@ Dean Brown is a guitarist associated with jazz fusion, funk, session. Musically,
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -160,7 +160,7 @@ Kirk Covington is a drummer whose playing helps shape this music. Listen for how
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -192,7 +192,7 @@ Scott Kinsey is a keyboard player whose playing helps shape this music. Listen f
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 

@@ -30,7 +30,7 @@ Roscoe Beck is a bassist associated with blues, session, fusion. Musically, the 
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -62,7 +62,7 @@ Robben Ford is a guitarist associated with blues-jazz, jazz-influenced rock, blu
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -94,7 +94,7 @@ Tom Brechtlein is a drummer whose playing helps shape this music. Listen for how
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -126,7 +126,7 @@ Reese Wynans is a keyboard player whose playing helps shape this music. Listen f
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 

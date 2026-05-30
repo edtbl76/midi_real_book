@@ -32,7 +32,7 @@ Billy Sheehan is a bassist associated with hard rock, rock, shred. Musically, th
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -97,7 +97,7 @@ Paul Gilbert is a guitarist associated with rock, shred, instrumental rock, hard
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -129,7 +129,7 @@ Jason Becker is a guitarist associated with neoclassical metal, shred, rock. Mus
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -161,7 +161,7 @@ Mike Mangini is a drummer whose drum role helps shape this music. Listen for the
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -193,7 +193,7 @@ Michael Keneally is a keyboard player whose keyboard role helps shape this music
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 

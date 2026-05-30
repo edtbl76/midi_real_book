@@ -33,7 +33,7 @@ Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the 
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -65,7 +65,7 @@ Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -97,7 +97,7 @@ Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Mu
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -129,7 +129,7 @@ Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclas
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -161,7 +161,7 @@ Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psyc
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -193,7 +193,7 @@ Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -225,7 +225,7 @@ Don Airey is a keyboard player whose playing helps shape this music. Listen for 
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 

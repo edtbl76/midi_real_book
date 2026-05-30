@@ -96,7 +96,7 @@ Steve Smith is a drummer whose playing helps shape this music. Listen for how th
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -128,7 +128,7 @@ Jonathan Cain is a keyboard player whose playing helps shape this music. Listen 
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 

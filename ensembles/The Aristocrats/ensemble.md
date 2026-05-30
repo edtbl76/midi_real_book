@@ -29,7 +29,7 @@ Bryan Beller is a bassist associated with prog fusion, instrumental rock, modern
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -61,7 +61,7 @@ Guthrie Govan is a guitarist associated with modern fusion, rock, prog, country,
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -93,7 +93,7 @@ Marco Minnemann is a drummer whose playing helps shape this music. Listen for ho
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 

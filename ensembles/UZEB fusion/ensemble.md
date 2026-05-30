@@ -30,7 +30,7 @@ Alain Caron is a bassist associated with jazz fusion, fusion, electric jazz. Mus
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -62,7 +62,7 @@ Mike Stern is a guitarist associated with jazz fusion, fusion rock, bebop. Music
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -94,7 +94,7 @@ Frank Gambale is a guitarist associated with jazz fusion, fusion rock, progressi
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -126,7 +126,7 @@ Paul Brochu is a drummer whose playing helps shape this music. Listen for how th
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 

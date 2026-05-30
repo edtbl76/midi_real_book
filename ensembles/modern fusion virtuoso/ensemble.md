@@ -30,7 +30,7 @@ Hadrien Feraud is a bassist associated with jazz fusion, modern fusion, electric
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -62,7 +62,7 @@ Guthrie Govan is a guitarist associated with modern fusion, rock, prog, country,
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -94,7 +94,7 @@ Dave Weckl is a drummer whose playing helps shape this music. Listen for how the
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -126,7 +126,7 @@ Scott Kinsey is a keyboard player whose playing helps shape this music. Listen f
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 

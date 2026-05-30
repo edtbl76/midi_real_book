@@ -30,7 +30,7 @@ Evan Brewer is a bassist associated with progressive metal, fusion metal, djent.
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -62,7 +62,7 @@ Tosin Abasi is a guitarist associated with progressive metal, djent, jazz-influe
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -94,7 +94,7 @@ Javier Reyes is a guitarist associated with progressive metal, djent, world-infl
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -126,7 +126,7 @@ Matt Garstka is a drummer whose playing helps shape this music. Listen for how t
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 

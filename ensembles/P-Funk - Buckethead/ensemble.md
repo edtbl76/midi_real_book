@@ -34,7 +34,7 @@ Bootsy Collins is a bassist associated with funk, R&B, soul. Musically, the impo
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -66,7 +66,7 @@ Eddie Hazel is a guitarist associated with funk, R&B, psychedelic rock. Musicall
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -98,7 +98,7 @@ Catfish Collins is a guitarist associated with funk, R&B. Musically, the importa
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -130,7 +130,7 @@ Buckethead is a guitarist associated with metal, funk, experimental, progressive
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -162,7 +162,7 @@ Jerome Brailey is a drummer whose playing helps shape this music. Listen for how
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -194,7 +194,7 @@ Bernie Worrell is a keyboard player whose playing helps shape this music. Listen
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 
@@ -226,7 +226,7 @@ Maceo Parker is a saxophonist whose playing helps shape this music. Listen for h
 
 | Category | Gear |
 |---|---|
-| Saxophone | Associated instruments and touring/studio tools. |
+| Saxophone | — |
 
 ### 10 Key Recordings
 
@@ -258,7 +258,7 @@ Fred Wesley is a trombonist whose playing helps shape this music. Listen for how
 
 | Category | Gear |
 |---|---|
-| Trombone | Associated instruments and touring/studio tools. |
+| Trombone | — |
 
 ### 10 Key Recordings
 

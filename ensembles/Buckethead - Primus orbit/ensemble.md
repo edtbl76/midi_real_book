@@ -32,7 +32,7 @@ Les Claypool is a bassist associated with rock, alternative, avant-garde, funk. 
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -64,7 +64,7 @@ Larry LaLonde is a guitarist associated with progressive metal, avant-garde, dea
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -96,7 +96,7 @@ Buckethead is a guitarist associated with metal, funk, experimental, progressive
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -128,7 +128,7 @@ Tim Alexander is a drummer whose playing helps shape this music. Listen for how 
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -160,7 +160,7 @@ Bernie Worrell is a keyboard player whose playing helps shape this music. Listen
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 
@@ -192,7 +192,7 @@ Skerik is a saxophonist whose playing helps shape this music. Listen for how the
 
 | Category | Gear |
 |---|---|
-| Saxophone | Associated instruments and touring/studio tools. |
+| Saxophone | — |
 
 ### 10 Key Recordings
 

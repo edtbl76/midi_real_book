@@ -31,7 +31,7 @@ Victor Wooten is a bassist associated with slap bass, fusion, R&B, bluegrass. Mu
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -63,7 +63,7 @@ Oz Noy is a guitarist associated with jazz fusion, funk, experimental rock. Musi
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -95,7 +95,7 @@ Dennis Chambers is a drummer whose playing helps shape this music. Listen for ho
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -127,7 +127,7 @@ Bela Fleck is a banjo player whose playing helps shape this music. Listen for ho
 
 | Category | Gear |
 |---|---|
-| Banjo | Associated instruments and touring/studio tools. |
+| Banjo | — |
 
 ### 10 Key Recordings
 
@@ -159,7 +159,7 @@ Howard Levy is a harmonica player whose playing helps shape this music. Listen f
 
 | Category | Gear |
 |---|---|
-| Harmonica | Associated instruments and touring/studio tools. |
+| Harmonica | — |
 
 ### 10 Key Recordings
 

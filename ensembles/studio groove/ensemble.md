@@ -32,7 +32,7 @@ Chuck Rainey is a bassist associated with soul, R&B, funk, studio. Musically, th
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -64,7 +64,7 @@ Cornell Dupree is a guitarist associated with soul, R&B, funk, session. Musicall
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -96,7 +96,7 @@ Eric Gale is a guitarist associated with jazz-funk, soul, R&B, session. Musicall
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -128,7 +128,7 @@ Bernard Purdie is a drummer whose playing helps shape this music. Listen for how
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
@@ -160,7 +160,7 @@ Richard Tee is a keyboard player whose playing helps shape this music. Listen fo
 
 | Category | Gear |
 |---|---|
-| Keyboards | Associated instruments and touring/studio tools. |
+| Keyboards | — |
 
 ### 10 Key Recordings
 
@@ -192,7 +192,7 @@ King Curtis is a saxophonist whose playing helps shape this music. Listen for ho
 
 | Category | Gear |
 |---|---|
-| Saxophone | Associated instruments and touring/studio tools. |
+| Saxophone | — |
 
 ### 10 Key Recordings
 

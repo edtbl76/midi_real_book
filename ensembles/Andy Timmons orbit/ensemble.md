@@ -29,7 +29,7 @@ Mike Daane is a bassist associated with rock, modern rock. Musically, the import
 
 | Category | Gear |
 |---|---|
-| Bass | Associated instruments and touring/studio tools. |
+| Bass | — |
 
 ### 10 Key Recordings
 
@@ -61,7 +61,7 @@ Andy Timmons is a guitarist associated with rock, fusion, instrumental rock. Mus
 
 | Category | Gear |
 |---|---|
-| Guitar | Associated instruments and touring/studio tools. |
+| Guitar | — |
 
 ### 10 Key Recordings
 
@@ -93,7 +93,7 @@ Brannen Temple is a drummer whose playing helps shape this music. Listen for how
 
 | Category | Gear |
 |---|---|
-| Drums | Associated instruments and touring/studio tools. |
+| Drums | — |
 
 ### 10 Key Recordings
 
