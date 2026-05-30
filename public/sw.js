@@ -1,4 +1,4 @@
-var CACHE_VERSION = 'v13';
+var CACHE_VERSION = 'v14';
 var CACHE_NAME = 'midi-real-book-' + CACHE_VERSION;
 
 var URLS_TO_CACHE = [
