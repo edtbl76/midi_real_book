@@ -1,6 +1,6 @@
 # Ensemble: Lee Ritenour band
 
-## Pairing Context
+## Context
 
 This music lives in the Lee Ritenour band world: session / jazz fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -18,14 +18,14 @@ This music lives in the Lee Ritenour band world: session / jazz fusion. Listen f
 
 ## Abraham Laboriel
 
-Abraham Laboriel is a bassist associated with session, jazz fusion, Latin jazz, pop. Musically, the important traits here are session fusion sophistication, harmonic flexibility, clean articulation across styles. In this ensemble, that language is pointed toward session / jazz fusion, with Lee Ritenour band as the broader listening world.
+Abraham Laboriel is a bassist associated with session, jazz fusion, Latin jazz, pop. Musically, the important traits here are session fusion sophistication, harmonic flexibility, clean articulation across styles. In this ensemble: session / jazz fusion. Related listening: Lee Ritenour band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Lee Ritenour band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Lee Ritenour band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Abraham Laboriel is a bassist associated with session, jazz fusion, Latin jazz, 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Wes Bound](https://open.spotify.com/search/Wes%20Bound%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Bahia Funk](https://open.spotify.com/search/Bahia%20Funk%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Bahia Funk](https://open.spotify.com/search/Bahia%20Funk%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Listen for how the player shapes and attacks each note. |
 | [Stolen Moments](https://open.spotify.com/search/Stolen%20Moments%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Track the pocket, note length, and how Abraham Laboriel makes the harmony feel grounded. |
 | [Captain Fingers](https://open.spotify.com/search/Captain%20Fingers%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Is It You?](https://open.spotify.com/search/Is%20It%20You%3F%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Chameleon](https://open.spotify.com/search/Chameleon%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Chameleon](https://open.spotify.com/search/Chameleon%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Listen for how the player shapes and attacks each note. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [YYZ](https://open.spotify.com/search/YYZ%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Track the pocket, note length, and how Abraham Laboriel makes the harmony feel grounded. |
 | [Roundabout](https://open.spotify.com/search/Roundabout%20Abraham%20Laboriel%20Lee%20Ritenour%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Lee Ritenour
 
-Lee Ritenour is a guitarist associated with jazz fusion, session, jazz. Musically, the important traits here are jazz-fusion clean technique, chord-melody sophistication, session versatility. In this ensemble, that language is pointed toward session / jazz fusion, with Lee Ritenour band as the broader listening world.
+Lee Ritenour is a guitarist associated with jazz fusion, session, jazz. Musically, the important traits here are jazz-fusion clean technique, chord-melody sophistication, session versatility. In this ensemble: session / jazz fusion. Related listening: Lee Ritenour band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Lee Ritenour band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Lee Ritenour band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Lee Ritenour is a guitarist associated with jazz fusion, session, jazz. Musicall
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Is It You?](https://open.spotify.com/search/Is%20It%20You%3F%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Mr. Briefcase](https://open.spotify.com/search/Mr.%20Briefcase%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Night Rhythms](https://open.spotify.com/search/Night%20Rhythms%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Night Rhythms](https://open.spotify.com/search/Night%20Rhythms%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Listen for how the guitar fits the band. |
 | [A Little Bumpin'](https://open.spotify.com/search/A%20Little%20Bumpin%27%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Focus on phrasing, tone, bends, and how Lee Ritenour shapes the melodic argument. |
-| [Etude](https://open.spotify.com/search/Etude%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Etude](https://open.spotify.com/search/Etude%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [Wes Bound](https://open.spotify.com/search/Wes%20Bound%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Scarified](https://open.spotify.com/search/Scarified%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Listen for how the guitar fits the band. |
 | [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Focus on phrasing, tone, bends, and how Lee Ritenour shapes the melodic argument. |
-| [Red House](https://open.spotify.com/search/Red%20House%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Lee%20Ritenour%20Lee%20Ritenour%20band) | Listen for how the rhythm guitar lays into the groove. |
 
 ## Vinnie Colaiuta
 
-Vinnie Colaiuta is a drummer whose playing helps shape this music. Listen for how the drum part affects session / jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Lee Ritenour band.
+Vinnie Colaiuta is a drummer whose playing helps shape this music. Listen for how the drum part affects session / jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Lee Ritenour band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Lee Ritenour band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Lee Ritenour band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Vinnie Colaiuta is a drummer whose playing helps shape this music. Listen for ho
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Vinnie Colaiuta is a drummer whose playing helps shape this music. Listen for ho
 
 ## Joe Sample
 
-Joe Sample is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects session / jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Lee Ritenour band.
+Joe Sample is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects session / jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Lee Ritenour band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Lee Ritenour band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Lee Ritenour band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ Joe Sample is a keyboard player whose playing helps shape this music. Listen for
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [A Little Bumpin'](https://open.spotify.com/search/A%20Little%20Bumpin%27%20Joe%20Sample%20Lee%20Ritenour%20band) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Etude](https://open.spotify.com/search/Etude%20Joe%20Sample%20Lee%20Ritenour%20band) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Wes Bound](https://open.spotify.com/search/Wes%20Bound%20Joe%20Sample%20Lee%20Ritenour%20band) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Bahia Funk](https://open.spotify.com/search/Bahia%20Funk%20Joe%20Sample%20Lee%20Ritenour%20band) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Bahia Funk](https://open.spotify.com/search/Bahia%20Funk%20Joe%20Sample%20Lee%20Ritenour%20band) | Listen for how the keys support and color the arrangement. |
 | [Stolen Moments](https://open.spotify.com/search/Stolen%20Moments%20Joe%20Sample%20Lee%20Ritenour%20band) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Joe%20Sample%20Lee%20Ritenour%20band) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [You Are the Sunshine of My Life](https://open.spotify.com/search/You%20Are%20the%20Sunshine%20of%20My%20Life%20Joe%20Sample%20Lee%20Ritenour%20band) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Joe%20Sample%20Lee%20Ritenour%20band) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [As](https://open.spotify.com/search/As%20Joe%20Sample%20Lee%20Ritenour%20band) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [As](https://open.spotify.com/search/As%20Joe%20Sample%20Lee%20Ritenour%20band) | Listen for how the keys support and color the arrangement. |
 | [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Joe%20Sample%20Lee%20Ritenour%20band) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## Justo Almario
 
-Justo Almario is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects session / jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Lee Ritenour band.
+Justo Almario is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects session / jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Lee Ritenour band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Lee Ritenour band | [Wikipedia][lee-ritenour-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Lee Ritenour band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Lee Ritenour band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Justo Almario is a saxophonist whose playing helps shape this music. Listen for 
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

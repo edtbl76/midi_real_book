@@ -1,6 +1,6 @@
 # Ensemble: The Police
 
-## Pairing Context
+## Context
 
 This music lives in the The Police world: reggae rock / post-punk. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -17,14 +17,14 @@ This music lives in the The Police world: reggae rock / post-punk. Listen for ho
 
 ## Sting
 
-Sting is a bassist associated with reggae rock, post-punk, pop-rock. Musically, the important traits here are sparse reggae-rock basslines, melodic restraint, offbeat hooks, space-driven trio support. In this ensemble, that language is pointed toward reggae rock / post-punk, with The Police as the broader listening world.
+Sting is a bassist associated with reggae rock, post-punk, pop-rock. Musically, the important traits here are sparse reggae-rock basslines, melodic restraint, offbeat hooks, space-driven trio support. In this ensemble: reggae rock / post-punk. Related listening: The Police.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | The Police | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | The Police | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,31 +32,31 @@ Sting is a bassist associated with reggae rock, post-punk, pop-rock. Musically, 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Message in a Bottle](https://open.spotify.com/search/Message%20in%20a%20Bottle%20Sting%20The%20Police) | Track the pocket, note length, and how Sting makes the harmony feel grounded. |
 | [Walking on the Moon](https://open.spotify.com/search/Walking%20on%20the%20Moon%20Sting%20The%20Police) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Driven to Tears](https://open.spotify.com/search/Driven%20to%20Tears%20Sting%20The%20Police) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Every Little Thing She Does Is Magic](https://open.spotify.com/search/Every%20Little%20Thing%20She%20Does%20Is%20Magic%20Sting%20The%20Police) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Every Little Thing She Does Is Magic](https://open.spotify.com/search/Every%20Little%20Thing%20She%20Does%20Is%20Magic%20Sting%20The%20Police) | Listen for how the player shapes and attacks each note. |
 | [Roxanne](https://open.spotify.com/search/Roxanne%20Sting%20The%20Police) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [So Lonely](https://open.spotify.com/search/So%20Lonely%20Sting%20The%20Police) | Track the pocket, note length, and how Sting makes the harmony feel grounded. |
 | [The Real Me](https://open.spotify.com/search/The%20Real%20Me%20Sting%20The%20Police) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Hysteria](https://open.spotify.com/search/Hysteria%20Sting%20The%20Police) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Sting%20The%20Police) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Sting%20The%20Police) | Listen for how the player shapes and attacks each note. |
 | [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Sting%20The%20Police) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Andy Summers
 
-Andy Summers is a guitarist associated with reggae rock, post-punk, new wave. Musically, the important traits here are chorus-textured voicings, add9 harmony, reggae-rock restraint, atmospheric trio comping. In this ensemble, that language is pointed toward reggae rock / post-punk, with The Police as the broader listening world.
+Andy Summers is a guitarist associated with reggae rock, post-punk, new wave. Musically, the important traits here are chorus-textured voicings, add9 harmony, reggae-rock restraint, atmospheric trio comping. In this ensemble: reggae rock / post-punk. Related listening: The Police.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | The Police | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | The Police | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,31 +64,31 @@ Andy Summers is a guitarist associated with reggae rock, post-punk, new wave. Mu
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Synchronicity II](https://open.spotify.com/search/Synchronicity%20II%20Andy%20Summers%20The%20Police) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Canary in a Coalmine](https://open.spotify.com/search/Canary%20in%20a%20Coalmine%20Andy%20Summers%20The%20Police) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Bring on the Night](https://open.spotify.com/search/Bring%20on%20the%20Night%20Andy%20Summers%20The%20Police) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Bring on the Night](https://open.spotify.com/search/Bring%20on%20the%20Night%20Andy%20Summers%20The%20Police) | Listen for how the guitar fits the band. |
 | [Message in a Bottle](https://open.spotify.com/search/Message%20in%20a%20Bottle%20Andy%20Summers%20The%20Police) | Focus on phrasing, tone, bends, and how Andy Summers shapes the melodic argument. |
-| [Walking on the Moon](https://open.spotify.com/search/Walking%20on%20the%20Moon%20Andy%20Summers%20The%20Police) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Walking on the Moon](https://open.spotify.com/search/Walking%20on%20the%20Moon%20Andy%20Summers%20The%20Police) | Listen for how the rhythm guitar lays into the groove. |
 | [Driven to Tears](https://open.spotify.com/search/Driven%20to%20Tears%20Andy%20Summers%20The%20Police) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Andy%20Summers%20The%20Police) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Andy%20Summers%20The%20Police) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Andy%20Summers%20The%20Police) | Listen for how the guitar fits the band. |
 | [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Andy%20Summers%20The%20Police) | Focus on phrasing, tone, bends, and how Andy Summers shapes the melodic argument. |
-| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Andy%20Summers%20The%20Police) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Andy%20Summers%20The%20Police) | Listen for how the rhythm guitar lays into the groove. |
 
 ## Stewart Copeland
 
-Stewart Copeland is a drummer whose playing helps shape this music. Listen for how the drum part affects reggae rock / post-punk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is The Police.
+Stewart Copeland is a drummer whose playing helps shape this music. Listen for how the drum part affects reggae rock / post-punk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is The Police.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | The Police | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | The Police | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,7 +96,7 @@ Stewart Copeland is a drummer whose playing helps shape this music. Listen for h
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -113,14 +113,14 @@ Stewart Copeland is a drummer whose playing helps shape this music. Listen for h
 
 ## Branford Marsalis
 
-Branford Marsalis is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects reggae rock / post-punk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is The Police.
+Branford Marsalis is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects reggae rock / post-punk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is The Police.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | The Police | [Wikipedia][the-police-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | The Police | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | The Police | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,7 +128,7 @@ Branford Marsalis is a saxophonist whose playing helps shape this music. Listen 
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

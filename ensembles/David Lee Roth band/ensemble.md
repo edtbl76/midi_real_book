@@ -1,8 +1,8 @@
 # Ensemble: David Lee Roth band
 
-## Pairing Context
+## Context
 
-This music is centered on David Lee Roth band: hard rock / shred. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Mr. Big / David Lee Roth / Shrapnel orbit, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on David Lee Roth band: hard rock / shred. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ## Players
 
@@ -19,14 +19,14 @@ This music is centered on David Lee Roth band: hard rock / shred. Listen for the
 
 ## Billy Sheehan
 
-Billy Sheehan is a bassist associated with hard rock, rock, shred. Musically, the important traits here are hard-rock shred bass, three-finger speed, tapping, lead-bass phrasing. In this ensemble, that language is pointed toward hard rock / shred, with Mr. Big / David Lee Roth / Shrapnel orbit as the broader listening world.
+Billy Sheehan is a bassist associated with hard rock, rock, shred. Musically, the important traits here are hard-rock shred bass, three-finger speed, tapping, lead-bass phrasing. In this ensemble: hard rock / shred. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,7 +34,7 @@ Billy Sheehan is a bassist associated with hard rock, rock, shred. Musically, th
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -42,12 +42,12 @@ Billy Sheehan is a bassist associated with hard rock, rock, shred. Musically, th
 | [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Track the pocket, note length, and how Billy Sheehan makes the harmony feel grounded. |
 | [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Skyscraper](https://open.spotify.com/search/Skyscraper%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Hot Dog and a Shake](https://open.spotify.com/search/Hot%20Dog%20and%20a%20Shake%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Hot Dog and a Shake](https://open.spotify.com/search/Hot%20Dog%20and%20a%20Shake%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for how the player shapes and attacks each note. |
 | [Just Like Paradise](https://open.spotify.com/search/Just%20Like%20Paradise%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Stratus](https://open.spotify.com/search/Stratus%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Track the pocket, note length, and how Billy Sheehan makes the harmony feel grounded. |
 | [The Chicken](https://open.spotify.com/search/The%20Chicken%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20%28Falettinme%20Be%20Mice%20Elf%20Agin%29%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20%28Falettinme%20Be%20Mice%20Elf%20Agin%29%20Billy%20Sheehan%20David%20Lee%20Roth%20band) | Listen for how the player shapes and attacks each note. |
 
 ## Steve Vai
 
@@ -58,7 +58,7 @@ American guitarist who emerged from Frank Zappa's band before becoming a major v
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -67,31 +67,31 @@ American guitarist who emerged from Frank Zappa's band before becoming a major v
 | Guitars | Ibanez JEM and Universe models |
 | Effects / Amps | Eventide-style harmonizers, Carvin/Legacy-era amps, Fractal-era rigs |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20Steve%20Vai%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
 | [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Steve%20Vai%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Steve Vai shapes the melodic argument. |
-| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [Skyscraper](https://open.spotify.com/search/Skyscraper%20Steve%20Vai%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Hot Dog and a Shake](https://open.spotify.com/search/Hot%20Dog%20and%20a%20Shake%20Steve%20Vai%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Europa](https://open.spotify.com/search/Europa%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Europa](https://open.spotify.com/search/Europa%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
 | [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Steve%20Vai%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Steve Vai shapes the melodic argument. |
-| [Crossroads](https://open.spotify.com/search/Crossroads%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Crossroads](https://open.spotify.com/search/Crossroads%20Steve%20Vai%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Steve%20Vai%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Paul Gilbert
 
-Paul Gilbert is a guitarist associated with rock, shred, instrumental rock, hard rock. Musically, the important traits here are right-hand alternate picking precision, string skipping, high-velocity articulation, clean speed and stamina. In this ensemble, that language is pointed toward hard rock / shred, with Mr. Big / David Lee Roth / Shrapnel orbit as the broader listening world.
+Paul Gilbert is a guitarist associated with rock, shred, instrumental rock, hard rock. Musically, the important traits here are right-hand alternate picking precision, string skipping, speed and precision, clean stamina. In this ensemble: hard rock / shred. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -99,31 +99,31 @@ Paul Gilbert is a guitarist associated with rock, shred, instrumental rock, hard
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Elephant Gun](https://open.spotify.com/search/Elephant%20Gun%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
 | [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Paul Gilbert shapes the melodic argument. |
-| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [Skyscraper](https://open.spotify.com/search/Skyscraper%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Scarified](https://open.spotify.com/search/Scarified%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
 | [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Paul Gilbert shapes the melodic argument. |
-| [Red House](https://open.spotify.com/search/Red%20House%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Paul%20Gilbert%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
 
 ## Jason Becker
 
-Jason Becker is a guitarist associated with neoclassical metal, shred, rock. Musically, the important traits here are neoclassical shred precision, speed and clarity, classical phrasing, elite alternate picking. In this ensemble, that language is pointed toward hard rock / shred, with Mr. Big / David Lee Roth / Shrapnel orbit as the broader listening world.
+Jason Becker is a guitarist associated with neoclassical metal, shred, rock. Musically, the important traits here are neoclassical shred precision, speed and clarity, classical phrasing, elite alternate picking. In this ensemble: hard rock / shred. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -131,31 +131,31 @@ Jason Becker is a guitarist associated with neoclassical metal, shred, rock. Mus
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20Jason%20Becker%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
 | [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Jason%20Becker%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Jason Becker shapes the melodic argument. |
-| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [Skyscraper](https://open.spotify.com/search/Skyscraper%20Jason%20Becker%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Hot Dog and a Shake](https://open.spotify.com/search/Hot%20Dog%20and%20a%20Shake%20Jason%20Becker%20David%20Lee%20Roth%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for how the guitar fits the band. |
 | [Red House](https://open.spotify.com/search/Red%20House%20Jason%20Becker%20David%20Lee%20Roth%20band) | Focus on phrasing, tone, bends, and how Jason Becker shapes the melodic argument. |
-| [La Grange](https://open.spotify.com/search/La%20Grange%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [La Grange](https://open.spotify.com/search/La%20Grange%20Jason%20Becker%20David%20Lee%20Roth%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Jason%20Becker%20David%20Lee%20Roth%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Mike Mangini
 
-Mike Mangini is a drummer whose drum role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The broader listening world is Mr. Big / David Lee Roth / Shrapnel orbit.
+Mike Mangini is a drummer whose drum role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The related listening is Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -163,7 +163,7 @@ Mike Mangini is a drummer whose drum role helps shape this music. Listen for the
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -180,14 +180,14 @@ Mike Mangini is a drummer whose drum role helps shape this music. Listen for the
 
 ## Michael Keneally
 
-Michael Keneally is a keyboard player whose keyboard role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The broader listening world is Mr. Big / David Lee Roth / Shrapnel orbit.
+Michael Keneally is a keyboard player whose keyboard role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The related listening is Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | David Lee Roth band | [Wikipedia][david-lee-roth-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -195,17 +195,17 @@ Michael Keneally is a keyboard player whose keyboard role helps shape this music
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Elephant Gun](https://open.spotify.com/search/Elephant%20Gun%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Big Trouble](https://open.spotify.com/search/Big%20Trouble%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for how the keys support and color the arrangement. |
 | [Ladies' Nite in Buffalo](https://open.spotify.com/search/Ladies%27%20Nite%20in%20Buffalo%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Tobacco Road](https://open.spotify.com/search/Tobacco%20Road%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [The Attitude Song](https://open.spotify.com/search/The%20Attitude%20Song%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Skyscraper](https://open.spotify.com/search/Skyscraper%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Peg](https://open.spotify.com/search/Peg%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Peg](https://open.spotify.com/search/Peg%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for how the keys support and color the arrangement. |
 | [Riders on the Storm](https://open.spotify.com/search/Riders%20on%20the%20Storm%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Frankenstein](https://open.spotify.com/search/Frankenstein%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Lingus](https://open.spotify.com/search/Lingus%20Michael%20Keneally%20David%20Lee%20Roth%20band) | Listen for harmonic color: extensions, inversions, and movement under the melody. |

@@ -1,8 +1,8 @@
 # Ensemble: modern blues-rock
 
-## Pairing Context
+## Context
 
-This music is centered on modern blues-rock: Texas blues rock / modern blues rock. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is ZZ Top / Texas blues orbit, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on modern blues-rock: Texas blues rock / modern blues rock. Listen for how the rhythm section, guitar, and harmony work together. Related listening: ZZ Top / Texas blues orbit.
 
 ## Players
 
@@ -17,14 +17,14 @@ This music is centered on modern blues-rock: Texas blues rock / modern blues roc
 
 ## Dusty Hill
 
-Dusty Hill is a bassist associated with blues-rock, rock. Musically, the important traits here are Texas boogie pocket and minimal groove authority. In this ensemble, that language is pointed toward Texas blues rock / modern blues rock, with ZZ Top / Texas blues orbit as the broader listening world.
+Dusty Hill is a bassist associated with blues-rock, rock. Musically, the important traits here are Texas boogie pocket and minimal groove authority. In this ensemble: Texas blues rock / modern blues rock. Related listening: ZZ Top / Texas blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,31 +32,31 @@ Dusty Hill is a bassist associated with blues-rock, rock. Musically, the importa
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Blues Deluxe](https://open.spotify.com/search/Blues%20Deluxe%20Dusty%20Hill%20modern%20blues-rock) | Track the pocket, note length, and how Dusty Hill makes the harmony feel grounded. |
 | [Dust Bowl](https://open.spotify.com/search/Dust%20Bowl%20Dusty%20Hill%20modern%20blues-rock) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Redemption](https://open.spotify.com/search/Redemption%20Dusty%20Hill%20modern%20blues-rock) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Slow Train](https://open.spotify.com/search/Slow%20Train%20Dusty%20Hill%20modern%20blues-rock) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Slow Train](https://open.spotify.com/search/Slow%20Train%20Dusty%20Hill%20modern%20blues-rock) | Listen for how the player shapes and attacks each note. |
 | [No Good Place for the Lonely](https://open.spotify.com/search/No%20Good%20Place%20for%20the%20Lonely%20Dusty%20Hill%20modern%20blues-rock) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20Dusty%20Hill%20modern%20blues-rock) | Track the pocket, note length, and how Dusty Hill makes the harmony feel grounded. |
 | [Continuum](https://open.spotify.com/search/Continuum%20Dusty%20Hill%20modern%20blues-rock) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Stratus](https://open.spotify.com/search/Stratus%20Dusty%20Hill%20modern%20blues-rock) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Dusty%20Hill%20modern%20blues-rock) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Dusty%20Hill%20modern%20blues-rock) | Listen for how the player shapes and attacks each note. |
 | [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Dusty%20Hill%20modern%20blues-rock) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Billy Gibbons
 
-Billy Gibbons is a guitarist associated with blues-rock, rock. Musically, the important traits here are blues-rock tone mastery, pentatonic vocabulary, expressive vibrato. In this ensemble, that language is pointed toward Texas blues rock / modern blues rock, with ZZ Top / Texas blues orbit as the broader listening world.
+Billy Gibbons is a guitarist associated with blues-rock, rock. Musically, the important traits here are blues-rock tone mastery, pentatonic vocabulary, expressive vibrato. In this ensemble: Texas blues rock / modern blues rock. Related listening: ZZ Top / Texas blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,31 +64,31 @@ Billy Gibbons is a guitarist associated with blues-rock, rock. Musically, the im
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Redemption](https://open.spotify.com/search/Redemption%20Billy%20Gibbons%20modern%20blues-rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Slow Train](https://open.spotify.com/search/Slow%20Train%20Billy%20Gibbons%20modern%20blues-rock) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [No Good Place for the Lonely](https://open.spotify.com/search/No%20Good%20Place%20for%20the%20Lonely%20Billy%20Gibbons%20modern%20blues-rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [No Good Place for the Lonely](https://open.spotify.com/search/No%20Good%20Place%20for%20the%20Lonely%20Billy%20Gibbons%20modern%20blues-rock) | Listen for how the guitar fits the band. |
 | [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20Billy%20Gibbons%20modern%20blues-rock) | Focus on phrasing, tone, bends, and how Billy Gibbons shapes the melodic argument. |
-| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20Billy%20Gibbons%20modern%20blues-rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20Billy%20Gibbons%20modern%20blues-rock) | Listen for how the rhythm guitar lays into the groove. |
 | [Mountain Time](https://open.spotify.com/search/Mountain%20Time%20Billy%20Gibbons%20modern%20blues-rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Billy%20Gibbons%20modern%20blues-rock) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Red House](https://open.spotify.com/search/Red%20House%20Billy%20Gibbons%20modern%20blues-rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Billy%20Gibbons%20modern%20blues-rock) | Listen for how the guitar fits the band. |
 | [La Grange](https://open.spotify.com/search/La%20Grange%20Billy%20Gibbons%20modern%20blues-rock) | Focus on phrasing, tone, bends, and how Billy Gibbons shapes the melodic argument. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Billy%20Gibbons%20modern%20blues-rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Billy%20Gibbons%20modern%20blues-rock) | Listen for how the rhythm guitar lays into the groove. |
 
 ## Joe Bonamassa
 
-Joe Bonamassa is a guitarist associated with blues-rock, hard rock, blues. Musically, the important traits here are blues-rock execution at high technical level, wide vocabulary, peer respect. In this ensemble, that language is pointed toward Texas blues rock / modern blues rock, with ZZ Top / Texas blues orbit as the broader listening world.
+Joe Bonamassa is a guitarist associated with blues-rock, hard rock, blues. Musically, the important traits here are blues-rock execution at high technical level, wide vocabulary, peer respect. In this ensemble: Texas blues rock / modern blues rock. Related listening: ZZ Top / Texas blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,31 +96,31 @@ Joe Bonamassa is a guitarist associated with blues-rock, hard rock, blues. Music
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Sloe Gin](https://open.spotify.com/search/Sloe%20Gin%20Joe%20Bonamassa%20modern%20blues-rock) | Focus on phrasing, tone, bends, and how Joe Bonamassa shapes the melodic argument. |
-| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for how the rhythm guitar lays into the groove. |
 | [Mountain Time](https://open.spotify.com/search/Mountain%20Time%20Joe%20Bonamassa%20modern%20blues-rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [The Ballad of John Henry](https://open.spotify.com/search/The%20Ballad%20of%20John%20Henry%20Joe%20Bonamassa%20modern%20blues-rock) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Driving Towards the Daylight](https://open.spotify.com/search/Driving%20Towards%20the%20Daylight%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Driving Towards the Daylight](https://open.spotify.com/search/Driving%20Towards%20the%20Daylight%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for how the guitar fits the band. |
 | [Blues Deluxe](https://open.spotify.com/search/Blues%20Deluxe%20Joe%20Bonamassa%20modern%20blues-rock) | Focus on phrasing, tone, bends, and how Joe Bonamassa shapes the melodic argument. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for how the rhythm guitar lays into the groove. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Joe%20Bonamassa%20modern%20blues-rock) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Joe%20Bonamassa%20modern%20blues-rock) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Joe%20Bonamassa%20modern%20blues-rock) | Listen for how the guitar fits the band. |
 
 ## Frank Beard
 
-Frank Beard is a drummer whose playing helps shape this music. Listen for how the drum part affects Texas blues rock / modern blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is ZZ Top / Texas blues orbit.
+Frank Beard is a drummer whose playing helps shape this music. Listen for how the drum part affects Texas blues rock / modern blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is ZZ Top / Texas blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern blues-rock | [Wikipedia][modern-blues-rock-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,7 +128,7 @@ Frank Beard is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

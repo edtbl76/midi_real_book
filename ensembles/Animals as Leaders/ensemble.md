@@ -1,8 +1,8 @@
 # Ensemble: Animals as Leaders
 
-## Pairing Context
+## Context
 
-This music lives in the Animals as Leaders world: extended range / technical metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Animals as Leaders / The Faceless help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Animals as Leaders world: extended range / technical metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Animals as Leaders / The Faceless help give you a feel for the style.
 
 ## Players
 
@@ -17,14 +17,14 @@ This music lives in the Animals as Leaders world: extended range / technical met
 
 ## Evan Brewer
 
-Evan Brewer is a bassist associated with progressive metal, fusion metal, djent. Musically, the important traits here are extended-range tapping, technical fusion-metal independence. In this ensemble, that language is pointed toward extended range / technical metal, with Animals as Leaders / The Faceless as the broader listening world.
+Evan Brewer is a bassist associated with progressive metal, fusion metal, djent. Musically, the important traits here are extended-range tapping, technical fusion-metal independence. In this ensemble: extended range / technical metal. Related listening: Animals as Leaders / The Faceless.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Animals as Leaders / The Faceless | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Animals as Leaders / The Faceless | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,31 +32,31 @@ Evan Brewer is a bassist associated with progressive metal, fusion metal, djent.
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Wave of Babies](https://open.spotify.com/search/Wave%20of%20Babies%20Evan%20Brewer%20Animals%20as%20Leaders) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Song of Solomon](https://open.spotify.com/search/Song%20of%20Solomon%20Evan%20Brewer%20Animals%20as%20Leaders) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Mind-Spun](https://open.spotify.com/search/Mind-Spun%20Evan%20Brewer%20Animals%20as%20Leaders) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Mind-Spun](https://open.spotify.com/search/Mind-Spun%20Evan%20Brewer%20Animals%20as%20Leaders) | Listen for how the player shapes and attacks each note. |
 | [Ectogenesis](https://open.spotify.com/search/Ectogenesis%20Evan%20Brewer%20Animals%20as%20Leaders) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [CAFO](https://open.spotify.com/search/CAFO%20Evan%20Brewer%20Animals%20as%20Leaders) | Track the pocket, note length, and how Evan Brewer makes the harmony feel grounded. |
 | [Tempting Time](https://open.spotify.com/search/Tempting%20Time%20Evan%20Brewer%20Animals%20as%20Leaders) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Stratus](https://open.spotify.com/search/Stratus%20Evan%20Brewer%20Animals%20as%20Leaders) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Evan%20Brewer%20Animals%20as%20Leaders) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Evan%20Brewer%20Animals%20as%20Leaders) | Listen for how the player shapes and attacks each note. |
 | [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Evan%20Brewer%20Animals%20as%20Leaders) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20%28Falettinme%20Be%20Mice%20Elf%20Agin%29%20Evan%20Brewer%20Animals%20as%20Leaders) | Track the pocket, note length, and how Evan Brewer makes the harmony feel grounded. |
 
 ## Tosin Abasi
 
-Tosin Abasi is a guitarist associated with progressive metal, djent, jazz-influenced. Musically, the important traits here are extended-range 8-string technique, slap-tap vocabulary, polyrhythmic precision, prog-metal fluency. In this ensemble, that language is pointed toward extended range / technical metal, with Animals as Leaders / The Faceless as the broader listening world.
+Tosin Abasi is a guitarist associated with progressive metal, djent, jazz-influenced. Musically, the important traits here are extended-range 8-string technique, slap-tap vocabulary, polyrhythmic precision, prog-metal fluency. In this ensemble: extended range / technical metal. Related listening: Animals as Leaders / The Faceless.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Animals as Leaders / The Faceless | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Animals as Leaders / The Faceless | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,31 +64,31 @@ Tosin Abasi is a guitarist associated with progressive metal, djent, jazz-influe
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Physical Education](https://open.spotify.com/search/Physical%20Education%20Tosin%20Abasi%20Animals%20as%20Leaders) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [The Woven Web](https://open.spotify.com/search/The%20Woven%20Web%20Tosin%20Abasi%20Animals%20as%20Leaders) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [An Infinite Regression](https://open.spotify.com/search/An%20Infinite%20Regression%20Tosin%20Abasi%20Animals%20as%20Leaders) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [An Infinite Regression](https://open.spotify.com/search/An%20Infinite%20Regression%20Tosin%20Abasi%20Animals%20as%20Leaders) | Listen for how the guitar fits the band. |
 | [Tooth and Claw](https://open.spotify.com/search/Tooth%20and%20Claw%20Tosin%20Abasi%20Animals%20as%20Leaders) | Focus on phrasing, tone, bends, and how Tosin Abasi shapes the melodic argument. |
-| [Wave of Babies](https://open.spotify.com/search/Wave%20of%20Babies%20Tosin%20Abasi%20Animals%20as%20Leaders) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Wave of Babies](https://open.spotify.com/search/Wave%20of%20Babies%20Tosin%20Abasi%20Animals%20as%20Leaders) | Listen for how the rhythm guitar lays into the groove. |
 | [Song of Solomon](https://open.spotify.com/search/Song%20of%20Solomon%20Tosin%20Abasi%20Animals%20as%20Leaders) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Tosin%20Abasi%20Animals%20as%20Leaders) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Room 335](https://open.spotify.com/search/Room%20335%20Tosin%20Abasi%20Animals%20as%20Leaders) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Tosin%20Abasi%20Animals%20as%20Leaders) | Listen for how the guitar fits the band. |
 | [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Tosin%20Abasi%20Animals%20as%20Leaders) | Focus on phrasing, tone, bends, and how Tosin Abasi shapes the melodic argument. |
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Tosin%20Abasi%20Animals%20as%20Leaders) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Tosin%20Abasi%20Animals%20as%20Leaders) | Listen for how the rhythm guitar lays into the groove. |
 
 ## Javier Reyes
 
-Javier Reyes is a guitarist associated with progressive metal, djent, world-influenced. Musically, the important traits here are extended-range 8-string rhythm vocabulary, Animals as Leaders co-founder, atmospheric texture. In this ensemble, that language is pointed toward extended range / technical metal, with Animals as Leaders / The Faceless as the broader listening world.
+Javier Reyes is a guitarist associated with progressive metal, djent, world-influenced. Musically, the important traits here are extended-range 8-string rhythm vocabulary, Animals as Leaders co-founder, atmospheric texture. In this ensemble: extended range / technical metal. Related listening: Animals as Leaders / The Faceless.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Animals as Leaders / The Faceless | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Animals as Leaders / The Faceless | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,31 +96,31 @@ Javier Reyes is a guitarist associated with progressive metal, djent, world-infl
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Tooth and Claw](https://open.spotify.com/search/Tooth%20and%20Claw%20Javier%20Reyes%20Animals%20as%20Leaders) | Focus on phrasing, tone, bends, and how Javier Reyes shapes the melodic argument. |
-| [Wave of Babies](https://open.spotify.com/search/Wave%20of%20Babies%20Javier%20Reyes%20Animals%20as%20Leaders) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Wave of Babies](https://open.spotify.com/search/Wave%20of%20Babies%20Javier%20Reyes%20Animals%20as%20Leaders) | Listen for how the rhythm guitar lays into the groove. |
 | [Song of Solomon](https://open.spotify.com/search/Song%20of%20Solomon%20Javier%20Reyes%20Animals%20as%20Leaders) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Mind-Spun](https://open.spotify.com/search/Mind-Spun%20Javier%20Reyes%20Animals%20as%20Leaders) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Ectogenesis](https://open.spotify.com/search/Ectogenesis%20Javier%20Reyes%20Animals%20as%20Leaders) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Ectogenesis](https://open.spotify.com/search/Ectogenesis%20Javier%20Reyes%20Animals%20as%20Leaders) | Listen for how the guitar fits the band. |
 | [CAFO](https://open.spotify.com/search/CAFO%20Javier%20Reyes%20Animals%20as%20Leaders) | Focus on phrasing, tone, bends, and how Javier Reyes shapes the melodic argument. |
-| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Javier%20Reyes%20Animals%20as%20Leaders) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Javier%20Reyes%20Animals%20as%20Leaders) | Listen for how the rhythm guitar lays into the groove. |
 | [Led Boots](https://open.spotify.com/search/Led%20Boots%20Javier%20Reyes%20Animals%20as%20Leaders) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Aja](https://open.spotify.com/search/Aja%20Javier%20Reyes%20Animals%20as%20Leaders) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Peg](https://open.spotify.com/search/Peg%20Javier%20Reyes%20Animals%20as%20Leaders) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Peg](https://open.spotify.com/search/Peg%20Javier%20Reyes%20Animals%20as%20Leaders) | Listen for how the guitar fits the band. |
 
 ## Matt Garstka
 
-Matt Garstka is a drummer whose playing helps shape this music. Listen for how the drum part affects extended range / technical metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Animals as Leaders / The Faceless.
+Matt Garstka is a drummer whose playing helps shape this music. Listen for how the drum part affects extended range / technical metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Animals as Leaders / The Faceless.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Animals as Leaders | [Wikipedia][animals-as-leaders-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Animals as Leaders / The Faceless | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Animals as Leaders / The Faceless | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,7 +128,7 @@ Matt Garstka is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

@@ -1,8 +1,8 @@
 # Ensemble: Peter Gabriel
 
-## Pairing Context
+## Context
 
-This music lives in the Peter Gabriel world: art rock / progressive metal / experimental rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Liquid Tension Experiment / King Crimson / Peter Gabriel help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Peter Gabriel world: art rock / progressive metal / experimental rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Liquid Tension Experiment / King Crimson / Peter Gabriel help give you a feel for the style.
 
 ## Players
 
@@ -21,14 +21,14 @@ This music lives in the Peter Gabriel world: art rock / progressive metal / expe
 
 ## Tony Levin
 
-Tony Levin is a bassist associated with art rock, progressive rock, progressive metal, session. Musically, the important traits here are Chapman Stick, fretless and fretted art-rock command, odd-meter precision, session adaptability. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
+Tony Levin is a bassist associated with art rock, progressive rock, progressive metal, session. Musically, the important traits here are Chapman Stick, fretless and fretted art-rock command, odd-meter precision, session adaptability. In this ensemble: art rock / progressive metal / experimental rock. Related listening: Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Peter Gabriel | [Wikipedia][peter-gabriel-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -36,31 +36,31 @@ Tony Levin is a bassist associated with art rock, progressive rock, progressive 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20Tony%20Levin%20Peter%20Gabriel) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [No Self Control](https://open.spotify.com/search/No%20Self%20Control%20Tony%20Levin%20Peter%20Gabriel) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Tony%20Levin%20Peter%20Gabriel) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20Tony%20Levin%20Peter%20Gabriel) | Listen for how the player shapes and attacks each note. |
 | [Secret World](https://open.spotify.com/search/Secret%20World%20Tony%20Levin%20Peter%20Gabriel) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Tony%20Levin%20Peter%20Gabriel) | Track the pocket, note length, and how Tony Levin makes the harmony feel grounded. |
 | [Big Time](https://open.spotify.com/search/Big%20Time%20Tony%20Levin%20Peter%20Gabriel) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Continuum](https://open.spotify.com/search/Continuum%20Tony%20Levin%20Peter%20Gabriel) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Stratus](https://open.spotify.com/search/Stratus%20Tony%20Levin%20Peter%20Gabriel) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Stratus](https://open.spotify.com/search/Stratus%20Tony%20Levin%20Peter%20Gabriel) | Listen for how the player shapes and attacks each note. |
 | [The Chicken](https://open.spotify.com/search/The%20Chicken%20Tony%20Levin%20Peter%20Gabriel) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Tony%20Levin%20Peter%20Gabriel) | Track the pocket, note length, and how Tony Levin makes the harmony feel grounded. |
 
 ## John Petrucci
 
-John Petrucci is a guitarist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
+John Petrucci is a guitarist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. In this ensemble: art rock / progressive metal / experimental rock. Related listening: Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Peter Gabriel | [Wikipedia][peter-gabriel-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -68,19 +68,19 @@ John Petrucci is a guitarist associated with progressive metal, hard rock. Music
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Big Time](https://open.spotify.com/search/Big%20Time%20John%20Petrucci%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Big Time](https://open.spotify.com/search/Big%20Time%20John%20Petrucci%20Peter%20Gabriel) | Listen for how the rhythm guitar lays into the groove. |
 | [Red Rain](https://open.spotify.com/search/Red%20Rain%20John%20Petrucci%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20John%20Petrucci%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20John%20Petrucci%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20John%20Petrucci%20Peter%20Gabriel) | Listen for how the guitar fits the band. |
 | [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20John%20Petrucci%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how John Petrucci shapes the melodic argument. |
-| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20John%20Petrucci%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Digging in the Dirt](https://open.spotify.com/search/Digging%20in%20the%20Dirt%20John%20Petrucci%20Peter%20Gabriel) | Listen for how the rhythm guitar lays into the groove. |
 | [La Grange](https://open.spotify.com/search/La%20Grange%20John%20Petrucci%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20John%20Petrucci%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20John%20Petrucci%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20John%20Petrucci%20Peter%20Gabriel) | Listen for how the guitar fits the band. |
 | [Led Boots](https://open.spotify.com/search/Led%20Boots%20John%20Petrucci%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how John Petrucci shapes the melodic argument. |
 
 ## Adrian Belew
@@ -92,7 +92,7 @@ American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, T
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Peter Gabriel | [Wikipedia][peter-gabriel-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -101,31 +101,31 @@ American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, T
 | Guitars | Parker Fly, Fender Strat-style guitars, signature models |
 | Effects | Whammy, delay, looping, synth-style guitar processing |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Adrian%20Belew%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how Adrian Belew shapes the melodic argument. |
-| [Big Time](https://open.spotify.com/search/Big%20Time%20Adrian%20Belew%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Big Time](https://open.spotify.com/search/Big%20Time%20Adrian%20Belew%20Peter%20Gabriel) | Listen for how the rhythm guitar lays into the groove. |
 | [Red Rain](https://open.spotify.com/search/Red%20Rain%20Adrian%20Belew%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Adrian%20Belew%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Adrian%20Belew%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Adrian%20Belew%20Peter%20Gabriel) | Listen for how the guitar fits the band. |
 | [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Adrian%20Belew%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how Adrian Belew shapes the melodic argument. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Adrian%20Belew%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Adrian%20Belew%20Peter%20Gabriel) | Listen for how the rhythm guitar lays into the groove. |
 | [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Adrian%20Belew%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Adrian%20Belew%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Europa](https://open.spotify.com/search/Europa%20Adrian%20Belew%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Europa](https://open.spotify.com/search/Europa%20Adrian%20Belew%20Peter%20Gabriel) | Listen for how the guitar fits the band. |
 
 ## David Rhodes
 
-David Rhodes is a guitarist associated with art pop, art rock, session. Musically, the important traits here are Peter Gabriel art-pop texture, atmospheric rhythm guitar, song-serving lead color. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
+David Rhodes is a guitarist associated with art pop, art rock, session. Musically, the important traits here are Peter Gabriel art-pop texture, atmospheric rhythm guitar, song-serving lead color. In this ensemble: art rock / progressive metal / experimental rock. Related listening: Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Peter Gabriel | [Wikipedia][peter-gabriel-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -133,31 +133,31 @@ David Rhodes is a guitarist associated with art pop, art rock, session. Musicall
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Solsbury Hill](https://open.spotify.com/search/Solsbury%20Hill%20David%20Rhodes%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Secret World](https://open.spotify.com/search/Secret%20World%20David%20Rhodes%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Secret World](https://open.spotify.com/search/Secret%20World%20David%20Rhodes%20Peter%20Gabriel) | Listen for how the guitar fits the band. |
 | [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20David%20Rhodes%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how David Rhodes shapes the melodic argument. |
-| [Big Time](https://open.spotify.com/search/Big%20Time%20David%20Rhodes%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Big Time](https://open.spotify.com/search/Big%20Time%20David%20Rhodes%20Peter%20Gabriel) | Listen for how the rhythm guitar lays into the groove. |
 | [Red Rain](https://open.spotify.com/search/Red%20Rain%20David%20Rhodes%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20David%20Rhodes%20Peter%20Gabriel) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20David%20Rhodes%20Peter%20Gabriel) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20David%20Rhodes%20Peter%20Gabriel) | Listen for how the guitar fits the band. |
 | [Red House](https://open.spotify.com/search/Red%20House%20David%20Rhodes%20Peter%20Gabriel) | Focus on phrasing, tone, bends, and how David Rhodes shapes the melodic argument. |
-| [La Grange](https://open.spotify.com/search/La%20Grange%20David%20Rhodes%20Peter%20Gabriel) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [La Grange](https://open.spotify.com/search/La%20Grange%20David%20Rhodes%20Peter%20Gabriel) | Listen for how the rhythm guitar lays into the groove. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20David%20Rhodes%20Peter%20Gabriel) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Mike Portnoy
 
-Mike Portnoy is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Mike Portnoy is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Peter Gabriel | [Wikipedia][peter-gabriel-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -165,7 +165,7 @@ Mike Portnoy is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -182,14 +182,14 @@ Mike Portnoy is a drummer whose playing helps shape this music. Listen for how t
 
 ## Pat Mastelotto
 
-Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Peter Gabriel | [Wikipedia][peter-gabriel-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -197,7 +197,7 @@ Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -214,14 +214,14 @@ Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how
 
 ## Jordan Rudess
 
-Jordan Rudess is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Jordan Rudess is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Peter Gabriel | [Wikipedia][peter-gabriel-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -229,31 +229,31 @@ Jordan Rudess is a keyboard player whose playing helps shape this music. Listen 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Sledgehammer](https://open.spotify.com/search/Sledgehammer%20Jordan%20Rudess%20Peter%20Gabriel) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Big Time](https://open.spotify.com/search/Big%20Time%20Jordan%20Rudess%20Peter%20Gabriel) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Red Rain](https://open.spotify.com/search/Red%20Rain%20Jordan%20Rudess%20Peter%20Gabriel) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Jordan%20Rudess%20Peter%20Gabriel) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [In Your Eyes](https://open.spotify.com/search/In%20Your%20Eyes%20Jordan%20Rudess%20Peter%20Gabriel) | Listen for how the keys support and color the arrangement. |
 | [Shock the Monkey](https://open.spotify.com/search/Shock%20the%20Monkey%20Jordan%20Rudess%20Peter%20Gabriel) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Games Without Frontiers](https://open.spotify.com/search/Games%20Without%20Frontiers%20Jordan%20Rudess%20Peter%20Gabriel) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [No Mystery](https://open.spotify.com/search/No%20Mystery%20Jordan%20Rudess%20Peter%20Gabriel) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Jordan%20Rudess%20Peter%20Gabriel) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Jordan%20Rudess%20Peter%20Gabriel) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Jordan%20Rudess%20Peter%20Gabriel) | Listen for how the keys support and color the arrangement. |
 | [Tutu](https://open.spotify.com/search/Tutu%20Jordan%20Rudess%20Peter%20Gabriel) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## Mel Collins
 
-Mel Collins is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Mel Collins is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Peter Gabriel | [Wikipedia][peter-gabriel-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -261,7 +261,7 @@ Mel Collins is a saxophonist whose playing helps shape this music. Listen for ho
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

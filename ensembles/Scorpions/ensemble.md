@@ -1,8 +1,8 @@
 # Ensemble: Scorpions
 
-## Pairing Context
+## Context
 
-This music is centered on Scorpions: neoclassical / blues metal / European hard rock. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Ozzy Osbourne / Rainbow / Scorpions, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on Scorpions: neoclassical / blues metal / European hard rock. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ## Players
 
@@ -20,14 +20,14 @@ This music is centered on Scorpions: neoclassical / blues metal / European hard 
 
 ## Bob Daisley
 
-Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the important traits here are classic hard-rock/neoclassical support and melodic fills. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the important traits here are classic hard-rock/neoclassical support and melodic fills. In this ensemble: neoclassical / blues metal / European hard rock. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Scorpions | [Wikipedia][scorpions-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -35,7 +35,7 @@ Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -43,23 +43,23 @@ Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the 
 | [Sails of Charon](https://open.spotify.com/search/Sails%20of%20Charon%20Bob%20Daisley%20Scorpions) | Track the pocket, note length, and how Bob Daisley makes the harmony feel grounded. |
 | [In Trance](https://open.spotify.com/search/In%20Trance%20Bob%20Daisley%20Scorpions) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Virgin Killer](https://open.spotify.com/search/Virgin%20Killer%20Bob%20Daisley%20Scorpions) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Pictured Life](https://open.spotify.com/search/Pictured%20Life%20Bob%20Daisley%20Scorpions) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Pictured Life](https://open.spotify.com/search/Pictured%20Life%20Bob%20Daisley%20Scorpions) | Listen for how the player shapes and attacks each note. |
 | [Speedy's Coming](https://open.spotify.com/search/Speedy%27s%20Coming%20Bob%20Daisley%20Scorpions) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Bob%20Daisley%20Scorpions) | Track the pocket, note length, and how Bob Daisley makes the harmony feel grounded. |
 | [I Want You Back](https://open.spotify.com/search/I%20Want%20You%20Back%20Bob%20Daisley%20Scorpions) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Bob%20Daisley%20Scorpions) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Chameleon](https://open.spotify.com/search/Chameleon%20Bob%20Daisley%20Scorpions) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Chameleon](https://open.spotify.com/search/Chameleon%20Bob%20Daisley%20Scorpions) | Listen for how the player shapes and attacks each note. |
 
 ## Randy Rhoads
 
-Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy metal. Musically, the important traits here are neoclassical shred precision, classical training, sweep arpeggios, alternate picking speed. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy metal. Musically, the important traits here are neoclassical shred precision, classical training, sweep arpeggios, alternate picking speed. In this ensemble: neoclassical / blues metal / European hard rock. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Scorpions | [Wikipedia][scorpions-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -67,31 +67,31 @@ Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Dark Lady](https://open.spotify.com/search/Dark%20Lady%20Randy%20Rhoads%20Scorpions) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Dark Lady](https://open.spotify.com/search/Dark%20Lady%20Randy%20Rhoads%20Scorpions) | Listen for how the guitar fits the band. |
 | [Sails of Charon](https://open.spotify.com/search/Sails%20of%20Charon%20Randy%20Rhoads%20Scorpions) | Focus on phrasing, tone, bends, and how Randy Rhoads shapes the melodic argument. |
-| [In Trance](https://open.spotify.com/search/In%20Trance%20Randy%20Rhoads%20Scorpions) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [In Trance](https://open.spotify.com/search/In%20Trance%20Randy%20Rhoads%20Scorpions) | Listen for how the rhythm guitar lays into the groove. |
 | [Virgin Killer](https://open.spotify.com/search/Virgin%20Killer%20Randy%20Rhoads%20Scorpions) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Pictured Life](https://open.spotify.com/search/Pictured%20Life%20Randy%20Rhoads%20Scorpions) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Speedy's Coming](https://open.spotify.com/search/Speedy%27s%20Coming%20Randy%20Rhoads%20Scorpions) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Speedy's Coming](https://open.spotify.com/search/Speedy%27s%20Coming%20Randy%20Rhoads%20Scorpions) | Listen for how the guitar fits the band. |
 | [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Randy%20Rhoads%20Scorpions) | Focus on phrasing, tone, bends, and how Randy Rhoads shapes the melodic argument. |
-| [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Randy%20Rhoads%20Scorpions) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Randy%20Rhoads%20Scorpions) | Listen for how the rhythm guitar lays into the groove. |
 | [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Randy%20Rhoads%20Scorpions) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Europa](https://open.spotify.com/search/Europa%20Randy%20Rhoads%20Scorpions) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Gary Moore
 
-Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble: neoclassical / blues metal / European hard rock. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Scorpions | [Wikipedia][scorpions-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -99,31 +99,31 @@ Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Mu
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [In Trance](https://open.spotify.com/search/In%20Trance%20Gary%20Moore%20Scorpions) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [In Trance](https://open.spotify.com/search/In%20Trance%20Gary%20Moore%20Scorpions) | Listen for how the rhythm guitar lays into the groove. |
 | [Virgin Killer](https://open.spotify.com/search/Virgin%20Killer%20Gary%20Moore%20Scorpions) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Pictured Life](https://open.spotify.com/search/Pictured%20Life%20Gary%20Moore%20Scorpions) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Speedy's Coming](https://open.spotify.com/search/Speedy%27s%20Coming%20Gary%20Moore%20Scorpions) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Speedy's Coming](https://open.spotify.com/search/Speedy%27s%20Coming%20Gary%20Moore%20Scorpions) | Listen for how the guitar fits the band. |
 | [We'll Burn the Sky](https://open.spotify.com/search/We%27ll%20Burn%20the%20Sky%20Gary%20Moore%20Scorpions) | Focus on phrasing, tone, bends, and how Gary Moore shapes the melodic argument. |
-| [Fly to the Rainbow](https://open.spotify.com/search/Fly%20to%20the%20Rainbow%20Gary%20Moore%20Scorpions) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Fly to the Rainbow](https://open.spotify.com/search/Fly%20to%20the%20Rainbow%20Gary%20Moore%20Scorpions) | Listen for how the rhythm guitar lays into the groove. |
 | [Crossroads](https://open.spotify.com/search/Crossroads%20Gary%20Moore%20Scorpions) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Gary%20Moore%20Scorpions) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Gary%20Moore%20Scorpions) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Gary%20Moore%20Scorpions) | Listen for how the guitar fits the band. |
 | [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Gary%20Moore%20Scorpions) | Focus on phrasing, tone, bends, and how Gary Moore shapes the melodic argument. |
 
 ## Ritchie Blackmore
 
-Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclassical-influenced. Musically, the important traits here are proto-neoclassical lead, baroque-influenced phrasing, alternate picking precision, foundational metal vocabulary. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclassical-influenced. Musically, the important traits here are proto-neoclassical lead, baroque-influenced phrasing, alternate picking precision, foundational metal vocabulary. In this ensemble: neoclassical / blues metal / European hard rock. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Scorpions | [Wikipedia][scorpions-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -131,31 +131,31 @@ Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclas
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Dark Lady](https://open.spotify.com/search/Dark%20Lady%20Ritchie%20Blackmore%20Scorpions) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Dark Lady](https://open.spotify.com/search/Dark%20Lady%20Ritchie%20Blackmore%20Scorpions) | Listen for how the guitar fits the band. |
 | [Sails of Charon](https://open.spotify.com/search/Sails%20of%20Charon%20Ritchie%20Blackmore%20Scorpions) | Focus on phrasing, tone, bends, and how Ritchie Blackmore shapes the melodic argument. |
-| [In Trance](https://open.spotify.com/search/In%20Trance%20Ritchie%20Blackmore%20Scorpions) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [In Trance](https://open.spotify.com/search/In%20Trance%20Ritchie%20Blackmore%20Scorpions) | Listen for how the rhythm guitar lays into the groove. |
 | [Virgin Killer](https://open.spotify.com/search/Virgin%20Killer%20Ritchie%20Blackmore%20Scorpions) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Pictured Life](https://open.spotify.com/search/Pictured%20Life%20Ritchie%20Blackmore%20Scorpions) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Speedy's Coming](https://open.spotify.com/search/Speedy%27s%20Coming%20Ritchie%20Blackmore%20Scorpions) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Speedy's Coming](https://open.spotify.com/search/Speedy%27s%20Coming%20Ritchie%20Blackmore%20Scorpions) | Listen for how the guitar fits the band. |
 | [Aja](https://open.spotify.com/search/Aja%20Ritchie%20Blackmore%20Scorpions) | Focus on phrasing, tone, bends, and how Ritchie Blackmore shapes the melodic argument. |
-| [Peg](https://open.spotify.com/search/Peg%20Ritchie%20Blackmore%20Scorpions) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Peg](https://open.spotify.com/search/Peg%20Ritchie%20Blackmore%20Scorpions) | Listen for how the rhythm guitar lays into the groove. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Ritchie%20Blackmore%20Scorpions) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Ritchie%20Blackmore%20Scorpions) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Uli Jon Roth
 
-Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psychedelic rock. Musically, the important traits here are proto-neoclassical vocabulary, advanced vibrato, classical phrasing, pioneered neo-shred language. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psychedelic rock. Musically, the important traits here are proto-neoclassical vocabulary, advanced vibrato, classical phrasing, pioneered neo-shred language. In this ensemble: neoclassical / blues metal / European hard rock. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Scorpions | [Wikipedia][scorpions-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -163,31 +163,31 @@ Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psyc
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Catch Your Train](https://open.spotify.com/search/Catch%20Your%20Train%20Uli%20Jon%20Roth%20Scorpions) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Polar Nights](https://open.spotify.com/search/Polar%20Nights%20Uli%20Jon%20Roth%20Scorpions) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Dark Lady](https://open.spotify.com/search/Dark%20Lady%20Uli%20Jon%20Roth%20Scorpions) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Dark Lady](https://open.spotify.com/search/Dark%20Lady%20Uli%20Jon%20Roth%20Scorpions) | Listen for how the guitar fits the band. |
 | [Sails of Charon](https://open.spotify.com/search/Sails%20of%20Charon%20Uli%20Jon%20Roth%20Scorpions) | Focus on phrasing, tone, bends, and how Uli Jon Roth shapes the melodic argument. |
-| [In Trance](https://open.spotify.com/search/In%20Trance%20Uli%20Jon%20Roth%20Scorpions) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [In Trance](https://open.spotify.com/search/In%20Trance%20Uli%20Jon%20Roth%20Scorpions) | Listen for how the rhythm guitar lays into the groove. |
 | [Virgin Killer](https://open.spotify.com/search/Virgin%20Killer%20Uli%20Jon%20Roth%20Scorpions) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Uli%20Jon%20Roth%20Scorpions) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Uli%20Jon%20Roth%20Scorpions) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Uli%20Jon%20Roth%20Scorpions) | Listen for how the guitar fits the band. |
 | [Aja](https://open.spotify.com/search/Aja%20Uli%20Jon%20Roth%20Scorpions) | Focus on phrasing, tone, bends, and how Uli Jon Roth shapes the melodic argument. |
-| [Peg](https://open.spotify.com/search/Peg%20Uli%20Jon%20Roth%20Scorpions) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Peg](https://open.spotify.com/search/Peg%20Uli%20Jon%20Roth%20Scorpions) | Listen for how the rhythm guitar lays into the groove. |
 
 ## Tommy Aldridge
 
-Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how the drum part affects neoclassical / blues metal / European hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Ozzy Osbourne / Rainbow / Scorpions.
+Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how the drum part affects neoclassical / blues metal / European hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Scorpions | [Wikipedia][scorpions-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -195,7 +195,7 @@ Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -212,14 +212,14 @@ Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how
 
 ## Don Airey
 
-Don Airey is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects neoclassical / blues metal / European hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Ozzy Osbourne / Rainbow / Scorpions.
+Don Airey is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects neoclassical / blues metal / European hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Scorpions | [Wikipedia][scorpions-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -227,18 +227,18 @@ Don Airey is a keyboard player whose playing helps shape this music. Listen for 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [In Trance](https://open.spotify.com/search/In%20Trance%20Don%20Airey%20Scorpions) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Virgin Killer](https://open.spotify.com/search/Virgin%20Killer%20Don%20Airey%20Scorpions) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Pictured Life](https://open.spotify.com/search/Pictured%20Life%20Don%20Airey%20Scorpions) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Pictured Life](https://open.spotify.com/search/Pictured%20Life%20Don%20Airey%20Scorpions) | Listen for how the keys support and color the arrangement. |
 | [Speedy's Coming](https://open.spotify.com/search/Speedy%27s%20Coming%20Don%20Airey%20Scorpions) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [We'll Burn the Sky](https://open.spotify.com/search/We%27ll%20Burn%20the%20Sky%20Don%20Airey%20Scorpions) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Fly to the Rainbow](https://open.spotify.com/search/Fly%20to%20the%20Rainbow%20Don%20Airey%20Scorpions) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Close to the Edge](https://open.spotify.com/search/Close%20to%20the%20Edge%20Don%20Airey%20Scorpions) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Rosanna](https://open.spotify.com/search/Rosanna%20Don%20Airey%20Scorpions) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Rosanna](https://open.spotify.com/search/Rosanna%20Don%20Airey%20Scorpions) | Listen for how the keys support and color the arrangement. |
 | [Don't Stop Believin'](https://open.spotify.com/search/Don%27t%20Stop%20Believin%27%20Don%20Airey%20Scorpions) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Aja](https://open.spotify.com/search/Aja%20Don%20Airey%20Scorpions) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 

@@ -1,8 +1,8 @@
 # Ensemble: Ozzy Osbourne
 
-## Pairing Context
+## Context
 
-This music lives in the Ozzy Osbourne world: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Ozzy Osbourne world: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions help give you a feel for the style.
 
 ## Players
 
@@ -25,14 +25,14 @@ This music lives in the Ozzy Osbourne world: heavy metal / groove metal / neocla
 
 ## Robert Trujillo
 
-Robert Trujillo is a bassist associated with heavy metal, hard rock, funk metal. Musically, the important traits here are heavy fingerstyle drive, endurance, groove-metal articulation. In this ensemble, that language is pointed toward heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal, with Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Robert Trujillo is a bassist associated with heavy metal, hard rock, funk metal. Musically, the important traits here are heavy fingerstyle drive, endurance, groove-metal articulation. In this ensemble: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Related listening: Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -40,16 +40,16 @@ Robert Trujillo is a bassist associated with heavy metal, hard rock, funk metal.
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Robert%20Trujillo%20Ozzy%20Osbourne) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Robert%20Trujillo%20Ozzy%20Osbourne) | Listen for how the player shapes and attacks each note. |
 | [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Robert%20Trujillo%20Ozzy%20Osbourne) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Bark at the Moon](https://open.spotify.com/search/Bark%20at%20the%20Moon%20Robert%20Trujillo%20Ozzy%20Osbourne) | Track the pocket, note length, and how Robert Trujillo grounds the harmony. |
 | [Shot in the Dark](https://open.spotify.com/search/Shot%20in%20the%20Dark%20Robert%20Trujillo%20Ozzy%20Osbourne) | Focus on movement between chord roots, anticipations, and section lift. |
 | [No More Tears](https://open.spotify.com/search/No%20More%20Tears%20Robert%20Trujillo%20Ozzy%20Osbourne) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Robert%20Trujillo%20Ozzy%20Osbourne) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Robert%20Trujillo%20Ozzy%20Osbourne) | Listen for how the player shapes and attacks each note. |
 | [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Robert%20Trujillo%20Ozzy%20Osbourne) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Diary of a Madman](https://open.spotify.com/search/Diary%20of%20a%20Madman%20Robert%20Trujillo%20Ozzy%20Osbourne) | Track the pocket, note length, and how Robert Trujillo grounds the harmony. |
 | [Suicide Solution](https://open.spotify.com/search/Suicide%20Solution%20Robert%20Trujillo%20Ozzy%20Osbourne) | Focus on movement between chord roots, anticipations, and section lift. |
@@ -57,14 +57,14 @@ Robert Trujillo is a bassist associated with heavy metal, hard rock, funk metal.
 
 ## Zakk Wylde
 
-Zakk Wylde is a guitarist associated with heavy metal, hard rock. Musically, the important traits here are pinch-harmonic precision, pentatonic shred velocity, sustained vibrato command. In this ensemble, that language is pointed toward heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal, with Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Zakk Wylde is a guitarist associated with heavy metal, hard rock. Musically, the important traits here are pinch-harmonic precision, pentatonic shred velocity, sustained vibrato command. In this ensemble: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Related listening: Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -72,31 +72,31 @@ Zakk Wylde is a guitarist associated with heavy metal, hard rock. Musically, the
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Zakk%20Wylde%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Zakk%20Wylde%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Zakk%20Wylde%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Zakk%20Wylde%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Zakk%20Wylde%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Bark at the Moon](https://open.spotify.com/search/Bark%20at%20the%20Moon%20Zakk%20Wylde%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Zakk Wylde shapes the melodic argument. |
 | [Shot in the Dark](https://open.spotify.com/search/Shot%20in%20the%20Dark%20Zakk%20Wylde%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [No More Tears](https://open.spotify.com/search/No%20More%20Tears%20Zakk%20Wylde%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Zakk%20Wylde%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Zakk%20Wylde%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Zakk%20Wylde%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Diary of a Madman](https://open.spotify.com/search/Diary%20of%20a%20Madman%20Zakk%20Wylde%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Zakk Wylde shapes the melodic argument. |
 
 ## Jake E. Lee
 
-Jake E. Lee is a guitarist associated with hard rock, heavy metal, glam metal. Musically, the important traits here are Ozzy-era melodic metal lead, wide-stretch riffing, whammy phrasing, hard-rock precision. In this ensemble, that language is pointed toward heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal, with Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Jake E. Lee is a guitarist associated with hard rock, heavy metal, glam metal. Musically, the important traits here are Ozzy-era melodic metal lead, wide-stretch riffing, whammy phrasing, hard-rock precision. In this ensemble: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Related listening: Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -104,31 +104,31 @@ Jake E. Lee is a guitarist associated with hard rock, heavy metal, glam metal. M
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Bark at the Moon](https://open.spotify.com/search/Bark%20at%20the%20Moon%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Jake E. Lee shapes the melodic argument. |
 | [Shot in the Dark](https://open.spotify.com/search/Shot%20in%20the%20Dark%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [No More Tears](https://open.spotify.com/search/No%20More%20Tears%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Diary of a Madman](https://open.spotify.com/search/Diary%20of%20a%20Madman%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Jake E. Lee shapes the melodic argument. |
 | [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Jake%20E.%20Lee%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 
 ## Mike Bordin
 
-Mike Bordin is a drummer whose playing helps shape this music. Listen for how the drum part affects heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
+Mike Bordin is a drummer whose playing helps shape this music. Listen for how the drum part affects heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -136,7 +136,7 @@ Mike Bordin is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -153,14 +153,14 @@ Mike Bordin is a drummer whose playing helps shape this music. Listen for how th
 
 ## Bob Daisley
 
-Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the important traits here are classic hard-rock/neoclassical support and melodic fills. In this ensemble, that language is pointed toward heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal, with Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the important traits here are classic hard-rock/neoclassical support and melodic fills. In this ensemble: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Related listening: Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -168,7 +168,7 @@ Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -176,23 +176,23 @@ Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the 
 | [Crazy Train](https://open.spotify.com/search/Crazy%20Train%20Bob%20Daisley%20Ozzy%20Osbourne) | Track the pocket, note length, and how Bob Daisley grounds the harmony. |
 | [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Bob%20Daisley%20Ozzy%20Osbourne) | Focus on movement between chord roots, anticipations, and section lift. |
 | [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Bob%20Daisley%20Ozzy%20Osbourne) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Bob%20Daisley%20Ozzy%20Osbourne) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Bob%20Daisley%20Ozzy%20Osbourne) | Listen for how the player shapes and attacks each note. |
 | [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Bob%20Daisley%20Ozzy%20Osbourne) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Bark at the Moon](https://open.spotify.com/search/Bark%20at%20the%20Moon%20Bob%20Daisley%20Ozzy%20Osbourne) | Track the pocket, note length, and how Bob Daisley grounds the harmony. |
 | [Shot in the Dark](https://open.spotify.com/search/Shot%20in%20the%20Dark%20Bob%20Daisley%20Ozzy%20Osbourne) | Focus on movement between chord roots, anticipations, and section lift. |
 | [No More Tears](https://open.spotify.com/search/No%20More%20Tears%20Bob%20Daisley%20Ozzy%20Osbourne) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Bob%20Daisley%20Ozzy%20Osbourne) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Bob%20Daisley%20Ozzy%20Osbourne) | Listen for how the player shapes and attacks each note. |
 
 ## Randy Rhoads
 
-Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy metal. Musically, the important traits here are neoclassical shred precision, classical training, sweep arpeggios, alternate picking speed. In this ensemble, that language is pointed toward heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal, with Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy metal. Musically, the important traits here are neoclassical shred precision, classical training, sweep arpeggios, alternate picking speed. In this ensemble: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Related listening: Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -200,31 +200,31 @@ Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Randy%20Rhoads%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Randy%20Rhoads%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Randy%20Rhoads%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Randy%20Rhoads%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Bark at the Moon](https://open.spotify.com/search/Bark%20at%20the%20Moon%20Randy%20Rhoads%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Randy Rhoads shapes the melodic argument. |
 | [Shot in the Dark](https://open.spotify.com/search/Shot%20in%20the%20Dark%20Randy%20Rhoads%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [No More Tears](https://open.spotify.com/search/No%20More%20Tears%20Randy%20Rhoads%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Randy%20Rhoads%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Randy%20Rhoads%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Randy%20Rhoads%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Diary of a Madman](https://open.spotify.com/search/Diary%20of%20a%20Madman%20Randy%20Rhoads%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Randy Rhoads shapes the melodic argument. |
 | [Suicide Solution](https://open.spotify.com/search/Suicide%20Solution%20Randy%20Rhoads%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 
 ## Gary Moore
 
-Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble, that language is pointed toward heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal, with Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Related listening: Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -232,31 +232,31 @@ Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Mu
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Gary%20Moore%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Gary%20Moore%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Gary%20Moore%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Gary%20Moore%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Gary%20Moore%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Bark at the Moon](https://open.spotify.com/search/Bark%20at%20the%20Moon%20Gary%20Moore%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Gary Moore shapes the melodic argument. |
 | [Shot in the Dark](https://open.spotify.com/search/Shot%20in%20the%20Dark%20Gary%20Moore%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [No More Tears](https://open.spotify.com/search/No%20More%20Tears%20Gary%20Moore%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Gary%20Moore%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Gary%20Moore%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Gary%20Moore%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Crazy Train](https://open.spotify.com/search/Crazy%20Train%20Gary%20Moore%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Gary Moore shapes the melodic argument. |
 
 ## Ritchie Blackmore
 
-Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclassical-influenced. Musically, the important traits here are proto-neoclassical lead, baroque-influenced phrasing, alternate picking precision, foundational metal vocabulary. In this ensemble, that language is pointed toward heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal, with Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclassical-influenced. Musically, the important traits here are proto-neoclassical lead, baroque-influenced phrasing, alternate picking precision, foundational metal vocabulary. In this ensemble: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Related listening: Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -264,16 +264,16 @@ Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclas
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Bark at the Moon](https://open.spotify.com/search/Bark%20at%20the%20Moon%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Ritchie Blackmore shapes the melodic argument. |
 | [Shot in the Dark](https://open.spotify.com/search/Shot%20in%20the%20Dark%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [No More Tears](https://open.spotify.com/search/No%20More%20Tears%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Diary of a Madman](https://open.spotify.com/search/Diary%20of%20a%20Madman%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Ritchie Blackmore shapes the melodic argument. |
 | [Suicide Solution](https://open.spotify.com/search/Suicide%20Solution%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Revelation (Mother Earth)](https://open.spotify.com/search/Revelation%20%28Mother%20Earth%29%20Ritchie%20Blackmore%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
@@ -281,14 +281,14 @@ Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclas
 
 ## Uli Jon Roth
 
-Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psychedelic rock. Musically, the important traits here are proto-neoclassical vocabulary, advanced vibrato, classical phrasing, pioneered neo-shred language. In this ensemble, that language is pointed toward heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal, with Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psychedelic rock. Musically, the important traits here are proto-neoclassical vocabulary, advanced vibrato, classical phrasing, pioneered neo-shred language. In this ensemble: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Related listening: Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -296,31 +296,31 @@ Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psyc
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Rock 'n' Roll Rebel](https://open.spotify.com/search/Rock%20%27n%27%20Roll%20Rebel%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Killer of Giants](https://open.spotify.com/search/Killer%20of%20Giants%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Perry Mason](https://open.spotify.com/search/Perry%20Mason%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [I Don't Want to Change the World](https://open.spotify.com/search/I%20Don%27t%20Want%20to%20Change%20the%20World%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [I Don't Want to Change the World](https://open.spotify.com/search/I%20Don%27t%20Want%20to%20Change%20the%20World%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Crazy Train](https://open.spotify.com/search/Crazy%20Train%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Uli Jon Roth shapes the melodic argument. |
 | [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Listen for comping choices and the way guitar defines the band sound. |
 | [Bark at the Moon](https://open.spotify.com/search/Bark%20at%20the%20Moon%20Uli%20Jon%20Roth%20Ozzy%20Osbourne) | Focus on phrasing, tone, bends, and how Uli Jon Roth shapes the melodic argument. |
 
 ## Tommy Aldridge
 
-Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how the drum part affects heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
+Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how the drum part affects heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -328,7 +328,7 @@ Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -345,14 +345,14 @@ Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how
 
 ## Don Airey
 
-Don Airey is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
+Don Airey is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -360,7 +360,7 @@ Don Airey is a keyboard player whose playing helps shape this music. Listen for 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -368,23 +368,23 @@ Don Airey is a keyboard player whose playing helps shape this music. Listen for 
 | [Bark at the Moon](https://open.spotify.com/search/Bark%20at%20the%20Moon%20Don%20Airey%20Ozzy%20Osbourne) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Shot in the Dark](https://open.spotify.com/search/Shot%20in%20the%20Dark%20Don%20Airey%20Ozzy%20Osbourne) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [No More Tears](https://open.spotify.com/search/No%20More%20Tears%20Don%20Airey%20Ozzy%20Osbourne) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Don%20Airey%20Ozzy%20Osbourne) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Don%20Airey%20Ozzy%20Osbourne) | Listen for how the keys support and color the arrangement. |
 | [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Don%20Airey%20Ozzy%20Osbourne) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Diary of a Madman](https://open.spotify.com/search/Diary%20of%20a%20Madman%20Don%20Airey%20Ozzy%20Osbourne) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Suicide Solution](https://open.spotify.com/search/Suicide%20Solution%20Don%20Airey%20Ozzy%20Osbourne) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Revelation (Mother Earth)](https://open.spotify.com/search/Revelation%20%28Mother%20Earth%29%20Don%20Airey%20Ozzy%20Osbourne) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Don%20Airey%20Ozzy%20Osbourne) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Don%20Airey%20Ozzy%20Osbourne) | Listen for how the keys support and color the arrangement. |
 
 ## Rudy Sarzo
 
-Rudy Sarzo is a bassist associated with hard rock, heavy metal, glam metal. Musically, the important traits here are classic hard-rock/metal anchor, clean supportive pocket, neoclassical-era melodic fills. In this ensemble, that language is pointed toward heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal, with Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Rudy Sarzo is a bassist associated with hard rock, heavy metal, glam metal. Musically, the important traits here are classic hard-rock/metal anchor, clean supportive pocket, neoclassical-era melodic fills. In this ensemble: heavy metal / groove metal / neoclassical / blues metal / European hard rock / hard rock / heavy metal. Related listening: Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Ozzy Osbourne | [Wikipedia][ozzy-osbourne-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -392,19 +392,19 @@ Rudy Sarzo is a bassist associated with hard rock, heavy metal, glam metal. Musi
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Bark at the Moon](https://open.spotify.com/search/Bark%20at%20the%20Moon%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Track the pocket, note length, and how Rudy Sarzo grounds the harmony. |
 | [Shot in the Dark](https://open.spotify.com/search/Shot%20in%20the%20Dark%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Focus on movement between chord roots, anticipations, and section lift. |
 | [No More Tears](https://open.spotify.com/search/No%20More%20Tears%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Miracle Man](https://open.spotify.com/search/Miracle%20Man%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Listen for how the player shapes and attacks each note. |
 | [Mama, I'm Coming Home](https://open.spotify.com/search/Mama%2C%20I%27m%20Coming%20Home%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Diary of a Madman](https://open.spotify.com/search/Diary%20of%20a%20Madman%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Track the pocket, note length, and how Rudy Sarzo grounds the harmony. |
 | [Suicide Solution](https://open.spotify.com/search/Suicide%20Solution%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Revelation (Mother Earth)](https://open.spotify.com/search/Revelation%20%28Mother%20Earth%29%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Listen for how the player shapes and attacks each note. |
 | [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Rudy%20Sarzo%20Ozzy%20Osbourne) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## References

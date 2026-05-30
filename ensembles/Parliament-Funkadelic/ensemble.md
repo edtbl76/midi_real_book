@@ -1,8 +1,8 @@
 # Ensemble: Parliament-Funkadelic
 
-## Pairing Context
+## Context
 
-This music is centered on Parliament-Funkadelic: funk. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. Use the listening list as a map for the feel, tone, and vocabulary.
+This music is centered on Parliament-Funkadelic: funk. Listen for how the rhythm section, guitar, and harmony work together. Use the recordings below to get a feel for the style.
 
 ## Players
 
@@ -21,14 +21,14 @@ This music is centered on Parliament-Funkadelic: funk. Listen for the musical co
 
 ## Bootsy Collins
 
-Bootsy Collins is a bassist associated with funk, R&B, soul. Musically, the important traits here are deep funk placement, space, repetition, controlled variation. In this ensemble, that language is pointed toward funk, with Parliament-Funkadelic as the broader listening world.
+Bootsy Collins is a bassist associated with funk, R&B, soul. Musically, the important traits here are deep funk placement, space, repetition, controlled variation. In this ensemble: funk. Related listening: Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Parliament-Funkadelic | — | — | Related artists. |
 
 ### Known Gear
 
@@ -36,31 +36,31 @@ Bootsy Collins is a bassist associated with funk, R&B, soul. Musically, the impo
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [One Nation Under a Groove](https://open.spotify.com/search/One%20Nation%20Under%20a%20Groove%20Bootsy%20Collins%20Parliament-Funkadelic) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Maggot Brain](https://open.spotify.com/search/Maggot%20Brain%20Bootsy%20Collins%20Parliament-Funkadelic) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Maggot Brain](https://open.spotify.com/search/Maggot%20Brain%20Bootsy%20Collins%20Parliament-Funkadelic) | Listen for how the player shapes and attacks each note. |
 | [Cosmic Slop](https://open.spotify.com/search/Cosmic%20Slop%20Bootsy%20Collins%20Parliament-Funkadelic) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [P-Funk](https://open.spotify.com/search/P-Funk%20Bootsy%20Collins%20Parliament-Funkadelic) | Track the pocket, note length, and how Bootsy Collins makes the harmony feel grounded. |
 | [Mothership Connection](https://open.spotify.com/search/Mothership%20Connection%20Bootsy%20Collins%20Parliament-Funkadelic) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Up for the Down Stroke](https://open.spotify.com/search/Up%20for%20the%20Down%20Stroke%20Bootsy%20Collins%20Parliament-Funkadelic) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Bootsy%20Collins%20Parliament-Funkadelic) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Bootsy%20Collins%20Parliament-Funkadelic) | Listen for how the player shapes and attacks each note. |
 | [Peg](https://open.spotify.com/search/Peg%20Bootsy%20Collins%20Parliament-Funkadelic) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Bernadette](https://open.spotify.com/search/Bernadette%20Bootsy%20Collins%20Parliament-Funkadelic) | Track the pocket, note length, and how Bootsy Collins makes the harmony feel grounded. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Bootsy%20Collins%20Parliament-Funkadelic) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Eddie Hazel
 
-Eddie Hazel is a guitarist associated with funk, R&B, psychedelic rock. Musically, the important traits here are psychedelic blues-funk lead, wah vocabulary, expressive single-note phrasing. In this ensemble, that language is pointed toward funk, with Parliament-Funkadelic as the broader listening world.
+Eddie Hazel is a guitarist associated with funk, R&B, psychedelic rock. Musically, the important traits here are psychedelic blues-funk lead, wah vocabulary, expressive single-note phrasing. In this ensemble: funk. Related listening: Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Parliament-Funkadelic | — | — | Related artists. |
 
 ### Known Gear
 
@@ -68,31 +68,31 @@ Eddie Hazel is a guitarist associated with funk, R&B, psychedelic rock. Musicall
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Flash Light](https://open.spotify.com/search/Flash%20Light%20Eddie%20Hazel%20Parliament-Funkadelic) | Focus on phrasing, tone, bends, and how Eddie Hazel shapes the melodic argument. |
-| [Give Up the Funk](https://open.spotify.com/search/Give%20Up%20the%20Funk%20Eddie%20Hazel%20Parliament-Funkadelic) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Give Up the Funk](https://open.spotify.com/search/Give%20Up%20the%20Funk%20Eddie%20Hazel%20Parliament-Funkadelic) | Listen for how the rhythm guitar lays into the groove. |
 | [One Nation Under a Groove](https://open.spotify.com/search/One%20Nation%20Under%20a%20Groove%20Eddie%20Hazel%20Parliament-Funkadelic) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Maggot Brain](https://open.spotify.com/search/Maggot%20Brain%20Eddie%20Hazel%20Parliament-Funkadelic) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Cosmic Slop](https://open.spotify.com/search/Cosmic%20Slop%20Eddie%20Hazel%20Parliament-Funkadelic) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Cosmic Slop](https://open.spotify.com/search/Cosmic%20Slop%20Eddie%20Hazel%20Parliament-Funkadelic) | Listen for how the guitar fits the band. |
 | [P-Funk](https://open.spotify.com/search/P-Funk%20Eddie%20Hazel%20Parliament-Funkadelic) | Focus on phrasing, tone, bends, and how Eddie Hazel shapes the melodic argument. |
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Eddie%20Hazel%20Parliament-Funkadelic) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Eddie%20Hazel%20Parliament-Funkadelic) | Listen for how the rhythm guitar lays into the groove. |
 | [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Eddie%20Hazel%20Parliament-Funkadelic) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Eddie%20Hazel%20Parliament-Funkadelic) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Eddie%20Hazel%20Parliament-Funkadelic) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Eddie%20Hazel%20Parliament-Funkadelic) | Listen for how the guitar fits the band. |
 
 ## Catfish Collins
 
-Catfish Collins is a guitarist associated with funk, R&B. Musically, the important traits here are JBs funk rhythm, percussive right-hand technique. In this ensemble, that language is pointed toward funk, with Parliament-Funkadelic as the broader listening world.
+Catfish Collins is a guitarist associated with funk, R&B. Musically, the important traits here are JBs funk rhythm, percussive right-hand technique. In this ensemble: funk. Related listening: Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Parliament-Funkadelic | — | — | Related artists. |
 
 ### Known Gear
 
@@ -100,31 +100,31 @@ Catfish Collins is a guitarist associated with funk, R&B. Musically, the importa
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [P-Funk](https://open.spotify.com/search/P-Funk%20Catfish%20Collins%20Parliament-Funkadelic) | Focus on phrasing, tone, bends, and how Catfish Collins shapes the melodic argument. |
-| [Mothership Connection](https://open.spotify.com/search/Mothership%20Connection%20Catfish%20Collins%20Parliament-Funkadelic) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Mothership Connection](https://open.spotify.com/search/Mothership%20Connection%20Catfish%20Collins%20Parliament-Funkadelic) | Listen for how the rhythm guitar lays into the groove. |
 | [Up for the Down Stroke](https://open.spotify.com/search/Up%20for%20the%20Down%20Stroke%20Catfish%20Collins%20Parliament-Funkadelic) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Standing on the Verge](https://open.spotify.com/search/Standing%20on%20the%20Verge%20Catfish%20Collins%20Parliament-Funkadelic) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Red Hot Mama](https://open.spotify.com/search/Red%20Hot%20Mama%20Catfish%20Collins%20Parliament-Funkadelic) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red Hot Mama](https://open.spotify.com/search/Red%20Hot%20Mama%20Catfish%20Collins%20Parliament-Funkadelic) | Listen for how the guitar fits the band. |
 | [Flash Light](https://open.spotify.com/search/Flash%20Light%20Catfish%20Collins%20Parliament-Funkadelic) | Focus on phrasing, tone, bends, and how Catfish Collins shapes the melodic argument. |
-| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Catfish%20Collins%20Parliament-Funkadelic) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Catfish%20Collins%20Parliament-Funkadelic) | Listen for how the rhythm guitar lays into the groove. |
 | [Europa](https://open.spotify.com/search/Europa%20Catfish%20Collins%20Parliament-Funkadelic) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Catfish%20Collins%20Parliament-Funkadelic) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Crossroads](https://open.spotify.com/search/Crossroads%20Catfish%20Collins%20Parliament-Funkadelic) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Crossroads](https://open.spotify.com/search/Crossroads%20Catfish%20Collins%20Parliament-Funkadelic) | Listen for how the guitar fits the band. |
 
 ## Buckethead
 
-Buckethead is a guitarist associated with metal, funk, experimental, progressive rock. Musically, the important traits here are extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. In this ensemble, that language is pointed toward funk, with Parliament-Funkadelic as the broader listening world.
+Buckethead is a guitarist associated with metal, funk, experimental, progressive rock. Musically, the important traits here are extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. In this ensemble: funk. Related listening: Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Parliament-Funkadelic | — | — | Related artists. |
 
 ### Known Gear
 
@@ -132,31 +132,31 @@ Buckethead is a guitarist associated with metal, funk, experimental, progressive
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [P-Funk](https://open.spotify.com/search/P-Funk%20Buckethead%20Parliament-Funkadelic) | Focus on phrasing, tone, bends, and how Buckethead shapes the melodic argument. |
-| [Mothership Connection](https://open.spotify.com/search/Mothership%20Connection%20Buckethead%20Parliament-Funkadelic) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Mothership Connection](https://open.spotify.com/search/Mothership%20Connection%20Buckethead%20Parliament-Funkadelic) | Listen for how the rhythm guitar lays into the groove. |
 | [Up for the Down Stroke](https://open.spotify.com/search/Up%20for%20the%20Down%20Stroke%20Buckethead%20Parliament-Funkadelic) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Standing on the Verge](https://open.spotify.com/search/Standing%20on%20the%20Verge%20Buckethead%20Parliament-Funkadelic) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Red Hot Mama](https://open.spotify.com/search/Red%20Hot%20Mama%20Buckethead%20Parliament-Funkadelic) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red Hot Mama](https://open.spotify.com/search/Red%20Hot%20Mama%20Buckethead%20Parliament-Funkadelic) | Listen for how the guitar fits the band. |
 | [Flash Light](https://open.spotify.com/search/Flash%20Light%20Buckethead%20Parliament-Funkadelic) | Focus on phrasing, tone, bends, and how Buckethead shapes the melodic argument. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Buckethead%20Parliament-Funkadelic) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Buckethead%20Parliament-Funkadelic) | Listen for how the rhythm guitar lays into the groove. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Buckethead%20Parliament-Funkadelic) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Led Boots](https://open.spotify.com/search/Led%20Boots%20Buckethead%20Parliament-Funkadelic) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Aja](https://open.spotify.com/search/Aja%20Buckethead%20Parliament-Funkadelic) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Aja](https://open.spotify.com/search/Aja%20Buckethead%20Parliament-Funkadelic) | Listen for how the guitar fits the band. |
 
 ## Jerome Brailey
 
-Jerome Brailey is a drummer whose playing helps shape this music. Listen for how the drum part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Parliament-Funkadelic.
+Jerome Brailey is a drummer whose playing helps shape this music. Listen for how the drum part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Parliament-Funkadelic | — | — | Related artists. |
 
 ### Known Gear
 
@@ -164,7 +164,7 @@ Jerome Brailey is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -181,14 +181,14 @@ Jerome Brailey is a drummer whose playing helps shape this music. Listen for how
 
 ## Bernie Worrell
 
-Bernie Worrell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Parliament-Funkadelic.
+Bernie Worrell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Parliament-Funkadelic | — | — | Related artists. |
 
 ### Known Gear
 
@@ -196,7 +196,7 @@ Bernie Worrell is a keyboard player whose playing helps shape this music. Listen
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -204,23 +204,23 @@ Bernie Worrell is a keyboard player whose playing helps shape this music. Listen
 | [P-Funk](https://open.spotify.com/search/P-Funk%20Bernie%20Worrell%20Parliament-Funkadelic) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Mothership Connection](https://open.spotify.com/search/Mothership%20Connection%20Bernie%20Worrell%20Parliament-Funkadelic) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Up for the Down Stroke](https://open.spotify.com/search/Up%20for%20the%20Down%20Stroke%20Bernie%20Worrell%20Parliament-Funkadelic) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Standing on the Verge](https://open.spotify.com/search/Standing%20on%20the%20Verge%20Bernie%20Worrell%20Parliament-Funkadelic) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Standing on the Verge](https://open.spotify.com/search/Standing%20on%20the%20Verge%20Bernie%20Worrell%20Parliament-Funkadelic) | Listen for how the keys support and color the arrangement. |
 | [Red Hot Mama](https://open.spotify.com/search/Red%20Hot%20Mama%20Bernie%20Worrell%20Parliament-Funkadelic) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Bernie%20Worrell%20Parliament-Funkadelic) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Bernie%20Worrell%20Parliament-Funkadelic) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Tutu](https://open.spotify.com/search/Tutu%20Bernie%20Worrell%20Parliament-Funkadelic) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Africa](https://open.spotify.com/search/Africa%20Bernie%20Worrell%20Parliament-Funkadelic) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Africa](https://open.spotify.com/search/Africa%20Bernie%20Worrell%20Parliament-Funkadelic) | Listen for how the keys support and color the arrangement. |
 
 ## Maceo Parker
 
-Maceo Parker is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Parliament-Funkadelic.
+Maceo Parker is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Parliament-Funkadelic | — | — | Related artists. |
 
 ### Known Gear
 
@@ -228,7 +228,7 @@ Maceo Parker is a saxophonist whose playing helps shape this music. Listen for h
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -245,14 +245,14 @@ Maceo Parker is a saxophonist whose playing helps shape this music. Listen for h
 
 ## Fred Wesley
 
-Fred Wesley is a trombonist whose playing helps shape this music. Listen for how the trombone part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Parliament-Funkadelic.
+Fred Wesley is a trombonist whose playing helps shape this music. Listen for how the trombone part affects funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Parliament-Funkadelic.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Parliament-Funkadelic | [Wikipedia][parliament-funkadelic-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Parliament-Funkadelic | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Parliament-Funkadelic | — | — | Related artists. |
 
 ### Known Gear
 
@@ -260,7 +260,7 @@ Fred Wesley is a trombonist whose playing helps shape this music. Listen for how
 |---|---|
 | Trombone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

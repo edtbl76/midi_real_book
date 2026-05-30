@@ -1,8 +1,8 @@
 # Ensemble: Meshuggah / Periphery
 
-## Pairing Context
+## Context
 
-This music is centered on Meshuggah / Periphery: extreme progressive metal / polymetric metal / djent. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. Use the listening list as a map for the feel, tone, and vocabulary.
+This music is centered on Meshuggah / Periphery: extreme progressive metal / polymetric metal / djent. Listen for how the rhythm section, guitar, and harmony work together. Use the recordings below to get a feel for the style.
 
 ## Players
 
@@ -16,14 +16,14 @@ This music is centered on Meshuggah / Periphery: extreme progressive metal / pol
 
 ## Dick Lövgren
 
-Dick Lövgren is a bassist associated with extreme progressive metal, djent, technical metal. Musically, the important traits here are extreme progressive-metal precision, polymetric low-end support, endurance under dense guitar/drum grids. In this ensemble, that language is pointed toward extreme progressive metal / polymetric metal / djent, with Meshuggah / Periphery as the broader listening world.
+Dick Lövgren is a bassist associated with extreme progressive metal, djent, technical metal. Musically, the important traits here are extreme progressive-metal precision, polymetric low-end support, endurance under dense guitar/drum grids. In this ensemble: extreme progressive metal / polymetric metal / djent. Related listening: Meshuggah / Periphery.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Meshuggah / Periphery | [Wikipedia][meshuggah-periphery-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Meshuggah / Periphery | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Meshuggah / Periphery | — | — | Related artists. |
 
 ### Known Gear
 
@@ -31,16 +31,16 @@ Dick Lövgren is a bassist associated with extreme progressive metal, djent, tec
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Marigold](https://open.spotify.com/search/Marigold%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Marigold](https://open.spotify.com/search/Marigold%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Listen for how the player shapes and attacks each note. |
 | [Reptile](https://open.spotify.com/search/Reptile%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Bleed](https://open.spotify.com/search/Bleed%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Track the pocket, note length, and how Dick Lövgren makes the harmony feel grounded. |
 | [Demiurge](https://open.spotify.com/search/Demiurge%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Rational Gaze](https://open.spotify.com/search/Rational%20Gaze%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [New Millennium Cyanide Christ](https://open.spotify.com/search/New%20Millennium%20Cyanide%20Christ%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [New Millennium Cyanide Christ](https://open.spotify.com/search/New%20Millennium%20Cyanide%20Christ%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Listen for how the player shapes and attacks each note. |
 | [Hair](https://open.spotify.com/search/Hair%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Track the pocket, note length, and how Dick Lövgren makes the harmony feel grounded. |
 | [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Dick%20L%C3%B6vgren%20Meshuggah%20/%20Periphery) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
@@ -48,14 +48,14 @@ Dick Lövgren is a bassist associated with extreme progressive metal, djent, tec
 
 ## Misha Mansoor
 
-Misha Mansoor is a guitarist associated with progressive metal, djent. Musically, the important traits here are 8-string djent rhythm architecture, polyrhythmic riff construction, precision at speed. In this ensemble, that language is pointed toward extreme progressive metal / polymetric metal / djent, with Meshuggah / Periphery as the broader listening world.
+Misha Mansoor is a guitarist associated with progressive metal, djent. Musically, the important traits here are 8-string djent rhythm architecture, polyrhythmic riff construction, precision at speed. In this ensemble: extreme progressive metal / polymetric metal / djent. Related listening: Meshuggah / Periphery.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Meshuggah / Periphery | [Wikipedia][meshuggah-periphery-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Meshuggah / Periphery | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Meshuggah / Periphery | — | — | Related artists. |
 
 ### Known Gear
 
@@ -63,31 +63,31 @@ Misha Mansoor is a guitarist associated with progressive metal, djent. Musically
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Rational Gaze](https://open.spotify.com/search/Rational%20Gaze%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [New Millennium Cyanide Christ](https://open.spotify.com/search/New%20Millennium%20Cyanide%20Christ%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Future Breed Machine](https://open.spotify.com/search/Future%20Breed%20Machine%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Future Breed Machine](https://open.spotify.com/search/Future%20Breed%20Machine%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for how the guitar fits the band. |
 | [Icarus Lives!](https://open.spotify.com/search/Icarus%20Lives%21%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Focus on phrasing, tone, bends, and how Misha Mansoor shapes the melodic argument. |
-| [Make Total Destroy](https://open.spotify.com/search/Make%20Total%20Destroy%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Make Total Destroy](https://open.spotify.com/search/Make%20Total%20Destroy%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for how the rhythm guitar lays into the groove. |
 | [Scarlet](https://open.spotify.com/search/Scarlet%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for how the guitar fits the band. |
 | [Aja](https://open.spotify.com/search/Aja%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Focus on phrasing, tone, bends, and how Misha Mansoor shapes the melodic argument. |
-| [Peg](https://open.spotify.com/search/Peg%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Peg](https://open.spotify.com/search/Peg%20Misha%20Mansoor%20Meshuggah%20/%20Periphery) | Listen for how the rhythm guitar lays into the groove. |
 
 ## Tomas Haake
 
-Tomas Haake is a drummer whose playing helps shape this music. Listen for how the drum part affects extreme progressive metal / polymetric metal / djent: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Meshuggah / Periphery.
+Tomas Haake is a drummer whose playing helps shape this music. Listen for how the drum part affects extreme progressive metal / polymetric metal / djent: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Meshuggah / Periphery.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Meshuggah / Periphery | [Wikipedia][meshuggah-periphery-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Meshuggah / Periphery | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Meshuggah / Periphery | — | — | Related artists. |
 
 ### Known Gear
 
@@ -95,7 +95,7 @@ Tomas Haake is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

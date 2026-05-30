@@ -1,6 +1,6 @@
 # Ensemble: Duke Ellington Orchestra
 
-## Pairing Context
+## Context
 
 This music lives in the Duke Ellington Orchestra world: swing / big band / piano-led ensemble. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -19,14 +19,14 @@ This music lives in the Duke Ellington Orchestra world: swing / big band / piano
 
 ## Jimmy Blanton
 
-Jimmy Blanton is a bassist associated with swing, big band, jazz. Musically, the important traits here are foundational jazz-bass melodicism, early walking authority, Ellington ensemble role. In this ensemble, that language is pointed toward swing / big band / piano-led ensemble, with Duke Ellington Orchestra as the broader listening world.
+Jimmy Blanton is a bassist associated with swing, big band, jazz. Musically, the important traits here are foundational jazz-bass melodicism, early walking authority, Ellington ensemble role. In this ensemble: swing / big band / piano-led ensemble. Related listening: Duke Ellington Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Duke Ellington Orchestra | [Wikipedia][duke-ellington-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Duke Ellington Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Duke Ellington Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,31 +34,31 @@ Jimmy Blanton is a bassist associated with swing, big band, jazz. Musically, the
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Sepia Panorama](https://open.spotify.com/search/Sepia%20Panorama%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Track the pocket, note length, and how Jimmy Blanton makes the harmony feel grounded. |
 | [Harlem Air Shaft](https://open.spotify.com/search/Harlem%20Air%20Shaft%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Concerto for Cootie](https://open.spotify.com/search/Concerto%20for%20Cootie%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [In a Mellow Tone](https://open.spotify.com/search/In%20a%20Mellow%20Tone%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [In a Mellow Tone](https://open.spotify.com/search/In%20a%20Mellow%20Tone%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Listen for how the player shapes and attacks each note. |
 | [Mood Indigo](https://open.spotify.com/search/Mood%20Indigo%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Jack the Bear](https://open.spotify.com/search/Jack%20the%20Bear%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Track the pocket, note length, and how Jimmy Blanton makes the harmony feel grounded. |
 | [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Dean Town](https://open.spotify.com/search/Dean%20Town%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Good Times](https://open.spotify.com/search/Good%20Times%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Good Times](https://open.spotify.com/search/Good%20Times%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Listen for how the player shapes and attacks each note. |
 | [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Jimmy%20Blanton%20Duke%20Ellington%20Orchestra) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Barney Kessel
 
-Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musically, the important traits here are swing/bebop session vocabulary, chord melody, bluesy jazz phrasing, big-band guitar authority. In this ensemble, that language is pointed toward swing / big band / piano-led ensemble, with Duke Ellington Orchestra as the broader listening world.
+Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musically, the important traits here are swing/bebop session vocabulary, chord melody, bluesy jazz phrasing, big-band guitar authority. In this ensemble: swing / big band / piano-led ensemble. Related listening: Duke Ellington Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Duke Ellington Orchestra | [Wikipedia][duke-ellington-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Duke Ellington Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Duke Ellington Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -66,31 +66,31 @@ Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musica
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Cotton Tail](https://open.spotify.com/search/Cotton%20Tail%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Main Stem](https://open.spotify.com/search/Main%20Stem%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Main Stem](https://open.spotify.com/search/Main%20Stem%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Listen for how the guitar fits the band. |
 | [Sepia Panorama](https://open.spotify.com/search/Sepia%20Panorama%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Focus on phrasing, tone, bends, and how Barney Kessel shapes the melodic argument. |
-| [Harlem Air Shaft](https://open.spotify.com/search/Harlem%20Air%20Shaft%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Harlem Air Shaft](https://open.spotify.com/search/Harlem%20Air%20Shaft%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Listen for how the rhythm guitar lays into the groove. |
 | [Concerto for Cootie](https://open.spotify.com/search/Concerto%20for%20Cootie%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [In a Mellow Tone](https://open.spotify.com/search/In%20a%20Mellow%20Tone%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Red House](https://open.spotify.com/search/Red%20House%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Listen for how the guitar fits the band. |
 | [La Grange](https://open.spotify.com/search/La%20Grange%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Focus on phrasing, tone, bends, and how Barney Kessel shapes the melodic argument. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Listen for how the rhythm guitar lays into the groove. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Barney%20Kessel%20Duke%20Ellington%20Orchestra) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Buddy Rich
 
-Buddy Rich is a drummer whose playing helps shape this music. Listen for how the drum part affects swing / big band / piano-led ensemble: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Duke Ellington Orchestra.
+Buddy Rich is a drummer whose playing helps shape this music. Listen for how the drum part affects swing / big band / piano-led ensemble: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Duke Ellington Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Duke Ellington Orchestra | [Wikipedia][duke-ellington-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Duke Ellington Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Duke Ellington Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -98,7 +98,7 @@ Buddy Rich is a drummer whose playing helps shape this music. Listen for how the
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -115,14 +115,14 @@ Buddy Rich is a drummer whose playing helps shape this music. Listen for how the
 
 ## Duke Ellington
 
-Duke Ellington is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects swing / big band / piano-led ensemble: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Duke Ellington Orchestra.
+Duke Ellington is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects swing / big band / piano-led ensemble: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Duke Ellington Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Duke Ellington Orchestra | [Wikipedia][duke-ellington-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Duke Ellington Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Duke Ellington Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -130,16 +130,16 @@ Duke Ellington is a keyboard player whose playing helps shape this music. Listen
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Cotton Tail](https://open.spotify.com/search/Cotton%20Tail%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Cotton Tail](https://open.spotify.com/search/Cotton%20Tail%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Listen for how the keys support and color the arrangement. |
 | [Main Stem](https://open.spotify.com/search/Main%20Stem%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Sepia Panorama](https://open.spotify.com/search/Sepia%20Panorama%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Harlem Air Shaft](https://open.spotify.com/search/Harlem%20Air%20Shaft%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Concerto for Cootie](https://open.spotify.com/search/Concerto%20for%20Cootie%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [In a Mellow Tone](https://open.spotify.com/search/In%20a%20Mellow%20Tone%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [In a Mellow Tone](https://open.spotify.com/search/In%20a%20Mellow%20Tone%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Listen for how the keys support and color the arrangement. |
 | [Green Onions](https://open.spotify.com/search/Green%20Onions%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Light My Fire](https://open.spotify.com/search/Light%20My%20Fire%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Roundabout](https://open.spotify.com/search/Roundabout%20Duke%20Ellington%20Duke%20Ellington%20Orchestra) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
@@ -147,14 +147,14 @@ Duke Ellington is a keyboard player whose playing helps shape this music. Listen
 
 ## Johnny Hodges
 
-Johnny Hodges is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects swing / big band / piano-led ensemble: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Duke Ellington Orchestra.
+Johnny Hodges is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects swing / big band / piano-led ensemble: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Duke Ellington Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Duke Ellington Orchestra | [Wikipedia][duke-ellington-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Duke Ellington Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Duke Ellington Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -162,7 +162,7 @@ Johnny Hodges is a saxophonist whose playing helps shape this music. Listen for 
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -179,14 +179,14 @@ Johnny Hodges is a saxophonist whose playing helps shape this music. Listen for 
 
 ## Cootie Williams
 
-Cootie Williams is a trumpeter whose playing helps shape this music. Listen for how the trumpet part affects swing / big band / piano-led ensemble: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Duke Ellington Orchestra.
+Cootie Williams is a trumpeter whose playing helps shape this music. Listen for how the trumpet part affects swing / big band / piano-led ensemble: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Duke Ellington Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Duke Ellington Orchestra | [Wikipedia][duke-ellington-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Duke Ellington Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Duke Ellington Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -194,7 +194,7 @@ Cootie Williams is a trumpeter whose playing helps shape this music. Listen for 
 |---|---|
 | Trumpet | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

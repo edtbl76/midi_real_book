@@ -1,8 +1,8 @@
 # Ensemble: studio groove
 
-## Pairing Context
+## Context
 
-This music is centered on studio groove: soul / R&B / studio groove. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Aretha Franklin / King Curtis / Steely Dan, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on studio groove: soul / R&B / studio groove. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Aretha Franklin / King Curtis / Steely Dan.
 
 ## Players
 
@@ -19,14 +19,14 @@ This music is centered on studio groove: soul / R&B / studio groove. Listen for 
 
 ## Chuck Rainey
 
-Chuck Rainey is a bassist associated with soul, R&B, funk, studio. Musically, the important traits here are economical soul/R&B pocket, ghosted articulation, syncopation, chromatic studio-bass movement. In this ensemble, that language is pointed toward soul / R&B / studio groove, with Aretha Franklin / King Curtis / Steely Dan as the broader listening world.
+Chuck Rainey is a bassist associated with soul, R&B, funk, studio. Musically, the important traits here are economical soul/R&B pocket, ghosted articulation, syncopation, chromatic studio-bass movement. In this ensemble: soul / R&B / studio groove. Related listening: Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | studio groove | [Wikipedia][studio-groove-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,16 +34,16 @@ Chuck Rainey is a bassist associated with soul, R&B, funk, studio. Musically, th
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Home at Last](https://open.spotify.com/search/Home%20at%20Last%20Chuck%20Rainey%20studio%20groove) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Home at Last](https://open.spotify.com/search/Home%20at%20Last%20Chuck%20Rainey%20studio%20groove) | Listen for how the player shapes and attacks each note. |
 | [Rock Steady](https://open.spotify.com/search/Rock%20Steady%20Chuck%20Rainey%20studio%20groove) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Until You Come Back to Me](https://open.spotify.com/search/Until%20You%20Come%20Back%20to%20Me%20Chuck%20Rainey%20studio%20groove) | Track the pocket, note length, and how Chuck Rainey makes the harmony feel grounded. |
 | [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20Chuck%20Rainey%20studio%20groove) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Compared to What](https://open.spotify.com/search/Compared%20to%20What%20Chuck%20Rainey%20studio%20groove) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [You've Got a Friend](https://open.spotify.com/search/You%27ve%20Got%20a%20Friend%20Chuck%20Rainey%20studio%20groove) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [You've Got a Friend](https://open.spotify.com/search/You%27ve%20Got%20a%20Friend%20Chuck%20Rainey%20studio%20groove) | Listen for how the player shapes and attacks each note. |
 | [The Chicken](https://open.spotify.com/search/The%20Chicken%20Chuck%20Rainey%20studio%20groove) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Chuck%20Rainey%20studio%20groove) | Track the pocket, note length, and how Chuck Rainey makes the harmony feel grounded. |
 | [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20%28Falettinme%20Be%20Mice%20Elf%20Agin%29%20Chuck%20Rainey%20studio%20groove) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
@@ -51,14 +51,14 @@ Chuck Rainey is a bassist associated with soul, R&B, funk, studio. Musically, th
 
 ## Cornell Dupree
 
-Cornell Dupree is a guitarist associated with soul, R&B, funk, session. Musically, the important traits here are soul/R&B session groove, bluesy fills, economical chordal punctuation, deep pocket. In this ensemble, that language is pointed toward soul / R&B / studio groove, with Aretha Franklin / King Curtis / Steely Dan as the broader listening world.
+Cornell Dupree is a guitarist associated with soul, R&B, funk, session. Musically, the important traits here are soul/R&B session groove, bluesy fills, economical chordal punctuation, deep pocket. In this ensemble: soul / R&B / studio groove. Related listening: Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | studio groove | [Wikipedia][studio-groove-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -66,31 +66,31 @@ Cornell Dupree is a guitarist associated with soul, R&B, funk, session. Musicall
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Cornell%20Dupree%20studio%20groove) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Cornell%20Dupree%20studio%20groove) | Listen for how the rhythm guitar lays into the groove. |
 | [Aja](https://open.spotify.com/search/Aja%20Cornell%20Dupree%20studio%20groove) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Home at Last](https://open.spotify.com/search/Home%20at%20Last%20Cornell%20Dupree%20studio%20groove) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Rock Steady](https://open.spotify.com/search/Rock%20Steady%20Cornell%20Dupree%20studio%20groove) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Rock Steady](https://open.spotify.com/search/Rock%20Steady%20Cornell%20Dupree%20studio%20groove) | Listen for how the guitar fits the band. |
 | [Until You Come Back to Me](https://open.spotify.com/search/Until%20You%20Come%20Back%20to%20Me%20Cornell%20Dupree%20studio%20groove) | Focus on phrasing, tone, bends, and how Cornell Dupree shapes the melodic argument. |
-| [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20Cornell%20Dupree%20studio%20groove) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20Cornell%20Dupree%20studio%20groove) | Listen for how the rhythm guitar lays into the groove. |
 | [Led Boots](https://open.spotify.com/search/Led%20Boots%20Cornell%20Dupree%20studio%20groove) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Peg](https://open.spotify.com/search/Peg%20Cornell%20Dupree%20studio%20groove) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Cornell%20Dupree%20studio%20groove) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Cornell%20Dupree%20studio%20groove) | Listen for how the guitar fits the band. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Cornell%20Dupree%20studio%20groove) | Focus on phrasing, tone, bends, and how Cornell Dupree shapes the melodic argument. |
 
 ## Eric Gale
 
-Eric Gale is a guitarist associated with jazz-funk, soul, R&B, session. Musically, the important traits here are jazz-funk/session vocabulary, smooth chordal support, blues-inflected lead fills. In this ensemble, that language is pointed toward soul / R&B / studio groove, with Aretha Franklin / King Curtis / Steely Dan as the broader listening world.
+Eric Gale is a guitarist associated with jazz-funk, soul, R&B, session. Musically, the important traits here are jazz-funk/session vocabulary, smooth chordal support, blues-inflected lead fills. In this ensemble: soul / R&B / studio groove. Related listening: Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | studio groove | [Wikipedia][studio-groove-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -98,31 +98,31 @@ Eric Gale is a guitarist associated with jazz-funk, soul, R&B, session. Musicall
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Home at Last](https://open.spotify.com/search/Home%20at%20Last%20Eric%20Gale%20studio%20groove) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Rock Steady](https://open.spotify.com/search/Rock%20Steady%20Eric%20Gale%20studio%20groove) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Rock Steady](https://open.spotify.com/search/Rock%20Steady%20Eric%20Gale%20studio%20groove) | Listen for how the guitar fits the band. |
 | [Until You Come Back to Me](https://open.spotify.com/search/Until%20You%20Come%20Back%20to%20Me%20Eric%20Gale%20studio%20groove) | Focus on phrasing, tone, bends, and how Eric Gale shapes the melodic argument. |
-| [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20Eric%20Gale%20studio%20groove) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20Eric%20Gale%20studio%20groove) | Listen for how the rhythm guitar lays into the groove. |
 | [Compared to What](https://open.spotify.com/search/Compared%20to%20What%20Eric%20Gale%20studio%20groove) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [You've Got a Friend](https://open.spotify.com/search/You%27ve%20Got%20a%20Friend%20Eric%20Gale%20studio%20groove) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Eric%20Gale%20studio%20groove) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Eric%20Gale%20studio%20groove) | Listen for how the guitar fits the band. |
 | [Aja](https://open.spotify.com/search/Aja%20Eric%20Gale%20studio%20groove) | Focus on phrasing, tone, bends, and how Eric Gale shapes the melodic argument. |
-| [Peg](https://open.spotify.com/search/Peg%20Eric%20Gale%20studio%20groove) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Peg](https://open.spotify.com/search/Peg%20Eric%20Gale%20studio%20groove) | Listen for how the rhythm guitar lays into the groove. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Eric%20Gale%20studio%20groove) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Bernard Purdie
 
-Bernard Purdie is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Aretha Franklin / King Curtis / Steely Dan.
+Bernard Purdie is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | studio groove | [Wikipedia][studio-groove-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -130,7 +130,7 @@ Bernard Purdie is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -147,14 +147,14 @@ Bernard Purdie is a drummer whose playing helps shape this music. Listen for how
 
 ## Richard Tee
 
-Richard Tee is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Aretha Franklin / King Curtis / Steely Dan.
+Richard Tee is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | studio groove | [Wikipedia][studio-groove-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -162,16 +162,16 @@ Richard Tee is a keyboard player whose playing helps shape this music. Listen fo
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Home at Last](https://open.spotify.com/search/Home%20at%20Last%20Richard%20Tee%20studio%20groove) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Home at Last](https://open.spotify.com/search/Home%20at%20Last%20Richard%20Tee%20studio%20groove) | Listen for how the keys support and color the arrangement. |
 | [Rock Steady](https://open.spotify.com/search/Rock%20Steady%20Richard%20Tee%20studio%20groove) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Until You Come Back to Me](https://open.spotify.com/search/Until%20You%20Come%20Back%20to%20Me%20Richard%20Tee%20studio%20groove) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20Richard%20Tee%20studio%20groove) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Compared to What](https://open.spotify.com/search/Compared%20to%20What%20Richard%20Tee%20studio%20groove) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [You've Got a Friend](https://open.spotify.com/search/You%27ve%20Got%20a%20Friend%20Richard%20Tee%20studio%20groove) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [You've Got a Friend](https://open.spotify.com/search/You%27ve%20Got%20a%20Friend%20Richard%20Tee%20studio%20groove) | Listen for how the keys support and color the arrangement. |
 | [Karn Evil 9](https://open.spotify.com/search/Karn%20Evil%209%20Richard%20Tee%20studio%20groove) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Spain](https://open.spotify.com/search/Spain%20Richard%20Tee%20studio%20groove) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Birdland](https://open.spotify.com/search/Birdland%20Richard%20Tee%20studio%20groove) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
@@ -179,14 +179,14 @@ Richard Tee is a keyboard player whose playing helps shape this music. Listen fo
 
 ## King Curtis
 
-King Curtis is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Aretha Franklin / King Curtis / Steely Dan.
+King Curtis is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | studio groove | [Wikipedia][studio-groove-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -194,7 +194,7 @@ King Curtis is a saxophonist whose playing helps shape this music. Listen for ho
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

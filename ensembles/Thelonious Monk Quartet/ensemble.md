@@ -1,6 +1,6 @@
 # Ensemble: Thelonious Monk Quartet
 
-## Pairing Context
+## Context
 
 This music lives in the Thelonious Monk Quartet world: bebop / angular hard bop. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -18,14 +18,14 @@ This music lives in the Thelonious Monk Quartet world: bebop / angular hard bop.
 
 ## Ahmed Abdul-Malik
 
-Ahmed Abdul-Malik is a bassist associated with bebop, hard bop, modal jazz. Musically, the important traits here are Monk-era upright grounding, angular hard-bop support, modal/world-influenced jazz vocabulary. In this ensemble, that language is pointed toward bebop / angular hard bop, with Thelonious Monk Quartet as the broader listening world.
+Ahmed Abdul-Malik is a bassist associated with bebop, hard bop, modal jazz. Musically, the important traits here are Monk-era upright grounding, angular hard-bop support, modal/world-influenced jazz vocabulary. In this ensemble: bebop / angular hard bop. Related listening: Thelonious Monk Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Thelonious Monk Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Thelonious Monk Quartet | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Ahmed Abdul-Malik is a bassist associated with bebop, hard bop, modal jazz. Musi
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Brilliant Corners](https://open.spotify.com/search/Brilliant%20Corners%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Bemsha Swing](https://open.spotify.com/search/Bemsha%20Swing%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Bemsha Swing](https://open.spotify.com/search/Bemsha%20Swing%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Listen for how the player shapes and attacks each note. |
 | [Ruby My Dear](https://open.spotify.com/search/Ruby%20My%20Dear%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Straight, No Chaser](https://open.spotify.com/search/Straight%2C%20No%20Chaser%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Track the pocket, note length, and how Ahmed Abdul-Malik makes the harmony feel grounded. |
 | [Epistrophy](https://open.spotify.com/search/Epistrophy%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Blue Monk](https://open.spotify.com/search/Blue%20Monk%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Listen for how the player shapes and attacks each note. |
 | [Power](https://open.spotify.com/search/Power%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Track the pocket, note length, and how Ahmed Abdul-Malik makes the harmony feel grounded. |
 | [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Ahmed%20Abdul-Malik%20Thelonious%20Monk%20Quartet) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Jim Hall
 
-Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz. Musically, the important traits here are chamber-jazz counterpoint, interactive comping, melodic restraint, advanced harmonic clarity. In this ensemble, that language is pointed toward bebop / angular hard bop, with Thelonious Monk Quartet as the broader listening world.
+Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz. Musically, the important traits here are chamber-jazz counterpoint, interactive comping, melodic restraint, advanced harmonic clarity. In this ensemble: bebop / angular hard bop. Related listening: Thelonious Monk Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Thelonious Monk Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Thelonious Monk Quartet | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz.
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Misterioso](https://open.spotify.com/search/Misterioso%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Misterioso](https://open.spotify.com/search/Misterioso%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Listen for how the rhythm guitar lays into the groove. |
 | [Brilliant Corners](https://open.spotify.com/search/Brilliant%20Corners%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Bemsha Swing](https://open.spotify.com/search/Bemsha%20Swing%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Ruby My Dear](https://open.spotify.com/search/Ruby%20My%20Dear%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Ruby My Dear](https://open.spotify.com/search/Ruby%20My%20Dear%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Listen for how the guitar fits the band. |
 | [Straight, No Chaser](https://open.spotify.com/search/Straight%2C%20No%20Chaser%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Focus on phrasing, tone, bends, and how Jim Hall shapes the melodic argument. |
-| [Epistrophy](https://open.spotify.com/search/Epistrophy%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Epistrophy](https://open.spotify.com/search/Epistrophy%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Listen for how the rhythm guitar lays into the groove. |
 | [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Eruption](https://open.spotify.com/search/Eruption%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Eruption](https://open.spotify.com/search/Eruption%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Listen for how the guitar fits the band. |
 | [Little Wing](https://open.spotify.com/search/Little%20Wing%20Jim%20Hall%20Thelonious%20Monk%20Quartet) | Focus on phrasing, tone, bends, and how Jim Hall shapes the melodic argument. |
 
 ## Frankie Dunlop
 
-Frankie Dunlop is a drummer whose playing helps shape this music. Listen for how the drum part affects bebop / angular hard bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Thelonious Monk Quartet.
+Frankie Dunlop is a drummer whose playing helps shape this music. Listen for how the drum part affects bebop / angular hard bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Thelonious Monk Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Thelonious Monk Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Thelonious Monk Quartet | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Frankie Dunlop is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Frankie Dunlop is a drummer whose playing helps shape this music. Listen for how
 
 ## Thelonious Monk
 
-Thelonious Monk is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects bebop / angular hard bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Thelonious Monk Quartet.
+Thelonious Monk is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects bebop / angular hard bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Thelonious Monk Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Thelonious Monk Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Thelonious Monk Quartet | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ Thelonious Monk is a keyboard player whose playing helps shape this music. Liste
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Well You Needn't](https://open.spotify.com/search/Well%20You%20Needn%27t%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Misterioso](https://open.spotify.com/search/Misterioso%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Brilliant Corners](https://open.spotify.com/search/Brilliant%20Corners%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Bemsha Swing](https://open.spotify.com/search/Bemsha%20Swing%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Bemsha Swing](https://open.spotify.com/search/Bemsha%20Swing%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Listen for how the keys support and color the arrangement. |
 | [Ruby My Dear](https://open.spotify.com/search/Ruby%20My%20Dear%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Straight, No Chaser](https://open.spotify.com/search/Straight%2C%20No%20Chaser%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Tutu](https://open.spotify.com/search/Tutu%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Tutu](https://open.spotify.com/search/Tutu%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Listen for how the keys support and color the arrangement. |
 | [Africa](https://open.spotify.com/search/Africa%20Thelonious%20Monk%20Thelonious%20Monk%20Quartet) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## Charlie Rouse
 
-Charlie Rouse is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects bebop / angular hard bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Thelonious Monk Quartet.
+Charlie Rouse is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects bebop / angular hard bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Thelonious Monk Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Thelonious Monk Quartet | [Wikipedia][thelonious-monk-quartet-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Thelonious Monk Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Thelonious Monk Quartet | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Charlie Rouse is a saxophonist whose playing helps shape this music. Listen for 
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

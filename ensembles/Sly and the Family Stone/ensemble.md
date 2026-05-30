@@ -1,8 +1,8 @@
 # Ensemble: Sly and the Family Stone
 
-## Pairing Context
+## Context
 
-This music lives in the Sly and the Family Stone world: funk / R&B / psychedelic soul. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Sly and the Family Stone / Graham Central Station help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Sly and the Family Stone world: funk / R&B / psychedelic soul. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Sly and the Family Stone / Graham Central Station help give you a feel for the style.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music lives in the Sly and the Family Stone world: funk / R&B / psychedelic
 
 ## Larry Graham
 
-Larry Graham is a bassist associated with funk, R&B, soul. Musically, the important traits here are invented slap bass technique, foundational funk vocabulary executed with precision and authority. In this ensemble, that language is pointed toward funk / R&B / psychedelic soul, with Sly and the Family Stone / Graham Central Station as the broader listening world.
+Larry Graham is a bassist associated with funk, R&B, soul. Musically, the important traits here are invented slap bass technique, foundational funk vocabulary executed with precision and authority. In this ensemble: funk / R&B / psychedelic soul. Related listening: Sly and the Family Stone / Graham Central Station.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Larry Graham is a bassist associated with funk, R&B, soul. Musically, the import
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Thank You](https://open.spotify.com/search/Thank%20You%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Track the pocket, note length, and how Larry Graham makes the harmony feel grounded. |
 | [Dance to the Music](https://open.spotify.com/search/Dance%20to%20the%20Music%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Everyday People](https://open.spotify.com/search/Everyday%20People%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [I Want to Take You Higher](https://open.spotify.com/search/I%20Want%20to%20Take%20You%20Higher%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [I Want to Take You Higher](https://open.spotify.com/search/I%20Want%20to%20Take%20You%20Higher%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for how the player shapes and attacks each note. |
 | [Family Affair](https://open.spotify.com/search/Family%20Affair%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Stand](https://open.spotify.com/search/Stand%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Track the pocket, note length, and how Larry Graham makes the harmony feel grounded. |
 | [Come On, Come Over](https://open.spotify.com/search/Come%20On%2C%20Come%20Over%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Teen Town](https://open.spotify.com/search/Teen%20Town%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for how the player shapes and attacks each note. |
 | [Dean Town](https://open.spotify.com/search/Dean%20Town%20Larry%20Graham%20Sly%20and%20the%20Family%20Stone) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Freddie Stone
 
-Freddie Stone is a guitarist associated with funk, psychedelic soul, R&B. Musically, the important traits here are Sly and the Family Stone rhythm guitar, psychedelic soul/funk groove, ensemble vocal-guitar support. In this ensemble, that language is pointed toward funk / R&B / psychedelic soul, with Sly and the Family Stone / Graham Central Station as the broader listening world.
+Freddie Stone is a guitarist associated with funk, psychedelic soul, R&B. Musically, the important traits here are Sly and the Family Stone rhythm guitar, psychedelic soul/funk groove, ensemble vocal-guitar support. In this ensemble: funk / R&B / psychedelic soul. Related listening: Sly and the Family Stone / Graham Central Station.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Freddie Stone is a guitarist associated with funk, psychedelic soul, R&B. Musica
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Stand](https://open.spotify.com/search/Stand%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Focus on phrasing, tone, bends, and how Freddie Stone shapes the melodic argument. |
-| [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the rhythm guitar lays into the groove. |
 | [M'Lady](https://open.spotify.com/search/M%27Lady%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [You Can Make It If You Try](https://open.spotify.com/search/You%20Can%20Make%20It%20If%20You%20Try%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [If You Want Me to Stay](https://open.spotify.com/search/If%20You%20Want%20Me%20to%20Stay%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [If You Want Me to Stay](https://open.spotify.com/search/If%20You%20Want%20Me%20to%20Stay%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the guitar fits the band. |
 | [Thank You](https://open.spotify.com/search/Thank%20You%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Focus on phrasing, tone, bends, and how Freddie Stone shapes the melodic argument. |
-| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the rhythm guitar lays into the groove. |
 | [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Room 335](https://open.spotify.com/search/Room%20335%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Freddie%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the guitar fits the band. |
 
 ## Greg Errico
 
-Greg Errico is a drummer whose playing helps shape this music. Listen for how the drum part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Sly and the Family Stone / Graham Central Station.
+Greg Errico is a drummer whose playing helps shape this music. Listen for how the drum part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Sly and the Family Stone / Graham Central Station.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Greg Errico is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Greg Errico is a drummer whose playing helps shape this music. Listen for how th
 
 ## Sly Stone
 
-Sly Stone is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Sly and the Family Stone / Graham Central Station.
+Sly Stone is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Sly and the Family Stone / Graham Central Station.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ Sly Stone is a keyboard player whose playing helps shape this music. Listen for 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Stand](https://open.spotify.com/search/Stand%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Sing a Simple Song](https://open.spotify.com/search/Sing%20a%20Simple%20Song%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [M'Lady](https://open.spotify.com/search/M%27Lady%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [You Can Make It If You Try](https://open.spotify.com/search/You%20Can%20Make%20It%20If%20You%20Try%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [You Can Make It If You Try](https://open.spotify.com/search/You%20Can%20Make%20It%20If%20You%20Try%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the keys support and color the arrangement. |
 | [If You Want Me to Stay](https://open.spotify.com/search/If%20You%20Want%20Me%20to%20Stay%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Thank You](https://open.spotify.com/search/Thank%20You%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [You Are the Sunshine of My Life](https://open.spotify.com/search/You%20Are%20the%20Sunshine%20of%20My%20Life%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [As](https://open.spotify.com/search/As%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [As](https://open.spotify.com/search/As%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for how the keys support and color the arrangement. |
 | [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Sly%20Stone%20Sly%20and%20the%20Family%20Stone) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## Maceo Parker
 
-Maceo Parker is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Sly and the Family Stone / Graham Central Station.
+Maceo Parker is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects funk / R&B / psychedelic soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Sly and the Family Stone / Graham Central Station.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Sly and the Family Stone | [Wikipedia][sly-and-the-family-stone-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Sly and the Family Stone / Graham Central Station | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Maceo Parker is a saxophonist whose playing helps shape this music. Listen for h
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

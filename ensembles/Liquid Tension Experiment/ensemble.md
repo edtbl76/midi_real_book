@@ -1,8 +1,8 @@
 # Ensemble: Liquid Tension Experiment
 
-## Pairing Context
+## Context
 
-This music lives in the Liquid Tension Experiment world: art rock / progressive metal / experimental rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Liquid Tension Experiment / King Crimson / Peter Gabriel help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Liquid Tension Experiment world: art rock / progressive metal / experimental rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Liquid Tension Experiment / King Crimson / Peter Gabriel help give you a feel for the style.
 
 ## Players
 
@@ -21,14 +21,14 @@ This music lives in the Liquid Tension Experiment world: art rock / progressive 
 
 ## Tony Levin
 
-Tony Levin is a bassist associated with art rock, progressive rock, progressive metal, session. Musically, the important traits here are Chapman Stick, fretless and fretted art-rock command, odd-meter precision, session adaptability. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
+Tony Levin is a bassist associated with art rock, progressive rock, progressive metal, session. Musically, the important traits here are Chapman Stick, fretless and fretted art-rock command, odd-meter precision, session adaptability. In this ensemble: art rock / progressive metal / experimental rock. Related listening: Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -36,31 +36,31 @@ Tony Levin is a bassist associated with art rock, progressive rock, progressive 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Acid Rain](https://open.spotify.com/search/Acid%20Rain%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Universal Mind](https://open.spotify.com/search/Universal%20Mind%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Kindred Spirits](https://open.spotify.com/search/Kindred%20Spirits%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Kindred Spirits](https://open.spotify.com/search/Kindred%20Spirits%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Listen for how the player shapes and attacks each note. |
 | [Biaxident](https://open.spotify.com/search/Biaxident%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Another Dimension](https://open.spotify.com/search/Another%20Dimension%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Track the pocket, note length, and how Tony Levin makes the harmony feel grounded. |
 | [When the Water Breaks](https://open.spotify.com/search/When%20the%20Water%20Breaks%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Power](https://open.spotify.com/search/Power%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Power](https://open.spotify.com/search/Power%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Listen for how the player shapes and attacks each note. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Tony%20Levin%20Liquid%20Tension%20Experiment) | Track the pocket, note length, and how Tony Levin makes the harmony feel grounded. |
 
 ## John Petrucci
 
-John Petrucci is a guitarist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
+John Petrucci is a guitarist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. In this ensemble: art rock / progressive metal / experimental rock. Related listening: Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -68,19 +68,19 @@ John Petrucci is a guitarist associated with progressive metal, hard rock. Music
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Kindred Spirits](https://open.spotify.com/search/Kindred%20Spirits%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Biaxident](https://open.spotify.com/search/Biaxident%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Biaxident](https://open.spotify.com/search/Biaxident%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Listen for how the guitar fits the band. |
 | [Another Dimension](https://open.spotify.com/search/Another%20Dimension%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Focus on phrasing, tone, bends, and how John Petrucci shapes the melodic argument. |
-| [When the Water Breaks](https://open.spotify.com/search/When%20the%20Water%20Breaks%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [When the Water Breaks](https://open.spotify.com/search/When%20the%20Water%20Breaks%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Listen for how the rhythm guitar lays into the groove. |
 | [Freedom of Speech](https://open.spotify.com/search/Freedom%20of%20Speech%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Rhapsody in Blue](https://open.spotify.com/search/Rhapsody%20in%20Blue%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Scarified](https://open.spotify.com/search/Scarified%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Scarified](https://open.spotify.com/search/Scarified%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Listen for how the guitar fits the band. |
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Focus on phrasing, tone, bends, and how John Petrucci shapes the melodic argument. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Listen for how the rhythm guitar lays into the groove. |
 | [Red House](https://open.spotify.com/search/Red%20House%20John%20Petrucci%20Liquid%20Tension%20Experiment) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Adrian Belew
@@ -92,7 +92,7 @@ American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, T
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -101,31 +101,31 @@ American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, T
 | Guitars | Parker Fly, Fender Strat-style guitars, signature models |
 | Effects | Whammy, delay, looping, synth-style guitar processing |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Hypersonic](https://open.spotify.com/search/Hypersonic%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Hypersonic](https://open.spotify.com/search/Hypersonic%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Listen for how the guitar fits the band. |
 | [Paradigm Shift](https://open.spotify.com/search/Paradigm%20Shift%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Focus on phrasing, tone, bends, and how Adrian Belew shapes the melodic argument. |
-| [Acid Rain](https://open.spotify.com/search/Acid%20Rain%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Acid Rain](https://open.spotify.com/search/Acid%20Rain%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Listen for how the rhythm guitar lays into the groove. |
 | [Universal Mind](https://open.spotify.com/search/Universal%20Mind%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Kindred Spirits](https://open.spotify.com/search/Kindred%20Spirits%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Biaxident](https://open.spotify.com/search/Biaxident%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Biaxident](https://open.spotify.com/search/Biaxident%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Listen for how the guitar fits the band. |
 | [Led Boots](https://open.spotify.com/search/Led%20Boots%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Focus on phrasing, tone, bends, and how Adrian Belew shapes the melodic argument. |
-| [Aja](https://open.spotify.com/search/Aja%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Aja](https://open.spotify.com/search/Aja%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Listen for how the rhythm guitar lays into the groove. |
 | [Peg](https://open.spotify.com/search/Peg%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Adrian%20Belew%20Liquid%20Tension%20Experiment) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## David Rhodes
 
-David Rhodes is a guitarist associated with art pop, art rock, session. Musically, the important traits here are Peter Gabriel art-pop texture, atmospheric rhythm guitar, song-serving lead color. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
+David Rhodes is a guitarist associated with art pop, art rock, session. Musically, the important traits here are Peter Gabriel art-pop texture, atmospheric rhythm guitar, song-serving lead color. In this ensemble: art rock / progressive metal / experimental rock. Related listening: Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -133,31 +133,31 @@ David Rhodes is a guitarist associated with art pop, art rock, session. Musicall
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Another Dimension](https://open.spotify.com/search/Another%20Dimension%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Focus on phrasing, tone, bends, and how David Rhodes shapes the melodic argument. |
-| [When the Water Breaks](https://open.spotify.com/search/When%20the%20Water%20Breaks%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [When the Water Breaks](https://open.spotify.com/search/When%20the%20Water%20Breaks%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Listen for how the rhythm guitar lays into the groove. |
 | [Freedom of Speech](https://open.spotify.com/search/Freedom%20of%20Speech%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Rhapsody in Blue](https://open.spotify.com/search/Rhapsody%20in%20Blue%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Hypersonic](https://open.spotify.com/search/Hypersonic%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Hypersonic](https://open.spotify.com/search/Hypersonic%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Listen for how the guitar fits the band. |
 | [Paradigm Shift](https://open.spotify.com/search/Paradigm%20Shift%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Focus on phrasing, tone, bends, and how David Rhodes shapes the melodic argument. |
-| [Scarified](https://open.spotify.com/search/Scarified%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Scarified](https://open.spotify.com/search/Scarified%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Listen for how the rhythm guitar lays into the groove. |
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Red House](https://open.spotify.com/search/Red%20House%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red House](https://open.spotify.com/search/Red%20House%20David%20Rhodes%20Liquid%20Tension%20Experiment) | Listen for how the guitar fits the band. |
 
 ## Mike Portnoy
 
-Mike Portnoy is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Mike Portnoy is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -165,7 +165,7 @@ Mike Portnoy is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -182,14 +182,14 @@ Mike Portnoy is a drummer whose playing helps shape this music. Listen for how t
 
 ## Pat Mastelotto
 
-Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -197,7 +197,7 @@ Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -214,14 +214,14 @@ Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how
 
 ## Jordan Rudess
 
-Jordan Rudess is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Jordan Rudess is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -229,31 +229,31 @@ Jordan Rudess is a keyboard player whose playing helps shape this music. Listen 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Universal Mind](https://open.spotify.com/search/Universal%20Mind%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Kindred Spirits](https://open.spotify.com/search/Kindred%20Spirits%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Kindred Spirits](https://open.spotify.com/search/Kindred%20Spirits%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Listen for how the keys support and color the arrangement. |
 | [Biaxident](https://open.spotify.com/search/Biaxident%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Another Dimension](https://open.spotify.com/search/Another%20Dimension%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [When the Water Breaks](https://open.spotify.com/search/When%20the%20Water%20Breaks%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Freedom of Speech](https://open.spotify.com/search/Freedom%20of%20Speech%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [As](https://open.spotify.com/search/As%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [As](https://open.spotify.com/search/As%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Listen for how the keys support and color the arrangement. |
 | [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [No Mystery](https://open.spotify.com/search/No%20Mystery%20Jordan%20Rudess%20Liquid%20Tension%20Experiment) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 
 ## Mel Collins
 
-Mel Collins is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Mel Collins is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Liquid Tension Experiment | [Wikipedia][liquid-tension-experiment-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -261,7 +261,7 @@ Mel Collins is a saxophonist whose playing helps shape this music. Listen for ho
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

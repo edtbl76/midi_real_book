@@ -1,8 +1,8 @@
 # Ensemble: Miles Davis hard-bop orbit
 
-## Pairing Context
+## Context
 
-This music is centered on Miles Davis hard-bop orbit: hard bop / blues / soul jazz. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Miles Davis Quintet / Jazz Messengers, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on Miles Davis hard-bop orbit: hard bop / blues / soul jazz. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Miles Davis Quintet / Jazz Messengers.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music is centered on Miles Davis hard-bop orbit: hard bop / blues / soul ja
 
 ## Paul Chambers
 
-Paul Chambers is a bassist associated with hard bop, bebop, modal jazz, blues. Musically, the important traits here are hard-bop walking authority, arco features, blues forms, chromatic approaches, steady quarter-note propulsion. In this ensemble, that language is pointed toward hard bop / blues / soul jazz, with Miles Davis Quintet / Jazz Messengers as the broader listening world.
+Paul Chambers is a bassist associated with hard bop, bebop, modal jazz, blues. Musically, the important traits here are hard-bop walking authority, arco features, blues forms, chromatic approaches, steady quarter-note propulsion. In this ensemble: hard bop / blues / soul jazz. Related listening: Miles Davis Quintet / Jazz Messengers.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Paul Chambers is a bassist associated with hard bop, bebop, modal jazz, blues. M
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Airegin](https://open.spotify.com/search/Airegin%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Track the pocket, note length, and how Paul Chambers makes the harmony feel grounded. |
 | [Four](https://open.spotify.com/search/Four%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Walkin'](https://open.spotify.com/search/Walkin%27%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Milestones](https://open.spotify.com/search/Milestones%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Milestones](https://open.spotify.com/search/Milestones%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Listen for how the player shapes and attacks each note. |
 | [The Theme](https://open.spotify.com/search/The%20Theme%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [So What](https://open.spotify.com/search/So%20What%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Track the pocket, note length, and how Paul Chambers makes the harmony feel grounded. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Continuum](https://open.spotify.com/search/Continuum%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Continuum](https://open.spotify.com/search/Continuum%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Listen for how the player shapes and attacks each note. |
 | [Stratus](https://open.spotify.com/search/Stratus%20Paul%20Chambers%20Miles%20Davis%20hard-bop%20orbit) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Wes Montgomery
 
-Wes Montgomery is a guitarist associated with jazz, hard bop, soul jazz. Musically, the important traits here are octave technique, thumb articulation, hard-bop swing, chord-solo vocabulary. In this ensemble, that language is pointed toward hard bop / blues / soul jazz, with Miles Davis Quintet / Jazz Messengers as the broader listening world.
+Wes Montgomery is a guitarist associated with jazz, hard bop, soul jazz. Musically, the important traits here are octave technique, thumb articulation, hard-bop swing, chord-solo vocabulary. In this ensemble: hard bop / blues / soul jazz. Related listening: Miles Davis Quintet / Jazz Messengers.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Wes Montgomery is a guitarist associated with jazz, hard bop, soul jazz. Musical
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Four](https://open.spotify.com/search/Four%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Four](https://open.spotify.com/search/Four%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Walkin'](https://open.spotify.com/search/Walkin%27%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Milestones](https://open.spotify.com/search/Milestones%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [The Theme](https://open.spotify.com/search/The%20Theme%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [The Theme](https://open.spotify.com/search/The%20Theme%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Listen for how the guitar fits the band. |
 | [So What](https://open.spotify.com/search/So%20What%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Focus on phrasing, tone, bends, and how Wes Montgomery shapes the melodic argument. |
-| [Freddie Freeloader](https://open.spotify.com/search/Freddie%20Freeloader%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Freddie Freeloader](https://open.spotify.com/search/Freddie%20Freeloader%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Peg](https://open.spotify.com/search/Peg%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Listen for how the guitar fits the band. |
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Wes%20Montgomery%20Miles%20Davis%20hard-bop%20orbit) | Focus on phrasing, tone, bends, and how Wes Montgomery shapes the melodic argument. |
 
 ## Art Blakey
 
-Art Blakey is a drummer whose playing helps shape this music. Listen for how the drum part affects hard bop / blues / soul jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis Quintet / Jazz Messengers.
+Art Blakey is a drummer whose playing helps shape this music. Listen for how the drum part affects hard bop / blues / soul jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Miles Davis Quintet / Jazz Messengers.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Art Blakey is a drummer whose playing helps shape this music. Listen for how the
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Art Blakey is a drummer whose playing helps shape this music. Listen for how the
 
 ## Red Garland
 
-Red Garland is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects hard bop / blues / soul jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis Quintet / Jazz Messengers.
+Red Garland is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects hard bop / blues / soul jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Miles Davis Quintet / Jazz Messengers.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,16 +129,16 @@ Red Garland is a keyboard player whose playing helps shape this music. Listen fo
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Milestones](https://open.spotify.com/search/Milestones%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Milestones](https://open.spotify.com/search/Milestones%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Listen for how the keys support and color the arrangement. |
 | [The Theme](https://open.spotify.com/search/The%20Theme%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [So What](https://open.spotify.com/search/So%20What%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Freddie Freeloader](https://open.spotify.com/search/Freddie%20Freeloader%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [All Blues](https://open.spotify.com/search/All%20Blues%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Straight, No Chaser](https://open.spotify.com/search/Straight%2C%20No%20Chaser%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Straight, No Chaser](https://open.spotify.com/search/Straight%2C%20No%20Chaser%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Listen for how the keys support and color the arrangement. |
 | [Birdland](https://open.spotify.com/search/Birdland%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Red%20Garland%20Miles%20Davis%20hard-bop%20orbit) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
@@ -146,14 +146,14 @@ Red Garland is a keyboard player whose playing helps shape this music. Listen fo
 
 ## Miles Davis
 
-Miles Davis is a trumpeter whose playing helps shape this music. Listen for how the trumpet part affects hard bop / blues / soul jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis Quintet / Jazz Messengers.
+Miles Davis is a trumpeter whose playing helps shape this music. Listen for how the trumpet part affects hard bop / blues / soul jazz: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Miles Davis Quintet / Jazz Messengers.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Miles Davis hard-bop orbit | [Wikipedia][miles-davis-hard-bop-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Miles Davis Quintet / Jazz Messengers | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Miles Davis is a trumpeter whose playing helps shape this music. Listen for how 
 |---|---|
 | Trumpet | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

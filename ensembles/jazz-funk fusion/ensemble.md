@@ -1,8 +1,8 @@
 # Ensemble: jazz-funk fusion
 
-## Pairing Context
+## Context
 
-This music is centered on jazz-funk fusion: jazz fusion / funk / bluegrass-fusion. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Bela Fleck and the Flecktones / Vital Tech Tones, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on jazz-funk fusion: jazz fusion / funk / bluegrass-fusion. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Bela Fleck and the Flecktones / Vital Tech Tones.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music is centered on jazz-funk fusion: jazz fusion / funk / bluegrass-fusio
 
 ## Victor Wooten
 
-Victor Wooten is a bassist associated with slap bass, fusion, R&B, bluegrass. Musically, the important traits here are complete modern technique, melodic slap/tapping, rhythmic control. In this ensemble, that language is pointed toward jazz fusion / funk / bluegrass-fusion, with Bela Fleck and the Flecktones / Vital Tech Tones as the broader listening world.
+Victor Wooten is a bassist associated with slap bass, fusion, R&B, bluegrass. Musically, the important traits here are complete modern technique, melodic slap/tapping, rhythmic control. In this ensemble: jazz fusion / funk / bluegrass-fusion. Related listening: Bela Fleck and the Flecktones / Vital Tech Tones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,7 +33,7 @@ Victor Wooten is a bassist associated with slap bass, fusion, R&B, bluegrass. Mu
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -41,23 +41,23 @@ Victor Wooten is a bassist associated with slap bass, fusion, R&B, bluegrass. Mu
 | [Stratus](https://open.spotify.com/search/Stratus%20Victor%20Wooten%20jazz-funk%20fusion) | Track the pocket, note length, and how Victor Wooten makes the harmony feel grounded. |
 | [Hang Up Your Hang Ups](https://open.spotify.com/search/Hang%20Up%20Your%20Hang%20Ups%20Victor%20Wooten%20jazz-funk%20fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Victor%20Wooten%20jazz-funk%20fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Victor%20Wooten%20jazz-funk%20fusion) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Victor%20Wooten%20jazz-funk%20fusion) | Listen for how the player shapes and attacks each note. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Victor%20Wooten%20jazz-funk%20fusion) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Peg](https://open.spotify.com/search/Peg%20Victor%20Wooten%20jazz-funk%20fusion) | Track the pocket, note length, and how Victor Wooten makes the harmony feel grounded. |
 | [Bernadette](https://open.spotify.com/search/Bernadette%20Victor%20Wooten%20jazz-funk%20fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Victor%20Wooten%20jazz-funk%20fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Power](https://open.spotify.com/search/Power%20Victor%20Wooten%20jazz-funk%20fusion) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Power](https://open.spotify.com/search/Power%20Victor%20Wooten%20jazz-funk%20fusion) | Listen for how the player shapes and attacks each note. |
 
 ## Oz Noy
 
-Oz Noy is a guitarist associated with jazz fusion, funk, experimental rock. Musically, the important traits here are hybrid picking complexity, jazz/funk fusion vocabulary, harmonic density, idiosyncratic phrasing. In this ensemble, that language is pointed toward jazz fusion / funk / bluegrass-fusion, with Bela Fleck and the Flecktones / Vital Tech Tones as the broader listening world.
+Oz Noy is a guitarist associated with jazz fusion, funk, experimental rock. Musically, the important traits here are hybrid picking complexity, jazz/funk fusion vocabulary, harmonic density, idiosyncratic phrasing. In this ensemble: jazz fusion / funk / bluegrass-fusion. Related listening: Bela Fleck and the Flecktones / Vital Tech Tones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Oz Noy is a guitarist associated with jazz fusion, funk, experimental rock. Musi
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Oz%20Noy%20jazz-funk%20fusion) | Focus on phrasing, tone, bends, and how Oz Noy shapes the melodic argument. |
-| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Oz%20Noy%20jazz-funk%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Oz%20Noy%20jazz-funk%20fusion) | Listen for how the rhythm guitar lays into the groove. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Oz%20Noy%20jazz-funk%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Oz%20Noy%20jazz-funk%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Red Baron](https://open.spotify.com/search/Red%20Baron%20Oz%20Noy%20jazz-funk%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red Baron](https://open.spotify.com/search/Red%20Baron%20Oz%20Noy%20jazz-funk%20fusion) | Listen for how the guitar fits the band. |
 | [Stratus](https://open.spotify.com/search/Stratus%20Oz%20Noy%20jazz-funk%20fusion) | Focus on phrasing, tone, bends, and how Oz Noy shapes the melodic argument. |
-| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Oz%20Noy%20jazz-funk%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Oz%20Noy%20jazz-funk%20fusion) | Listen for how the rhythm guitar lays into the groove. |
 | [Europa](https://open.spotify.com/search/Europa%20Oz%20Noy%20jazz-funk%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Oz%20Noy%20jazz-funk%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Crossroads](https://open.spotify.com/search/Crossroads%20Oz%20Noy%20jazz-funk%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Crossroads](https://open.spotify.com/search/Crossroads%20Oz%20Noy%20jazz-funk%20fusion) | Listen for how the guitar fits the band. |
 
 ## Dennis Chambers
 
-Dennis Chambers is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / funk / bluegrass-fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Bela Fleck and the Flecktones / Vital Tech Tones.
+Dennis Chambers is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / funk / bluegrass-fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Bela Fleck and the Flecktones / Vital Tech Tones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Dennis Chambers is a drummer whose playing helps shape this music. Listen for ho
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Dennis Chambers is a drummer whose playing helps shape this music. Listen for ho
 
 ## Bela Fleck
 
-Bela Fleck is a banjo player whose playing helps shape this music. Listen for how the banjo part affects jazz fusion / funk / bluegrass-fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Bela Fleck and the Flecktones / Vital Tech Tones.
+Bela Fleck is a banjo player whose playing helps shape this music. Listen for how the banjo part affects jazz fusion / funk / bluegrass-fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Bela Fleck and the Flecktones / Vital Tech Tones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,7 +129,7 @@ Bela Fleck is a banjo player whose playing helps shape this music. Listen for ho
 |---|---|
 | Banjo | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -146,14 +146,14 @@ Bela Fleck is a banjo player whose playing helps shape this music. Listen for ho
 
 ## Howard Levy
 
-Howard Levy is a harmonica player whose playing helps shape this music. Listen for how the harmonica part affects jazz fusion / funk / bluegrass-fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Bela Fleck and the Flecktones / Vital Tech Tones.
+Howard Levy is a harmonica player whose playing helps shape this music. Listen for how the harmonica part affects jazz fusion / funk / bluegrass-fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Bela Fleck and the Flecktones / Vital Tech Tones.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | jazz-funk fusion | [Wikipedia][jazz-funk-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Bela Fleck and the Flecktones / Vital Tech Tones | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Howard Levy is a harmonica player whose playing helps shape this music. Listen f
 |---|---|
 | Harmonica | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

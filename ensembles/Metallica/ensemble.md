@@ -1,6 +1,6 @@
 # Ensemble: Metallica
 
-## Pairing Context
+## Context
 
 This music lives in the Metallica world: thrash metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -18,14 +18,14 @@ This music lives in the Metallica world: thrash metal. Listen for how the player
 
 ## Cliff Burton
 
-Cliff Burton is a bassist associated with thrash metal, heavy metal. Musically, the important traits here are melodic thrash vocabulary, distortion-led lead-bass ideas, speed. In this ensemble, that language is pointed toward thrash metal, with Metallica as the broader listening world.
+Cliff Burton is a bassist associated with thrash metal, heavy metal. Musically, the important traits here are melodic thrash vocabulary, distortion-led lead-bass ideas, speed. In this ensemble: thrash metal. Related listening: Metallica.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Metallica | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Metallica | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Cliff Burton is a bassist associated with thrash metal, heavy metal. Musically, 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [For Whom the Bell Tolls](https://open.spotify.com/search/For%20Whom%20the%20Bell%20Tolls%20Cliff%20Burton%20Metallica) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Orion](https://open.spotify.com/search/Orion%20Cliff%20Burton%20Metallica) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Damage, Inc.](https://open.spotify.com/search/Damage%2C%20Inc.%20Cliff%20Burton%20Metallica) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Damage, Inc.](https://open.spotify.com/search/Damage%2C%20Inc.%20Cliff%20Burton%20Metallica) | Listen for how the player shapes and attacks each note. |
 | [Battery](https://open.spotify.com/search/Battery%20Cliff%20Burton%20Metallica) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20Cliff%20Burton%20Metallica) | Track the pocket, note length, and how Cliff Burton grounds the harmony. |
 | [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20Cliff%20Burton%20Metallica) | Focus on movement between chord roots, anticipations, and section lift. |
 | [The Four Horsemen](https://open.spotify.com/search/The%20Four%20Horsemen%20Cliff%20Burton%20Metallica) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20Cliff%20Burton%20Metallica) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20Cliff%20Burton%20Metallica) | Listen for how the player shapes and attacks each note. |
 | [One](https://open.spotify.com/search/One%20Cliff%20Burton%20Metallica) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Blackened](https://open.spotify.com/search/Blackened%20Cliff%20Burton%20Metallica) | Track the pocket, note length, and how Cliff Burton grounds the harmony. |
 
 ## James Hetfield
 
-James Hetfield is a guitarist associated with thrash metal, heavy metal. Musically, the important traits here are rhythm guitar mastery, down-picked thrash precision, palm-muted power. In this ensemble, that language is pointed toward thrash metal, with Metallica as the broader listening world.
+James Hetfield is a guitarist associated with thrash metal, heavy metal. Musically, the important traits here are rhythm guitar mastery, down-picked thrash precision, palm-muted power. In this ensemble: thrash metal. Related listening: Metallica.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Metallica | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Metallica | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ James Hetfield is a guitarist associated with thrash metal, heavy metal. Musical
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Damage, Inc.](https://open.spotify.com/search/Damage%2C%20Inc.%20James%20Hetfield%20Metallica) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Battery](https://open.spotify.com/search/Battery%20James%20Hetfield%20Metallica) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Battery](https://open.spotify.com/search/Battery%20James%20Hetfield%20Metallica) | Listen for comping choices and the way guitar defines the band sound. |
 | [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20James%20Hetfield%20Metallica) | Focus on phrasing, tone, bends, and how James Hetfield shapes the melodic argument. |
 | [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20James%20Hetfield%20Metallica) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [The Four Horsemen](https://open.spotify.com/search/The%20Four%20Horsemen%20James%20Hetfield%20Metallica) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20James%20Hetfield%20Metallica) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [One](https://open.spotify.com/search/One%20James%20Hetfield%20Metallica) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [One](https://open.spotify.com/search/One%20James%20Hetfield%20Metallica) | Listen for comping choices and the way guitar defines the band sound. |
 | [Blackened](https://open.spotify.com/search/Blackened%20James%20Hetfield%20Metallica) | Focus on phrasing, tone, bends, and how James Hetfield shapes the melodic argument. |
 | [Enter Sandman](https://open.spotify.com/search/Enter%20Sandman%20James%20Hetfield%20Metallica) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Sad but True](https://open.spotify.com/search/Sad%20but%20True%20James%20Hetfield%20Metallica) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Kirk Hammett
 
-Kirk Hammett is a guitarist associated with thrash metal, heavy metal. Musically, the important traits here are wah-filtered metal lead, pentatonic thrash vocabulary. In this ensemble, that language is pointed toward thrash metal, with Metallica as the broader listening world.
+Kirk Hammett is a guitarist associated with thrash metal, heavy metal. Musically, the important traits here are wah-filtered metal lead, pentatonic thrash vocabulary. In this ensemble: thrash metal. Related listening: Metallica.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Metallica | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Metallica | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,31 +97,31 @@ Kirk Hammett is a guitarist associated with thrash metal, heavy metal. Musically
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20Kirk%20Hammett%20Metallica) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [The Four Horsemen](https://open.spotify.com/search/The%20Four%20Horsemen%20Kirk%20Hammett%20Metallica) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20Kirk%20Hammett%20Metallica) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [One](https://open.spotify.com/search/One%20Kirk%20Hammett%20Metallica) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [One](https://open.spotify.com/search/One%20Kirk%20Hammett%20Metallica) | Listen for comping choices and the way guitar defines the band sound. |
 | [Blackened](https://open.spotify.com/search/Blackened%20Kirk%20Hammett%20Metallica) | Focus on phrasing, tone, bends, and how Kirk Hammett shapes the melodic argument. |
 | [Enter Sandman](https://open.spotify.com/search/Enter%20Sandman%20Kirk%20Hammett%20Metallica) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Sad but True](https://open.spotify.com/search/Sad%20but%20True%20Kirk%20Hammett%20Metallica) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Wherever I May Roam](https://open.spotify.com/search/Wherever%20I%20May%20Roam%20Kirk%20Hammett%20Metallica) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Harvester of Sorrow](https://open.spotify.com/search/Harvester%20of%20Sorrow%20Kirk%20Hammett%20Metallica) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Harvester of Sorrow](https://open.spotify.com/search/Harvester%20of%20Sorrow%20Kirk%20Hammett%20Metallica) | Listen for comping choices and the way guitar defines the band sound. |
 | [Whiplash](https://open.spotify.com/search/Whiplash%20Kirk%20Hammett%20Metallica) | Focus on phrasing, tone, bends, and how Kirk Hammett shapes the melodic argument. |
 
 ## Marty Friedman
 
-Marty Friedman is a guitarist associated with neoclassical metal, rock, J-rock influenced. Musically, the important traits here are exotic scale vocabulary, neoclassical phrasing, wide-interval melodic lines, vibrato precision. In this ensemble, that language is pointed toward thrash metal, with Metallica as the broader listening world.
+Marty Friedman is a guitarist associated with neoclassical metal, rock, J-rock influenced. Musically, the important traits here are exotic scale vocabulary, neoclassical phrasing, wide-interval melodic lines, vibrato precision. In this ensemble: thrash metal. Related listening: Metallica.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Metallica | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Metallica | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,16 +129,16 @@ Marty Friedman is a guitarist associated with neoclassical metal, rock, J-rock i
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Battery](https://open.spotify.com/search/Battery%20Marty%20Friedman%20Metallica) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Battery](https://open.spotify.com/search/Battery%20Marty%20Friedman%20Metallica) | Listen for comping choices and the way guitar defines the band sound. |
 | [Creeping Death](https://open.spotify.com/search/Creeping%20Death%20Marty%20Friedman%20Metallica) | Focus on phrasing, tone, bends, and how Marty Friedman shapes the melodic argument. |
 | [Ride the Lightning](https://open.spotify.com/search/Ride%20the%20Lightning%20Marty%20Friedman%20Metallica) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [The Four Horsemen](https://open.spotify.com/search/The%20Four%20Horsemen%20Marty%20Friedman%20Metallica) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Seek & Destroy](https://open.spotify.com/search/Seek%20%26%20Destroy%20Marty%20Friedman%20Metallica) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [One](https://open.spotify.com/search/One%20Marty%20Friedman%20Metallica) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [One](https://open.spotify.com/search/One%20Marty%20Friedman%20Metallica) | Listen for comping choices and the way guitar defines the band sound. |
 | [Blackened](https://open.spotify.com/search/Blackened%20Marty%20Friedman%20Metallica) | Focus on phrasing, tone, bends, and how Marty Friedman shapes the melodic argument. |
 | [Enter Sandman](https://open.spotify.com/search/Enter%20Sandman%20Marty%20Friedman%20Metallica) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Sad but True](https://open.spotify.com/search/Sad%20but%20True%20Marty%20Friedman%20Metallica) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
@@ -146,14 +146,14 @@ Marty Friedman is a guitarist associated with neoclassical metal, rock, J-rock i
 
 ## Lars Ulrich
 
-Lars Ulrich is a drummer whose playing helps shape this music. Listen for how the drum part affects thrash metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Metallica.
+Lars Ulrich is a drummer whose playing helps shape this music. Listen for how the drum part affects thrash metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Metallica.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Metallica | [Wikipedia][metallica-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Metallica | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Metallica | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Lars Ulrich is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

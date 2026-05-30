@@ -1,8 +1,8 @@
 # Ensemble: Buckethead / Bozzio orbit
 
-## Pairing Context
+## Context
 
-This music is centered on Buckethead / Bozzio orbit: avant-garde / solo bass. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. Use the listening list as a map for the feel, tone, and vocabulary.
+This music is centered on Buckethead / Bozzio orbit: avant-garde / solo bass. Listen for how the rhythm section, guitar, and harmony work together. Use the recordings below to get a feel for the style.
 
 ## Players
 
@@ -16,14 +16,14 @@ This music is centered on Buckethead / Bozzio orbit: avant-garde / solo bass. Li
 
 ## Michael Manring
 
-Michael Manring is a bassist associated with solo bass, avant-garde, new age, fusion. Musically, the important traits here are extended fretless technique, real-time detuning via Hyperbass, harmonics, solo bass orchestration. In this ensemble, that language is pointed toward avant-garde / solo bass, with Buckethead / Bozzio orbit as the broader listening world.
+Michael Manring is a bassist associated with solo bass, avant-garde, new age, fusion. Musically, the important traits here are extended fretless technique, real-time detuning via Hyperbass, harmonics, solo bass orchestration. In this ensemble: avant-garde / solo bass. Related listening: Buckethead / Bozzio orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Buckethead / Bozzio orbit | [Wikipedia][buckethead-bozzio-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Buckethead / Bozzio orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Buckethead / Bozzio orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -31,7 +31,7 @@ Michael Manring is a bassist associated with solo bass, avant-garde, new age, fu
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -39,23 +39,23 @@ Michael Manring is a bassist associated with solo bass, avant-garde, new age, fu
 | [Jordan](https://open.spotify.com/search/Jordan%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Track the pocket, note length, and how Michael Manring makes the harmony feel grounded. |
 | [Soothsayer](https://open.spotify.com/search/Soothsayer%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Nottingham Lace](https://open.spotify.com/search/Nottingham%20Lace%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Big Sur Moon](https://open.spotify.com/search/Big%20Sur%20Moon%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Big Sur Moon](https://open.spotify.com/search/Big%20Sur%20Moon%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Listen for how the player shapes and attacks each note. |
 | [Whitewash](https://open.spotify.com/search/Whitewash%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Track the pocket, note length, and how Michael Manring makes the harmony feel grounded. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [YYZ](https://open.spotify.com/search/YYZ%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [YYZ](https://open.spotify.com/search/YYZ%20Michael%20Manring%20Buckethead%20/%20Bozzio%20orbit) | Listen for how the player shapes and attacks each note. |
 
 ## Buckethead
 
-Buckethead is a guitarist associated with metal, funk, experimental, progressive rock. Musically, the important traits here are extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. In this ensemble, that language is pointed toward avant-garde / solo bass, with Buckethead / Bozzio orbit as the broader listening world.
+Buckethead is a guitarist associated with metal, funk, experimental, progressive rock. Musically, the important traits here are extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. In this ensemble: avant-garde / solo bass. Related listening: Buckethead / Bozzio orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Buckethead / Bozzio orbit | [Wikipedia][buckethead-bozzio-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Buckethead / Bozzio orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Buckethead / Bozzio orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -63,31 +63,31 @@ Buckethead is a guitarist associated with metal, funk, experimental, progressive
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Soothsayer](https://open.spotify.com/search/Soothsayer%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Soothsayer](https://open.spotify.com/search/Soothsayer%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Nottingham Lace](https://open.spotify.com/search/Nottingham%20Lace%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Big Sur Moon](https://open.spotify.com/search/Big%20Sur%20Moon%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Whitewash](https://open.spotify.com/search/Whitewash%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Whitewash](https://open.spotify.com/search/Whitewash%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Listen for how the guitar fits the band. |
 | [Brewer in the Air](https://open.spotify.com/search/Brewer%20in%20the%20Air%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Focus on phrasing, tone, bends, and how Buckethead shapes the melodic argument. |
-| [Machete](https://open.spotify.com/search/Machete%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Machete](https://open.spotify.com/search/Machete%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Red House](https://open.spotify.com/search/Red%20House%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [La Grange](https://open.spotify.com/search/La%20Grange%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Listen for how the guitar fits the band. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Buckethead%20Buckethead%20/%20Bozzio%20orbit) | Focus on phrasing, tone, bends, and how Buckethead shapes the melodic argument. |
 
 ## Terry Bozzio
 
-Terry Bozzio is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-garde / solo bass: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Buckethead / Bozzio orbit.
+Terry Bozzio is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-garde / solo bass: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Buckethead / Bozzio orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Buckethead / Bozzio orbit | [Wikipedia][buckethead-bozzio-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Buckethead / Bozzio orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Buckethead / Bozzio orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -95,7 +95,7 @@ Terry Bozzio is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

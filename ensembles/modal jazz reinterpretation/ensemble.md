@@ -1,8 +1,8 @@
 # Ensemble: modal jazz reinterpretation
 
-## Pairing Context
+## Context
 
-This music is centered on modal jazz reinterpretation: modal jazz / post-bop. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is John Coltrane Quartet, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on modal jazz reinterpretation: modal jazz / post-bop. Listen for how the rhythm section, guitar, and harmony work together. Related listening: John Coltrane Quartet.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music is centered on modal jazz reinterpretation: modal jazz / post-bop. Li
 
 ## Jimmy Garrison
 
-Jimmy Garrison is a bassist associated with modal jazz, post-bop, avant-garde jazz. Musically, the important traits here are modal pedal points, spiritual-jazz grounding, long-form development, elastic time against dense drums. In this ensemble, that language is pointed toward modal jazz / post-bop, with John Coltrane Quartet as the broader listening world.
+Jimmy Garrison is a bassist associated with modal jazz, post-bop, avant-garde jazz. Musically, the important traits here are modal pedal points, spiritual-jazz grounding, long-form development, elastic time against dense drums. In this ensemble: modal jazz / post-bop. Related listening: John Coltrane Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | John Coltrane Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | John Coltrane Quartet | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Jimmy Garrison is a bassist associated with modal jazz, post-bop, avant-garde ja
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [India](https://open.spotify.com/search/India%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Crescent](https://open.spotify.com/search/Crescent%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Spiritual](https://open.spotify.com/search/Spiritual%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Spiritual](https://open.spotify.com/search/Spiritual%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Listen for how the player shapes and attacks each note. |
 | [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [So What](https://open.spotify.com/search/So%20What%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Track the pocket, note length, and how Jimmy Garrison makes the harmony feel grounded. |
 | [Impressions](https://open.spotify.com/search/Impressions%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Hair](https://open.spotify.com/search/Hair%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Hair](https://open.spotify.com/search/Hair%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Listen for how the player shapes and attacks each note. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Jimmy%20Garrison%20modal%20jazz%20reinterpretation) | Track the pocket, note length, and how Jimmy Garrison makes the harmony feel grounded. |
 
 ## Bill Frisell
 
-Bill Frisell is a guitarist associated with jazz, Americana, avant-garde, post-bop. Musically, the important traits here are modern jazz atmosphere, harmonic ambiguity, looping/texture vocabulary, spacious melodic control. In this ensemble, that language is pointed toward modal jazz / post-bop, with John Coltrane Quartet as the broader listening world.
+Bill Frisell is a guitarist associated with jazz, Americana, avant-garde, post-bop. Musically, the important traits here are modern jazz atmosphere, harmonic ambiguity, looping/texture vocabulary, spacious melodic control. In this ensemble: modal jazz / post-bop. Related listening: John Coltrane Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | John Coltrane Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | John Coltrane Quartet | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Bill Frisell is a guitarist associated with jazz, Americana, avant-garde, post-b
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [A Love Supreme, Pt. I: Acknowledgement](https://open.spotify.com/search/A%20Love%20Supreme%2C%20Pt.%20I%3A%20Acknowledgement%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Naima](https://open.spotify.com/search/Naima%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Naima](https://open.spotify.com/search/Naima%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for how the guitar fits the band. |
 | [Equinox](https://open.spotify.com/search/Equinox%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Focus on phrasing, tone, bends, and how Bill Frisell shapes the melodic argument. |
-| [India](https://open.spotify.com/search/India%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [India](https://open.spotify.com/search/India%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for how the rhythm guitar lays into the groove. |
 | [Crescent](https://open.spotify.com/search/Crescent%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Spiritual](https://open.spotify.com/search/Spiritual%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for how the guitar fits the band. |
 | [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Focus on phrasing, tone, bends, and how Bill Frisell shapes the melodic argument. |
-| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Listen for how the rhythm guitar lays into the groove. |
 | [Eruption](https://open.spotify.com/search/Eruption%20Bill%20Frisell%20modal%20jazz%20reinterpretation) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Elvin Jones
 
-Elvin Jones is a drummer whose playing helps shape this music. Listen for how the drum part affects modal jazz / post-bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is John Coltrane Quartet.
+Elvin Jones is a drummer whose playing helps shape this music. Listen for how the drum part affects modal jazz / post-bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is John Coltrane Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | John Coltrane Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | John Coltrane Quartet | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Elvin Jones is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Elvin Jones is a drummer whose playing helps shape this music. Listen for how th
 
 ## McCoy Tyner
 
-McCoy Tyner is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modal jazz / post-bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is John Coltrane Quartet.
+McCoy Tyner is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modal jazz / post-bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is John Coltrane Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | John Coltrane Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | John Coltrane Quartet | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,7 +129,7 @@ McCoy Tyner is a keyboard player whose playing helps shape this music. Listen fo
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -137,23 +137,23 @@ McCoy Tyner is a keyboard player whose playing helps shape this music. Listen fo
 | [Equinox](https://open.spotify.com/search/Equinox%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [India](https://open.spotify.com/search/India%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Crescent](https://open.spotify.com/search/Crescent%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Spiritual](https://open.spotify.com/search/Spiritual%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Spiritual](https://open.spotify.com/search/Spiritual%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Listen for how the keys support and color the arrangement. |
 | [Afro Blue](https://open.spotify.com/search/Afro%20Blue%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Aja](https://open.spotify.com/search/Aja%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Peg](https://open.spotify.com/search/Peg%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Riders on the Storm](https://open.spotify.com/search/Riders%20on%20the%20Storm%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Frankenstein](https://open.spotify.com/search/Frankenstein%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Frankenstein](https://open.spotify.com/search/Frankenstein%20McCoy%20Tyner%20modal%20jazz%20reinterpretation) | Listen for how the keys support and color the arrangement. |
 
 ## John Coltrane
 
-John Coltrane is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modal jazz / post-bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is John Coltrane Quartet.
+John Coltrane is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modal jazz / post-bop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is John Coltrane Quartet.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modal jazz reinterpretation | [Wikipedia][modal-jazz-reinterpretation-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | John Coltrane Quartet | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | John Coltrane Quartet | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ John Coltrane is a saxophonist whose playing helps shape this music. Listen for 
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

@@ -1,8 +1,8 @@
 # Ensemble: Billy Idol
 
-## Pairing Context
+## Context
 
-This music is centered on Billy Idol: hard rock / arena rock. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Van Halen / Billy Idol, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on Billy Idol: hard rock / arena rock. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Van Halen / Billy Idol.
 
 ## Players
 
@@ -17,14 +17,14 @@ This music is centered on Billy Idol: hard rock / arena rock. Listen for the mus
 
 ## Michael Anthony
 
-Michael Anthony is a bassist associated with hard rock, rock. Musically, the important traits here are supportive hard-rock pocket and vocal/bass coordination. In this ensemble, that language is pointed toward hard rock / arena rock, with Van Halen / Billy Idol as the broader listening world.
+Michael Anthony is a bassist associated with hard rock, rock. Musically, the important traits here are supportive hard-rock pocket and vocal/bass coordination. In this ensemble: hard rock / arena rock. Related listening: Van Halen / Billy Idol.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Van Halen / Billy Idol | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Van Halen / Billy Idol | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,31 +32,31 @@ Michael Anthony is a bassist associated with hard rock, rock. Musically, the imp
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Flesh for Fantasy](https://open.spotify.com/search/Flesh%20for%20Fantasy%20Michael%20Anthony%20Billy%20Idol) | Track the pocket, note length, and how Michael Anthony makes the harmony feel grounded. |
 | [Speed](https://open.spotify.com/search/Speed%20Michael%20Anthony%20Billy%20Idol) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Cradle of Love](https://open.spotify.com/search/Cradle%20of%20Love%20Michael%20Anthony%20Billy%20Idol) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [To Be a Lover](https://open.spotify.com/search/To%20Be%20a%20Lover%20Michael%20Anthony%20Billy%20Idol) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [To Be a Lover](https://open.spotify.com/search/To%20Be%20a%20Lover%20Michael%20Anthony%20Billy%20Idol) | Listen for how the player shapes and attacks each note. |
 | [Mony Mony](https://open.spotify.com/search/Mony%20Mony%20Michael%20Anthony%20Billy%20Idol) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Rebel Yell](https://open.spotify.com/search/Rebel%20Yell%20Michael%20Anthony%20Billy%20Idol) | Track the pocket, note length, and how Michael Anthony makes the harmony feel grounded. |
 | [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Michael%20Anthony%20Billy%20Idol) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [I Want You Back](https://open.spotify.com/search/I%20Want%20You%20Back%20Michael%20Anthony%20Billy%20Idol) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Michael%20Anthony%20Billy%20Idol) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Michael%20Anthony%20Billy%20Idol) | Listen for how the player shapes and attacks each note. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Michael%20Anthony%20Billy%20Idol) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Eddie Van Halen
 
-Eddie Van Halen is a guitarist associated with hard rock, heavy metal. Musically, the important traits here are two-hand tapping pioneer, whammy bar mastery, right-hand speed and precision, revolutionary rock vocabulary. In this ensemble, that language is pointed toward hard rock / arena rock, with Van Halen / Billy Idol as the broader listening world.
+Eddie Van Halen is a guitarist associated with hard rock, heavy metal. Musically, the important traits here are two-hand tapping pioneer, whammy bar mastery, right-hand speed and precision, revolutionary rock vocabulary. In this ensemble: hard rock / arena rock. Related listening: Van Halen / Billy Idol.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Van Halen / Billy Idol | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Van Halen / Billy Idol | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,31 +64,31 @@ Eddie Van Halen is a guitarist associated with hard rock, heavy metal. Musically
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Blue Highway](https://open.spotify.com/search/Blue%20Highway%20Eddie%20Van%20Halen%20Billy%20Idol) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blue Highway](https://open.spotify.com/search/Blue%20Highway%20Eddie%20Van%20Halen%20Billy%20Idol) | Listen for how the guitar fits the band. |
 | [Flesh for Fantasy](https://open.spotify.com/search/Flesh%20for%20Fantasy%20Eddie%20Van%20Halen%20Billy%20Idol) | Focus on phrasing, tone, bends, and how Eddie Van Halen shapes the melodic argument. |
-| [Speed](https://open.spotify.com/search/Speed%20Eddie%20Van%20Halen%20Billy%20Idol) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Speed](https://open.spotify.com/search/Speed%20Eddie%20Van%20Halen%20Billy%20Idol) | Listen for how the rhythm guitar lays into the groove. |
 | [Cradle of Love](https://open.spotify.com/search/Cradle%20of%20Love%20Eddie%20Van%20Halen%20Billy%20Idol) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [To Be a Lover](https://open.spotify.com/search/To%20Be%20a%20Lover%20Eddie%20Van%20Halen%20Billy%20Idol) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mony Mony](https://open.spotify.com/search/Mony%20Mony%20Eddie%20Van%20Halen%20Billy%20Idol) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Mony Mony](https://open.spotify.com/search/Mony%20Mony%20Eddie%20Van%20Halen%20Billy%20Idol) | Listen for how the guitar fits the band. |
 | [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Eddie%20Van%20Halen%20Billy%20Idol) | Focus on phrasing, tone, bends, and how Eddie Van Halen shapes the melodic argument. |
-| [Red House](https://open.spotify.com/search/Red%20House%20Eddie%20Van%20Halen%20Billy%20Idol) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Eddie%20Van%20Halen%20Billy%20Idol) | Listen for how the rhythm guitar lays into the groove. |
 | [La Grange](https://open.spotify.com/search/La%20Grange%20Eddie%20Van%20Halen%20Billy%20Idol) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Eddie%20Van%20Halen%20Billy%20Idol) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Steve Stevens
 
-Steve Stevens is a guitarist associated with hard rock, rock. Musically, the important traits here are melodic rock lead, orchestral layering, vibrato bar vocabulary. In this ensemble, that language is pointed toward hard rock / arena rock, with Van Halen / Billy Idol as the broader listening world.
+Steve Stevens is a guitarist associated with hard rock, rock. Musically, the important traits here are melodic rock lead, orchestral layering, vibrato bar vocabulary. In this ensemble: hard rock / arena rock. Related listening: Van Halen / Billy Idol.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Van Halen / Billy Idol | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Van Halen / Billy Idol | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,31 +96,31 @@ Steve Stevens is a guitarist associated with hard rock, rock. Musically, the imp
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Rebel Yell](https://open.spotify.com/search/Rebel%20Yell%20Steve%20Stevens%20Billy%20Idol) | Focus on phrasing, tone, bends, and how Steve Stevens shapes the melodic argument. |
-| [White Wedding](https://open.spotify.com/search/White%20Wedding%20Steve%20Stevens%20Billy%20Idol) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [White Wedding](https://open.spotify.com/search/White%20Wedding%20Steve%20Stevens%20Billy%20Idol) | Listen for how the rhythm guitar lays into the groove. |
 | [Eyes Without a Face](https://open.spotify.com/search/Eyes%20Without%20a%20Face%20Steve%20Stevens%20Billy%20Idol) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Dancing with Myself](https://open.spotify.com/search/Dancing%20with%20Myself%20Steve%20Stevens%20Billy%20Idol) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Blue Highway](https://open.spotify.com/search/Blue%20Highway%20Steve%20Stevens%20Billy%20Idol) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blue Highway](https://open.spotify.com/search/Blue%20Highway%20Steve%20Stevens%20Billy%20Idol) | Listen for how the guitar fits the band. |
 | [Flesh for Fantasy](https://open.spotify.com/search/Flesh%20for%20Fantasy%20Steve%20Stevens%20Billy%20Idol) | Focus on phrasing, tone, bends, and how Steve Stevens shapes the melodic argument. |
-| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Steve%20Stevens%20Billy%20Idol) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Steve%20Stevens%20Billy%20Idol) | Listen for how the rhythm guitar lays into the groove. |
 | [Europa](https://open.spotify.com/search/Europa%20Steve%20Stevens%20Billy%20Idol) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Steve%20Stevens%20Billy%20Idol) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Crossroads](https://open.spotify.com/search/Crossroads%20Steve%20Stevens%20Billy%20Idol) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Crossroads](https://open.spotify.com/search/Crossroads%20Steve%20Stevens%20Billy%20Idol) | Listen for how the guitar fits the band. |
 
 ## Alex Van Halen
 
-Alex Van Halen is a drummer whose playing helps shape this music. Listen for how the drum part affects hard rock / arena rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Van Halen / Billy Idol.
+Alex Van Halen is a drummer whose playing helps shape this music. Listen for how the drum part affects hard rock / arena rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Van Halen / Billy Idol.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Billy Idol | [Wikipedia][billy-idol-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Van Halen / Billy Idol | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Van Halen / Billy Idol | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,7 +128,7 @@ Alex Van Halen is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

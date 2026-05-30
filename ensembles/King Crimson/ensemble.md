@@ -1,8 +1,8 @@
 # Ensemble: King Crimson
 
-## Pairing Context
+## Context
 
-This music lives in the King Crimson world: art rock / progressive metal / experimental rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Liquid Tension Experiment / King Crimson / Peter Gabriel help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the King Crimson world: art rock / progressive metal / experimental rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Liquid Tension Experiment / King Crimson / Peter Gabriel help give you a feel for the style.
 
 ## Players
 
@@ -21,14 +21,14 @@ This music lives in the King Crimson world: art rock / progressive metal / exper
 
 ## Tony Levin
 
-Tony Levin is a bassist associated with art rock, progressive rock, progressive metal, session. Musically, the important traits here are Chapman Stick, fretless and fretted art-rock command, odd-meter precision, session adaptability. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
+Tony Levin is a bassist associated with art rock, progressive rock, progressive metal, session. Musically, the important traits here are Chapman Stick, fretless and fretted art-rock command, odd-meter precision, session adaptability. In this ensemble: art rock / progressive metal / experimental rock. Related listening: Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Crimson | [Wikipedia][king-crimson-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -36,16 +36,16 @@ Tony Levin is a bassist associated with art rock, progressive rock, progressive 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Frame by Frame](https://open.spotify.com/search/Frame%20by%20Frame%20Tony%20Levin%20King%20Crimson) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Frame by Frame](https://open.spotify.com/search/Frame%20by%20Frame%20Tony%20Levin%20King%20Crimson) | Listen for how the player shapes and attacks each note. |
 | [Discipline](https://open.spotify.com/search/Discipline%20Tony%20Levin%20King%20Crimson) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Elephant Talk](https://open.spotify.com/search/Elephant%20Talk%20Tony%20Levin%20King%20Crimson) | Track the pocket, note length, and how Tony Levin grounds the harmony. |
 | [Thela Hun Ginjeet](https://open.spotify.com/search/Thela%20Hun%20Ginjeet%20Tony%20Levin%20King%20Crimson) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Matte Kudasai](https://open.spotify.com/search/Matte%20Kudasai%20Tony%20Levin%20King%20Crimson) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Indiscipline](https://open.spotify.com/search/Indiscipline%20Tony%20Levin%20King%20Crimson) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Indiscipline](https://open.spotify.com/search/Indiscipline%20Tony%20Levin%20King%20Crimson) | Listen for how the player shapes and attacks each note. |
 | [Starless](https://open.spotify.com/search/Starless%20Tony%20Levin%20King%20Crimson) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Easy Money](https://open.spotify.com/search/Easy%20Money%20Tony%20Levin%20King%20Crimson) | Track the pocket, note length, and how Tony Levin grounds the harmony. |
 | [Fracture](https://open.spotify.com/search/Fracture%20Tony%20Levin%20King%20Crimson) | Focus on movement between chord roots, anticipations, and section lift. |
@@ -53,14 +53,14 @@ Tony Levin is a bassist associated with art rock, progressive rock, progressive 
 
 ## John Petrucci
 
-John Petrucci is a guitarist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
+John Petrucci is a guitarist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. In this ensemble: art rock / progressive metal / experimental rock. Related listening: Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Crimson | [Wikipedia][king-crimson-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -68,18 +68,18 @@ John Petrucci is a guitarist associated with progressive metal, hard rock. Music
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Matte Kudasai](https://open.spotify.com/search/Matte%20Kudasai%20John%20Petrucci%20King%20Crimson) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Indiscipline](https://open.spotify.com/search/Indiscipline%20John%20Petrucci%20King%20Crimson) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Starless](https://open.spotify.com/search/Starless%20John%20Petrucci%20King%20Crimson) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Starless](https://open.spotify.com/search/Starless%20John%20Petrucci%20King%20Crimson) | Listen for comping choices and the way guitar defines the band sound. |
 | [Easy Money](https://open.spotify.com/search/Easy%20Money%20John%20Petrucci%20King%20Crimson) | Focus on phrasing, tone, bends, and how John Petrucci shapes the melodic argument. |
 | [Fracture](https://open.spotify.com/search/Fracture%20John%20Petrucci%20King%20Crimson) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [One More Red Nightmare](https://open.spotify.com/search/One%20More%20Red%20Nightmare%20John%20Petrucci%20King%20Crimson) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Neal and Jack and Me](https://open.spotify.com/search/Neal%20and%20Jack%20and%20Me%20John%20Petrucci%20King%20Crimson) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Sleepless](https://open.spotify.com/search/Sleepless%20John%20Petrucci%20King%20Crimson) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Sleepless](https://open.spotify.com/search/Sleepless%20John%20Petrucci%20King%20Crimson) | Listen for comping choices and the way guitar defines the band sound. |
 | [Three of a Perfect Pair](https://open.spotify.com/search/Three%20of%20a%20Perfect%20Pair%20John%20Petrucci%20King%20Crimson) | Focus on phrasing, tone, bends, and how John Petrucci shapes the melodic argument. |
 | [VROOOM](https://open.spotify.com/search/VROOOM%20John%20Petrucci%20King%20Crimson) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 
@@ -92,7 +92,7 @@ American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, T
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Crimson | [Wikipedia][king-crimson-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -101,31 +101,31 @@ American guitarist, singer, and songwriter known for Frank Zappa, David Bowie, T
 | Guitars | Parker Fly, Fender Strat-style guitars, signature models |
 | Effects | Whammy, delay, looping, synth-style guitar processing |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Level Five](https://open.spotify.com/search/Level%20Five%20Adrian%20Belew%20King%20Crimson) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [The ConstruKction of Light](https://open.spotify.com/search/The%20ConstruKction%20of%20Light%20Adrian%20Belew%20King%20Crimson) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [The ConstruKction of Light](https://open.spotify.com/search/The%20ConstruKction%20of%20Light%20Adrian%20Belew%20King%20Crimson) | Listen for comping choices and the way guitar defines the band sound. |
 | [21st Century Schizoid Man](https://open.spotify.com/search/21st%20Century%20Schizoid%20Man%20Adrian%20Belew%20King%20Crimson) | Focus on phrasing, tone, bends, and how Adrian Belew shapes the melodic argument. |
 | [Larks' Tongues in Aspic, Part Two](https://open.spotify.com/search/Larks%27%20Tongues%20in%20Aspic%2C%20Part%20Two%20Adrian%20Belew%20King%20Crimson) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Red](https://open.spotify.com/search/Red%20Adrian%20Belew%20King%20Crimson) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Frame by Frame](https://open.spotify.com/search/Frame%20by%20Frame%20Adrian%20Belew%20King%20Crimson) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Discipline](https://open.spotify.com/search/Discipline%20Adrian%20Belew%20King%20Crimson) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Discipline](https://open.spotify.com/search/Discipline%20Adrian%20Belew%20King%20Crimson) | Listen for comping choices and the way guitar defines the band sound. |
 | [Elephant Talk](https://open.spotify.com/search/Elephant%20Talk%20Adrian%20Belew%20King%20Crimson) | Focus on phrasing, tone, bends, and how Adrian Belew shapes the melodic argument. |
 | [Thela Hun Ginjeet](https://open.spotify.com/search/Thela%20Hun%20Ginjeet%20Adrian%20Belew%20King%20Crimson) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Matte Kudasai](https://open.spotify.com/search/Matte%20Kudasai%20Adrian%20Belew%20King%20Crimson) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## David Rhodes
 
-David Rhodes is a guitarist associated with art pop, art rock, session. Musically, the important traits here are Peter Gabriel art-pop texture, atmospheric rhythm guitar, song-serving lead color. In this ensemble, that language is pointed toward art rock / progressive metal / experimental rock, with Liquid Tension Experiment / King Crimson / Peter Gabriel as the broader listening world.
+David Rhodes is a guitarist associated with art pop, art rock, session. Musically, the important traits here are Peter Gabriel art-pop texture, atmospheric rhythm guitar, song-serving lead color. In this ensemble: art rock / progressive metal / experimental rock. Related listening: Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Crimson | [Wikipedia][king-crimson-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -133,7 +133,7 @@ David Rhodes is a guitarist associated with art pop, art rock, session. Musicall
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -141,23 +141,23 @@ David Rhodes is a guitarist associated with art pop, art rock, session. Musicall
 | [Thela Hun Ginjeet](https://open.spotify.com/search/Thela%20Hun%20Ginjeet%20David%20Rhodes%20King%20Crimson) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Matte Kudasai](https://open.spotify.com/search/Matte%20Kudasai%20David%20Rhodes%20King%20Crimson) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Indiscipline](https://open.spotify.com/search/Indiscipline%20David%20Rhodes%20King%20Crimson) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Starless](https://open.spotify.com/search/Starless%20David%20Rhodes%20King%20Crimson) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Starless](https://open.spotify.com/search/Starless%20David%20Rhodes%20King%20Crimson) | Listen for comping choices and the way guitar defines the band sound. |
 | [Easy Money](https://open.spotify.com/search/Easy%20Money%20David%20Rhodes%20King%20Crimson) | Focus on phrasing, tone, bends, and how David Rhodes shapes the melodic argument. |
 | [Fracture](https://open.spotify.com/search/Fracture%20David%20Rhodes%20King%20Crimson) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [One More Red Nightmare](https://open.spotify.com/search/One%20More%20Red%20Nightmare%20David%20Rhodes%20King%20Crimson) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Neal and Jack and Me](https://open.spotify.com/search/Neal%20and%20Jack%20and%20Me%20David%20Rhodes%20King%20Crimson) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Sleepless](https://open.spotify.com/search/Sleepless%20David%20Rhodes%20King%20Crimson) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Sleepless](https://open.spotify.com/search/Sleepless%20David%20Rhodes%20King%20Crimson) | Listen for comping choices and the way guitar defines the band sound. |
 
 ## Mike Portnoy
 
-Mike Portnoy is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Mike Portnoy is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Crimson | [Wikipedia][king-crimson-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -165,7 +165,7 @@ Mike Portnoy is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -182,14 +182,14 @@ Mike Portnoy is a drummer whose playing helps shape this music. Listen for how t
 
 ## Pat Mastelotto
 
-Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how the drum part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Crimson | [Wikipedia][king-crimson-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -197,7 +197,7 @@ Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -214,14 +214,14 @@ Pat Mastelotto is a drummer whose playing helps shape this music. Listen for how
 
 ## Jordan Rudess
 
-Jordan Rudess is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Jordan Rudess is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Crimson | [Wikipedia][king-crimson-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -229,31 +229,31 @@ Jordan Rudess is a keyboard player whose playing helps shape this music. Listen 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Easy Money](https://open.spotify.com/search/Easy%20Money%20Jordan%20Rudess%20King%20Crimson) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Fracture](https://open.spotify.com/search/Fracture%20Jordan%20Rudess%20King%20Crimson) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [One More Red Nightmare](https://open.spotify.com/search/One%20More%20Red%20Nightmare%20Jordan%20Rudess%20King%20Crimson) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Neal and Jack and Me](https://open.spotify.com/search/Neal%20and%20Jack%20and%20Me%20Jordan%20Rudess%20King%20Crimson) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Neal and Jack and Me](https://open.spotify.com/search/Neal%20and%20Jack%20and%20Me%20Jordan%20Rudess%20King%20Crimson) | Listen for how the keys support and color the arrangement. |
 | [Sleepless](https://open.spotify.com/search/Sleepless%20Jordan%20Rudess%20King%20Crimson) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Three of a Perfect Pair](https://open.spotify.com/search/Three%20of%20a%20Perfect%20Pair%20Jordan%20Rudess%20King%20Crimson) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [VROOOM](https://open.spotify.com/search/VROOOM%20Jordan%20Rudess%20King%20Crimson) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Dinosaur](https://open.spotify.com/search/Dinosaur%20Jordan%20Rudess%20King%20Crimson) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Level Five](https://open.spotify.com/search/Level%20Five%20Jordan%20Rudess%20King%20Crimson) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Level Five](https://open.spotify.com/search/Level%20Five%20Jordan%20Rudess%20King%20Crimson) | Listen for how the keys support and color the arrangement. |
 | [The ConstruKction of Light](https://open.spotify.com/search/The%20ConstruKction%20of%20Light%20Jordan%20Rudess%20King%20Crimson) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## Mel Collins
 
-Mel Collins is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Liquid Tension Experiment / King Crimson / Peter Gabriel.
+Mel Collins is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects art rock / progressive metal / experimental rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Liquid Tension Experiment / King Crimson / Peter Gabriel.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Crimson | [Wikipedia][king-crimson-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Liquid Tension Experiment / King Crimson / Peter Gabriel | — | — | Related artists. |
 
 ### Known Gear
 
@@ -261,17 +261,17 @@ Mel Collins is a saxophonist whose playing helps shape this music. Listen for ho
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [One More Red Nightmare](https://open.spotify.com/search/One%20More%20Red%20Nightmare%20Mel%20Collins%20King%20Crimson) | Track the arrangement function: contrast, lift, transition, or counterline. |
-| [Neal and Jack and Me](https://open.spotify.com/search/Neal%20and%20Jack%20and%20Me%20Mel%20Collins%20King%20Crimson) | Use this as a reference for idiomatic placement inside the style. |
+| [Neal and Jack and Me](https://open.spotify.com/search/Neal%20and%20Jack%20and%20Me%20Mel%20Collins%20King%20Crimson) | Use this as a reference for how it fits the style. |
 | [Sleepless](https://open.spotify.com/search/Sleepless%20Mel%20Collins%20King%20Crimson) | Listen for how this voice interacts with bass, drums, and guitar. |
 | [Three of a Perfect Pair](https://open.spotify.com/search/Three%20of%20a%20Perfect%20Pair%20Mel%20Collins%20King%20Crimson) | Focus on role-specific color and how it changes the ensemble conversation. |
 | [VROOOM](https://open.spotify.com/search/VROOOM%20Mel%20Collins%20King%20Crimson) | Listen for phrasing, placement, and how the part supports the groove. |
 | [Dinosaur](https://open.spotify.com/search/Dinosaur%20Mel%20Collins%20King%20Crimson) | Track the arrangement function: contrast, lift, transition, or counterline. |
-| [Level Five](https://open.spotify.com/search/Level%20Five%20Mel%20Collins%20King%20Crimson) | Use this as a reference for idiomatic placement inside the style. |
+| [Level Five](https://open.spotify.com/search/Level%20Five%20Mel%20Collins%20King%20Crimson) | Use this as a reference for how it fits the style. |
 | [The ConstruKction of Light](https://open.spotify.com/search/The%20ConstruKction%20of%20Light%20Mel%20Collins%20King%20Crimson) | Listen for how this voice interacts with bass, drums, and guitar. |
 | [21st Century Schizoid Man](https://open.spotify.com/search/21st%20Century%20Schizoid%20Man%20Mel%20Collins%20King%20Crimson) | Focus on role-specific color and how it changes the ensemble conversation. |
 | [Larks' Tongues in Aspic, Part Two](https://open.spotify.com/search/Larks%27%20Tongues%20in%20Aspic%2C%20Part%20Two%20Mel%20Collins%20King%20Crimson) | Listen for phrasing, placement, and how the part supports the groove. |

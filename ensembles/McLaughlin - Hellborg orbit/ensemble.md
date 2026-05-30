@@ -1,8 +1,8 @@
 # Ensemble: McLaughlin / Hellborg orbit
 
-## Pairing Context
+## Context
 
-This music is centered on McLaughlin / Hellborg orbit: avant-garde jazz fusion. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is McLaughlin / Hellborg / Shakti orbit, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on McLaughlin / Hellborg orbit: avant-garde jazz fusion. Listen for how the rhythm section, guitar, and harmony work together. Related listening: McLaughlin / Hellborg / Shakti orbit.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music is centered on McLaughlin / Hellborg orbit: avant-garde jazz fusion. 
 
 ## Jonas Hellborg
 
-Jonas Hellborg is a bassist associated with jazz fusion, avant-garde, world fusion, progressive. Musically, the important traits here are solo bass virtuosity, bowed bass technique, harmonic depth, extraordinary technical facility. In this ensemble, that language is pointed toward avant-garde jazz fusion, with McLaughlin / Hellborg / Shakti orbit as the broader listening world.
+Jonas Hellborg is a bassist associated with jazz fusion, avant-garde, world fusion, progressive. Musically, the important traits here are solo bass virtuosity, bowed bass technique, harmonic depth, extraordinary technical facility. In this ensemble: avant-garde jazz fusion. Related listening: McLaughlin / Hellborg / Shakti orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Jonas Hellborg is a bassist associated with jazz fusion, avant-garde, world fusi
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Zakir](https://open.spotify.com/search/Zakir%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Mother Tongues](https://open.spotify.com/search/Mother%20Tongues%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Mother Tongues](https://open.spotify.com/search/Mother%20Tongues%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Listen for how the player shapes and attacks each note. |
 | [Are You the One? Are You the One?](https://open.spotify.com/search/Are%20You%20the%20One%3F%20Are%20You%20the%20One%3F%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Three Sisters](https://open.spotify.com/search/Three%20Sisters%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Track the pocket, note length, and how Jonas Hellborg makes the harmony feel grounded. |
 | [The Word](https://open.spotify.com/search/The%20Word%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Five Peace Band](https://open.spotify.com/search/Five%20Peace%20Band%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Listen for how the player shapes and attacks each note. |
 | [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Continuum](https://open.spotify.com/search/Continuum%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Track the pocket, note length, and how Jonas Hellborg makes the harmony feel grounded. |
 | [Stratus](https://open.spotify.com/search/Stratus%20Jonas%20Hellborg%20McLaughlin%20/%20Hellborg%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## John McLaughlin
 
-John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble, that language is pointed toward avant-garde jazz fusion, with McLaughlin / Hellborg / Shakti orbit as the broader listening world.
+John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble: avant-garde jazz fusion. Related listening: McLaughlin / Hellborg / Shakti orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ John McLaughlin is a guitarist associated with jazz fusion, Indian classical fus
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [A Meeting of the Spirits](https://open.spotify.com/search/A%20Meeting%20of%20the%20Spirits%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [A Meeting of the Spirits](https://open.spotify.com/search/A%20Meeting%20of%20the%20Spirits%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Zakir](https://open.spotify.com/search/Zakir%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Mother Tongues](https://open.spotify.com/search/Mother%20Tongues%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Are You the One? Are You the One?](https://open.spotify.com/search/Are%20You%20the%20One%3F%20Are%20You%20the%20One%3F%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Are You the One? Are You the One?](https://open.spotify.com/search/Are%20You%20the%20One%3F%20Are%20You%20the%20One%3F%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Listen for how the guitar fits the band. |
 | [Three Sisters](https://open.spotify.com/search/Three%20Sisters%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
-| [The Word](https://open.spotify.com/search/The%20Word%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Word](https://open.spotify.com/search/The%20Word%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Black Star](https://open.spotify.com/search/Black%20Star%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Scarified](https://open.spotify.com/search/Scarified%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Scarified](https://open.spotify.com/search/Scarified%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Listen for how the guitar fits the band. |
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20John%20McLaughlin%20McLaughlin%20/%20Hellborg%20orbit) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
 
 ## Tony Williams
 
-Tony Williams is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-garde jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is McLaughlin / Hellborg / Shakti orbit.
+Tony Williams is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-garde jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is McLaughlin / Hellborg / Shakti orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Tony Williams is a drummer whose playing helps shape this music. Listen for how 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Tony Williams is a drummer whose playing helps shape this music. Listen for how 
 
 ## Zakir Hussain
 
-Zakir Hussain is a tabla player whose playing helps shape this music. Listen for how the tabla part affects avant-garde jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is McLaughlin / Hellborg / Shakti orbit.
+Zakir Hussain is a tabla player whose playing helps shape this music. Listen for how the tabla part affects avant-garde jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is McLaughlin / Hellborg / Shakti orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,7 +129,7 @@ Zakir Hussain is a tabla player whose playing helps shape this music. Listen for
 |---|---|
 | Tabla | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -146,14 +146,14 @@ Zakir Hussain is a tabla player whose playing helps shape this music. Listen for
 
 ## L. Shankar
 
-L. Shankar is a violinist whose playing helps shape this music. Listen for how the violin part affects avant-garde jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is McLaughlin / Hellborg / Shakti orbit.
+L. Shankar is a violinist whose playing helps shape this music. Listen for how the violin part affects avant-garde jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is McLaughlin / Hellborg / Shakti orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | McLaughlin / Hellborg orbit | [Wikipedia][mclaughlin-hellborg-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | McLaughlin / Hellborg / Shakti orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,16 +161,16 @@ L. Shankar is a violinist whose playing helps shape this music. Listen for how t
 |---|---|
 | Violin | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Three Sisters](https://open.spotify.com/search/Three%20Sisters%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [Three Sisters](https://open.spotify.com/search/Three%20Sisters%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Focus on sustain, attack, ornament, and how the violin changes the band sound. |
 | [The Word](https://open.spotify.com/search/The%20Word%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Listen for long-line phrasing against denser rhythm-section motion. |
 | [Five Peace Band](https://open.spotify.com/search/Five%20Peace%20Band%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
 | [Jazz Jungle](https://open.spotify.com/search/Jazz%20Jungle%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Use this for modal color, melodic contour, and textural contrast. |
 | [Lotus Feet](https://open.spotify.com/search/Lotus%20Feet%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Listen for how the violin functions as lead voice without losing ensemble balance. |
-| [Black Light](https://open.spotify.com/search/Black%20Light%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [Black Light](https://open.spotify.com/search/Black%20Light%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Focus on sustain, attack, ornament, and how the violin changes the band sound. |
 | [Daphne](https://open.spotify.com/search/Daphne%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Listen for long-line phrasing against denser rhythm-section motion. |
 | [Nuages](https://open.spotify.com/search/Nuages%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
 | [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20L.%20Shankar%20McLaughlin%20/%20Hellborg%20orbit) | Use this for modal color, melodic contour, and textural contrast. |

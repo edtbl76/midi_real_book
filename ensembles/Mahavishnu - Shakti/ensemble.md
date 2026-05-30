@@ -1,6 +1,6 @@
 # Ensemble: Mahavishnu / Shakti
 
-## Pairing Context
+## Context
 
 This music lives in the Mahavishnu / Shakti world: jazz fusion / Indian fusion / world fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -18,14 +18,14 @@ This music lives in the Mahavishnu / Shakti world: jazz fusion / Indian fusion /
 
 ## Dominique Di Piazza
 
-Dominique Di Piazza is a bassist associated with jazz fusion, avant-garde, electric jazz. Musically, the important traits here are lightning-speed fretless articulation, chromatic fusion language, three-finger picking precision. In this ensemble, that language is pointed toward jazz fusion / Indian fusion / world fusion, with Mahavishnu / Shakti as the broader listening world.
+Dominique Di Piazza is a bassist associated with jazz fusion, avant-garde, electric jazz. Musically, the important traits here are lightning-speed fretless articulation, chromatic fusion language, three-finger picking precision. In this ensemble: jazz fusion / Indian fusion / world fusion. Related listening: Mahavishnu / Shakti.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mahavishnu / Shakti | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mahavishnu / Shakti | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Dominique Di Piazza is a bassist associated with jazz fusion, avant-garde, elect
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Listen for how the player shapes and attacks each note. |
 | [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Track the pocket, note length, and how Dominique Di Piazza makes the harmony feel grounded. |
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Dance of Maya](https://open.spotify.com/search/Dance%20of%20Maya%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Listen for how the player shapes and attacks each note. |
 | [I Want You Back](https://open.spotify.com/search/I%20Want%20You%20Back%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Track the pocket, note length, and how Dominique Di Piazza makes the harmony feel grounded. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Dominique%20Di%20Piazza%20Mahavishnu%20/%20Shakti) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## John McLaughlin
 
-John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble, that language is pointed toward jazz fusion / Indian fusion / world fusion, with Mahavishnu / Shakti as the broader listening world.
+John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble: jazz fusion / Indian fusion / world fusion. Related listening: Mahavishnu / Shakti.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mahavishnu / Shakti | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mahavishnu / Shakti | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ John McLaughlin is a guitarist associated with jazz fusion, Indian classical fus
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [What Need Have I for This](https://open.spotify.com/search/What%20Need%20Have%20I%20for%20This%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
-| [La Danse du Bonheur](https://open.spotify.com/search/La%20Danse%20du%20Bonheur%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [La Danse du Bonheur](https://open.spotify.com/search/La%20Danse%20du%20Bonheur%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for how the rhythm guitar lays into the groove. |
 | [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for how the guitar fits the band. |
 | [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
-| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for how the rhythm guitar lays into the groove. |
 | [Scarified](https://open.spotify.com/search/Scarified%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20John%20McLaughlin%20Mahavishnu%20/%20Shakti) | Listen for how the guitar fits the band. |
 
 ## Trilok Gurtu
 
-Trilok Gurtu is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / Indian fusion / world fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mahavishnu / Shakti.
+Trilok Gurtu is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / Indian fusion / world fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Mahavishnu / Shakti.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mahavishnu / Shakti | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mahavishnu / Shakti | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Trilok Gurtu is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Trilok Gurtu is a drummer whose playing helps shape this music. Listen for how t
 
 ## L. Shankar
 
-L. Shankar is a violinist whose playing helps shape this music. Listen for how the violin part affects jazz fusion / Indian fusion / world fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mahavishnu / Shakti.
+L. Shankar is a violinist whose playing helps shape this music. Listen for how the violin part affects jazz fusion / Indian fusion / world fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Mahavishnu / Shakti.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mahavishnu / Shakti | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mahavishnu / Shakti | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ L. Shankar is a violinist whose playing helps shape this music. Listen for how t
 |---|---|
 | Violin | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Natural Elements](https://open.spotify.com/search/Natural%20Elements%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
 | [Mind Ecology](https://open.spotify.com/search/Mind%20Ecology%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Use this for modal color, melodic contour, and textural contrast. |
 | [Peace of Mind](https://open.spotify.com/search/Peace%20of%20Mind%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Listen for how the violin functions as lead voice without losing ensemble balance. |
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Focus on sustain, attack, ornament, and how the violin changes the band sound. |
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Listen for long-line phrasing against denser rhythm-section motion. |
 | [Dance of Maya](https://open.spotify.com/search/Dance%20of%20Maya%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
 | [The Dance of Maya](https://open.spotify.com/search/The%20Dance%20of%20Maya%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Use this for modal color, melodic contour, and textural contrast. |
 | [Hymn to Him](https://open.spotify.com/search/Hymn%20to%20Him%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Listen for how the violin functions as lead voice without losing ensemble balance. |
-| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Focus on sustain, attack, ornament, and how the violin changes the band sound. |
 | [Caesar's Palace Blues](https://open.spotify.com/search/Caesar%27s%20Palace%20Blues%20L.%20Shankar%20Mahavishnu%20/%20Shakti) | Listen for long-line phrasing against denser rhythm-section motion. |
 
 ## Zakir Hussain
 
-Zakir Hussain is a tabla player whose playing helps shape this music. Listen for how the tabla part affects jazz fusion / Indian fusion / world fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mahavishnu / Shakti.
+Zakir Hussain is a tabla player whose playing helps shape this music. Listen for how the tabla part affects jazz fusion / Indian fusion / world fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Mahavishnu / Shakti.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu / Shakti | [Wikipedia][mahavishnu-shakti-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mahavishnu / Shakti | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mahavishnu / Shakti | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Zakir Hussain is a tabla player whose playing helps shape this music. Listen for
 |---|---|
 | Tabla | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

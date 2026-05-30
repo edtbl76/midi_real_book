@@ -1,8 +1,8 @@
 # Ensemble: John Mayer Trio
 
-## Pairing Context
+## Context
 
-This music is centered on John Mayer Trio: soul / neo-soul. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is D'Angelo / John Mayer Trio, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on John Mayer Trio: soul / neo-soul. Listen for how the rhythm section, guitar, and harmony work together. Related listening: D'Angelo / John Mayer Trio.
 
 ## Players
 
@@ -20,14 +20,14 @@ This music is centered on John Mayer Trio: soul / neo-soul. Listen for the music
 
 ## Pino Palladino
 
-Pino Palladino is a bassist associated with R&B, soul, session, rock. Musically, the important traits here are fretless phrasing, expressive timing, advanced pocket control. In this ensemble, that language is pointed toward soul / neo-soul, with D'Angelo / John Mayer Trio as the broader listening world.
+Pino Palladino is a bassist associated with R&B, soul, session, rock. Musically, the important traits here are fretless phrasing, expressive timing, advanced pocket control. In this ensemble: soul / neo-soul. Related listening: D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | John Mayer Trio | [Wikipedia][john-mayer-trio-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Related artists. |
 
 ### Known Gear
 
@@ -35,16 +35,16 @@ Pino Palladino is a bassist associated with R&B, soul, session, rock. Musically,
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [I Got a Woman](https://open.spotify.com/search/I%20Got%20a%20Woman%20Pino%20Palladino%20John%20Mayer%20Trio) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [I Got a Woman](https://open.spotify.com/search/I%20Got%20a%20Woman%20Pino%20Palladino%20John%20Mayer%20Trio) | Listen for how the player shapes and attacks each note. |
 | [Another Kind of Green](https://open.spotify.com/search/Another%20Kind%20of%20Green%20Pino%20Palladino%20John%20Mayer%20Trio) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Who Did You Think I Was](https://open.spotify.com/search/Who%20Did%20You%20Think%20I%20Was%20Pino%20Palladino%20John%20Mayer%20Trio) | Track the pocket, note length, and how Pino Palladino makes the harmony feel grounded. |
 | [Good Love Is on the Way](https://open.spotify.com/search/Good%20Love%20Is%20on%20the%20Way%20Pino%20Palladino%20John%20Mayer%20Trio) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Vultures](https://open.spotify.com/search/Vultures%20Pino%20Palladino%20John%20Mayer%20Trio) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Gravity](https://open.spotify.com/search/Gravity%20Pino%20Palladino%20John%20Mayer%20Trio) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Gravity](https://open.spotify.com/search/Gravity%20Pino%20Palladino%20John%20Mayer%20Trio) | Listen for how the player shapes and attacks each note. |
 | [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Pino%20Palladino%20John%20Mayer%20Trio) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Hair](https://open.spotify.com/search/Hair%20Pino%20Palladino%20John%20Mayer%20Trio) | Track the pocket, note length, and how Pino Palladino makes the harmony feel grounded. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Pino%20Palladino%20John%20Mayer%20Trio) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
@@ -52,14 +52,14 @@ Pino Palladino is a bassist associated with R&B, soul, session, rock. Musically,
 
 ## John Mayer
 
-John Mayer is a guitarist associated with pop-blues, blues-rock, pop. Musically, the important traits here are blues execution at genuinely high level, SRV-influenced vocabulary developed into demanding personal language. In this ensemble, that language is pointed toward soul / neo-soul, with D'Angelo / John Mayer Trio as the broader listening world.
+John Mayer is a guitarist associated with pop-blues, blues-rock, pop. Musically, the important traits here are blues execution at genuinely high level, SRV-influenced vocabulary developed into demanding personal language. In this ensemble: soul / neo-soul. Related listening: D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | John Mayer Trio | [Wikipedia][john-mayer-trio-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Related artists. |
 
 ### Known Gear
 
@@ -67,31 +67,31 @@ John Mayer is a guitarist associated with pop-blues, blues-rock, pop. Musically,
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Gravity](https://open.spotify.com/search/Gravity%20John%20Mayer%20John%20Mayer%20Trio) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Everyday I Have the Blues](https://open.spotify.com/search/Everyday%20I%20Have%20the%20Blues%20John%20Mayer%20John%20Mayer%20Trio) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Everyday I Have the Blues](https://open.spotify.com/search/Everyday%20I%20Have%20the%20Blues%20John%20Mayer%20John%20Mayer%20Trio) | Listen for how the guitar fits the band. |
 | [Wait Until Tomorrow](https://open.spotify.com/search/Wait%20Until%20Tomorrow%20John%20Mayer%20John%20Mayer%20Trio) | Focus on phrasing, tone, bends, and how John Mayer shapes the melodic argument. |
-| [Out of My Mind](https://open.spotify.com/search/Out%20of%20My%20Mind%20John%20Mayer%20John%20Mayer%20Trio) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Out of My Mind](https://open.spotify.com/search/Out%20of%20My%20Mind%20John%20Mayer%20John%20Mayer%20Trio) | Listen for how the rhythm guitar lays into the groove. |
 | [Try](https://open.spotify.com/search/Try%20John%20Mayer%20John%20Mayer%20Trio) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [I Got a Woman](https://open.spotify.com/search/I%20Got%20a%20Woman%20John%20Mayer%20John%20Mayer%20Trio) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Red House](https://open.spotify.com/search/Red%20House%20John%20Mayer%20John%20Mayer%20Trio) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red House](https://open.spotify.com/search/Red%20House%20John%20Mayer%20John%20Mayer%20Trio) | Listen for how the guitar fits the band. |
 | [La Grange](https://open.spotify.com/search/La%20Grange%20John%20Mayer%20John%20Mayer%20Trio) | Focus on phrasing, tone, bends, and how John Mayer shapes the melodic argument. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20John%20Mayer%20John%20Mayer%20Trio) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20John%20Mayer%20John%20Mayer%20Trio) | Listen for how the rhythm guitar lays into the groove. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20John%20Mayer%20John%20Mayer%20Trio) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Mateus Asato
 
-Mateus Asato is a guitarist associated with neo-soul, blues, pop. Musically, the important traits here are melodic neo-soul technique, expressive vibrato, lyrical phrase construction. In this ensemble, that language is pointed toward soul / neo-soul, with D'Angelo / John Mayer Trio as the broader listening world.
+Mateus Asato is a guitarist associated with neo-soul, blues, pop. Musically, the important traits here are melodic neo-soul technique, expressive vibrato, lyrical phrase construction. In this ensemble: soul / neo-soul. Related listening: D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | John Mayer Trio | [Wikipedia][john-mayer-trio-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Related artists. |
 
 ### Known Gear
 
@@ -99,31 +99,31 @@ Mateus Asato is a guitarist associated with neo-soul, blues, pop. Musically, the
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Good Love Is on the Way](https://open.spotify.com/search/Good%20Love%20Is%20on%20the%20Way%20Mateus%20Asato%20John%20Mayer%20Trio) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Good Love Is on the Way](https://open.spotify.com/search/Good%20Love%20Is%20on%20the%20Way%20Mateus%20Asato%20John%20Mayer%20Trio) | Listen for how the rhythm guitar lays into the groove. |
 | [Vultures](https://open.spotify.com/search/Vultures%20Mateus%20Asato%20John%20Mayer%20Trio) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Gravity](https://open.spotify.com/search/Gravity%20Mateus%20Asato%20John%20Mayer%20Trio) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Everyday I Have the Blues](https://open.spotify.com/search/Everyday%20I%20Have%20the%20Blues%20Mateus%20Asato%20John%20Mayer%20Trio) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Everyday I Have the Blues](https://open.spotify.com/search/Everyday%20I%20Have%20the%20Blues%20Mateus%20Asato%20John%20Mayer%20Trio) | Listen for how the guitar fits the band. |
 | [Wait Until Tomorrow](https://open.spotify.com/search/Wait%20Until%20Tomorrow%20Mateus%20Asato%20John%20Mayer%20Trio) | Focus on phrasing, tone, bends, and how Mateus Asato shapes the melodic argument. |
-| [Out of My Mind](https://open.spotify.com/search/Out%20of%20My%20Mind%20Mateus%20Asato%20John%20Mayer%20Trio) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Out of My Mind](https://open.spotify.com/search/Out%20of%20My%20Mind%20Mateus%20Asato%20John%20Mayer%20Trio) | Listen for how the rhythm guitar lays into the groove. |
 | [Led Boots](https://open.spotify.com/search/Led%20Boots%20Mateus%20Asato%20John%20Mayer%20Trio) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Aja](https://open.spotify.com/search/Aja%20Mateus%20Asato%20John%20Mayer%20Trio) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Peg](https://open.spotify.com/search/Peg%20Mateus%20Asato%20John%20Mayer%20Trio) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Peg](https://open.spotify.com/search/Peg%20Mateus%20Asato%20John%20Mayer%20Trio) | Listen for how the guitar fits the band. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Mateus%20Asato%20John%20Mayer%20Trio) | Focus on phrasing, tone, bends, and how Mateus Asato shapes the melodic argument. |
 
 ## Questlove
 
-Questlove is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is D'Angelo / John Mayer Trio.
+Questlove is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | John Mayer Trio | [Wikipedia][john-mayer-trio-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Related artists. |
 
 ### Known Gear
 
@@ -131,7 +131,7 @@ Questlove is a drummer whose playing helps shape this music. Listen for how the 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -148,14 +148,14 @@ Questlove is a drummer whose playing helps shape this music. Listen for how the 
 
 ## Steve Jordan
 
-Steve Jordan is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is D'Angelo / John Mayer Trio.
+Steve Jordan is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | John Mayer Trio | [Wikipedia][john-mayer-trio-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Related artists. |
 
 ### Known Gear
 
@@ -163,7 +163,7 @@ Steve Jordan is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -180,14 +180,14 @@ Steve Jordan is a drummer whose playing helps shape this music. Listen for how t
 
 ## D’Angelo
 
-D’Angelo is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is D'Angelo / John Mayer Trio.
+D’Angelo is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | John Mayer Trio | [Wikipedia][john-mayer-trio-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Related artists. |
 
 ### Known Gear
 
@@ -195,31 +195,31 @@ D’Angelo is a keyboard player whose playing helps shape this music. Listen for
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Out of My Mind](https://open.spotify.com/search/Out%20of%20My%20Mind%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Try](https://open.spotify.com/search/Try%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [I Got a Woman](https://open.spotify.com/search/I%20Got%20a%20Woman%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [I Got a Woman](https://open.spotify.com/search/I%20Got%20a%20Woman%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Listen for how the keys support and color the arrangement. |
 | [Another Kind of Green](https://open.spotify.com/search/Another%20Kind%20of%20Green%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Who Did You Think I Was](https://open.spotify.com/search/Who%20Did%20You%20Think%20I%20Was%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Good Love Is on the Way](https://open.spotify.com/search/Good%20Love%20Is%20on%20the%20Way%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Baba O'Riley](https://open.spotify.com/search/Baba%20O%27Riley%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Foreplay/Long Time](https://open.spotify.com/search/Foreplay/Long%20Time%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Foreplay/Long Time](https://open.spotify.com/search/Foreplay/Long%20Time%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Listen for how the keys support and color the arrangement. |
 | [Carry On Wayward Son](https://open.spotify.com/search/Carry%20On%20Wayward%20Son%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Karn Evil 9](https://open.spotify.com/search/Karn%20Evil%209%20D%E2%80%99Angelo%20John%20Mayer%20Trio) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 
 ## Roy Hargrove
 
-Roy Hargrove is a trumpeter whose playing helps shape this music. Listen for how the trumpet part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is D'Angelo / John Mayer Trio.
+Roy Hargrove is a trumpeter whose playing helps shape this music. Listen for how the trumpet part affects soul / neo-soul: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is D'Angelo / John Mayer Trio.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | John Mayer Trio | [Wikipedia][john-mayer-trio-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | D'Angelo / John Mayer Trio | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | D'Angelo / John Mayer Trio | — | — | Related artists. |
 
 ### Known Gear
 
@@ -227,7 +227,7 @@ Roy Hargrove is a trumpeter whose playing helps shape this music. Listen for how
 |---|---|
 | Trumpet | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

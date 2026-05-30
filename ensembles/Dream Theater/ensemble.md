@@ -1,6 +1,6 @@
 # Ensemble: Dream Theater
 
-## Pairing Context
+## Context
 
 This music lives in the Dream Theater world: progressive metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -17,14 +17,14 @@ This music lives in the Dream Theater world: progressive metal. Listen for how t
 
 ## John Myung
 
-John Myung is a bassist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal precision, endurance, complex subdivision control. In this ensemble, that language is pointed toward progressive metal, with Dream Theater as the broader listening world.
+John Myung is a bassist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal precision, endurance, complex subdivision control. In this ensemble: progressive metal. Related listening: Dream Theater.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Dream Theater | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Dream Theater | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,31 +32,31 @@ John Myung is a bassist associated with progressive metal, hard rock. Musically,
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Metropolis Pt. 1](https://open.spotify.com/search/Metropolis%20Pt.%201%20John%20Myung%20Dream%20Theater) | Focus on movement between chord roots, anticipations, and section lift. |
 | [The Dance of Eternity](https://open.spotify.com/search/The%20Dance%20of%20Eternity%20John%20Myung%20Dream%20Theater) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Erotomania](https://open.spotify.com/search/Erotomania%20John%20Myung%20Dream%20Theater) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Erotomania](https://open.spotify.com/search/Erotomania%20John%20Myung%20Dream%20Theater) | Listen for how the player shapes and attacks each note. |
 | [Panic Attack](https://open.spotify.com/search/Panic%20Attack%20John%20Myung%20Dream%20Theater) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [As I Am](https://open.spotify.com/search/As%20I%20Am%20John%20Myung%20Dream%20Theater) | Track the pocket, note length, and how John Myung grounds the harmony. |
 | [Under a Glass Moon](https://open.spotify.com/search/Under%20a%20Glass%20Moon%20John%20Myung%20Dream%20Theater) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Learning to Live](https://open.spotify.com/search/Learning%20to%20Live%20John%20Myung%20Dream%20Theater) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Take the Time](https://open.spotify.com/search/Take%20the%20Time%20John%20Myung%20Dream%20Theater) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Take the Time](https://open.spotify.com/search/Take%20the%20Time%20John%20Myung%20Dream%20Theater) | Listen for how the player shapes and attacks each note. |
 | [Ytse Jam](https://open.spotify.com/search/Ytse%20Jam%20John%20Myung%20Dream%20Theater) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [A Change of Seasons](https://open.spotify.com/search/A%20Change%20of%20Seasons%20John%20Myung%20Dream%20Theater) | Track the pocket, note length, and how John Myung grounds the harmony. |
 
 ## John Petrucci
 
-John Petrucci is a guitarist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. In this ensemble, that language is pointed toward progressive metal, with Dream Theater as the broader listening world.
+John Petrucci is a guitarist associated with progressive metal, hard rock. Musically, the important traits here are progressive-metal alternate picking precision, string skipping, legato, odd-meter command, rhythm/lead integration. In this ensemble: progressive metal. Related listening: Dream Theater.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Dream Theater | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Dream Theater | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,16 +64,16 @@ John Petrucci is a guitarist associated with progressive metal, hard rock. Music
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [In the Name of God](https://open.spotify.com/search/In%20the%20Name%20of%20God%20John%20Petrucci%20Dream%20Theater) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [In the Name of God](https://open.spotify.com/search/In%20the%20Name%20of%20God%20John%20Petrucci%20Dream%20Theater) | Listen for comping choices and the way guitar defines the band sound. |
 | [Home](https://open.spotify.com/search/Home%20John%20Petrucci%20Dream%20Theater) | Focus on phrasing, tone, bends, and how John Petrucci shapes the melodic argument. |
 | [Fatal Tragedy](https://open.spotify.com/search/Fatal%20Tragedy%20John%20Petrucci%20Dream%20Theater) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [6:00](https://open.spotify.com/search/6%3A00%20John%20Petrucci%20Dream%20Theater) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Lie](https://open.spotify.com/search/Lie%20John%20Petrucci%20Dream%20Theater) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [On the Backs of Angels](https://open.spotify.com/search/On%20the%20Backs%20of%20Angels%20John%20Petrucci%20Dream%20Theater) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [On the Backs of Angels](https://open.spotify.com/search/On%20the%20Backs%20of%20Angels%20John%20Petrucci%20Dream%20Theater) | Listen for comping choices and the way guitar defines the band sound. |
 | [Pull Me Under](https://open.spotify.com/search/Pull%20Me%20Under%20John%20Petrucci%20Dream%20Theater) | Focus on phrasing, tone, bends, and how John Petrucci shapes the melodic argument. |
 | [Metropolis Pt. 1](https://open.spotify.com/search/Metropolis%20Pt.%201%20John%20Petrucci%20Dream%20Theater) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [The Dance of Eternity](https://open.spotify.com/search/The%20Dance%20of%20Eternity%20John%20Petrucci%20Dream%20Theater) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
@@ -81,14 +81,14 @@ John Petrucci is a guitarist associated with progressive metal, hard rock. Music
 
 ## Mike Portnoy
 
-Mike Portnoy is a drummer whose playing helps shape this music. Listen for how the drum part affects progressive metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dream Theater.
+Mike Portnoy is a drummer whose playing helps shape this music. Listen for how the drum part affects progressive metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Dream Theater.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Dream Theater | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Dream Theater | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,7 +96,7 @@ Mike Portnoy is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -113,14 +113,14 @@ Mike Portnoy is a drummer whose playing helps shape this music. Listen for how t
 
 ## Jordan Rudess
 
-Jordan Rudess is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects progressive metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dream Theater.
+Jordan Rudess is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects progressive metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Dream Theater.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Dream Theater | [Wikipedia][dream-theater-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Dream Theater | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Dream Theater | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,19 +128,19 @@ Jordan Rudess is a keyboard player whose playing helps shape this music. Listen 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [As I Am](https://open.spotify.com/search/As%20I%20Am%20Jordan%20Rudess%20Dream%20Theater) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Under a Glass Moon](https://open.spotify.com/search/Under%20a%20Glass%20Moon%20Jordan%20Rudess%20Dream%20Theater) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Learning to Live](https://open.spotify.com/search/Learning%20to%20Live%20Jordan%20Rudess%20Dream%20Theater) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Take the Time](https://open.spotify.com/search/Take%20the%20Time%20Jordan%20Rudess%20Dream%20Theater) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Take the Time](https://open.spotify.com/search/Take%20the%20Time%20Jordan%20Rudess%20Dream%20Theater) | Listen for how the keys support and color the arrangement. |
 | [Ytse Jam](https://open.spotify.com/search/Ytse%20Jam%20Jordan%20Rudess%20Dream%20Theater) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [A Change of Seasons](https://open.spotify.com/search/A%20Change%20of%20Seasons%20Jordan%20Rudess%20Dream%20Theater) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [The Glass Prison](https://open.spotify.com/search/The%20Glass%20Prison%20Jordan%20Rudess%20Dream%20Theater) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Honor Thy Father](https://open.spotify.com/search/Honor%20Thy%20Father%20Jordan%20Rudess%20Dream%20Theater) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Stream of Consciousness](https://open.spotify.com/search/Stream%20of%20Consciousness%20Jordan%20Rudess%20Dream%20Theater) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Stream of Consciousness](https://open.spotify.com/search/Stream%20of%20Consciousness%20Jordan%20Rudess%20Dream%20Theater) | Listen for how the keys support and color the arrangement. |
 | [In the Name of God](https://open.spotify.com/search/In%20the%20Name%20of%20God%20Jordan%20Rudess%20Dream%20Theater) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## References

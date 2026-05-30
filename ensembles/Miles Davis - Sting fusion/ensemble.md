@@ -1,8 +1,8 @@
 # Ensemble: Miles Davis / Sting fusion
 
-## Pairing Context
+## Context
 
-This music is centered on Miles Davis / Sting fusion: jazz-pop / fusion / session. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Sting / Miles Davis, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on Miles Davis / Sting fusion: jazz-pop / fusion / session. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Sting / Miles Davis.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music is centered on Miles Davis / Sting fusion: jazz-pop / fusion / sessio
 
 ## Darryl Jones
 
-Darryl Jones is a bassist associated with jazz-pop, fusion, session, rock. Musically, the important traits here are jazz-pop/session pocket, Miles/Sting crossover vocabulary, adaptable rock and fusion support. In this ensemble, that language is pointed toward jazz-pop / fusion / session, with Sting / Miles Davis as the broader listening world.
+Darryl Jones is a bassist associated with jazz-pop, fusion, session, rock. Musically, the important traits here are jazz-pop/session pocket, Miles/Sting crossover vocabulary, adaptable rock and fusion support. In this ensemble: jazz-pop / fusion / session. Related listening: Sting / Miles Davis.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Miles Davis / Sting fusion | [Wikipedia][miles-davis-sting-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sting / Miles Davis | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Sting / Miles Davis | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,16 +33,16 @@ Darryl Jones is a bassist associated with jazz-pop, fusion, session, rock. Music
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [We Work the Black Seam](https://open.spotify.com/search/We%20Work%20the%20Black%20Seam%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [We Work the Black Seam](https://open.spotify.com/search/We%20Work%20the%20Black%20Seam%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Listen for how the player shapes and attacks each note. |
 | [Children's Crusade](https://open.spotify.com/search/Children%27s%20Crusade%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Fortress Around Your Heart](https://open.spotify.com/search/Fortress%20Around%20Your%20Heart%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Track the pocket, note length, and how Darryl Jones makes the harmony feel grounded. |
 | [Seven Days](https://open.spotify.com/search/Seven%20Days%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Englishman in New York](https://open.spotify.com/search/Englishman%20in%20New%20York%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [If You Love Somebody Set Them Free](https://open.spotify.com/search/If%20You%20Love%20Somebody%20Set%20Them%20Free%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [If You Love Somebody Set Them Free](https://open.spotify.com/search/If%20You%20Love%20Somebody%20Set%20Them%20Free%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Listen for how the player shapes and attacks each note. |
 | [Come On, Come Over](https://open.spotify.com/search/Come%20On%2C%20Come%20Over%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Teen Town](https://open.spotify.com/search/Teen%20Town%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Track the pocket, note length, and how Darryl Jones makes the harmony feel grounded. |
 | [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Darryl%20Jones%20Miles%20Davis%20/%20Sting%20fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
@@ -50,14 +50,14 @@ Darryl Jones is a bassist associated with jazz-pop, fusion, session, rock. Music
 
 ## Mike Stern
 
-Mike Stern is a guitarist associated with jazz fusion, fusion rock, bebop. Musically, the important traits here are bebop/jazz-fusion articulation, right-hand precision, harmonic language, improvisational command. In this ensemble, that language is pointed toward jazz-pop / fusion / session, with Sting / Miles Davis as the broader listening world.
+Mike Stern is a guitarist associated with jazz fusion, fusion rock, bebop. Musically, the important traits here are bebop/jazz-fusion articulation, right-hand precision, harmonic language, improvisational command. In this ensemble: jazz-pop / fusion / session. Related listening: Sting / Miles Davis.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Miles Davis / Sting fusion | [Wikipedia][miles-davis-sting-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sting / Miles Davis | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Sting / Miles Davis | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Mike Stern is a guitarist associated with jazz fusion, fusion rock, bebop. Music
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Children's Crusade](https://open.spotify.com/search/Children%27s%20Crusade%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Children's Crusade](https://open.spotify.com/search/Children%27s%20Crusade%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Listen for how the guitar fits the band. |
 | [Fortress Around Your Heart](https://open.spotify.com/search/Fortress%20Around%20Your%20Heart%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Focus on phrasing, tone, bends, and how Mike Stern shapes the melodic argument. |
-| [Seven Days](https://open.spotify.com/search/Seven%20Days%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Seven Days](https://open.spotify.com/search/Seven%20Days%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Listen for how the rhythm guitar lays into the groove. |
 | [Englishman in New York](https://open.spotify.com/search/Englishman%20in%20New%20York%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [If You Love Somebody Set Them Free](https://open.spotify.com/search/If%20You%20Love%20Somebody%20Set%20Them%20Free%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Shadows in the Rain](https://open.spotify.com/search/Shadows%20in%20the%20Rain%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Shadows in the Rain](https://open.spotify.com/search/Shadows%20in%20the%20Rain%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Listen for how the guitar fits the band. |
 | [Crossroads](https://open.spotify.com/search/Crossroads%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Focus on phrasing, tone, bends, and how Mike Stern shapes the melodic argument. |
-| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Listen for how the rhythm guitar lays into the groove. |
 | [Black Star](https://open.spotify.com/search/Black%20Star%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Mike%20Stern%20Miles%20Davis%20/%20Sting%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Omar Hakim
 
-Omar Hakim is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz-pop / fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Sting / Miles Davis.
+Omar Hakim is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz-pop / fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Sting / Miles Davis.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Miles Davis / Sting fusion | [Wikipedia][miles-davis-sting-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sting / Miles Davis | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Sting / Miles Davis | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Omar Hakim is a drummer whose playing helps shape this music. Listen for how the
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Omar Hakim is a drummer whose playing helps shape this music. Listen for how the
 
 ## Kenny Kirkland
 
-Kenny Kirkland is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz-pop / fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Sting / Miles Davis.
+Kenny Kirkland is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz-pop / fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Sting / Miles Davis.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Miles Davis / Sting fusion | [Wikipedia][miles-davis-sting-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sting / Miles Davis | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Sting / Miles Davis | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,7 +129,7 @@ Kenny Kirkland is a keyboard player whose playing helps shape this music. Listen
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -137,23 +137,23 @@ Kenny Kirkland is a keyboard player whose playing helps shape this music. Listen
 | [Tutu](https://open.spotify.com/search/Tutu%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Portia](https://open.spotify.com/search/Portia%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Perfect Way](https://open.spotify.com/search/Perfect%20Way%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [We Work the Black Seam](https://open.spotify.com/search/We%20Work%20the%20Black%20Seam%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [We Work the Black Seam](https://open.spotify.com/search/We%20Work%20the%20Black%20Seam%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Listen for how the keys support and color the arrangement. |
 | [Children's Crusade](https://open.spotify.com/search/Children%27s%20Crusade%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Karn Evil 9](https://open.spotify.com/search/Karn%20Evil%209%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Spain](https://open.spotify.com/search/Spain%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Birdland](https://open.spotify.com/search/Birdland%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Chameleon](https://open.spotify.com/search/Chameleon%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Chameleon](https://open.spotify.com/search/Chameleon%20Kenny%20Kirkland%20Miles%20Davis%20/%20Sting%20fusion) | Listen for how the keys support and color the arrangement. |
 
 ## Branford Marsalis
 
-Branford Marsalis is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz-pop / fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Sting / Miles Davis.
+Branford Marsalis is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz-pop / fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Sting / Miles Davis.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Miles Davis / Sting fusion | [Wikipedia][miles-davis-sting-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Sting / Miles Davis | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Sting / Miles Davis | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Branford Marsalis is a saxophonist whose playing helps shape this music. Listen 
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

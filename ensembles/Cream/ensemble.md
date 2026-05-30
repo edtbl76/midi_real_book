@@ -1,8 +1,8 @@
 # Ensemble: Cream
 
-## Pairing Context
+## Context
 
-This music is centered on Cream: blues rock / power trio. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Cream / Jack Bruce-Gary Moore band / BLT, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on Cream: blues rock / power trio. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Cream / Jack Bruce-Gary Moore band / BLT.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music is centered on Cream: blues rock / power trio. Listen for the musical
 
 ## Jack Bruce
 
-Jack Bruce is a bassist associated with blues-rock, rock, jazz. Musically, the important traits here are melodic blues-rock improvisation and power-trio counterpoint. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
+Jack Bruce is a bassist associated with blues-rock, rock, jazz. Musically, the important traits here are melodic blues-rock improvisation and power-trio counterpoint. In this ensemble: blues rock / power trio. Related listening: Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Jack Bruce is a bassist associated with blues-rock, rock, jazz. Musically, the i
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Crossroads](https://open.spotify.com/search/Crossroads%20Jack%20Bruce%20Cream) | Focus on movement between chord roots, anticipations, and section lift. |
 | [White Room](https://open.spotify.com/search/White%20Room%20Jack%20Bruce%20Cream) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Politician](https://open.spotify.com/search/Politician%20Jack%20Bruce%20Cream) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Politician](https://open.spotify.com/search/Politician%20Jack%20Bruce%20Cream) | Listen for how the player shapes and attacks each note. |
 | [Badge](https://open.spotify.com/search/Badge%20Jack%20Bruce%20Cream) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Spoonful](https://open.spotify.com/search/Spoonful%20Jack%20Bruce%20Cream) | Track the pocket, note length, and how Jack Bruce grounds the harmony. |
 | [I'm So Glad](https://open.spotify.com/search/I%27m%20So%20Glad%20Jack%20Bruce%20Cream) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Tales of Brave Ulysses](https://open.spotify.com/search/Tales%20of%20Brave%20Ulysses%20Jack%20Bruce%20Cream) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Strange Brew](https://open.spotify.com/search/Strange%20Brew%20Jack%20Bruce%20Cream) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Strange Brew](https://open.spotify.com/search/Strange%20Brew%20Jack%20Bruce%20Cream) | Listen for how the player shapes and attacks each note. |
 | [SWLABR](https://open.spotify.com/search/SWLABR%20Jack%20Bruce%20Cream) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Born Under a Bad Sign](https://open.spotify.com/search/Born%20Under%20a%20Bad%20Sign%20Jack%20Bruce%20Cream) | Track the pocket, note length, and how Jack Bruce grounds the harmony. |
 
 ## Eric Clapton
 
-Eric Clapton is a guitarist associated with blues-rock, blues, rock. Musically, the important traits here are pentatonic/blues lead vocabulary, tone-focused articulation, restraint as technique. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
+Eric Clapton is a guitarist associated with blues-rock, blues, rock. Musically, the important traits here are pentatonic/blues lead vocabulary, tone-focused articulation, restraint as technique. In this ensemble: blues rock / power trio. Related listening: Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,7 +65,7 @@ Eric Clapton is a guitarist associated with blues-rock, blues, rock. Musically, 
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -73,23 +73,23 @@ Eric Clapton is a guitarist associated with blues-rock, blues, rock. Musically, 
 | [Sitting on Top of the World](https://open.spotify.com/search/Sitting%20on%20Top%20of%20the%20World%20Eric%20Clapton%20Cream) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Deserted Cities of the Heart](https://open.spotify.com/search/Deserted%20Cities%20of%20the%20Heart%20Eric%20Clapton%20Cream) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [N.S.U.](https://open.spotify.com/search/N.S.U.%20Eric%20Clapton%20Cream) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Toad](https://open.spotify.com/search/Toad%20Eric%20Clapton%20Cream) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Toad](https://open.spotify.com/search/Toad%20Eric%20Clapton%20Cream) | Listen for comping choices and the way guitar defines the band sound. |
 | [Outside Woman Blues](https://open.spotify.com/search/Outside%20Woman%20Blues%20Eric%20Clapton%20Cream) | Focus on phrasing, tone, bends, and how Eric Clapton shapes the melodic argument. |
 | [Wrapping Paper](https://open.spotify.com/search/Wrapping%20Paper%20Eric%20Clapton%20Cream) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [I Feel Free](https://open.spotify.com/search/I%20Feel%20Free%20Eric%20Clapton%20Cream) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Anyone for Tennis](https://open.spotify.com/search/Anyone%20for%20Tennis%20Eric%20Clapton%20Cream) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Those Were the Days](https://open.spotify.com/search/Those%20Were%20the%20Days%20Eric%20Clapton%20Cream) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Those Were the Days](https://open.spotify.com/search/Those%20Were%20the%20Days%20Eric%20Clapton%20Cream) | Listen for comping choices and the way guitar defines the band sound. |
 
 ## Robin Trower
 
-Robin Trower is a guitarist associated with blues-rock, rock. Musically, the important traits here are Hendrix-inspired blues-rock phrasing, wah vocabulary, tone control. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
+Robin Trower is a guitarist associated with blues-rock, rock. Musically, the important traits here are Hendrix-inspired blues-rock phrasing, wah vocabulary, tone control. In this ensemble: blues rock / power trio. Related listening: Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,31 +97,31 @@ Robin Trower is a guitarist associated with blues-rock, rock. Musically, the imp
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Anyone for Tennis](https://open.spotify.com/search/Anyone%20for%20Tennis%20Robin%20Trower%20Cream) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Those Were the Days](https://open.spotify.com/search/Those%20Were%20the%20Days%20Robin%20Trower%20Cream) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Those Were the Days](https://open.spotify.com/search/Those%20Were%20the%20Days%20Robin%20Trower%20Cream) | Listen for comping choices and the way guitar defines the band sound. |
 | [Sunshine of Your Love](https://open.spotify.com/search/Sunshine%20of%20Your%20Love%20Robin%20Trower%20Cream) | Focus on phrasing, tone, bends, and how Robin Trower shapes the melodic argument. |
 | [Crossroads](https://open.spotify.com/search/Crossroads%20Robin%20Trower%20Cream) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [White Room](https://open.spotify.com/search/White%20Room%20Robin%20Trower%20Cream) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Politician](https://open.spotify.com/search/Politician%20Robin%20Trower%20Cream) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Badge](https://open.spotify.com/search/Badge%20Robin%20Trower%20Cream) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Badge](https://open.spotify.com/search/Badge%20Robin%20Trower%20Cream) | Listen for comping choices and the way guitar defines the band sound. |
 | [Spoonful](https://open.spotify.com/search/Spoonful%20Robin%20Trower%20Cream) | Focus on phrasing, tone, bends, and how Robin Trower shapes the melodic argument. |
 | [I'm So Glad](https://open.spotify.com/search/I%27m%20So%20Glad%20Robin%20Trower%20Cream) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Tales of Brave Ulysses](https://open.spotify.com/search/Tales%20of%20Brave%20Ulysses%20Robin%20Trower%20Cream) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Gary Moore
 
-Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
+Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble: blues rock / power trio. Related listening: Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Mu
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [White Room](https://open.spotify.com/search/White%20Room%20Gary%20Moore%20Cream) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Politician](https://open.spotify.com/search/Politician%20Gary%20Moore%20Cream) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Badge](https://open.spotify.com/search/Badge%20Gary%20Moore%20Cream) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Badge](https://open.spotify.com/search/Badge%20Gary%20Moore%20Cream) | Listen for comping choices and the way guitar defines the band sound. |
 | [Spoonful](https://open.spotify.com/search/Spoonful%20Gary%20Moore%20Cream) | Focus on phrasing, tone, bends, and how Gary Moore shapes the melodic argument. |
 | [I'm So Glad](https://open.spotify.com/search/I%27m%20So%20Glad%20Gary%20Moore%20Cream) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Tales of Brave Ulysses](https://open.spotify.com/search/Tales%20of%20Brave%20Ulysses%20Gary%20Moore%20Cream) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Strange Brew](https://open.spotify.com/search/Strange%20Brew%20Gary%20Moore%20Cream) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [SWLABR](https://open.spotify.com/search/SWLABR%20Gary%20Moore%20Cream) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [SWLABR](https://open.spotify.com/search/SWLABR%20Gary%20Moore%20Cream) | Listen for comping choices and the way guitar defines the band sound. |
 | [Born Under a Bad Sign](https://open.spotify.com/search/Born%20Under%20a%20Bad%20Sign%20Gary%20Moore%20Cream) | Focus on phrasing, tone, bends, and how Gary Moore shapes the melodic argument. |
 | [Sitting on Top of the World](https://open.spotify.com/search/Sitting%20on%20Top%20of%20the%20World%20Gary%20Moore%20Cream) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 
 ## Ginger Baker
 
-Ginger Baker is a drummer whose playing helps shape this music. Listen for how the drum part affects blues rock / power trio: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Cream / Jack Bruce-Gary Moore band / BLT.
+Ginger Baker is a drummer whose playing helps shape this music. Listen for how the drum part affects blues rock / power trio: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Cream | [Wikipedia][cream-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Ginger Baker is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

@@ -1,6 +1,6 @@
 # Ensemble: Black Sabbath
 
-## Pairing Context
+## Context
 
 This music lives in the Black Sabbath world: heavy metal / doom metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -17,14 +17,14 @@ This music lives in the Black Sabbath world: heavy metal / doom metal. Listen fo
 
 ## Geezer Butler
 
-Geezer Butler is a bassist associated with heavy metal, doom metal. Musically, the important traits here are dark riff movement, blues-metal fills, feel. In this ensemble, that language is pointed toward heavy metal / doom metal, with Black Sabbath as the broader listening world.
+Geezer Butler is a bassist associated with heavy metal, doom metal. Musically, the important traits here are dark riff movement, blues-metal fills, feel. In this ensemble: heavy metal / doom metal. Related listening: Black Sabbath.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Black Sabbath | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Black Sabbath | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,31 +32,31 @@ Geezer Butler is a bassist associated with heavy metal, doom metal. Musically, t
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [The Wizard](https://open.spotify.com/search/The%20Wizard%20Geezer%20Butler%20Black%20Sabbath) | Track the pocket, note length, and how Geezer Butler grounds the harmony. |
 | [Fairies Wear Boots](https://open.spotify.com/search/Fairies%20Wear%20Boots%20Geezer%20Butler%20Black%20Sabbath) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Electric Funeral](https://open.spotify.com/search/Electric%20Funeral%20Geezer%20Butler%20Black%20Sabbath) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Snowblind](https://open.spotify.com/search/Snowblind%20Geezer%20Butler%20Black%20Sabbath) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Snowblind](https://open.spotify.com/search/Snowblind%20Geezer%20Butler%20Black%20Sabbath) | Listen for how the player shapes and attacks each note. |
 | [Supernaut](https://open.spotify.com/search/Supernaut%20Geezer%20Butler%20Black%20Sabbath) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [After Forever](https://open.spotify.com/search/After%20Forever%20Geezer%20Butler%20Black%20Sabbath) | Track the pocket, note length, and how Geezer Butler grounds the harmony. |
 | [Lord of This World](https://open.spotify.com/search/Lord%20of%20This%20World%20Geezer%20Butler%20Black%20Sabbath) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Hole in the Sky](https://open.spotify.com/search/Hole%20in%20the%20Sky%20Geezer%20Butler%20Black%20Sabbath) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Heaven and Hell](https://open.spotify.com/search/Heaven%20and%20Hell%20Geezer%20Butler%20Black%20Sabbath) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Heaven and Hell](https://open.spotify.com/search/Heaven%20and%20Hell%20Geezer%20Butler%20Black%20Sabbath) | Listen for how the player shapes and attacks each note. |
 | [Neon Knights](https://open.spotify.com/search/Neon%20Knights%20Geezer%20Butler%20Black%20Sabbath) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Tony Iommi
 
-Tony Iommi is a guitarist associated with heavy metal, doom metal. Musically, the important traits here are detuned heavy-metal riff invention, foundational doom/metal vocabulary, vibrato. In this ensemble, that language is pointed toward heavy metal / doom metal, with Black Sabbath as the broader listening world.
+Tony Iommi is a guitarist associated with heavy metal, doom metal. Musically, the important traits here are detuned heavy-metal riff invention, foundational doom/metal vocabulary, vibrato. In this ensemble: heavy metal / doom metal. Related listening: Black Sabbath.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Black Sabbath | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Black Sabbath | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,31 +64,31 @@ Tony Iommi is a guitarist associated with heavy metal, doom metal. Musically, th
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Sweet Leaf](https://open.spotify.com/search/Sweet%20Leaf%20Tony%20Iommi%20Black%20Sabbath) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Sabbath Bloody Sabbath](https://open.spotify.com/search/Sabbath%20Bloody%20Sabbath%20Tony%20Iommi%20Black%20Sabbath) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Symptom of the Universe](https://open.spotify.com/search/Symptom%20of%20the%20Universe%20Tony%20Iommi%20Black%20Sabbath) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Symptom of the Universe](https://open.spotify.com/search/Symptom%20of%20the%20Universe%20Tony%20Iommi%20Black%20Sabbath) | Listen for comping choices and the way guitar defines the band sound. |
 | [The Wizard](https://open.spotify.com/search/The%20Wizard%20Tony%20Iommi%20Black%20Sabbath) | Focus on phrasing, tone, bends, and how Tony Iommi shapes the melodic argument. |
 | [Fairies Wear Boots](https://open.spotify.com/search/Fairies%20Wear%20Boots%20Tony%20Iommi%20Black%20Sabbath) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Electric Funeral](https://open.spotify.com/search/Electric%20Funeral%20Tony%20Iommi%20Black%20Sabbath) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Snowblind](https://open.spotify.com/search/Snowblind%20Tony%20Iommi%20Black%20Sabbath) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Supernaut](https://open.spotify.com/search/Supernaut%20Tony%20Iommi%20Black%20Sabbath) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Supernaut](https://open.spotify.com/search/Supernaut%20Tony%20Iommi%20Black%20Sabbath) | Listen for comping choices and the way guitar defines the band sound. |
 | [After Forever](https://open.spotify.com/search/After%20Forever%20Tony%20Iommi%20Black%20Sabbath) | Focus on phrasing, tone, bends, and how Tony Iommi shapes the melodic argument. |
 | [Lord of This World](https://open.spotify.com/search/Lord%20of%20This%20World%20Tony%20Iommi%20Black%20Sabbath) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 
 ## Bill Ward
 
-Bill Ward is a drummer whose playing helps shape this music. Listen for how the drum part affects heavy metal / doom metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Black Sabbath.
+Bill Ward is a drummer whose playing helps shape this music. Listen for how the drum part affects heavy metal / doom metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Black Sabbath.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Black Sabbath | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Black Sabbath | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,7 +96,7 @@ Bill Ward is a drummer whose playing helps shape this music. Listen for how the 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -113,14 +113,14 @@ Bill Ward is a drummer whose playing helps shape this music. Listen for how the 
 
 ## Geoff Nicholls
 
-Geoff Nicholls is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects heavy metal / doom metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Black Sabbath.
+Geoff Nicholls is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects heavy metal / doom metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Black Sabbath.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Black Sabbath | [Wikipedia][black-sabbath-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Black Sabbath | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Black Sabbath | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,18 +128,18 @@ Geoff Nicholls is a keyboard player whose playing helps shape this music. Listen
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Fairies Wear Boots](https://open.spotify.com/search/Fairies%20Wear%20Boots%20Geoff%20Nicholls%20Black%20Sabbath) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Electric Funeral](https://open.spotify.com/search/Electric%20Funeral%20Geoff%20Nicholls%20Black%20Sabbath) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Snowblind](https://open.spotify.com/search/Snowblind%20Geoff%20Nicholls%20Black%20Sabbath) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Snowblind](https://open.spotify.com/search/Snowblind%20Geoff%20Nicholls%20Black%20Sabbath) | Listen for how the keys support and color the arrangement. |
 | [Supernaut](https://open.spotify.com/search/Supernaut%20Geoff%20Nicholls%20Black%20Sabbath) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [After Forever](https://open.spotify.com/search/After%20Forever%20Geoff%20Nicholls%20Black%20Sabbath) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Lord of This World](https://open.spotify.com/search/Lord%20of%20This%20World%20Geoff%20Nicholls%20Black%20Sabbath) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Hole in the Sky](https://open.spotify.com/search/Hole%20in%20the%20Sky%20Geoff%20Nicholls%20Black%20Sabbath) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Heaven and Hell](https://open.spotify.com/search/Heaven%20and%20Hell%20Geoff%20Nicholls%20Black%20Sabbath) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Heaven and Hell](https://open.spotify.com/search/Heaven%20and%20Hell%20Geoff%20Nicholls%20Black%20Sabbath) | Listen for how the keys support and color the arrangement. |
 | [Neon Knights](https://open.spotify.com/search/Neon%20Knights%20Geoff%20Nicholls%20Black%20Sabbath) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [N.I.B.](https://open.spotify.com/search/N.I.B.%20Geoff%20Nicholls%20Black%20Sabbath) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 

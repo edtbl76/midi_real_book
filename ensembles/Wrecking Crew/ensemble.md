@@ -1,8 +1,8 @@
 # Ensemble: Wrecking Crew
 
-## Pairing Context
+## Context
 
-This music lives in the Wrecking Crew world: session / pop. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Wrecking Crew / Capitol Records session orbit help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Wrecking Crew world: session / pop. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Wrecking Crew / Capitol Records session orbit help give you a feel for the style.
 
 ## Players
 
@@ -19,14 +19,14 @@ This music lives in the Wrecking Crew world: session / pop. Listen for how the p
 
 ## Carol Kaye
 
-Carol Kaye is a bassist associated with session, pop, R&B, rock. Musically, the important traits here are elite session reading, pick control, and stylistic fluency. In this ensemble, that language is pointed toward session / pop, with Wrecking Crew / Capitol Records session orbit as the broader listening world.
+Carol Kaye is a bassist associated with session, pop, R&B, rock. Musically, the important traits here are elite session reading, pick control, and stylistic fluency. In this ensemble: session / pop. Related listening: Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,31 +34,31 @@ Carol Kaye is a bassist associated with session, pop, R&B, rock. Musically, the 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20Carol%20Kaye%20Wrecking%20Crew) | Track the pocket, note length, and how Carol Kaye makes the harmony feel grounded. |
 | [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Carol%20Kaye%20Wrecking%20Crew) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20Carol%20Kaye%20Wrecking%20Crew) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Carol%20Kaye%20Wrecking%20Crew) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Carol%20Kaye%20Wrecking%20Crew) | Listen for how the player shapes and attacks each note. |
 | [California Dreamin'](https://open.spotify.com/search/California%20Dreamin%27%20Carol%20Kaye%20Wrecking%20Crew) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [River Deep Mountain High](https://open.spotify.com/search/River%20Deep%20Mountain%20High%20Carol%20Kaye%20Wrecking%20Crew) | Track the pocket, note length, and how Carol Kaye makes the harmony feel grounded. |
 | [Teen Town](https://open.spotify.com/search/Teen%20Town%20Carol%20Kaye%20Wrecking%20Crew) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Carol%20Kaye%20Wrecking%20Crew) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Dean Town](https://open.spotify.com/search/Dean%20Town%20Carol%20Kaye%20Wrecking%20Crew) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Dean Town](https://open.spotify.com/search/Dean%20Town%20Carol%20Kaye%20Wrecking%20Crew) | Listen for how the player shapes and attacks each note. |
 | [Good Times](https://open.spotify.com/search/Good%20Times%20Carol%20Kaye%20Wrecking%20Crew) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Tommy Tedesco
 
-Tommy Tedesco is a guitarist associated with jazz, session, studio. Musically, the important traits here are session Hollywood reading precision, stylistic versatility, clean execution. In this ensemble, that language is pointed toward session / pop, with Wrecking Crew / Capitol Records session orbit as the broader listening world.
+Tommy Tedesco is a guitarist associated with jazz, session, studio. Musically, the important traits here are session Hollywood reading precision, stylistic versatility, clean execution. In this ensemble: session / pop. Related listening: Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -66,31 +66,31 @@ Tommy Tedesco is a guitarist associated with jazz, session, studio. Musically, t
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [River Deep Mountain High](https://open.spotify.com/search/River%20Deep%20Mountain%20High%20Tommy%20Tedesco%20Wrecking%20Crew) | Focus on phrasing, tone, bends, and how Tommy Tedesco shapes the melodic argument. |
-| [Pet Sounds](https://open.spotify.com/search/Pet%20Sounds%20Tommy%20Tedesco%20Wrecking%20Crew) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Pet Sounds](https://open.spotify.com/search/Pet%20Sounds%20Tommy%20Tedesco%20Wrecking%20Crew) | Listen for how the rhythm guitar lays into the groove. |
 | [Wouldn't It Be Nice](https://open.spotify.com/search/Wouldn%27t%20It%20Be%20Nice%20Tommy%20Tedesco%20Wrecking%20Crew) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Up Up and Away](https://open.spotify.com/search/Up%20Up%20and%20Away%20Tommy%20Tedesco%20Wrecking%20Crew) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [MacArthur Park](https://open.spotify.com/search/MacArthur%20Park%20Tommy%20Tedesco%20Wrecking%20Crew) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [MacArthur Park](https://open.spotify.com/search/MacArthur%20Park%20Tommy%20Tedesco%20Wrecking%20Crew) | Listen for how the guitar fits the band. |
 | [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20Tommy%20Tedesco%20Wrecking%20Crew) | Focus on phrasing, tone, bends, and how Tommy Tedesco shapes the melodic argument. |
-| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Tommy%20Tedesco%20Wrecking%20Crew) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Tommy%20Tedesco%20Wrecking%20Crew) | Listen for how the rhythm guitar lays into the groove. |
 | [Scarified](https://open.spotify.com/search/Scarified%20Tommy%20Tedesco%20Wrecking%20Crew) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Tommy%20Tedesco%20Wrecking%20Crew) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Tommy%20Tedesco%20Wrecking%20Crew) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Tommy%20Tedesco%20Wrecking%20Crew) | Listen for how the guitar fits the band. |
 
 ## Barney Kessel
 
-Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musically, the important traits here are swing/bebop session vocabulary, chord melody, bluesy jazz phrasing, big-band guitar authority. In this ensemble, that language is pointed toward session / pop, with Wrecking Crew / Capitol Records session orbit as the broader listening world.
+Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musically, the important traits here are swing/bebop session vocabulary, chord melody, bluesy jazz phrasing, big-band guitar authority. In this ensemble: session / pop. Related listening: Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -98,31 +98,31 @@ Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musica
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Pet Sounds](https://open.spotify.com/search/Pet%20Sounds%20Barney%20Kessel%20Wrecking%20Crew) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Pet Sounds](https://open.spotify.com/search/Pet%20Sounds%20Barney%20Kessel%20Wrecking%20Crew) | Listen for how the rhythm guitar lays into the groove. |
 | [Wouldn't It Be Nice](https://open.spotify.com/search/Wouldn%27t%20It%20Be%20Nice%20Barney%20Kessel%20Wrecking%20Crew) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Up Up and Away](https://open.spotify.com/search/Up%20Up%20and%20Away%20Barney%20Kessel%20Wrecking%20Crew) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [MacArthur Park](https://open.spotify.com/search/MacArthur%20Park%20Barney%20Kessel%20Wrecking%20Crew) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [MacArthur Park](https://open.spotify.com/search/MacArthur%20Park%20Barney%20Kessel%20Wrecking%20Crew) | Listen for how the guitar fits the band. |
 | [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20Barney%20Kessel%20Wrecking%20Crew) | Focus on phrasing, tone, bends, and how Barney Kessel shapes the melodic argument. |
-| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Barney%20Kessel%20Wrecking%20Crew) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Barney%20Kessel%20Wrecking%20Crew) | Listen for how the rhythm guitar lays into the groove. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Barney%20Kessel%20Wrecking%20Crew) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Barney%20Kessel%20Wrecking%20Crew) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Barney%20Kessel%20Wrecking%20Crew) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Barney%20Kessel%20Wrecking%20Crew) | Listen for how the guitar fits the band. |
 | [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Barney%20Kessel%20Wrecking%20Crew) | Focus on phrasing, tone, bends, and how Barney Kessel shapes the melodic argument. |
 
 ## Hal Blaine
 
-Hal Blaine is a drummer whose playing helps shape this music. Listen for how the drum part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Wrecking Crew / Capitol Records session orbit.
+Hal Blaine is a drummer whose playing helps shape this music. Listen for how the drum part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -130,7 +130,7 @@ Hal Blaine is a drummer whose playing helps shape this music. Listen for how the
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -147,14 +147,14 @@ Hal Blaine is a drummer whose playing helps shape this music. Listen for how the
 
 ## Leon Russell
 
-Leon Russell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Wrecking Crew / Capitol Records session orbit.
+Leon Russell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -162,16 +162,16 @@ Leon Russell is a keyboard player whose playing helps shape this music. Listen f
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Leon%20Russell%20Wrecking%20Crew) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Leon%20Russell%20Wrecking%20Crew) | Listen for how the keys support and color the arrangement. |
 | [California Dreamin'](https://open.spotify.com/search/California%20Dreamin%27%20Leon%20Russell%20Wrecking%20Crew) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [River Deep Mountain High](https://open.spotify.com/search/River%20Deep%20Mountain%20High%20Leon%20Russell%20Wrecking%20Crew) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Pet Sounds](https://open.spotify.com/search/Pet%20Sounds%20Leon%20Russell%20Wrecking%20Crew) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Wouldn't It Be Nice](https://open.spotify.com/search/Wouldn%27t%20It%20Be%20Nice%20Leon%20Russell%20Wrecking%20Crew) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Up Up and Away](https://open.spotify.com/search/Up%20Up%20and%20Away%20Leon%20Russell%20Wrecking%20Crew) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Up Up and Away](https://open.spotify.com/search/Up%20Up%20and%20Away%20Leon%20Russell%20Wrecking%20Crew) | Listen for how the keys support and color the arrangement. |
 | [Birdland](https://open.spotify.com/search/Birdland%20Leon%20Russell%20Wrecking%20Crew) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Leon%20Russell%20Wrecking%20Crew) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Leon%20Russell%20Wrecking%20Crew) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
@@ -179,14 +179,14 @@ Leon Russell is a keyboard player whose playing helps shape this music. Listen f
 
 ## Plas Johnson
 
-Plas Johnson is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Wrecking Crew / Capitol Records session orbit.
+Plas Johnson is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Wrecking Crew | [Wikipedia][wrecking-crew-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -194,7 +194,7 @@ Plas Johnson is a saxophonist whose playing helps shape this music. Listen for h
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

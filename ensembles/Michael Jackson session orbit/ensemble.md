@@ -1,8 +1,8 @@
 # Ensemble: Michael Jackson session orbit
 
-## Pairing Context
+## Context
 
-This music is centered on Michael Jackson session orbit: disco funk / pop funk. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Chic / Michael Jackson session orbit, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on Michael Jackson session orbit: disco funk / pop funk. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Chic / Michael Jackson session orbit.
 
 ## Players
 
@@ -17,14 +17,14 @@ This music is centered on Michael Jackson session orbit: disco funk / pop funk. 
 
 ## Bernard Edwards
 
-Bernard Edwards is a bassist associated with disco, funk, R&B. Musically, the important traits here are disco-funk pocket, articulation, economy. In this ensemble, that language is pointed toward disco funk / pop funk, with Chic / Michael Jackson session orbit as the broader listening world.
+Bernard Edwards is a bassist associated with disco, funk, R&B. Musically, the important traits here are disco-funk pocket, articulation, economy. In this ensemble: disco funk / pop funk. Related listening: Chic / Michael Jackson session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Michael Jackson session orbit | [Wikipedia][michael-jackson-session-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Chic / Michael Jackson session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Chic / Michael Jackson session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,7 +32,7 @@ Bernard Edwards is a bassist associated with disco, funk, R&B. Musically, the im
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -40,23 +40,23 @@ Bernard Edwards is a bassist associated with disco, funk, R&B. Musically, the im
 | [Billie Jean](https://open.spotify.com/search/Billie%20Jean%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Track the pocket, note length, and how Bernard Edwards makes the harmony feel grounded. |
 | [Beat It](https://open.spotify.com/search/Beat%20It%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Wanna Be Startin' Somethin'](https://open.spotify.com/search/Wanna%20Be%20Startin%27%20Somethin%27%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Don't Stop Til You Get Enough](https://open.spotify.com/search/Don%27t%20Stop%20Til%20You%20Get%20Enough%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Don't Stop Til You Get Enough](https://open.spotify.com/search/Don%27t%20Stop%20Til%20You%20Get%20Enough%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Listen for how the player shapes and attacks each note. |
 | [Rock with You](https://open.spotify.com/search/Rock%20with%20You%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Track the pocket, note length, and how Bernard Edwards makes the harmony feel grounded. |
 | [YYZ](https://open.spotify.com/search/YYZ%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Roundabout](https://open.spotify.com/search/Roundabout%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [The Real Me](https://open.spotify.com/search/The%20Real%20Me%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [The Real Me](https://open.spotify.com/search/The%20Real%20Me%20Bernard%20Edwards%20Michael%20Jackson%20session%20orbit) | Listen for how the player shapes and attacks each note. |
 
 ## Nile Rodgers
 
-Nile Rodgers is a guitarist associated with funk, disco, R&B, pop. Musically, the important traits here are funk rhythm architecture, precise muted-chord technique, right-hand syncopation mastery. In this ensemble, that language is pointed toward disco funk / pop funk, with Chic / Michael Jackson session orbit as the broader listening world.
+Nile Rodgers is a guitarist associated with funk, disco, R&B, pop. Musically, the important traits here are funk rhythm architecture, precise muted-chord technique, right-hand syncopation mastery. In this ensemble: disco funk / pop funk. Related listening: Chic / Michael Jackson session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Michael Jackson session orbit | [Wikipedia][michael-jackson-session-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Chic / Michael Jackson session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Chic / Michael Jackson session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,31 +64,31 @@ Nile Rodgers is a guitarist associated with funk, disco, R&B, pop. Musically, th
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Rock with You](https://open.spotify.com/search/Rock%20with%20You%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Rock with You](https://open.spotify.com/search/Rock%20with%20You%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Listen for how the guitar fits the band. |
 | [Thriller](https://open.spotify.com/search/Thriller%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Focus on phrasing, tone, bends, and how Nile Rodgers shapes the melodic argument. |
-| [The Way You Make Me Feel](https://open.spotify.com/search/The%20Way%20You%20Make%20Me%20Feel%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Way You Make Me Feel](https://open.spotify.com/search/The%20Way%20You%20Make%20Me%20Feel%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Bad](https://open.spotify.com/search/Bad%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Smooth Criminal](https://open.spotify.com/search/Smooth%20Criminal%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Human Nature](https://open.spotify.com/search/Human%20Nature%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Human Nature](https://open.spotify.com/search/Human%20Nature%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Listen for how the guitar fits the band. |
 | [Eruption](https://open.spotify.com/search/Eruption%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Focus on phrasing, tone, bends, and how Nile Rodgers shapes the melodic argument. |
-| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Room 335](https://open.spotify.com/search/Room%20335%20Nile%20Rodgers%20Michael%20Jackson%20session%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## David Williams
 
-David Williams is a guitarist associated with pop, R&B, session. Musically, the important traits here are rhythmic session precision, Michael Jackson-era pop groove technique. In this ensemble, that language is pointed toward disco funk / pop funk, with Chic / Michael Jackson session orbit as the broader listening world.
+David Williams is a guitarist associated with pop, R&B, session. Musically, the important traits here are rhythmic session precision, Michael Jackson-era pop groove technique. In this ensemble: disco funk / pop funk. Related listening: Chic / Michael Jackson session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Michael Jackson session orbit | [Wikipedia][michael-jackson-session-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Chic / Michael Jackson session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Chic / Michael Jackson session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,31 +96,31 @@ David Williams is a guitarist associated with pop, R&B, session. Musically, the 
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Billie Jean](https://open.spotify.com/search/Billie%20Jean%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Focus on phrasing, tone, bends, and how David Williams shapes the melodic argument. |
-| [Beat It](https://open.spotify.com/search/Beat%20It%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Beat It](https://open.spotify.com/search/Beat%20It%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Wanna Be Startin' Somethin'](https://open.spotify.com/search/Wanna%20Be%20Startin%27%20Somethin%27%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Don't Stop Til You Get Enough](https://open.spotify.com/search/Don%27t%20Stop%20Til%20You%20Get%20Enough%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Rock with You](https://open.spotify.com/search/Rock%20with%20You%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Rock with You](https://open.spotify.com/search/Rock%20with%20You%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Listen for how the guitar fits the band. |
 | [Thriller](https://open.spotify.com/search/Thriller%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Focus on phrasing, tone, bends, and how David Williams shapes the melodic argument. |
-| [Europa](https://open.spotify.com/search/Europa%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Europa](https://open.spotify.com/search/Europa%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Crossroads](https://open.spotify.com/search/Crossroads%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20David%20Williams%20Michael%20Jackson%20session%20orbit) | Listen for how the guitar fits the band. |
 
 ## Tony Thompson
 
-Tony Thompson is a drummer whose playing helps shape this music. Listen for how the drum part affects disco funk / pop funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Chic / Michael Jackson session orbit.
+Tony Thompson is a drummer whose playing helps shape this music. Listen for how the drum part affects disco funk / pop funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Chic / Michael Jackson session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Michael Jackson session orbit | [Wikipedia][michael-jackson-session-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Chic / Michael Jackson session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Chic / Michael Jackson session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,7 +128,7 @@ Tony Thompson is a drummer whose playing helps shape this music. Listen for how 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

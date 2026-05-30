@@ -1,8 +1,8 @@
 # Ensemble: hard-bop blues
 
-## Pairing Context
+## Context
 
-This music is centered on hard-bop blues: modern jazz / hard bop / blues. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Mingus bands, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on hard-bop blues: modern jazz / hard bop / blues. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Mingus bands.
 
 ## Players
 
@@ -19,14 +19,14 @@ This music is centered on hard-bop blues: modern jazz / hard bop / blues. Listen
 
 ## Charles Mingus
 
-Charles Mingus is a bassist associated with modern jazz, hard bop, blues, gospel-influenced jazz. Musically, the important traits here are aggressive walking lines, blues/gospel harmony, counterpoint, pedal figures, compositional bass authority. In this ensemble, that language is pointed toward modern jazz / hard bop / blues, with Mingus bands as the broader listening world.
+Charles Mingus is a bassist associated with modern jazz, hard bop, blues, gospel-influenced jazz. Musically, the important traits here are aggressive walking lines, blues/gospel harmony, counterpoint, pedal figures, compositional bass authority. In this ensemble: modern jazz / hard bop / blues. Related listening: Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,31 +34,31 @@ Charles Mingus is a bassist associated with modern jazz, hard bop, blues, gospel
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Blues Walk](https://open.spotify.com/search/Blues%20Walk%20Charles%20Mingus%20hard-bop%20blues) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Midnight Blue](https://open.spotify.com/search/Midnight%20Blue%20Charles%20Mingus%20hard-bop%20blues) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Chitlins Con Carne](https://open.spotify.com/search/Chitlins%20Con%20Carne%20Charles%20Mingus%20hard-bop%20blues) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Chitlins Con Carne](https://open.spotify.com/search/Chitlins%20Con%20Carne%20Charles%20Mingus%20hard-bop%20blues) | Listen for how the player shapes and attacks each note. |
 | [Work Song](https://open.spotify.com/search/Work%20Song%20Charles%20Mingus%20hard-bop%20blues) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Haitian Fight Song](https://open.spotify.com/search/Haitian%20Fight%20Song%20Charles%20Mingus%20hard-bop%20blues) | Track the pocket, note length, and how Charles Mingus makes the harmony feel grounded. |
 | [Nostalgia in Times Square](https://open.spotify.com/search/Nostalgia%20in%20Times%20Square%20Charles%20Mingus%20hard-bop%20blues) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [The Chicken](https://open.spotify.com/search/The%20Chicken%20Charles%20Mingus%20hard-bop%20blues) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Charles%20Mingus%20hard-bop%20blues) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Cissy Strut](https://open.spotify.com/search/Cissy%20Strut%20Charles%20Mingus%20hard-bop%20blues) | Listen for how the player shapes and attacks each note. |
 | [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20%28Falettinme%20Be%20Mice%20Elf%20Agin%29%20Charles%20Mingus%20hard-bop%20blues) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Come On, Come Over](https://open.spotify.com/search/Come%20On%2C%20Come%20Over%20Charles%20Mingus%20hard-bop%20blues) | Track the pocket, note length, and how Charles Mingus makes the harmony feel grounded. |
 
 ## Jim Hall
 
-Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz. Musically, the important traits here are chamber-jazz counterpoint, interactive comping, melodic restraint, advanced harmonic clarity. In this ensemble, that language is pointed toward modern jazz / hard bop / blues, with Mingus bands as the broader listening world.
+Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz. Musically, the important traits here are chamber-jazz counterpoint, interactive comping, melodic restraint, advanced harmonic clarity. In this ensemble: modern jazz / hard bop / blues. Related listening: Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -66,31 +66,31 @@ Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz.
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Chitlins Con Carne](https://open.spotify.com/search/Chitlins%20Con%20Carne%20Jim%20Hall%20hard-bop%20blues) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Work Song](https://open.spotify.com/search/Work%20Song%20Jim%20Hall%20hard-bop%20blues) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Work Song](https://open.spotify.com/search/Work%20Song%20Jim%20Hall%20hard-bop%20blues) | Listen for how the guitar fits the band. |
 | [Haitian Fight Song](https://open.spotify.com/search/Haitian%20Fight%20Song%20Jim%20Hall%20hard-bop%20blues) | Focus on phrasing, tone, bends, and how Jim Hall shapes the melodic argument. |
-| [Nostalgia in Times Square](https://open.spotify.com/search/Nostalgia%20in%20Times%20Square%20Jim%20Hall%20hard-bop%20blues) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Nostalgia in Times Square](https://open.spotify.com/search/Nostalgia%20in%20Times%20Square%20Jim%20Hall%20hard-bop%20blues) | Listen for how the rhythm guitar lays into the groove. |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/search/Goodbye%20Pork%20Pie%20Hat%20Jim%20Hall%20hard-bop%20blues) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Better Git It in Your Soul](https://open.spotify.com/search/Better%20Git%20It%20in%20Your%20Soul%20Jim%20Hall%20hard-bop%20blues) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Jim%20Hall%20hard-bop%20blues) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Jim%20Hall%20hard-bop%20blues) | Listen for how the guitar fits the band. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Jim%20Hall%20hard-bop%20blues) | Focus on phrasing, tone, bends, and how Jim Hall shapes the melodic argument. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Jim%20Hall%20hard-bop%20blues) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Jim%20Hall%20hard-bop%20blues) | Listen for how the rhythm guitar lays into the groove. |
 | [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Jim%20Hall%20hard-bop%20blues) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Kenny Burrell
 
-Kenny Burrell is a guitarist associated with jazz, blues, hard bop, soul jazz. Musically, the important traits here are blues-jazz authority, hard-bop phrasing, warm chord melody, earthy swing vocabulary. In this ensemble, that language is pointed toward modern jazz / hard bop / blues, with Mingus bands as the broader listening world.
+Kenny Burrell is a guitarist associated with jazz, blues, hard bop, soul jazz. Musically, the important traits here are blues-jazz authority, hard-bop phrasing, warm chord melody, earthy swing vocabulary. In this ensemble: modern jazz / hard bop / blues. Related listening: Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -98,31 +98,31 @@ Kenny Burrell is a guitarist associated with jazz, blues, hard bop, soul jazz. M
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Haitian Fight Song](https://open.spotify.com/search/Haitian%20Fight%20Song%20Kenny%20Burrell%20hard-bop%20blues) | Focus on phrasing, tone, bends, and how Kenny Burrell shapes the melodic argument. |
-| [Nostalgia in Times Square](https://open.spotify.com/search/Nostalgia%20in%20Times%20Square%20Kenny%20Burrell%20hard-bop%20blues) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Nostalgia in Times Square](https://open.spotify.com/search/Nostalgia%20in%20Times%20Square%20Kenny%20Burrell%20hard-bop%20blues) | Listen for how the rhythm guitar lays into the groove. |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/search/Goodbye%20Pork%20Pie%20Hat%20Kenny%20Burrell%20hard-bop%20blues) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Better Git It in Your Soul](https://open.spotify.com/search/Better%20Git%20It%20in%20Your%20Soul%20Kenny%20Burrell%20hard-bop%20blues) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Wednesday Night Prayer Meeting](https://open.spotify.com/search/Wednesday%20Night%20Prayer%20Meeting%20Kenny%20Burrell%20hard-bop%20blues) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Wednesday Night Prayer Meeting](https://open.spotify.com/search/Wednesday%20Night%20Prayer%20Meeting%20Kenny%20Burrell%20hard-bop%20blues) | Listen for how the guitar fits the band. |
 | [Moanin'](https://open.spotify.com/search/Moanin%27%20Kenny%20Burrell%20hard-bop%20blues) | Focus on phrasing, tone, bends, and how Kenny Burrell shapes the melodic argument. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Kenny%20Burrell%20hard-bop%20blues) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Kenny%20Burrell%20hard-bop%20blues) | Listen for how the rhythm guitar lays into the groove. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Kenny%20Burrell%20hard-bop%20blues) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Kenny%20Burrell%20hard-bop%20blues) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Kenny%20Burrell%20hard-bop%20blues) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Kenny%20Burrell%20hard-bop%20blues) | Listen for how the guitar fits the band. |
 
 ## Max Roach
 
-Max Roach is a drummer whose playing helps shape this music. Listen for how the drum part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mingus bands.
+Max Roach is a drummer whose playing helps shape this music. Listen for how the drum part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -130,7 +130,7 @@ Max Roach is a drummer whose playing helps shape this music. Listen for how the 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -147,14 +147,14 @@ Max Roach is a drummer whose playing helps shape this music. Listen for how the 
 
 ## Jaki Byard
 
-Jaki Byard is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mingus bands.
+Jaki Byard is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -162,31 +162,31 @@ Jaki Byard is a keyboard player whose playing helps shape this music. Listen for
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Nostalgia in Times Square](https://open.spotify.com/search/Nostalgia%20in%20Times%20Square%20Jaki%20Byard%20hard-bop%20blues) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/search/Goodbye%20Pork%20Pie%20Hat%20Jaki%20Byard%20hard-bop%20blues) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Better Git It in Your Soul](https://open.spotify.com/search/Better%20Git%20It%20in%20Your%20Soul%20Jaki%20Byard%20hard-bop%20blues) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Better Git It in Your Soul](https://open.spotify.com/search/Better%20Git%20It%20in%20Your%20Soul%20Jaki%20Byard%20hard-bop%20blues) | Listen for how the keys support and color the arrangement. |
 | [Wednesday Night Prayer Meeting](https://open.spotify.com/search/Wednesday%20Night%20Prayer%20Meeting%20Jaki%20Byard%20hard-bop%20blues) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Moanin'](https://open.spotify.com/search/Moanin%27%20Jaki%20Byard%20hard-bop%20blues) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Blues Walk](https://open.spotify.com/search/Blues%20Walk%20Jaki%20Byard%20hard-bop%20blues) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Light My Fire](https://open.spotify.com/search/Light%20My%20Fire%20Jaki%20Byard%20hard-bop%20blues) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Roundabout](https://open.spotify.com/search/Roundabout%20Jaki%20Byard%20hard-bop%20blues) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Roundabout](https://open.spotify.com/search/Roundabout%20Jaki%20Byard%20hard-bop%20blues) | Listen for how the keys support and color the arrangement. |
 | [Close to the Edge](https://open.spotify.com/search/Close%20to%20the%20Edge%20Jaki%20Byard%20hard-bop%20blues) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Rosanna](https://open.spotify.com/search/Rosanna%20Jaki%20Byard%20hard-bop%20blues) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 
 ## Eric Dolphy
 
-Eric Dolphy is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mingus bands.
+Eric Dolphy is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | hard-bop blues | [Wikipedia][hard-bop-blues-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -194,7 +194,7 @@ Eric Dolphy is a saxophonist whose playing helps shape this music. Listen for ho
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

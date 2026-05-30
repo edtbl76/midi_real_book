@@ -1,8 +1,8 @@
 # Ensemble: Return to Forever
 
-## Pairing Context
+## Context
 
-This music lives in the Return to Forever world: jazz fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Return to Forever world: jazz fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band help give you a feel for the style.
 
 ## Players
 
@@ -21,14 +21,14 @@ This music lives in the Return to Forever world: jazz fusion. Listen for how the
 
 ## Stanley Clarke
 
-Stanley Clarke is a bassist associated with jazz fusion, acoustic jazz, fusion rock. Musically, the important traits here are electric/acoustic fusion virtuosity, thumb technique, high-register facility. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
+Stanley Clarke is a bassist associated with jazz fusion, acoustic jazz, fusion rock. Musically, the important traits here are electric/acoustic fusion virtuosity, thumb technique, high-register facility. In this ensemble: jazz fusion. Related listening: Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -36,31 +36,31 @@ Stanley Clarke is a bassist associated with jazz fusion, acoustic jazz, fusion r
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Stanley%20Clarke%20Return%20to%20Forever) | Track the pocket, note length, and how Stanley Clarke makes the harmony feel grounded. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Stanley%20Clarke%20Return%20to%20Forever) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Sorceress](https://open.spotify.com/search/Sorceress%20Stanley%20Clarke%20Return%20to%20Forever) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Stanley%20Clarke%20Return%20to%20Forever) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Stanley%20Clarke%20Return%20to%20Forever) | Listen for how the player shapes and attacks each note. |
 | [Dayride](https://open.spotify.com/search/Dayride%20Stanley%20Clarke%20Return%20to%20Forever) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Stanley%20Clarke%20Return%20to%20Forever) | Track the pocket, note length, and how Stanley Clarke makes the harmony feel grounded. |
 | [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Stanley%20Clarke%20Return%20to%20Forever) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Stanley%20Clarke%20Return%20to%20Forever) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [YYZ](https://open.spotify.com/search/YYZ%20Stanley%20Clarke%20Return%20to%20Forever) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [YYZ](https://open.spotify.com/search/YYZ%20Stanley%20Clarke%20Return%20to%20Forever) | Listen for how the player shapes and attacks each note. |
 | [Roundabout](https://open.spotify.com/search/Roundabout%20Stanley%20Clarke%20Return%20to%20Forever) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## John McLaughlin
 
-John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
+John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble: jazz fusion. Related listening: Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -68,31 +68,31 @@ John McLaughlin is a guitarist associated with jazz fusion, Indian classical fus
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20John%20McLaughlin%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20John%20McLaughlin%20Return%20to%20Forever) | Listen for how the guitar fits the band. |
 | [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20John%20McLaughlin%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
-| [School Days](https://open.spotify.com/search/School%20Days%20John%20McLaughlin%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [School Days](https://open.spotify.com/search/School%20Days%20John%20McLaughlin%20Return%20to%20Forever) | Listen for how the rhythm guitar lays into the groove. |
 | [Sorceress](https://open.spotify.com/search/Sorceress%20John%20McLaughlin%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20John%20McLaughlin%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Dayride](https://open.spotify.com/search/Dayride%20John%20McLaughlin%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Dayride](https://open.spotify.com/search/Dayride%20John%20McLaughlin%20Return%20to%20Forever) | Listen for how the guitar fits the band. |
 | [Peg](https://open.spotify.com/search/Peg%20John%20McLaughlin%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20John%20McLaughlin%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20John%20McLaughlin%20Return%20to%20Forever) | Listen for how the rhythm guitar lays into the groove. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20John%20McLaughlin%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20John%20McLaughlin%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Al Di Meola
 
-Al Di Meola is a guitarist associated with jazz fusion, flamenco, Latin jazz. Musically, the important traits here are elite flatpick velocity, flamenco/jazz precision, alternate-picked scalar command, complex rhythmic language. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
+Al Di Meola is a guitarist associated with jazz fusion, flamenco, Latin jazz. Musically, the important traits here are elite flatpick velocity, flamenco/jazz precision, alternate-picked scalar command, complex rhythmic language. In this ensemble: jazz fusion. Related listening: Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -100,31 +100,31 @@ Al Di Meola is a guitarist associated with jazz fusion, flamenco, Latin jazz. Mu
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Al%20Di%20Meola%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how Al Di Meola shapes the melodic argument. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for how the rhythm guitar lays into the groove. |
 | [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Al%20Di%20Meola%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [No Mystery](https://open.spotify.com/search/No%20Mystery%20Al%20Di%20Meola%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for how the guitar fits the band. |
 | [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Al%20Di%20Meola%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how Al Di Meola shapes the melodic argument. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for how the rhythm guitar lays into the groove. |
 | [Room 335](https://open.spotify.com/search/Room%20335%20Al%20Di%20Meola%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Al%20Di%20Meola%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Al%20Di%20Meola%20Return%20to%20Forever) | Listen for how the guitar fits the band. |
 
 ## Bill Connors
 
-Bill Connors is a guitarist associated with jazz fusion, avant-garde, progressive rock. Musically, the important traits here are avant-garde jazz intervals, RTF-era fusion abstraction, classical-influenced technical language. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
+Bill Connors is a guitarist associated with jazz fusion, avant-garde, progressive rock. Musically, the important traits here are avant-garde jazz intervals, RTF-era fusion abstraction, classical-influenced technical language. In this ensemble: jazz fusion. Related listening: Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -132,31 +132,31 @@ Bill Connors is a guitarist associated with jazz fusion, avant-garde, progressiv
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Bill%20Connors%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Dayride](https://open.spotify.com/search/Dayride%20Bill%20Connors%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Dayride](https://open.spotify.com/search/Dayride%20Bill%20Connors%20Return%20to%20Forever) | Listen for how the guitar fits the band. |
 | [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Bill%20Connors%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how Bill Connors shapes the melodic argument. |
-| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Bill%20Connors%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Bill%20Connors%20Return%20to%20Forever) | Listen for how the rhythm guitar lays into the groove. |
 | [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Bill%20Connors%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [No Mystery](https://open.spotify.com/search/No%20Mystery%20Bill%20Connors%20Return%20to%20Forever) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Bill%20Connors%20Return%20to%20Forever) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Bill%20Connors%20Return%20to%20Forever) | Listen for how the guitar fits the band. |
 | [Black Star](https://open.spotify.com/search/Black%20Star%20Bill%20Connors%20Return%20to%20Forever) | Focus on phrasing, tone, bends, and how Bill Connors shapes the melodic argument. |
-| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Bill%20Connors%20Return%20to%20Forever) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Bill%20Connors%20Return%20to%20Forever) | Listen for how the rhythm guitar lays into the groove. |
 | [Scarified](https://open.spotify.com/search/Scarified%20Bill%20Connors%20Return%20to%20Forever) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Lenny White
 
-Lenny White is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
+Lenny White is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -164,7 +164,7 @@ Lenny White is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -181,14 +181,14 @@ Lenny White is a drummer whose playing helps shape this music. Listen for how th
 
 ## Chick Corea
 
-Chick Corea is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
+Chick Corea is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -196,16 +196,16 @@ Chick Corea is a keyboard player whose playing helps shape this music. Listen fo
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Chick%20Corea%20Return%20to%20Forever) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Chick%20Corea%20Return%20to%20Forever) | Listen for how the keys support and color the arrangement. |
 | [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Chick%20Corea%20Return%20to%20Forever) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Chick%20Corea%20Return%20to%20Forever) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Chick%20Corea%20Return%20to%20Forever) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Sorceress](https://open.spotify.com/search/Sorceress%20Chick%20Corea%20Return%20to%20Forever) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Chick%20Corea%20Return%20to%20Forever) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [The Shadow of Lo](https://open.spotify.com/search/The%20Shadow%20of%20Lo%20Chick%20Corea%20Return%20to%20Forever) | Listen for how the keys support and color the arrangement. |
 | [Birdland](https://open.spotify.com/search/Birdland%20Chick%20Corea%20Return%20to%20Forever) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Chick%20Corea%20Return%20to%20Forever) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Chick%20Corea%20Return%20to%20Forever) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
@@ -213,14 +213,14 @@ Chick Corea is a keyboard player whose playing helps shape this music. Listen fo
 
 ## Jean-Luc Ponty
 
-Jean-Luc Ponty is a violinist whose playing helps shape this music. Listen for how the violin part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
+Jean-Luc Ponty is a violinist whose playing helps shape this music. Listen for how the violin part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -228,16 +228,16 @@ Jean-Luc Ponty is a violinist whose playing helps shape this music. Listen for h
 |---|---|
 | Violin | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [Hymn of the Seventh Galaxy](https://open.spotify.com/search/Hymn%20of%20the%20Seventh%20Galaxy%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Focus on sustain, attack, ornament, and how the violin changes the band sound. |
 | [After the Cosmic Rain](https://open.spotify.com/search/After%20the%20Cosmic%20Rain%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Listen for long-line phrasing against denser rhythm-section motion. |
 | [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
 | [No Mystery](https://open.spotify.com/search/No%20Mystery%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Use this for modal color, melodic contour, and textural contrast. |
 | [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Listen for how the violin functions as lead voice without losing ensemble balance. |
-| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [Medieval Overture](https://open.spotify.com/search/Medieval%20Overture%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Focus on sustain, attack, ornament, and how the violin changes the band sound. |
 | [Ashokan Farewell](https://open.spotify.com/search/Ashokan%20Farewell%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Listen for long-line phrasing against denser rhythm-section motion. |
 | [Orange Blossom Special](https://open.spotify.com/search/Orange%20Blossom%20Special%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
 | [Minor Swing](https://open.spotify.com/search/Minor%20Swing%20Jean-Luc%20Ponty%20Return%20to%20Forever) | Use this for modal color, melodic contour, and textural contrast. |
@@ -245,14 +245,14 @@ Jean-Luc Ponty is a violinist whose playing helps shape this music. Listen for h
 
 ## Airto Moreira
 
-Airto Moreira is a percussionist whose playing helps shape this music. Listen for how the percussion part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
+Airto Moreira is a percussionist whose playing helps shape this music. Listen for how the percussion part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Return to Forever | [Wikipedia][return-to-forever-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -260,7 +260,7 @@ Airto Moreira is a percussionist whose playing helps shape this music. Listen fo
 |---|---|
 | Percussion | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

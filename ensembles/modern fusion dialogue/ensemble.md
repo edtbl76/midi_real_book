@@ -1,8 +1,8 @@
 # Ensemble: modern fusion dialogue
 
-## Pairing Context
+## Context
 
-This music is centered on modern fusion dialogue: modern fusion. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Herbie Hancock / John McLaughlin / Garrison family, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on modern fusion dialogue: modern fusion. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Herbie Hancock / John McLaughlin / Garrison family.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music is centered on modern fusion dialogue: modern fusion. Listen for the 
 
 ## Matt Garrison
 
-Matt Garrison is a bassist associated with jazz fusion, modern fusion. Musically, the important traits here are modern fusion vocabulary, extended range, melodic/rhythmic sophistication. In this ensemble, that language is pointed toward modern fusion, with Herbie Hancock / John McLaughlin / Garrison family as the broader listening world.
+Matt Garrison is a bassist associated with jazz fusion, modern fusion. Musically, the important traits here are modern fusion vocabulary, extended range, melodic/rhythmic sophistication. In this ensemble: modern fusion. Related listening: Herbie Hancock / John McLaughlin / Garrison family.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,16 +33,16 @@ Matt Garrison is a bassist associated with jazz fusion, modern fusion. Musically
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Matt%20Garrison%20modern%20fusion%20dialogue) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Matt%20Garrison%20modern%20fusion%20dialogue) | Listen for how the player shapes and attacks each note. |
 | [Elegant Gypsy Suite](https://open.spotify.com/search/Elegant%20Gypsy%20Suite%20Matt%20Garrison%20modern%20fusion%20dialogue) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Matt%20Garrison%20modern%20fusion%20dialogue) | Track the pocket, note length, and how Matt Garrison makes the harmony feel grounded. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Matt%20Garrison%20modern%20fusion%20dialogue) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Hang Up Your Hang Ups](https://open.spotify.com/search/Hang%20Up%20Your%20Hang%20Ups%20Matt%20Garrison%20modern%20fusion%20dialogue) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Proto Cosmos](https://open.spotify.com/search/Proto%20Cosmos%20Matt%20Garrison%20modern%20fusion%20dialogue) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Proto Cosmos](https://open.spotify.com/search/Proto%20Cosmos%20Matt%20Garrison%20modern%20fusion%20dialogue) | Listen for how the player shapes and attacks each note. |
 | [Roundabout](https://open.spotify.com/search/Roundabout%20Matt%20Garrison%20modern%20fusion%20dialogue) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [The Real Me](https://open.spotify.com/search/The%20Real%20Me%20Matt%20Garrison%20modern%20fusion%20dialogue) | Track the pocket, note length, and how Matt Garrison makes the harmony feel grounded. |
 | [Hysteria](https://open.spotify.com/search/Hysteria%20Matt%20Garrison%20modern%20fusion%20dialogue) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
@@ -50,14 +50,14 @@ Matt Garrison is a bassist associated with jazz fusion, modern fusion. Musically
 
 ## Greg Howe
 
-Greg Howe is a guitarist associated with rock, fusion, jazz-rock. Musically, the important traits here are legato fusion-rock language, rhythmic sequencing, high-speed phrasing. In this ensemble, that language is pointed toward modern fusion, with Herbie Hancock / John McLaughlin / Garrison family as the broader listening world.
+Greg Howe is a guitarist associated with rock, fusion, jazz-rock. Musically, the important traits here are legato fusion-rock language, rhythmic sequencing, high-speed phrasing. In this ensemble: modern fusion. Related listening: Herbie Hancock / John McLaughlin / Garrison family.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Greg Howe is a guitarist associated with rock, fusion, jazz-rock. Musically, the
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Proto Cosmos](https://open.spotify.com/search/Proto%20Cosmos%20Greg%20Howe%20modern%20fusion%20dialogue) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Greg%20Howe%20modern%20fusion%20dialogue) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Greg%20Howe%20modern%20fusion%20dialogue) | Listen for how the guitar fits the band. |
 | [The Chicken](https://open.spotify.com/search/The%20Chicken%20Greg%20Howe%20modern%20fusion%20dialogue) | Focus on phrasing, tone, bends, and how Greg Howe shapes the melodic argument. |
-| [Stratus](https://open.spotify.com/search/Stratus%20Greg%20Howe%20modern%20fusion%20dialogue) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Stratus](https://open.spotify.com/search/Stratus%20Greg%20Howe%20modern%20fusion%20dialogue) | Listen for how the rhythm guitar lays into the groove. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Greg%20Howe%20modern%20fusion%20dialogue) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Teen Town](https://open.spotify.com/search/Teen%20Town%20Greg%20Howe%20modern%20fusion%20dialogue) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Greg%20Howe%20modern%20fusion%20dialogue) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Greg%20Howe%20modern%20fusion%20dialogue) | Listen for how the guitar fits the band. |
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Greg%20Howe%20modern%20fusion%20dialogue) | Focus on phrasing, tone, bends, and how Greg Howe shapes the melodic argument. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Greg%20Howe%20modern%20fusion%20dialogue) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Greg%20Howe%20modern%20fusion%20dialogue) | Listen for how the rhythm guitar lays into the groove. |
 | [Red House](https://open.spotify.com/search/Red%20House%20Greg%20Howe%20modern%20fusion%20dialogue) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Gene Lake
 
-Gene Lake is a drummer whose playing helps shape this music. Listen for how the drum part affects modern fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Herbie Hancock / John McLaughlin / Garrison family.
+Gene Lake is a drummer whose playing helps shape this music. Listen for how the drum part affects modern fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Herbie Hancock / John McLaughlin / Garrison family.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Gene Lake is a drummer whose playing helps shape this music. Listen for how the 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Gene Lake is a drummer whose playing helps shape this music. Listen for how the 
 
 ## Herbie Hancock
 
-Herbie Hancock is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Herbie Hancock / John McLaughlin / Garrison family.
+Herbie Hancock is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Herbie Hancock / John McLaughlin / Garrison family.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ Herbie Hancock is a keyboard player whose playing helps shape this music. Listen
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [The Chicken](https://open.spotify.com/search/The%20Chicken%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Stratus](https://open.spotify.com/search/Stratus%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Teen Town](https://open.spotify.com/search/Teen%20Town%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Listen for how the keys support and color the arrangement. |
 | [Elegant Gypsy Suite](https://open.spotify.com/search/Elegant%20Gypsy%20Suite%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Africa](https://open.spotify.com/search/Africa%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Baba O'Riley](https://open.spotify.com/search/Baba%20O%27Riley%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Foreplay/Long Time](https://open.spotify.com/search/Foreplay/Long%20Time%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Foreplay/Long Time](https://open.spotify.com/search/Foreplay/Long%20Time%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Listen for how the keys support and color the arrangement. |
 | [Carry On Wayward Son](https://open.spotify.com/search/Carry%20On%20Wayward%20Son%20Herbie%20Hancock%20modern%20fusion%20dialogue) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## Ravi Coltrane
 
-Ravi Coltrane is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Herbie Hancock / John McLaughlin / Garrison family.
+Ravi Coltrane is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Herbie Hancock / John McLaughlin / Garrison family.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern fusion dialogue | [Wikipedia][modern-fusion-dialogue-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Herbie Hancock / John McLaughlin / Garrison family | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Ravi Coltrane is a saxophonist whose playing helps shape this music. Listen for 
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

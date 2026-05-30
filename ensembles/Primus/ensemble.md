@@ -1,6 +1,6 @@
 # Ensemble: Primus
 
-## Pairing Context
+## Context
 
 This music lives in the Primus world: avant-garde / punk-funk. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -19,14 +19,14 @@ This music lives in the Primus world: avant-garde / punk-funk. Listen for how th
 
 ## Les Claypool
 
-Les Claypool is a bassist associated with rock, alternative, avant-garde, funk. Musically, the important traits here are idiosyncratic slap/tap/chordal technique and rhythmic independence. In this ensemble, that language is pointed toward avant-garde / punk-funk, with Primus as the broader listening world.
+Les Claypool is a bassist associated with rock, alternative, avant-garde, funk. Musically, the important traits here are idiosyncratic slap/tap/chordal technique and rhythmic independence. In this ensemble: avant-garde / punk-funk. Related listening: Primus.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Primus | [Wikipedia][primus-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Primus | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,16 +34,16 @@ Les Claypool is a bassist associated with rock, alternative, avant-garde, funk. 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Les%20Claypool%20Primus) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Les%20Claypool%20Primus) | Listen for how the player shapes and attacks each note. |
 | [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Les%20Claypool%20Primus) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Jerry Was a Race Car Driver](https://open.spotify.com/search/Jerry%20Was%20a%20Race%20Car%20Driver%20Les%20Claypool%20Primus) | Track the pocket, note length, and how Les Claypool makes the harmony feel grounded. |
 | [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Les%20Claypool%20Primus) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [My Name Is Mud](https://open.spotify.com/search/My%20Name%20Is%20Mud%20Les%20Claypool%20Primus) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [DMV](https://open.spotify.com/search/DMV%20Les%20Claypool%20Primus) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [DMV](https://open.spotify.com/search/DMV%20Les%20Claypool%20Primus) | Listen for how the player shapes and attacks each note. |
 | [Continuum](https://open.spotify.com/search/Continuum%20Les%20Claypool%20Primus) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Stratus](https://open.spotify.com/search/Stratus%20Les%20Claypool%20Primus) | Track the pocket, note length, and how Les Claypool makes the harmony feel grounded. |
 | [The Chicken](https://open.spotify.com/search/The%20Chicken%20Les%20Claypool%20Primus) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
@@ -51,14 +51,14 @@ Les Claypool is a bassist associated with rock, alternative, avant-garde, funk. 
 
 ## Larry LaLonde
 
-Larry LaLonde is a guitarist associated with progressive metal, avant-garde, death metal. Musically, the important traits here are avant-garde rock technique, aggressive dissonance, noise-influenced harmonic vocabulary. In this ensemble, that language is pointed toward avant-garde / punk-funk, with Primus as the broader listening world.
+Larry LaLonde is a guitarist associated with progressive metal, avant-garde, death metal. Musically, the important traits here are avant-garde rock technique, aggressive dissonance, noise-influenced harmonic vocabulary. In this ensemble: avant-garde / punk-funk. Related listening: Primus.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Primus | [Wikipedia][primus-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Primus | — | — | Related artists. |
 
 ### Known Gear
 
@@ -66,31 +66,31 @@ Larry LaLonde is a guitarist associated with progressive metal, avant-garde, dea
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Larry%20LaLonde%20Primus) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Larry%20LaLonde%20Primus) | Listen for how the guitar fits the band. |
 | [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Larry%20LaLonde%20Primus) | Focus on phrasing, tone, bends, and how Larry LaLonde shapes the melodic argument. |
-| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Larry%20LaLonde%20Primus) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Larry%20LaLonde%20Primus) | Listen for how the rhythm guitar lays into the groove. |
 | [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Larry%20LaLonde%20Primus) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Larry%20LaLonde%20Primus) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Larry%20LaLonde%20Primus) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Larry%20LaLonde%20Primus) | Listen for how the guitar fits the band. |
 | [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Larry%20LaLonde%20Primus) | Focus on phrasing, tone, bends, and how Larry LaLonde shapes the melodic argument. |
-| [Room 335](https://open.spotify.com/search/Room%20335%20Larry%20LaLonde%20Primus) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Larry%20LaLonde%20Primus) | Listen for how the rhythm guitar lays into the groove. |
 | [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Larry%20LaLonde%20Primus) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Larry%20LaLonde%20Primus) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Buckethead
 
-Buckethead is a guitarist associated with metal, funk, experimental, progressive rock. Musically, the important traits here are extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. In this ensemble, that language is pointed toward avant-garde / punk-funk, with Primus as the broader listening world.
+Buckethead is a guitarist associated with metal, funk, experimental, progressive rock. Musically, the important traits here are extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. In this ensemble: avant-garde / punk-funk. Related listening: Primus.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Primus | [Wikipedia][primus-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Primus | — | — | Related artists. |
 
 ### Known Gear
 
@@ -98,31 +98,31 @@ Buckethead is a guitarist associated with metal, funk, experimental, progressive
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Buckethead%20Primus) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Buckethead%20Primus) | Listen for how the guitar fits the band. |
 | [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Buckethead%20Primus) | Focus on phrasing, tone, bends, and how Buckethead shapes the melodic argument. |
-| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Buckethead%20Primus) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Buckethead%20Primus) | Listen for how the rhythm guitar lays into the groove. |
 | [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Buckethead%20Primus) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Buckethead%20Primus) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Buckethead%20Primus) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Buckethead%20Primus) | Listen for how the guitar fits the band. |
 | [Scarified](https://open.spotify.com/search/Scarified%20Buckethead%20Primus) | Focus on phrasing, tone, bends, and how Buckethead shapes the melodic argument. |
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Buckethead%20Primus) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Buckethead%20Primus) | Listen for how the rhythm guitar lays into the groove. |
 | [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Buckethead%20Primus) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Red House](https://open.spotify.com/search/Red%20House%20Buckethead%20Primus) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Tim Alexander
 
-Tim Alexander is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Primus.
+Tim Alexander is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Primus.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Primus | [Wikipedia][primus-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Primus | — | — | Related artists. |
 
 ### Known Gear
 
@@ -130,7 +130,7 @@ Tim Alexander is a drummer whose playing helps shape this music. Listen for how 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -147,14 +147,14 @@ Tim Alexander is a drummer whose playing helps shape this music. Listen for how 
 
 ## Bernie Worrell
 
-Bernie Worrell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Primus.
+Bernie Worrell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Primus.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Primus | [Wikipedia][primus-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Primus | — | — | Related artists. |
 
 ### Known Gear
 
@@ -162,16 +162,16 @@ Bernie Worrell is a keyboard player whose playing helps shape this music. Listen
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [DMV](https://open.spotify.com/search/DMV%20Bernie%20Worrell%20Primus) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [DMV](https://open.spotify.com/search/DMV%20Bernie%20Worrell%20Primus) | Listen for how the keys support and color the arrangement. |
 | [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Bernie%20Worrell%20Primus) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Bernie%20Worrell%20Primus) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Bernie%20Worrell%20Primus) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Bernie%20Worrell%20Primus) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Bernie%20Worrell%20Primus) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Bernie%20Worrell%20Primus) | Listen for how the keys support and color the arrangement. |
 | [Lingus](https://open.spotify.com/search/Lingus%20Bernie%20Worrell%20Primus) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [The Way It Is](https://open.spotify.com/search/The%20Way%20It%20Is%20Bernie%20Worrell%20Primus) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [You Are the Sunshine of My Life](https://open.spotify.com/search/You%20Are%20the%20Sunshine%20of%20My%20Life%20Bernie%20Worrell%20Primus) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
@@ -179,14 +179,14 @@ Bernie Worrell is a keyboard player whose playing helps shape this music. Listen
 
 ## Skerik
 
-Skerik is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Primus.
+Skerik is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Primus.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Primus | [Wikipedia][primus-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Primus | — | — | Related artists. |
 
 ### Known Gear
 
@@ -194,7 +194,7 @@ Skerik is a saxophonist whose playing helps shape this music. Listen for how the
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

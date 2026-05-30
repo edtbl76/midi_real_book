@@ -1,6 +1,6 @@
 # Ensemble: Beatles
 
-## Pairing Context
+## Context
 
 This music lives in the Beatles world: classic rock / pop. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -17,14 +17,14 @@ This music lives in the Beatles world: classic rock / pop. Listen for how the pl
 
 ## Paul McCartney
 
-Paul McCartney is a bassist associated with rock, pop, pop-rock. Musically, the important traits here are melodic pop-rock counterpoint and song-serving invention. In this ensemble, that language is pointed toward classic rock / pop, with Beatles as the broader listening world.
+Paul McCartney is a bassist associated with rock, pop, pop-rock. Musically, the important traits here are melodic pop-rock counterpoint and song-serving invention. In this ensemble: classic rock / pop. Related listening: Beatles.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Beatles | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Beatles | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,16 +32,16 @@ Paul McCartney is a bassist associated with rock, pop, pop-rock. Musically, the 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Dear Prudence](https://open.spotify.com/search/Dear%20Prudence%20Paul%20McCartney%20Beatles) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Dear Prudence](https://open.spotify.com/search/Dear%20Prudence%20Paul%20McCartney%20Beatles) | Listen for how the player shapes and attacks each note. |
 | [Get Back](https://open.spotify.com/search/Get%20Back%20Paul%20McCartney%20Beatles) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Let It Be](https://open.spotify.com/search/Let%20It%20Be%20Paul%20McCartney%20Beatles) | Track the pocket, note length, and how Paul McCartney grounds the harmony. |
 | [The End](https://open.spotify.com/search/The%20End%20Paul%20McCartney%20Beatles) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Help!](https://open.spotify.com/search/Help%21%20Paul%20McCartney%20Beatles) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [In My Life](https://open.spotify.com/search/In%20My%20Life%20Paul%20McCartney%20Beatles) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [In My Life](https://open.spotify.com/search/In%20My%20Life%20Paul%20McCartney%20Beatles) | Listen for how the player shapes and attacks each note. |
 | [She Said She Said](https://open.spotify.com/search/She%20Said%20She%20Said%20Paul%20McCartney%20Beatles) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Come Together](https://open.spotify.com/search/Come%20Together%20Paul%20McCartney%20Beatles) | Track the pocket, note length, and how Paul McCartney grounds the harmony. |
 | [Something](https://open.spotify.com/search/Something%20Paul%20McCartney%20Beatles) | Focus on movement between chord roots, anticipations, and section lift. |
@@ -49,14 +49,14 @@ Paul McCartney is a bassist associated with rock, pop, pop-rock. Musically, the 
 
 ## George Harrison
 
-George Harrison is a guitarist associated with rock, pop, Indian-influenced. Musically, the important traits here are melodic Indian-influenced phrasing, iconic song-serving lead vocabulary. In this ensemble, that language is pointed toward classic rock / pop, with Beatles as the broader listening world.
+George Harrison is a guitarist associated with rock, pop, Indian-influenced. Musically, the important traits here are melodic Indian-influenced phrasing, iconic song-serving lead vocabulary. In this ensemble: classic rock / pop. Related listening: Beatles.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Beatles | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Beatles | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,31 +64,31 @@ George Harrison is a guitarist associated with rock, pop, Indian-influenced. Mus
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [While My Guitar Gently Weeps](https://open.spotify.com/search/While%20My%20Guitar%20Gently%20Weeps%20George%20Harrison%20Beatles) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [A Day in the Life](https://open.spotify.com/search/A%20Day%20in%20the%20Life%20George%20Harrison%20Beatles) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [A Day in the Life](https://open.spotify.com/search/A%20Day%20in%20the%20Life%20George%20Harrison%20Beatles) | Listen for comping choices and the way guitar defines the band sound. |
 | [Paperback Writer](https://open.spotify.com/search/Paperback%20Writer%20George%20Harrison%20Beatles) | Focus on phrasing, tone, bends, and how George Harrison shapes the melodic argument. |
 | [Rain](https://open.spotify.com/search/Rain%20George%20Harrison%20Beatles) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Hey Bulldog](https://open.spotify.com/search/Hey%20Bulldog%20George%20Harrison%20Beatles) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [I Want You (She's So Heavy)](https://open.spotify.com/search/I%20Want%20You%20%28She%27s%20So%20Heavy%29%20George%20Harrison%20Beatles) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Here Comes the Sun](https://open.spotify.com/search/Here%20Comes%20the%20Sun%20George%20Harrison%20Beatles) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Here Comes the Sun](https://open.spotify.com/search/Here%20Comes%20the%20Sun%20George%20Harrison%20Beatles) | Listen for comping choices and the way guitar defines the band sound. |
 | [Drive My Car](https://open.spotify.com/search/Drive%20My%20Car%20George%20Harrison%20Beatles) | Focus on phrasing, tone, bends, and how George Harrison shapes the melodic argument. |
 | [Day Tripper](https://open.spotify.com/search/Day%20Tripper%20George%20Harrison%20Beatles) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Ticket to Ride](https://open.spotify.com/search/Ticket%20to%20Ride%20George%20Harrison%20Beatles) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Ringo Starr
 
-Ringo Starr is a drummer whose playing helps shape this music. Listen for how the drum part affects classic rock / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Beatles.
+Ringo Starr is a drummer whose playing helps shape this music. Listen for how the drum part affects classic rock / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Beatles.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Beatles | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Beatles | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,7 +96,7 @@ Ringo Starr is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -113,14 +113,14 @@ Ringo Starr is a drummer whose playing helps shape this music. Listen for how th
 
 ## Billy Preston
 
-Billy Preston is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects classic rock / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Beatles.
+Billy Preston is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects classic rock / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Beatles.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Beatles | [Wikipedia][beatles-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Beatles | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Beatles | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,18 +128,18 @@ Billy Preston is a keyboard player whose playing helps shape this music. Listen 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [The End](https://open.spotify.com/search/The%20End%20Billy%20Preston%20Beatles) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Help!](https://open.spotify.com/search/Help%21%20Billy%20Preston%20Beatles) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [In My Life](https://open.spotify.com/search/In%20My%20Life%20Billy%20Preston%20Beatles) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [In My Life](https://open.spotify.com/search/In%20My%20Life%20Billy%20Preston%20Beatles) | Listen for how the keys support and color the arrangement. |
 | [She Said She Said](https://open.spotify.com/search/She%20Said%20She%20Said%20Billy%20Preston%20Beatles) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Come Together](https://open.spotify.com/search/Come%20Together%20Billy%20Preston%20Beatles) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Something](https://open.spotify.com/search/Something%20Billy%20Preston%20Beatles) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Taxman](https://open.spotify.com/search/Taxman%20Billy%20Preston%20Beatles) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [While My Guitar Gently Weeps](https://open.spotify.com/search/While%20My%20Guitar%20Gently%20Weeps%20Billy%20Preston%20Beatles) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [While My Guitar Gently Weeps](https://open.spotify.com/search/While%20My%20Guitar%20Gently%20Weeps%20Billy%20Preston%20Beatles) | Listen for how the keys support and color the arrangement. |
 | [A Day in the Life](https://open.spotify.com/search/A%20Day%20in%20the%20Life%20Billy%20Preston%20Beatles) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Paperback Writer](https://open.spotify.com/search/Paperback%20Writer%20Billy%20Preston%20Beatles) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 

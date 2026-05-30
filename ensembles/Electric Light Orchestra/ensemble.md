@@ -1,6 +1,6 @@
 # Ensemble: Electric Light Orchestra
 
-## Pairing Context
+## Context
 
 This music lives in the Electric Light Orchestra world: orchestral rock / art pop / pop-rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -18,14 +18,14 @@ This music lives in the Electric Light Orchestra world: orchestral rock / art po
 
 ## Kelly Groucutt
 
-Kelly Groucutt is a bassist associated with orchestral rock, art pop, pop-rock. Musically, the important traits here are orchestral-rock vocal/bass support, melodic pop-rock pocket, arrangement-aware ensemble role. In this ensemble, that language is pointed toward orchestral rock / art pop / pop-rock, with Electric Light Orchestra as the broader listening world.
+Kelly Groucutt is a bassist associated with orchestral rock, art pop, pop-rock. Musically, the important traits here are orchestral-rock vocal/bass support, melodic pop-rock pocket, arrangement-aware ensemble role. In this ensemble: orchestral rock / art pop / pop-rock. Related listening: Electric Light Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Electric Light Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Electric Light Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Kelly Groucutt is a bassist associated with orchestral rock, art pop, pop-rock. 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Rockaria!](https://open.spotify.com/search/Rockaria%21%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Track the pocket, note length, and how Kelly Groucutt grounds the harmony. |
 | [Roll Over Beethoven](https://open.spotify.com/search/Roll%20Over%20Beethoven%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Fire on High](https://open.spotify.com/search/Fire%20on%20High%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [All Over the World](https://open.spotify.com/search/All%20Over%20the%20World%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [All Over the World](https://open.spotify.com/search/All%20Over%20the%20World%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Listen for how the player shapes and attacks each note. |
 | [Twilight](https://open.spotify.com/search/Twilight%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Mr. Blue Sky](https://open.spotify.com/search/Mr.%20Blue%20Sky%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Track the pocket, note length, and how Kelly Groucutt grounds the harmony. |
 | [Evil Woman](https://open.spotify.com/search/Evil%20Woman%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Livin' Thing](https://open.spotify.com/search/Livin%27%20Thing%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Do Ya](https://open.spotify.com/search/Do%20Ya%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Do Ya](https://open.spotify.com/search/Do%20Ya%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Listen for how the player shapes and attacks each note. |
 | [Turn to Stone](https://open.spotify.com/search/Turn%20to%20Stone%20Kelly%20Groucutt%20Electric%20Light%20Orchestra) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Jeff Lynne
 
-Jeff Lynne is a guitarist associated with orchestral rock, art pop, pop-rock. Musically, the important traits here are orchestral pop-rock rhythm, layered production guitar, melodic song-serving lead and arrangement vocabulary. In this ensemble, that language is pointed toward orchestral rock / art pop / pop-rock, with Electric Light Orchestra as the broader listening world.
+Jeff Lynne is a guitarist associated with orchestral rock, art pop, pop-rock. Musically, the important traits here are orchestral pop-rock rhythm, layered production guitar, melodic song-serving lead and arrangement vocabulary. In this ensemble: orchestral rock / art pop / pop-rock. Related listening: Electric Light Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Electric Light Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Electric Light Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,16 +65,16 @@ Jeff Lynne is a guitarist associated with orchestral rock, art pop, pop-rock. Mu
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Twilight](https://open.spotify.com/search/Twilight%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Twilight](https://open.spotify.com/search/Twilight%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Listen for comping choices and the way guitar defines the band sound. |
 | [Mr. Blue Sky](https://open.spotify.com/search/Mr.%20Blue%20Sky%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Focus on phrasing, tone, bends, and how Jeff Lynne shapes the melodic argument. |
 | [Evil Woman](https://open.spotify.com/search/Evil%20Woman%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Livin' Thing](https://open.spotify.com/search/Livin%27%20Thing%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Do Ya](https://open.spotify.com/search/Do%20Ya%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Turn to Stone](https://open.spotify.com/search/Turn%20to%20Stone%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Turn to Stone](https://open.spotify.com/search/Turn%20to%20Stone%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Listen for comping choices and the way guitar defines the band sound. |
 | [Telephone Line](https://open.spotify.com/search/Telephone%20Line%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Focus on phrasing, tone, bends, and how Jeff Lynne shapes the melodic argument. |
 | [Don't Bring Me Down](https://open.spotify.com/search/Don%27t%20Bring%20Me%20Down%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Strange Magic](https://open.spotify.com/search/Strange%20Magic%20Jeff%20Lynne%20Electric%20Light%20Orchestra) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
@@ -82,14 +82,14 @@ Jeff Lynne is a guitarist associated with orchestral rock, art pop, pop-rock. Mu
 
 ## Bev Bevan
 
-Bev Bevan is a drummer whose playing helps shape this music. Listen for how the drum part affects orchestral rock / art pop / pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Electric Light Orchestra.
+Bev Bevan is a drummer whose playing helps shape this music. Listen for how the drum part affects orchestral rock / art pop / pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Electric Light Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Electric Light Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Electric Light Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Bev Bevan is a drummer whose playing helps shape this music. Listen for how the 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Bev Bevan is a drummer whose playing helps shape this music. Listen for how the 
 
 ## Richard Tandy
 
-Richard Tandy is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects orchestral rock / art pop / pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Electric Light Orchestra.
+Richard Tandy is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects orchestral rock / art pop / pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Electric Light Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Electric Light Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Electric Light Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,7 +129,7 @@ Richard Tandy is a keyboard player whose playing helps shape this music. Listen 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -137,23 +137,23 @@ Richard Tandy is a keyboard player whose playing helps shape this music. Listen 
 | [Can't Get It Out of My Head](https://open.spotify.com/search/Can%27t%20Get%20It%20Out%20of%20My%20Head%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Sweet Talkin' Woman](https://open.spotify.com/search/Sweet%20Talkin%27%20Woman%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Shine a Little Love](https://open.spotify.com/search/Shine%20a%20Little%20Love%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Confusion](https://open.spotify.com/search/Confusion%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Confusion](https://open.spotify.com/search/Confusion%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Listen for how the keys support and color the arrangement. |
 | [Last Train to London](https://open.spotify.com/search/Last%20Train%20to%20London%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Rockaria!](https://open.spotify.com/search/Rockaria%21%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Roll Over Beethoven](https://open.spotify.com/search/Roll%20Over%20Beethoven%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Fire on High](https://open.spotify.com/search/Fire%20on%20High%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [All Over the World](https://open.spotify.com/search/All%20Over%20the%20World%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [All Over the World](https://open.spotify.com/search/All%20Over%20the%20World%20Richard%20Tandy%20Electric%20Light%20Orchestra) | Listen for how the keys support and color the arrangement. |
 
 ## Mik Kaminski
 
-Mik Kaminski is a violinist whose playing helps shape this music. Listen for how the violin part affects orchestral rock / art pop / pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Electric Light Orchestra.
+Mik Kaminski is a violinist whose playing helps shape this music. Listen for how the violin part affects orchestral rock / art pop / pop-rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Electric Light Orchestra.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Electric Light Orchestra | [Wikipedia][electric-light-orchestra-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Electric Light Orchestra | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Electric Light Orchestra | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,17 +161,17 @@ Mik Kaminski is a violinist whose playing helps shape this music. Listen for how
 |---|---|
 | Violin | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Shine a Little Love](https://open.spotify.com/search/Shine%20a%20Little%20Love%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Track the arrangement function: contrast, lift, transition, or counterline. |
-| [Confusion](https://open.spotify.com/search/Confusion%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Use this as a reference for idiomatic placement inside the style. |
+| [Confusion](https://open.spotify.com/search/Confusion%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Use this as a reference for how it fits the style. |
 | [Last Train to London](https://open.spotify.com/search/Last%20Train%20to%20London%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Listen for how this voice interacts with bass, drums, and guitar. |
 | [Rockaria!](https://open.spotify.com/search/Rockaria%21%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Focus on role-specific color and how it changes the ensemble conversation. |
 | [Roll Over Beethoven](https://open.spotify.com/search/Roll%20Over%20Beethoven%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Listen for phrasing, placement, and how the part supports the groove. |
 | [Fire on High](https://open.spotify.com/search/Fire%20on%20High%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Track the arrangement function: contrast, lift, transition, or counterline. |
-| [All Over the World](https://open.spotify.com/search/All%20Over%20the%20World%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Use this as a reference for idiomatic placement inside the style. |
+| [All Over the World](https://open.spotify.com/search/All%20Over%20the%20World%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Use this as a reference for how it fits the style. |
 | [Twilight](https://open.spotify.com/search/Twilight%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Listen for how this voice interacts with bass, drums, and guitar. |
 | [Mr. Blue Sky](https://open.spotify.com/search/Mr.%20Blue%20Sky%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Focus on role-specific color and how it changes the ensemble conversation. |
 | [Evil Woman](https://open.spotify.com/search/Evil%20Woman%20Mik%20Kaminski%20Electric%20Light%20Orchestra) | Listen for phrasing, placement, and how the part supports the groove. |

@@ -1,8 +1,8 @@
 # Ensemble: Plini
 
-## Pairing Context
+## Context
 
-This music lives in the Plini world: progressive fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Plini / Intervals orbit help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Plini world: progressive fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Plini / Intervals orbit help give you a feel for the style.
 
 ## Players
 
@@ -17,14 +17,14 @@ This music lives in the Plini world: progressive fusion. Listen for how the play
 
 ## Simon Grove
 
-Simon Grove is a bassist associated with progressive rock, fusion, prog metal. Musically, the important traits here are modern prog-fusion precision and clean extended-register support. In this ensemble, that language is pointed toward progressive fusion, with Plini / Intervals orbit as the broader listening world.
+Simon Grove is a bassist associated with progressive rock, fusion, prog metal. Musically, the important traits here are modern prog-fusion precision and clean extended-register support. In this ensemble: progressive fusion. Related listening: Plini / Intervals orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Plini | [Wikipedia][plini-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Plini / Intervals orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Plini / Intervals orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,7 +32,7 @@ Simon Grove is a bassist associated with progressive rock, fusion, prog metal. M
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -40,23 +40,23 @@ Simon Grove is a bassist associated with progressive rock, fusion, prog metal. M
 | [Electric Sunrise](https://open.spotify.com/search/Electric%20Sunrise%20Simon%20Grove%20Plini) | Track the pocket, note length, and how Simon Grove makes the harmony feel grounded. |
 | [Selenium Forest](https://open.spotify.com/search/Selenium%20Forest%20Simon%20Grove%20Plini) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Handmade Cities](https://open.spotify.com/search/Handmade%20Cities%20Simon%20Grove%20Plini) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Cascade](https://open.spotify.com/search/Cascade%20Simon%20Grove%20Plini) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Cascade](https://open.spotify.com/search/Cascade%20Simon%20Grove%20Plini) | Listen for how the player shapes and attacks each note. |
 | [Paper Moon](https://open.spotify.com/search/Paper%20Moon%20Simon%20Grove%20Plini) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Simon%20Grove%20Plini) | Track the pocket, note length, and how Simon Grove makes the harmony feel grounded. |
 | [Peg](https://open.spotify.com/search/Peg%20Simon%20Grove%20Plini) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Bernadette](https://open.spotify.com/search/Bernadette%20Simon%20Grove%20Plini) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Simon%20Grove%20Plini) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Simon%20Grove%20Plini) | Listen for how the player shapes and attacks each note. |
 
 ## Plini
 
-Plini is a guitarist associated with progressive rock, jazz fusion, instrumental prog. Musically, the important traits here are modern prog-fusion legato, harmonic sophistication, technical clarity, melodic development. In this ensemble, that language is pointed toward progressive fusion, with Plini / Intervals orbit as the broader listening world.
+Plini is a guitarist associated with progressive rock, jazz fusion, instrumental prog. Musically, the important traits here are modern prog-fusion legato, harmonic sophistication, technical clarity, melodic development. In this ensemble: progressive fusion. Related listening: Plini / Intervals orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Plini | [Wikipedia][plini-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Plini / Intervals orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Plini / Intervals orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,31 +64,31 @@ Plini is a guitarist associated with progressive rock, jazz fusion, instrumental
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Impulse Voices](https://open.spotify.com/search/Impulse%20Voices%20Plini%20Plini) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Heart](https://open.spotify.com/search/Heart%20Plini%20Plini) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Heart](https://open.spotify.com/search/Heart%20Plini%20Plini) | Listen for how the guitar fits the band. |
 | [Electric Sunrise](https://open.spotify.com/search/Electric%20Sunrise%20Plini%20Plini) | Focus on phrasing, tone, bends, and how Plini shapes the melodic argument. |
-| [Selenium Forest](https://open.spotify.com/search/Selenium%20Forest%20Plini%20Plini) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Selenium Forest](https://open.spotify.com/search/Selenium%20Forest%20Plini%20Plini) | Listen for how the rhythm guitar lays into the groove. |
 | [Handmade Cities](https://open.spotify.com/search/Handmade%20Cities%20Plini%20Plini) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Cascade](https://open.spotify.com/search/Cascade%20Plini%20Plini) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Plini%20Plini) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Plini%20Plini) | Listen for how the guitar fits the band. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Plini%20Plini) | Focus on phrasing, tone, bends, and how Plini shapes the melodic argument. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Plini%20Plini) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Plini%20Plini) | Listen for how the rhythm guitar lays into the groove. |
 | [Aja](https://open.spotify.com/search/Aja%20Plini%20Plini) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Aaron Marshall
 
-Aaron Marshall is a guitarist associated with progressive metal, sludge, avant-garde metal. Musically, the important traits here are Intronaut prog-metal riff complexity, odd-meter precision, atmospheric layering. In this ensemble, that language is pointed toward progressive fusion, with Plini / Intervals orbit as the broader listening world.
+Aaron Marshall is a guitarist associated with progressive metal, sludge, avant-garde metal. Musically, the important traits here are Intronaut prog-metal riff complexity, odd-meter precision, atmospheric layering. In this ensemble: progressive fusion. Related listening: Plini / Intervals orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Plini | [Wikipedia][plini-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Plini / Intervals orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Plini / Intervals orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,31 +96,31 @@ Aaron Marshall is a guitarist associated with progressive metal, sludge, avant-g
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Impulse Voices](https://open.spotify.com/search/Impulse%20Voices%20Aaron%20Marshall%20Plini) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Heart](https://open.spotify.com/search/Heart%20Aaron%20Marshall%20Plini) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Heart](https://open.spotify.com/search/Heart%20Aaron%20Marshall%20Plini) | Listen for how the guitar fits the band. |
 | [Electric Sunrise](https://open.spotify.com/search/Electric%20Sunrise%20Aaron%20Marshall%20Plini) | Focus on phrasing, tone, bends, and how Aaron Marshall shapes the melodic argument. |
-| [Selenium Forest](https://open.spotify.com/search/Selenium%20Forest%20Aaron%20Marshall%20Plini) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Selenium Forest](https://open.spotify.com/search/Selenium%20Forest%20Aaron%20Marshall%20Plini) | Listen for how the rhythm guitar lays into the groove. |
 | [Handmade Cities](https://open.spotify.com/search/Handmade%20Cities%20Aaron%20Marshall%20Plini) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Cascade](https://open.spotify.com/search/Cascade%20Aaron%20Marshall%20Plini) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Aja](https://open.spotify.com/search/Aja%20Aaron%20Marshall%20Plini) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Aja](https://open.spotify.com/search/Aja%20Aaron%20Marshall%20Plini) | Listen for how the guitar fits the band. |
 | [Peg](https://open.spotify.com/search/Peg%20Aaron%20Marshall%20Plini) | Focus on phrasing, tone, bends, and how Aaron Marshall shapes the melodic argument. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Aaron%20Marshall%20Plini) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Aaron%20Marshall%20Plini) | Listen for how the rhythm guitar lays into the groove. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Aaron%20Marshall%20Plini) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Troy Wright
 
-Troy Wright is a drummer whose playing helps shape this music. Listen for how the drum part affects progressive fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Plini / Intervals orbit.
+Troy Wright is a drummer whose playing helps shape this music. Listen for how the drum part affects progressive fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Plini / Intervals orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Plini | [Wikipedia][plini-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Plini / Intervals orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Plini / Intervals orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,7 +128,7 @@ Troy Wright is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

@@ -1,8 +1,8 @@
 # Ensemble: Jack Bruce-Gary Moore band
 
-## Pairing Context
+## Context
 
-This music is centered on Jack Bruce-Gary Moore band: blues rock / power trio. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Cream / Jack Bruce-Gary Moore band / BLT, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on Jack Bruce-Gary Moore band: blues rock / power trio. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Cream / Jack Bruce-Gary Moore band / BLT.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music is centered on Jack Bruce-Gary Moore band: blues rock / power trio. L
 
 ## Jack Bruce
 
-Jack Bruce is a bassist associated with blues-rock, rock, jazz. Musically, the important traits here are melodic blues-rock improvisation and power-trio counterpoint. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
+Jack Bruce is a bassist associated with blues-rock, rock, jazz. Musically, the important traits here are melodic blues-rock improvisation and power-trio counterpoint. In this ensemble: blues rock / power trio. Related listening: Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Jack Bruce-Gary Moore band | [Wikipedia][jack-bruce-gary-moore-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,7 +33,7 @@ Jack Bruce is a bassist associated with blues-rock, rock, jazz. Musically, the i
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -41,23 +41,23 @@ Jack Bruce is a bassist associated with blues-rock, rock, jazz. Musically, the i
 | [Spoonful](https://open.spotify.com/search/Spoonful%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Track the pocket, note length, and how Jack Bruce makes the harmony feel grounded. |
 | [Theme for an Imaginary Western](https://open.spotify.com/search/Theme%20for%20an%20Imaginary%20Western%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [The Loner](https://open.spotify.com/search/The%20Loner%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the player shapes and attacks each note. |
 | [Separate Ways](https://open.spotify.com/search/Separate%20Ways%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Come On, Come Over](https://open.spotify.com/search/Come%20On%2C%20Come%20Over%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Track the pocket, note length, and how Jack Bruce makes the harmony feel grounded. |
 | [Teen Town](https://open.spotify.com/search/Teen%20Town%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Dean Town](https://open.spotify.com/search/Dean%20Town%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Dean Town](https://open.spotify.com/search/Dean%20Town%20Jack%20Bruce%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the player shapes and attacks each note. |
 
 ## Eric Clapton
 
-Eric Clapton is a guitarist associated with blues-rock, blues, rock. Musically, the important traits here are pentatonic/blues lead vocabulary, tone-focused articulation, restraint as technique. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
+Eric Clapton is a guitarist associated with blues-rock, blues, rock. Musically, the important traits here are pentatonic/blues lead vocabulary, tone-focused articulation, restraint as technique. In this ensemble: blues rock / power trio. Related listening: Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Jack Bruce-Gary Moore band | [Wikipedia][jack-bruce-gary-moore-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Eric Clapton is a guitarist associated with blues-rock, blues, rock. Musically, 
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Over the Hills and Far Away](https://open.spotify.com/search/Over%20the%20Hills%20and%20Far%20Away%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Over the Hills and Far Away](https://open.spotify.com/search/Over%20the%20Hills%20and%20Far%20Away%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [White Room](https://open.spotify.com/search/White%20Room%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Politician](https://open.spotify.com/search/Politician%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Politician](https://open.spotify.com/search/Politician%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the guitar fits the band. |
 | [Spoonful](https://open.spotify.com/search/Spoonful%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Focus on phrasing, tone, bends, and how Eric Clapton shapes the melodic argument. |
-| [Theme for an Imaginary Western](https://open.spotify.com/search/Theme%20for%20an%20Imaginary%20Western%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Theme for an Imaginary Western](https://open.spotify.com/search/Theme%20for%20an%20Imaginary%20Western%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [Red House](https://open.spotify.com/search/Red%20House%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [La Grange](https://open.spotify.com/search/La%20Grange%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the guitar fits the band. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Eric%20Clapton%20Jack%20Bruce-Gary%20Moore%20band) | Focus on phrasing, tone, bends, and how Eric Clapton shapes the melodic argument. |
 
 ## Robin Trower
 
-Robin Trower is a guitarist associated with blues-rock, rock. Musically, the important traits here are Hendrix-inspired blues-rock phrasing, wah vocabulary, tone control. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
+Robin Trower is a guitarist associated with blues-rock, rock. Musically, the important traits here are Hendrix-inspired blues-rock phrasing, wah vocabulary, tone control. In this ensemble: blues rock / power trio. Related listening: Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Jack Bruce-Gary Moore band | [Wikipedia][jack-bruce-gary-moore-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,31 +97,31 @@ Robin Trower is a guitarist associated with blues-rock, rock. Musically, the imp
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [White Room](https://open.spotify.com/search/White%20Room%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Politician](https://open.spotify.com/search/Politician%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Politician](https://open.spotify.com/search/Politician%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the guitar fits the band. |
 | [Spoonful](https://open.spotify.com/search/Spoonful%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Focus on phrasing, tone, bends, and how Robin Trower shapes the melodic argument. |
-| [Theme for an Imaginary Western](https://open.spotify.com/search/Theme%20for%20an%20Imaginary%20Western%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Theme for an Imaginary Western](https://open.spotify.com/search/Theme%20for%20an%20Imaginary%20Western%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [The Loner](https://open.spotify.com/search/The%20Loner%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the guitar fits the band. |
 | [Room 335](https://open.spotify.com/search/Room%20335%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Focus on phrasing, tone, bends, and how Robin Trower shapes the melodic argument. |
-| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Robin%20Trower%20Jack%20Bruce-Gary%20Moore%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Gary Moore
 
-Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble, that language is pointed toward blues rock / power trio, with Cream / Jack Bruce-Gary Moore band / BLT as the broader listening world.
+Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble: blues rock / power trio. Related listening: Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Jack Bruce-Gary Moore band | [Wikipedia][jack-bruce-gary-moore-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Mu
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Theme for an Imaginary Western](https://open.spotify.com/search/Theme%20for%20an%20Imaginary%20Western%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Theme for an Imaginary Western](https://open.spotify.com/search/Theme%20for%20an%20Imaginary%20Western%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [The Loner](https://open.spotify.com/search/The%20Loner%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Separate Ways](https://open.spotify.com/search/Separate%20Ways%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Separate Ways](https://open.spotify.com/search/Separate%20Ways%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the guitar fits the band. |
 | [Out in the Fields](https://open.spotify.com/search/Out%20in%20the%20Fields%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Focus on phrasing, tone, bends, and how Gary Moore shapes the melodic argument. |
-| [Over the Hills and Far Away](https://open.spotify.com/search/Over%20the%20Hills%20and%20Far%20Away%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Over the Hills and Far Away](https://open.spotify.com/search/Over%20the%20Hills%20and%20Far%20Away%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Red House](https://open.spotify.com/search/Red%20House%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Red House](https://open.spotify.com/search/Red%20House%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Listen for how the guitar fits the band. |
 | [La Grange](https://open.spotify.com/search/La%20Grange%20Gary%20Moore%20Jack%20Bruce-Gary%20Moore%20band) | Focus on phrasing, tone, bends, and how Gary Moore shapes the melodic argument. |
 
 ## Ginger Baker
 
-Ginger Baker is a drummer whose playing helps shape this music. Listen for how the drum part affects blues rock / power trio: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Cream / Jack Bruce-Gary Moore band / BLT.
+Ginger Baker is a drummer whose playing helps shape this music. Listen for how the drum part affects blues rock / power trio: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Cream / Jack Bruce-Gary Moore band / BLT.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Jack Bruce-Gary Moore band | [Wikipedia][jack-bruce-gary-moore-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Cream / Jack Bruce-Gary Moore band / BLT | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Ginger Baker is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

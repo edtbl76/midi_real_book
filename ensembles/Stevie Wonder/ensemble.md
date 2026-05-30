@@ -1,6 +1,6 @@
 # Ensemble: Stevie Wonder
 
-## Pairing Context
+## Context
 
 This music lives in the Stevie Wonder world: soul / funk / pop. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -18,14 +18,14 @@ This music lives in the Stevie Wonder world: soul / funk / pop. Listen for how t
 
 ## Nathan Watts
 
-Nathan Watts is a bassist associated with soul, funk, R&B. Musically, the important traits here are late-70s/80s Stevie Wonder pocket, gospel-funk authority, melodic R&B support. In this ensemble, that language is pointed toward soul / funk / pop, with Stevie Wonder as the broader listening world.
+Nathan Watts is a bassist associated with soul, funk, R&B. Musically, the important traits here are late-70s/80s Stevie Wonder pocket, gospel-funk authority, melodic R&B support. In this ensemble: soul / funk / pop. Related listening: Stevie Wonder.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Wonder | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Stevie Wonder | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,7 +33,7 @@ Nathan Watts is a bassist associated with soul, funk, R&B. Musically, the import
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -41,23 +41,23 @@ Nathan Watts is a bassist associated with soul, funk, R&B. Musically, the import
 | [I Wish](https://open.spotify.com/search/I%20Wish%20Nathan%20Watts%20Stevie%20Wonder) | Track the pocket, note length, and how Nathan Watts makes the harmony feel grounded. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Nathan%20Watts%20Stevie%20Wonder) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Do I Do](https://open.spotify.com/search/Do%20I%20Do%20Nathan%20Watts%20Stevie%20Wonder) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Master Blaster](https://open.spotify.com/search/Master%20Blaster%20Nathan%20Watts%20Stevie%20Wonder) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Master Blaster](https://open.spotify.com/search/Master%20Blaster%20Nathan%20Watts%20Stevie%20Wonder) | Listen for how the player shapes and attacks each note. |
 | [As](https://open.spotify.com/search/As%20Nathan%20Watts%20Stevie%20Wonder) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [The Real Me](https://open.spotify.com/search/The%20Real%20Me%20Nathan%20Watts%20Stevie%20Wonder) | Track the pocket, note length, and how Nathan Watts makes the harmony feel grounded. |
 | [Hysteria](https://open.spotify.com/search/Hysteria%20Nathan%20Watts%20Stevie%20Wonder) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Nathan%20Watts%20Stevie%20Wonder) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Nathan%20Watts%20Stevie%20Wonder) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Nathan%20Watts%20Stevie%20Wonder) | Listen for how the player shapes and attacks each note. |
 
 ## Michael Sembello
 
-Michael Sembello is a guitarist associated with pop, funk, R&B, session. Musically, the important traits here are late-70s/80s Stevie Wonder-era rhythm/lead support, funk-pop precision, session versatility. In this ensemble, that language is pointed toward soul / funk / pop, with Stevie Wonder as the broader listening world.
+Michael Sembello is a guitarist associated with pop, funk, R&B, session. Musically, the important traits here are late-70s/80s Stevie Wonder-era rhythm/lead support, funk-pop precision, session versatility. In this ensemble: soul / funk / pop. Related listening: Stevie Wonder.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Wonder | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Stevie Wonder | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Michael Sembello is a guitarist associated with pop, funk, R&B, session. Musical
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Do I Do](https://open.spotify.com/search/Do%20I%20Do%20Michael%20Sembello%20Stevie%20Wonder) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Master Blaster](https://open.spotify.com/search/Master%20Blaster%20Michael%20Sembello%20Stevie%20Wonder) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [As](https://open.spotify.com/search/As%20Michael%20Sembello%20Stevie%20Wonder) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [As](https://open.spotify.com/search/As%20Michael%20Sembello%20Stevie%20Wonder) | Listen for how the guitar fits the band. |
 | [Isn't She Lovely](https://open.spotify.com/search/Isn%27t%20She%20Lovely%20Michael%20Sembello%20Stevie%20Wonder) | Focus on phrasing, tone, bends, and how Michael Sembello shapes the melodic argument. |
-| [Superstition](https://open.spotify.com/search/Superstition%20Michael%20Sembello%20Stevie%20Wonder) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Superstition](https://open.spotify.com/search/Superstition%20Michael%20Sembello%20Stevie%20Wonder) | Listen for how the rhythm guitar lays into the groove. |
 | [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Michael%20Sembello%20Stevie%20Wonder) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [La Grange](https://open.spotify.com/search/La%20Grange%20Michael%20Sembello%20Stevie%20Wonder) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Michael%20Sembello%20Stevie%20Wonder) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Michael%20Sembello%20Stevie%20Wonder) | Listen for how the guitar fits the band. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Michael%20Sembello%20Stevie%20Wonder) | Focus on phrasing, tone, bends, and how Michael Sembello shapes the melodic argument. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Michael%20Sembello%20Stevie%20Wonder) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Michael%20Sembello%20Stevie%20Wonder) | Listen for how the rhythm guitar lays into the groove. |
 
 ## John Robinson
 
-John Robinson is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / funk / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Stevie Wonder.
+John Robinson is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / funk / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Stevie Wonder.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Wonder | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Stevie Wonder | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ John Robinson is a drummer whose playing helps shape this music. Listen for how 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ John Robinson is a drummer whose playing helps shape this music. Listen for how 
 
 ## Stevie Wonder
 
-Stevie Wonder is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / funk / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Stevie Wonder.
+Stevie Wonder is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / funk / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Stevie Wonder.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Wonder | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Stevie Wonder | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,7 +129,7 @@ Stevie Wonder is a keyboard player whose playing helps shape this music. Listen 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -137,23 +137,23 @@ Stevie Wonder is a keyboard player whose playing helps shape this music. Listen 
 | [Isn't She Lovely](https://open.spotify.com/search/Isn%27t%20She%20Lovely%20Stevie%20Wonder%20Stevie%20Wonder) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Superstition](https://open.spotify.com/search/Superstition%20Stevie%20Wonder%20Stevie%20Wonder) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Stevie%20Wonder%20Stevie%20Wonder) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Another Star](https://open.spotify.com/search/Another%20Star%20Stevie%20Wonder%20Stevie%20Wonder) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Another Star](https://open.spotify.com/search/Another%20Star%20Stevie%20Wonder%20Stevie%20Wonder) | Listen for how the keys support and color the arrangement. |
 | [Boogie On Reggae Woman](https://open.spotify.com/search/Boogie%20On%20Reggae%20Woman%20Stevie%20Wonder%20Stevie%20Wonder) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [You Are the Sunshine of My Life](https://open.spotify.com/search/You%20Are%20the%20Sunshine%20of%20My%20Life%20Stevie%20Wonder%20Stevie%20Wonder) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Stevie%20Wonder%20Stevie%20Wonder) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Stevie%20Wonder%20Stevie%20Wonder) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Stevie%20Wonder%20Stevie%20Wonder) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Stevie%20Wonder%20Stevie%20Wonder) | Listen for how the keys support and color the arrangement. |
 
 ## Toots Thielemans
 
-Toots Thielemans is a harmonica player whose playing helps shape this music. Listen for how the harmonica part affects soul / funk / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Stevie Wonder.
+Toots Thielemans is a harmonica player whose playing helps shape this music. Listen for how the harmonica part affects soul / funk / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Stevie Wonder.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Stevie Wonder | [Wikipedia][stevie-wonder-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Wonder | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Stevie Wonder | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Toots Thielemans is a harmonica player whose playing helps shape this music. Lis
 |---|---|
 | Harmonica | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

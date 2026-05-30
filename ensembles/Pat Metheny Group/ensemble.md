@@ -1,8 +1,8 @@
 # Ensemble: Pat Metheny Group
 
-## Pairing Context
+## Context
 
-This music is centered on Pat Metheny Group: jazz fusion. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Weather Report / Joni Mitchell / Pat Metheny Group, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on Pat Metheny Group: jazz fusion. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Weather Report / Joni Mitchell / Pat Metheny Group.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music is centered on Pat Metheny Group: jazz fusion. Listen for the musical
 
 ## Jaco Pastorius
 
-Jaco Pastorius is a bassist associated with jazz fusion, electric jazz. Musically, the important traits here are fretless jazz-fusion language, harmonics, melodic improvisation. In this ensemble, that language is pointed toward jazz fusion, with Weather Report / Joni Mitchell / Pat Metheny Group as the broader listening world.
+Jaco Pastorius is a bassist associated with jazz fusion, electric jazz. Musically, the important traits here are fretless jazz-fusion language, harmonics, melodic improvisation. In this ensemble: jazz fusion. Related listening: Weather Report / Joni Mitchell / Pat Metheny Group.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Jaco Pastorius is a bassist associated with jazz fusion, electric jazz. Musicall
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Have You Heard](https://open.spotify.com/search/Have%20You%20Heard%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Minuano](https://open.spotify.com/search/Minuano%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Third Wind](https://open.spotify.com/search/Third%20Wind%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Third Wind](https://open.spotify.com/search/Third%20Wind%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Listen for how the player shapes and attacks each note. |
 | [Last Train Home](https://open.spotify.com/search/Last%20Train%20Home%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Track the pocket, note length, and how Jaco Pastorius makes the harmony feel grounded. |
 | [Phase Dance](https://open.spotify.com/search/Phase%20Dance%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Power](https://open.spotify.com/search/Power%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Listen for how the player shapes and attacks each note. |
 | [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Continuum](https://open.spotify.com/search/Continuum%20Jaco%20Pastorius%20Pat%20Metheny%20Group) | Track the pocket, note length, and how Jaco Pastorius makes the harmony feel grounded. |
 
 ## Pat Metheny
 
-Pat Metheny is a guitarist associated with jazz, jazz fusion, progressive jazz, world. Musically, the important traits here are jazz harmonic mastery, melodic invention, technical fluency, broad stylistic command. In this ensemble, that language is pointed toward jazz fusion, with Weather Report / Joni Mitchell / Pat Metheny Group as the broader listening world.
+Pat Metheny is a guitarist associated with jazz, jazz fusion, progressive jazz, world. Musically, the important traits here are jazz harmonic mastery, melodic invention, technical fluency, broad stylistic command. In this ensemble: jazz fusion. Related listening: Weather Report / Joni Mitchell / Pat Metheny Group.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Pat Metheny is a guitarist associated with jazz, jazz fusion, progressive jazz, 
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Last Train Home](https://open.spotify.com/search/Last%20Train%20Home%20Pat%20Metheny%20Pat%20Metheny%20Group) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Last Train Home](https://open.spotify.com/search/Last%20Train%20Home%20Pat%20Metheny%20Pat%20Metheny%20Group) | Listen for how the guitar fits the band. |
 | [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Pat%20Metheny%20Pat%20Metheny%20Group) | Focus on phrasing, tone, bends, and how Pat Metheny shapes the melodic argument. |
-| [Phase Dance](https://open.spotify.com/search/Phase%20Dance%20Pat%20Metheny%20Pat%20Metheny%20Group) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Phase Dance](https://open.spotify.com/search/Phase%20Dance%20Pat%20Metheny%20Pat%20Metheny%20Group) | Listen for how the rhythm guitar lays into the groove. |
 | [Are You Going With Me](https://open.spotify.com/search/Are%20You%20Going%20With%20Me%20Pat%20Metheny%20Pat%20Metheny%20Group) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Jaco](https://open.spotify.com/search/Jaco%20Pat%20Metheny%20Pat%20Metheny%20Group) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Sirabhorn](https://open.spotify.com/search/Sirabhorn%20Pat%20Metheny%20Pat%20Metheny%20Group) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Sirabhorn](https://open.spotify.com/search/Sirabhorn%20Pat%20Metheny%20Pat%20Metheny%20Group) | Listen for how the guitar fits the band. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Pat%20Metheny%20Pat%20Metheny%20Group) | Focus on phrasing, tone, bends, and how Pat Metheny shapes the melodic argument. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Pat%20Metheny%20Pat%20Metheny%20Group) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Pat%20Metheny%20Pat%20Metheny%20Group) | Listen for how the rhythm guitar lays into the groove. |
 | [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Pat%20Metheny%20Pat%20Metheny%20Group) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Pat%20Metheny%20Pat%20Metheny%20Group) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Peter Erskine
 
-Peter Erskine is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Weather Report / Joni Mitchell / Pat Metheny Group.
+Peter Erskine is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Weather Report / Joni Mitchell / Pat Metheny Group.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Peter Erskine is a drummer whose playing helps shape this music. Listen for how 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Peter Erskine is a drummer whose playing helps shape this music. Listen for how 
 
 ## Joe Zawinul
 
-Joe Zawinul is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Weather Report / Joni Mitchell / Pat Metheny Group.
+Joe Zawinul is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Weather Report / Joni Mitchell / Pat Metheny Group.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ Joe Zawinul is a keyboard player whose playing helps shape this music. Listen fo
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Are You Going With Me](https://open.spotify.com/search/Are%20You%20Going%20With%20Me%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Jaco](https://open.spotify.com/search/Jaco%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Jaco](https://open.spotify.com/search/Jaco%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Listen for how the keys support and color the arrangement. |
 | [Sirabhorn](https://open.spotify.com/search/Sirabhorn%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [The Search](https://open.spotify.com/search/The%20Search%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Have You Heard](https://open.spotify.com/search/Have%20You%20Heard%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Minuano](https://open.spotify.com/search/Minuano%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Listen for how the keys support and color the arrangement. |
 | [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Tutu](https://open.spotify.com/search/Tutu%20Joe%20Zawinul%20Pat%20Metheny%20Group) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 
 ## Wayne Shorter
 
-Wayne Shorter is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Weather Report / Joni Mitchell / Pat Metheny Group.
+Wayne Shorter is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Weather Report / Joni Mitchell / Pat Metheny Group.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Pat Metheny Group | [Wikipedia][pat-metheny-group-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Weather Report / Joni Mitchell / Pat Metheny Group | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Wayne Shorter is a saxophonist whose playing helps shape this music. Listen for 
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

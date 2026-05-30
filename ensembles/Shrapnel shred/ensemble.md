@@ -1,8 +1,8 @@
 # Ensemble: Shrapnel shred
 
-## Pairing Context
+## Context
 
-This music is centered on Shrapnel shred: hard rock / shred. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Mr. Big / David Lee Roth / Shrapnel orbit, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on Shrapnel shred: hard rock / shred. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ## Players
 
@@ -19,14 +19,14 @@ This music is centered on Shrapnel shred: hard rock / shred. Listen for the musi
 
 ## Billy Sheehan
 
-Billy Sheehan is a bassist associated with hard rock, rock, shred. Musically, the important traits here are hard-rock shred bass, three-finger speed, tapping, lead-bass phrasing. In this ensemble, that language is pointed toward hard rock / shred, with Mr. Big / David Lee Roth / Shrapnel orbit as the broader listening world.
+Billy Sheehan is a bassist associated with hard rock, rock, shred. Musically, the important traits here are hard-rock shred bass, three-finger speed, tapping, lead-bass phrasing. In this ensemble: hard rock / shred. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Shrapnel shred | [Wikipedia][shrapnel-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,18 +34,18 @@ Billy Sheehan is a bassist associated with hard rock, rock, shred. Musically, th
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Billy%20Sheehan%20Shrapnel%20shred) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Billy%20Sheehan%20Shrapnel%20shred) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Billy%20Sheehan%20Shrapnel%20shred) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Billy%20Sheehan%20Shrapnel%20shred) | Listen for how the player shapes and attacks each note. |
 | [Perpetual Burn](https://open.spotify.com/search/Perpetual%20Burn%20Billy%20Sheehan%20Shrapnel%20shred) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Altitudes](https://open.spotify.com/search/Altitudes%20Billy%20Sheehan%20Shrapnel%20shred) | Track the pocket, note length, and how Billy Sheehan makes the harmony feel grounded. |
 | [Concerto](https://open.spotify.com/search/Concerto%20Billy%20Sheehan%20Shrapnel%20shred) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Portrait of Tracy](https://open.spotify.com/search/Portrait%20of%20Tracy%20Billy%20Sheehan%20Shrapnel%20shred) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Dean Town](https://open.spotify.com/search/Dean%20Town%20Billy%20Sheehan%20Shrapnel%20shred) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Dean Town](https://open.spotify.com/search/Dean%20Town%20Billy%20Sheehan%20Shrapnel%20shred) | Listen for how the player shapes and attacks each note. |
 | [Good Times](https://open.spotify.com/search/Good%20Times%20Billy%20Sheehan%20Shrapnel%20shred) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Billy%20Sheehan%20Shrapnel%20shred) | Track the pocket, note length, and how Billy Sheehan makes the harmony feel grounded. |
 
@@ -58,7 +58,7 @@ American guitarist who emerged from Frank Zappa's band before becoming a major v
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Shrapnel shred | [Wikipedia][shrapnel-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -67,31 +67,31 @@ American guitarist who emerged from Frank Zappa's band before becoming a major v
 | Guitars | Ibanez JEM and Universe models |
 | Effects / Amps | Eventide-style harmonizers, Carvin/Legacy-era amps, Fractal-era rigs |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Scarified](https://open.spotify.com/search/Scarified%20Steve%20Vai%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Steve%20Vai%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Steve%20Vai%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Steve%20Vai%20Shrapnel%20shred) | Listen for how the guitar fits the band. |
 | [Images](https://open.spotify.com/search/Images%20Steve%20Vai%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Steve Vai shapes the melodic argument. |
-| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Steve%20Vai%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Steve%20Vai%20Shrapnel%20shred) | Listen for how the rhythm guitar lays into the groove. |
 | [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Steve%20Vai%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Crossroads](https://open.spotify.com/search/Crossroads%20Steve%20Vai%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Steve%20Vai%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Steve%20Vai%20Shrapnel%20shred) | Listen for how the guitar fits the band. |
 | [Black Star](https://open.spotify.com/search/Black%20Star%20Steve%20Vai%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Steve Vai shapes the melodic argument. |
-| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Steve%20Vai%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Steve%20Vai%20Shrapnel%20shred) | Listen for how the rhythm guitar lays into the groove. |
 
 ## Paul Gilbert
 
-Paul Gilbert is a guitarist associated with rock, shred, instrumental rock, hard rock. Musically, the important traits here are right-hand alternate picking precision, string skipping, high-velocity articulation, clean speed and stamina. In this ensemble, that language is pointed toward hard rock / shred, with Mr. Big / David Lee Roth / Shrapnel orbit as the broader listening world.
+Paul Gilbert is a guitarist associated with rock, shred, instrumental rock, hard rock. Musically, the important traits here are right-hand alternate picking precision, string skipping, speed and precision, clean stamina. In this ensemble: hard rock / shred. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Shrapnel shred | [Wikipedia][shrapnel-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -99,31 +99,31 @@ Paul Gilbert is a guitarist associated with rock, shred, instrumental rock, hard
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Scarified](https://open.spotify.com/search/Scarified%20Paul%20Gilbert%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Paul%20Gilbert%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for how the guitar fits the band. |
 | [Images](https://open.spotify.com/search/Images%20Paul%20Gilbert%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Paul Gilbert shapes the melodic argument. |
-| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for how the rhythm guitar lays into the groove. |
 | [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Paul%20Gilbert%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Paul%20Gilbert%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for how the guitar fits the band. |
 | [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Paul%20Gilbert%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Paul Gilbert shapes the melodic argument. |
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Paul%20Gilbert%20Shrapnel%20shred) | Listen for how the rhythm guitar lays into the groove. |
 
 ## Jason Becker
 
-Jason Becker is a guitarist associated with neoclassical metal, shred, rock. Musically, the important traits here are neoclassical shred precision, speed and clarity, classical phrasing, elite alternate picking. In this ensemble, that language is pointed toward hard rock / shred, with Mr. Big / David Lee Roth / Shrapnel orbit as the broader listening world.
+Jason Becker is a guitarist associated with neoclassical metal, shred, rock. Musically, the important traits here are neoclassical shred precision, speed and clarity, classical phrasing, elite alternate picking. In this ensemble: hard rock / shred. Related listening: Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Shrapnel shred | [Wikipedia][shrapnel-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -131,31 +131,31 @@ Jason Becker is a guitarist associated with neoclassical metal, shred, rock. Mus
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Jason%20Becker%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Jason%20Becker%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Jason%20Becker%20Shrapnel%20shred) | Listen for how the guitar fits the band. |
 | [Images](https://open.spotify.com/search/Images%20Jason%20Becker%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Jason Becker shapes the melodic argument. |
-| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Jason%20Becker%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Jason%20Becker%20Shrapnel%20shred) | Listen for how the rhythm guitar lays into the groove. |
 | [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Jason%20Becker%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Black Star](https://open.spotify.com/search/Black%20Star%20Jason%20Becker%20Shrapnel%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Jason%20Becker%20Shrapnel%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Jason%20Becker%20Shrapnel%20shred) | Listen for how the guitar fits the band. |
 | [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Jason%20Becker%20Shrapnel%20shred) | Focus on phrasing, tone, bends, and how Jason Becker shapes the melodic argument. |
-| [Room 335](https://open.spotify.com/search/Room%20335%20Jason%20Becker%20Shrapnel%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Jason%20Becker%20Shrapnel%20shred) | Listen for how the rhythm guitar lays into the groove. |
 | [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Jason%20Becker%20Shrapnel%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Mike Mangini
 
-Mike Mangini is a drummer whose drum role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The broader listening world is Mr. Big / David Lee Roth / Shrapnel orbit.
+Mike Mangini is a drummer whose drum role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The related listening is Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Shrapnel shred | [Wikipedia][shrapnel-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -163,7 +163,7 @@ Mike Mangini is a drummer whose drum role helps shape this music. Listen for the
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -180,14 +180,14 @@ Mike Mangini is a drummer whose drum role helps shape this music. Listen for the
 
 ## Michael Keneally
 
-Michael Keneally is a keyboard player whose keyboard role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The broader listening world is Mr. Big / David Lee Roth / Shrapnel orbit.
+Michael Keneally is a keyboard player whose keyboard role helps shape this music. Listen for the feel, the arrangement, the transitions, and the conversation with the bass and guitar inside hard rock / shred. The related listening is Mr. Big / David Lee Roth / Shrapnel orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Shrapnel shred | [Wikipedia][shrapnel-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mr. Big / David Lee Roth / Shrapnel orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -195,16 +195,16 @@ Michael Keneally is a keyboard player whose keyboard role helps shape this music
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Michael%20Keneally%20Shrapnel%20shred) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Technical Difficulties](https://open.spotify.com/search/Technical%20Difficulties%20Michael%20Keneally%20Shrapnel%20shred) | Listen for how the keys support and color the arrangement. |
 | [Speed Metal Symphony](https://open.spotify.com/search/Speed%20Metal%20Symphony%20Michael%20Keneally%20Shrapnel%20shred) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Images](https://open.spotify.com/search/Images%20Michael%20Keneally%20Shrapnel%20shred) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Dragon Mistress](https://open.spotify.com/search/Dragon%20Mistress%20Michael%20Keneally%20Shrapnel%20shred) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Michael%20Keneally%20Shrapnel%20shred) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Michael%20Keneally%20Shrapnel%20shred) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Black Star](https://open.spotify.com/search/Black%20Star%20Michael%20Keneally%20Shrapnel%20shred) | Listen for how the keys support and color the arrangement. |
 | [Lingus](https://open.spotify.com/search/Lingus%20Michael%20Keneally%20Shrapnel%20shred) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [The Way It Is](https://open.spotify.com/search/The%20Way%20It%20Is%20Michael%20Keneally%20Shrapnel%20shred) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [You Are the Sunshine of My Life](https://open.spotify.com/search/You%20Are%20the%20Sunshine%20of%20My%20Life%20Michael%20Keneally%20Shrapnel%20shred) | Listen for harmonic color: extensions, inversions, and movement under the melody. |

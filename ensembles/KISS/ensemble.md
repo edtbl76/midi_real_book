@@ -1,6 +1,6 @@
 # Ensemble: KISS
 
-## Pairing Context
+## Context
 
 This music lives in the KISS world: classic rock / glam metal / hard rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -18,14 +18,14 @@ This music lives in the KISS world: classic rock / glam metal / hard rock. Liste
 
 ## Gene Simmons
 
-Gene Simmons is a bassist associated with hard rock, classic rock. Musically, the important traits here are arena-rock pulse and simple theatrical support. In this ensemble, that language is pointed toward classic rock / glam metal / hard rock, with KISS as the broader listening world.
+Gene Simmons is a bassist associated with hard rock, classic rock. Musically, the important traits here are arena-rock pulse and simple theatrical support. In this ensemble: classic rock / glam metal / hard rock. Related listening: KISS.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | KISS | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | KISS | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,7 +33,7 @@ Gene Simmons is a bassist associated with hard rock, classic rock. Musically, th
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -41,23 +41,23 @@ Gene Simmons is a bassist associated with hard rock, classic rock. Musically, th
 | [Shock Me](https://open.spotify.com/search/Shock%20Me%20Gene%20Simmons%20KISS) | Track the pocket, note length, and how Gene Simmons grounds the harmony. |
 | [God of Thunder](https://open.spotify.com/search/God%20of%20Thunder%20Gene%20Simmons%20KISS) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Shout It Out Loud](https://open.spotify.com/search/Shout%20It%20Out%20Loud%20Gene%20Simmons%20KISS) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [I Was Made for Lovin' You](https://open.spotify.com/search/I%20Was%20Made%20for%20Lovin%27%20You%20Gene%20Simmons%20KISS) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [I Was Made for Lovin' You](https://open.spotify.com/search/I%20Was%20Made%20for%20Lovin%27%20You%20Gene%20Simmons%20KISS) | Listen for how the player shapes and attacks each note. |
 | [Creatures of the Night](https://open.spotify.com/search/Creatures%20of%20the%20Night%20Gene%20Simmons%20KISS) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [I Love It Loud](https://open.spotify.com/search/I%20Love%20It%20Loud%20Gene%20Simmons%20KISS) | Track the pocket, note length, and how Gene Simmons grounds the harmony. |
 | [Parasite](https://open.spotify.com/search/Parasite%20Gene%20Simmons%20KISS) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Cold Gin](https://open.spotify.com/search/Cold%20Gin%20Gene%20Simmons%20KISS) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Watchin' You](https://open.spotify.com/search/Watchin%27%20You%20Gene%20Simmons%20KISS) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Watchin' You](https://open.spotify.com/search/Watchin%27%20You%20Gene%20Simmons%20KISS) | Listen for how the player shapes and attacks each note. |
 
 ## Ace Frehley
 
-Ace Frehley is a guitarist associated with hard rock, classic rock. Musically, the important traits here are classic rock melodic phrasing, blues-influenced lead vocabulary. In this ensemble, that language is pointed toward classic rock / glam metal / hard rock, with KISS as the broader listening world.
+Ace Frehley is a guitarist associated with hard rock, classic rock. Musically, the important traits here are classic rock melodic phrasing, blues-influenced lead vocabulary. In this ensemble: classic rock / glam metal / hard rock. Related listening: KISS.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | KISS | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | KISS | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Ace Frehley is a guitarist associated with hard rock, classic rock. Musically, t
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [God of Thunder](https://open.spotify.com/search/God%20of%20Thunder%20Ace%20Frehley%20KISS) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Shout It Out Loud](https://open.spotify.com/search/Shout%20It%20Out%20Loud%20Ace%20Frehley%20KISS) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [I Was Made for Lovin' You](https://open.spotify.com/search/I%20Was%20Made%20for%20Lovin%27%20You%20Ace%20Frehley%20KISS) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Creatures of the Night](https://open.spotify.com/search/Creatures%20of%20the%20Night%20Ace%20Frehley%20KISS) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Creatures of the Night](https://open.spotify.com/search/Creatures%20of%20the%20Night%20Ace%20Frehley%20KISS) | Listen for comping choices and the way guitar defines the band sound. |
 | [I Love It Loud](https://open.spotify.com/search/I%20Love%20It%20Loud%20Ace%20Frehley%20KISS) | Focus on phrasing, tone, bends, and how Ace Frehley shapes the melodic argument. |
 | [Parasite](https://open.spotify.com/search/Parasite%20Ace%20Frehley%20KISS) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Cold Gin](https://open.spotify.com/search/Cold%20Gin%20Ace%20Frehley%20KISS) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Watchin' You](https://open.spotify.com/search/Watchin%27%20You%20Ace%20Frehley%20KISS) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [C'mon and Love Me](https://open.spotify.com/search/C%27mon%20and%20Love%20Me%20Ace%20Frehley%20KISS) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [C'mon and Love Me](https://open.spotify.com/search/C%27mon%20and%20Love%20Me%20Ace%20Frehley%20KISS) | Listen for comping choices and the way guitar defines the band sound. |
 | [King of the Night Time World](https://open.spotify.com/search/King%20of%20the%20Night%20Time%20World%20Ace%20Frehley%20KISS) | Focus on phrasing, tone, bends, and how Ace Frehley shapes the melodic argument. |
 
 ## Vinnie Vincent
 
-Vinnie Vincent is a guitarist associated with hard rock, glam metal, shred. Musically, the important traits here are high-velocity alternate picking, shred-pop metal technical vocabulary, speed and flash. In this ensemble, that language is pointed toward classic rock / glam metal / hard rock, with KISS as the broader listening world.
+Vinnie Vincent is a guitarist associated with hard rock, glam metal, shred. Musically, the important traits here are high-velocity alternate picking, shred-pop metal technical vocabulary, speed and flash. In this ensemble: classic rock / glam metal / hard rock. Related listening: KISS.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | KISS | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | KISS | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,31 +97,31 @@ Vinnie Vincent is a guitarist associated with hard rock, glam metal, shred. Musi
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Shout It Out Loud](https://open.spotify.com/search/Shout%20It%20Out%20Loud%20Vinnie%20Vincent%20KISS) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [I Was Made for Lovin' You](https://open.spotify.com/search/I%20Was%20Made%20for%20Lovin%27%20You%20Vinnie%20Vincent%20KISS) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Creatures of the Night](https://open.spotify.com/search/Creatures%20of%20the%20Night%20Vinnie%20Vincent%20KISS) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Creatures of the Night](https://open.spotify.com/search/Creatures%20of%20the%20Night%20Vinnie%20Vincent%20KISS) | Listen for comping choices and the way guitar defines the band sound. |
 | [I Love It Loud](https://open.spotify.com/search/I%20Love%20It%20Loud%20Vinnie%20Vincent%20KISS) | Focus on phrasing, tone, bends, and how Vinnie Vincent shapes the melodic argument. |
 | [Parasite](https://open.spotify.com/search/Parasite%20Vinnie%20Vincent%20KISS) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Cold Gin](https://open.spotify.com/search/Cold%20Gin%20Vinnie%20Vincent%20KISS) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Watchin' You](https://open.spotify.com/search/Watchin%27%20You%20Vinnie%20Vincent%20KISS) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [C'mon and Love Me](https://open.spotify.com/search/C%27mon%20and%20Love%20Me%20Vinnie%20Vincent%20KISS) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [C'mon and Love Me](https://open.spotify.com/search/C%27mon%20and%20Love%20Me%20Vinnie%20Vincent%20KISS) | Listen for comping choices and the way guitar defines the band sound. |
 | [King of the Night Time World](https://open.spotify.com/search/King%20of%20the%20Night%20Time%20World%20Vinnie%20Vincent%20KISS) | Focus on phrasing, tone, bends, and how Vinnie Vincent shapes the melodic argument. |
 | [God of Thunder](https://open.spotify.com/search/God%20of%20Thunder%20Vinnie%20Vincent%20KISS) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 
 ## Bruce Kulick
 
-Bruce Kulick is a guitarist associated with hard rock, classic rock. Musically, the important traits here are KISS-era melodic rock lead, technically proficient hard rock vocabulary. In this ensemble, that language is pointed toward classic rock / glam metal / hard rock, with KISS as the broader listening world.
+Bruce Kulick is a guitarist associated with hard rock, classic rock. Musically, the important traits here are KISS-era melodic rock lead, technically proficient hard rock vocabulary. In this ensemble: classic rock / glam metal / hard rock. Related listening: KISS.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | KISS | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | KISS | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ Bruce Kulick is a guitarist associated with hard rock, classic rock. Musically, 
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Parasite](https://open.spotify.com/search/Parasite%20Bruce%20Kulick%20KISS) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Cold Gin](https://open.spotify.com/search/Cold%20Gin%20Bruce%20Kulick%20KISS) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Watchin' You](https://open.spotify.com/search/Watchin%27%20You%20Bruce%20Kulick%20KISS) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [C'mon and Love Me](https://open.spotify.com/search/C%27mon%20and%20Love%20Me%20Bruce%20Kulick%20KISS) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [C'mon and Love Me](https://open.spotify.com/search/C%27mon%20and%20Love%20Me%20Bruce%20Kulick%20KISS) | Listen for comping choices and the way guitar defines the band sound. |
 | [King of the Night Time World](https://open.spotify.com/search/King%20of%20the%20Night%20Time%20World%20Bruce%20Kulick%20KISS) | Focus on phrasing, tone, bends, and how Bruce Kulick shapes the melodic argument. |
 | [Calling Dr. Love](https://open.spotify.com/search/Calling%20Dr.%20Love%20Bruce%20Kulick%20KISS) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [War Machine](https://open.spotify.com/search/War%20Machine%20Bruce%20Kulick%20KISS) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Lick It Up](https://open.spotify.com/search/Lick%20It%20Up%20Bruce%20Kulick%20KISS) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Heaven's on Fire](https://open.spotify.com/search/Heaven%27s%20on%20Fire%20Bruce%20Kulick%20KISS) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Heaven's on Fire](https://open.spotify.com/search/Heaven%27s%20on%20Fire%20Bruce%20Kulick%20KISS) | Listen for comping choices and the way guitar defines the band sound. |
 | [Detroit Rock City](https://open.spotify.com/search/Detroit%20Rock%20City%20Bruce%20Kulick%20KISS) | Focus on phrasing, tone, bends, and how Bruce Kulick shapes the melodic argument. |
 
 ## Eric Carr
 
-Eric Carr is a drummer whose playing helps shape this music. Listen for how the drum part affects classic rock / glam metal / hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is KISS.
+Eric Carr is a drummer whose playing helps shape this music. Listen for how the drum part affects classic rock / glam metal / hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is KISS.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | KISS | [Wikipedia][kiss-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | KISS | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | KISS | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Eric Carr is a drummer whose playing helps shape this music. Listen for how the 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

@@ -1,8 +1,8 @@
 # Ensemble: King Curtis / Aretha
 
-## Pairing Context
+## Context
 
-This music lives in the King Curtis / Aretha world: soul / R&B / studio groove. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Aretha Franklin / King Curtis / Steely Dan help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the King Curtis / Aretha world: soul / R&B / studio groove. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Aretha Franklin / King Curtis / Steely Dan help give you a feel for the style.
 
 ## Players
 
@@ -19,14 +19,14 @@ This music lives in the King Curtis / Aretha world: soul / R&B / studio groove. 
 
 ## Chuck Rainey
 
-Chuck Rainey is a bassist associated with soul, R&B, funk, studio. Musically, the important traits here are economical soul/R&B pocket, ghosted articulation, syncopation, chromatic studio-bass movement. In this ensemble, that language is pointed toward soul / R&B / studio groove, with Aretha Franklin / King Curtis / Steely Dan as the broader listening world.
+Chuck Rainey is a bassist associated with soul, R&B, funk, studio. Musically, the important traits here are economical soul/R&B pocket, ghosted articulation, syncopation, chromatic studio-bass movement. In this ensemble: soul / R&B / studio groove. Related listening: Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,7 +34,7 @@ Chuck Rainey is a bassist associated with soul, R&B, funk, studio. Musically, th
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -42,23 +42,23 @@ Chuck Rainey is a bassist associated with soul, R&B, funk, studio. Musically, th
 | [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Track the pocket, note length, and how Chuck Rainey makes the harmony feel grounded. |
 | [Respect](https://open.spotify.com/search/Respect%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Chain of Fools](https://open.spotify.com/search/Chain%20of%20Fools%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Rock Steady](https://open.spotify.com/search/Rock%20Steady%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Rock Steady](https://open.spotify.com/search/Rock%20Steady%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Listen for how the player shapes and attacks each note. |
 | [Think](https://open.spotify.com/search/Think%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Track the pocket, note length, and how Chuck Rainey makes the harmony feel grounded. |
 | [Continuum](https://open.spotify.com/search/Continuum%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Stratus](https://open.spotify.com/search/Stratus%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Chuck%20Rainey%20King%20Curtis%20/%20Aretha) | Listen for how the player shapes and attacks each note. |
 
 ## Cornell Dupree
 
-Cornell Dupree is a guitarist associated with soul, R&B, funk, session. Musically, the important traits here are soul/R&B session groove, bluesy fills, economical chordal punctuation, deep pocket. In this ensemble, that language is pointed toward soul / R&B / studio groove, with Aretha Franklin / King Curtis / Steely Dan as the broader listening world.
+Cornell Dupree is a guitarist associated with soul, R&B, funk, session. Musically, the important traits here are soul/R&B session groove, bluesy fills, economical chordal punctuation, deep pocket. In this ensemble: soul / R&B / studio groove. Related listening: Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -66,31 +66,31 @@ Cornell Dupree is a guitarist associated with soul, R&B, funk, session. Musicall
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Spanish Harlem](https://open.spotify.com/search/Spanish%20Harlem%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Focus on phrasing, tone, bends, and how Cornell Dupree shapes the melodic argument. |
-| [Soul Serenade](https://open.spotify.com/search/Soul%20Serenade%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Soul Serenade](https://open.spotify.com/search/Soul%20Serenade%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Listen for how the rhythm guitar lays into the groove. |
 | [A Natural Woman](https://open.spotify.com/search/A%20Natural%20Woman%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Day Dreaming](https://open.spotify.com/search/Day%20Dreaming%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Until You Come Back to Me](https://open.spotify.com/search/Until%20You%20Come%20Back%20to%20Me%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Until You Come Back to Me](https://open.spotify.com/search/Until%20You%20Come%20Back%20to%20Me%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Listen for how the guitar fits the band. |
 | [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Focus on phrasing, tone, bends, and how Cornell Dupree shapes the melodic argument. |
-| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Listen for how the rhythm guitar lays into the groove. |
 | [Europa](https://open.spotify.com/search/Europa%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Crossroads](https://open.spotify.com/search/Crossroads%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Crossroads](https://open.spotify.com/search/Crossroads%20Cornell%20Dupree%20King%20Curtis%20/%20Aretha) | Listen for how the guitar fits the band. |
 
 ## Eric Gale
 
-Eric Gale is a guitarist associated with jazz-funk, soul, R&B, session. Musically, the important traits here are jazz-funk/session vocabulary, smooth chordal support, blues-inflected lead fills. In this ensemble, that language is pointed toward soul / R&B / studio groove, with Aretha Franklin / King Curtis / Steely Dan as the broader listening world.
+Eric Gale is a guitarist associated with jazz-funk, soul, R&B, session. Musically, the important traits here are jazz-funk/session vocabulary, smooth chordal support, blues-inflected lead fills. In this ensemble: soul / R&B / studio groove. Related listening: Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -98,31 +98,31 @@ Eric Gale is a guitarist associated with jazz-funk, soul, R&B, session. Musicall
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Respect](https://open.spotify.com/search/Respect%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Respect](https://open.spotify.com/search/Respect%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Listen for how the rhythm guitar lays into the groove. |
 | [Chain of Fools](https://open.spotify.com/search/Chain%20of%20Fools%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Rock Steady](https://open.spotify.com/search/Rock%20Steady%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Think](https://open.spotify.com/search/Think%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Think](https://open.spotify.com/search/Think%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Listen for how the guitar fits the band. |
 | [Spanish Harlem](https://open.spotify.com/search/Spanish%20Harlem%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Focus on phrasing, tone, bends, and how Eric Gale shapes the melodic argument. |
-| [Soul Serenade](https://open.spotify.com/search/Soul%20Serenade%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Soul Serenade](https://open.spotify.com/search/Soul%20Serenade%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Listen for how the rhythm guitar lays into the groove. |
 | [Europa](https://open.spotify.com/search/Europa%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Crossroads](https://open.spotify.com/search/Crossroads%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Crossroads](https://open.spotify.com/search/Crossroads%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Listen for how the guitar fits the band. |
 | [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Eric%20Gale%20King%20Curtis%20/%20Aretha) | Focus on phrasing, tone, bends, and how Eric Gale shapes the melodic argument. |
 
 ## Bernard Purdie
 
-Bernard Purdie is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Aretha Franklin / King Curtis / Steely Dan.
+Bernard Purdie is a drummer whose playing helps shape this music. Listen for how the drum part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -130,7 +130,7 @@ Bernard Purdie is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -147,14 +147,14 @@ Bernard Purdie is a drummer whose playing helps shape this music. Listen for how
 
 ## Richard Tee
 
-Richard Tee is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Aretha Franklin / King Curtis / Steely Dan.
+Richard Tee is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -162,31 +162,31 @@ Richard Tee is a keyboard player whose playing helps shape this music. Listen fo
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Soul Serenade](https://open.spotify.com/search/Soul%20Serenade%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [A Natural Woman](https://open.spotify.com/search/A%20Natural%20Woman%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Day Dreaming](https://open.spotify.com/search/Day%20Dreaming%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Day Dreaming](https://open.spotify.com/search/Day%20Dreaming%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Listen for how the keys support and color the arrangement. |
 | [Until You Come Back to Me](https://open.spotify.com/search/Until%20You%20Come%20Back%20to%20Me%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Memphis Soul Stew](https://open.spotify.com/search/Memphis%20Soul%20Stew%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Respect](https://open.spotify.com/search/Respect%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Listen for how the keys support and color the arrangement. |
 | [Green Onions](https://open.spotify.com/search/Green%20Onions%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Light My Fire](https://open.spotify.com/search/Light%20My%20Fire%20Richard%20Tee%20King%20Curtis%20/%20Aretha) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 
 ## King Curtis
 
-King Curtis is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Aretha Franklin / King Curtis / Steely Dan.
+King Curtis is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects soul / R&B / studio groove: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Aretha Franklin / King Curtis / Steely Dan.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | King Curtis / Aretha | [Wikipedia][king-curtis-aretha-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Aretha Franklin / King Curtis / Steely Dan | — | — | Related artists. |
 
 ### Known Gear
 
@@ -194,7 +194,7 @@ King Curtis is a saxophonist whose playing helps shape this music. Listen for ho
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

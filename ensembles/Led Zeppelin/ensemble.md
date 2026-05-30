@@ -1,6 +1,6 @@
 # Ensemble: Led Zeppelin
 
-## Pairing Context
+## Context
 
 This music lives in the Led Zeppelin world: British rock / blues rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. The goal is to hear the band as a working ensemble, not just a set of famous songs.
 
@@ -16,14 +16,14 @@ This music lives in the Led Zeppelin world: British rock / blues rock. Listen fo
 
 ## John Paul Jones
 
-John Paul Jones is a bassist associated with hard rock, blues-rock, rock. Musically, the important traits here are heavy-rock groove, arrangement awareness, multi-style fluency. In this ensemble, that language is pointed toward British rock / blues rock, with Led Zeppelin as the broader listening world.
+John Paul Jones is a bassist associated with hard rock, blues-rock, rock. Musically, the important traits here are heavy-rock groove, arrangement awareness, multi-style fluency. In this ensemble: British rock / blues rock. Related listening: Led Zeppelin.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Led Zeppelin | [Wikipedia][led-zeppelin-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Led Zeppelin | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Led Zeppelin | — | — | Related artists. |
 
 ### Known Gear
 
@@ -31,31 +31,31 @@ John Paul Jones is a bassist associated with hard rock, blues-rock, rock. Musica
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Immigrant Song](https://open.spotify.com/search/Immigrant%20Song%20John%20Paul%20Jones%20Led%20Zeppelin) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Black Dog](https://open.spotify.com/search/Black%20Dog%20John%20Paul%20Jones%20Led%20Zeppelin) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Rock and Roll](https://open.spotify.com/search/Rock%20and%20Roll%20John%20Paul%20Jones%20Led%20Zeppelin) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Rock and Roll](https://open.spotify.com/search/Rock%20and%20Roll%20John%20Paul%20Jones%20Led%20Zeppelin) | Listen for how the player shapes and attacks each note. |
 | [Stairway to Heaven](https://open.spotify.com/search/Stairway%20to%20Heaven%20John%20Paul%20Jones%20Led%20Zeppelin) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [When the Levee Breaks](https://open.spotify.com/search/When%20the%20Levee%20Breaks%20John%20Paul%20Jones%20Led%20Zeppelin) | Track the pocket, note length, and how John Paul Jones grounds the harmony. |
 | [The Ocean](https://open.spotify.com/search/The%20Ocean%20John%20Paul%20Jones%20Led%20Zeppelin) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Over the Hills and Far Away](https://open.spotify.com/search/Over%20the%20Hills%20and%20Far%20Away%20John%20Paul%20Jones%20Led%20Zeppelin) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [The Song Remains the Same](https://open.spotify.com/search/The%20Song%20Remains%20the%20Same%20John%20Paul%20Jones%20Led%20Zeppelin) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [The Song Remains the Same](https://open.spotify.com/search/The%20Song%20Remains%20the%20Same%20John%20Paul%20Jones%20Led%20Zeppelin) | Listen for how the player shapes and attacks each note. |
 | [No Quarter](https://open.spotify.com/search/No%20Quarter%20John%20Paul%20Jones%20Led%20Zeppelin) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Kashmir](https://open.spotify.com/search/Kashmir%20John%20Paul%20Jones%20Led%20Zeppelin) | Track the pocket, note length, and how John Paul Jones grounds the harmony. |
 
 ## Jimmy Page
 
-Jimmy Page is a guitarist associated with hard rock, blues-rock, rock. Musically, the important traits here are studio texture, acoustic/electric versatility, open-tuning vocabulary, bow technique. In this ensemble, that language is pointed toward British rock / blues rock, with Led Zeppelin as the broader listening world.
+Jimmy Page is a guitarist associated with hard rock, blues-rock, rock. Musically, the important traits here are studio texture, acoustic/electric versatility, open-tuning vocabulary, bow technique. In this ensemble: British rock / blues rock. Related listening: Led Zeppelin.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Led Zeppelin | [Wikipedia][led-zeppelin-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Led Zeppelin | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Led Zeppelin | — | — | Related artists. |
 
 ### Known Gear
 
@@ -63,31 +63,31 @@ Jimmy Page is a guitarist associated with hard rock, blues-rock, rock. Musically
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [The Ocean](https://open.spotify.com/search/The%20Ocean%20Jimmy%20Page%20Led%20Zeppelin) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Over the Hills and Far Away](https://open.spotify.com/search/Over%20the%20Hills%20and%20Far%20Away%20Jimmy%20Page%20Led%20Zeppelin) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [The Song Remains the Same](https://open.spotify.com/search/The%20Song%20Remains%20the%20Same%20Jimmy%20Page%20Led%20Zeppelin) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [No Quarter](https://open.spotify.com/search/No%20Quarter%20Jimmy%20Page%20Led%20Zeppelin) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [No Quarter](https://open.spotify.com/search/No%20Quarter%20Jimmy%20Page%20Led%20Zeppelin) | Listen for comping choices and the way guitar defines the band sound. |
 | [Kashmir](https://open.spotify.com/search/Kashmir%20Jimmy%20Page%20Led%20Zeppelin) | Focus on phrasing, tone, bends, and how Jimmy Page shapes the melodic argument. |
 | [Trampled Under Foot](https://open.spotify.com/search/Trampled%20Under%20Foot%20Jimmy%20Page%20Led%20Zeppelin) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Achilles Last Stand](https://open.spotify.com/search/Achilles%20Last%20Stand%20Jimmy%20Page%20Led%20Zeppelin) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Nobody's Fault but Mine](https://open.spotify.com/search/Nobody%27s%20Fault%20but%20Mine%20Jimmy%20Page%20Led%20Zeppelin) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [In the Evening](https://open.spotify.com/search/In%20the%20Evening%20Jimmy%20Page%20Led%20Zeppelin) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [In the Evening](https://open.spotify.com/search/In%20the%20Evening%20Jimmy%20Page%20Led%20Zeppelin) | Listen for comping choices and the way guitar defines the band sound. |
 | [Good Times Bad Times](https://open.spotify.com/search/Good%20Times%20Bad%20Times%20Jimmy%20Page%20Led%20Zeppelin) | Focus on phrasing, tone, bends, and how Jimmy Page shapes the melodic argument. |
 
 ## John Bonham
 
-John Bonham is a drummer whose playing helps shape this music. Listen for how the drum part affects British rock / blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Led Zeppelin.
+John Bonham is a drummer whose playing helps shape this music. Listen for how the drum part affects British rock / blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Led Zeppelin.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Led Zeppelin | [Wikipedia][led-zeppelin-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Led Zeppelin | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Led Zeppelin | — | — | Related artists. |
 
 ### Known Gear
 
@@ -95,7 +95,7 @@ John Bonham is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

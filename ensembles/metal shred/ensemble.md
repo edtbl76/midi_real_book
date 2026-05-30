@@ -1,8 +1,8 @@
 # Ensemble: metal shred
 
-## Pairing Context
+## Context
 
-This music is centered on metal shred: neoclassical shred / metal shred. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Yngwie Malmsteen / Europe, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on metal shred: neoclassical shred / metal shred. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Yngwie Malmsteen / Europe.
 
 ## Players
 
@@ -19,14 +19,14 @@ This music is centered on metal shred: neoclassical shred / metal shred. Listen 
 
 ## Marcel Jacob
 
-Marcel Jacob is a bassist associated with hard rock, neoclassical metal. Musically, the important traits here are neoclassical hard-rock support, pedal-tone drive, melodic fills. In this ensemble, that language is pointed toward neoclassical shred / metal shred, with Yngwie Malmsteen / Europe as the broader listening world.
+Marcel Jacob is a bassist associated with hard rock, neoclassical metal. Musically, the important traits here are neoclassical hard-rock support, pedal-tone drive, melodic fills. In this ensemble: neoclassical shred / metal shred. Related listening: Yngwie Malmsteen / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | metal shred | [Wikipedia][metal-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,16 +34,16 @@ Marcel Jacob is a bassist associated with hard rock, neoclassical metal. Musical
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20Marcel%20Jacob%20metal%20shred) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20Marcel%20Jacob%20metal%20shred) | Listen for how the player shapes and attacks each note. |
 | [Meltdown](https://open.spotify.com/search/Meltdown%20Marcel%20Jacob%20metal%20shred) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20Marcel%20Jacob%20metal%20shred) | Track the pocket, note length, and how Marcel Jacob makes the harmony feel grounded. |
 | [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20Marcel%20Jacob%20metal%20shred) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Concerto](https://open.spotify.com/search/Concerto%20Marcel%20Jacob%20metal%20shred) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Marcel%20Jacob%20metal%20shred) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Marcel%20Jacob%20metal%20shred) | Listen for how the player shapes and attacks each note. |
 | [Roundabout](https://open.spotify.com/search/Roundabout%20Marcel%20Jacob%20metal%20shred) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [The Real Me](https://open.spotify.com/search/The%20Real%20Me%20Marcel%20Jacob%20metal%20shred) | Track the pocket, note length, and how Marcel Jacob makes the harmony feel grounded. |
 | [Hysteria](https://open.spotify.com/search/Hysteria%20Marcel%20Jacob%20metal%20shred) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
@@ -51,14 +51,14 @@ Marcel Jacob is a bassist associated with hard rock, neoclassical metal. Musical
 
 ## Yngwie Malmsteen
 
-Yngwie Malmsteen is a guitarist associated with neoclassical metal, hard rock, heavy metal. Musically, the important traits here are neoclassical shred precision, right-hand alternate picking speed, classical phrasing, sweep arpeggios. In this ensemble, that language is pointed toward neoclassical shred / metal shred, with Yngwie Malmsteen / Europe as the broader listening world.
+Yngwie Malmsteen is a guitarist associated with neoclassical metal, hard rock, heavy metal. Musically, the important traits here are neoclassical shred precision, right-hand alternate picking speed, classical phrasing, sweep arpeggios. In this ensemble: neoclassical shred / metal shred. Related listening: Yngwie Malmsteen / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | metal shred | [Wikipedia][metal-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -66,31 +66,31 @@ Yngwie Malmsteen is a guitarist associated with neoclassical metal, hard rock, h
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Scarified](https://open.spotify.com/search/Scarified%20Yngwie%20Malmsteen%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Yngwie%20Malmsteen%20metal%20shred) | Listen for how the guitar fits the band. |
 | [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20Yngwie%20Malmsteen%20metal%20shred) | Focus on phrasing, tone, bends, and how Yngwie Malmsteen shapes the melodic argument. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Yngwie%20Malmsteen%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Yngwie%20Malmsteen%20metal%20shred) | Listen for how the rhythm guitar lays into the groove. |
 | [Rising Force](https://open.spotify.com/search/Rising%20Force%20Yngwie%20Malmsteen%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20Yngwie%20Malmsteen%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Meltdown](https://open.spotify.com/search/Meltdown%20Yngwie%20Malmsteen%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Meltdown](https://open.spotify.com/search/Meltdown%20Yngwie%20Malmsteen%20metal%20shred) | Listen for how the guitar fits the band. |
 | [Eruption](https://open.spotify.com/search/Eruption%20Yngwie%20Malmsteen%20metal%20shred) | Focus on phrasing, tone, bends, and how Yngwie Malmsteen shapes the melodic argument. |
-| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Yngwie%20Malmsteen%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Yngwie%20Malmsteen%20metal%20shred) | Listen for how the rhythm guitar lays into the groove. |
 | [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Yngwie%20Malmsteen%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Room 335](https://open.spotify.com/search/Room%20335%20Yngwie%20Malmsteen%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Vinnie Moore
 
-Vinnie Moore is a guitarist associated with neoclassical metal, rock, shred. Musically, the important traits here are neoclassical/modal shred, alternate picking precision, melodic development. In this ensemble, that language is pointed toward neoclassical shred / metal shred, with Yngwie Malmsteen / Europe as the broader listening world.
+Vinnie Moore is a guitarist associated with neoclassical metal, rock, shred. Musically, the important traits here are neoclassical/modal shred, alternate picking precision, melodic development. In this ensemble: neoclassical shred / metal shred. Related listening: Yngwie Malmsteen / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | metal shred | [Wikipedia][metal-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -98,31 +98,31 @@ Vinnie Moore is a guitarist associated with neoclassical metal, rock, shred. Mus
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20Vinnie%20Moore%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20Vinnie%20Moore%20metal%20shred) | Listen for how the rhythm guitar lays into the groove. |
 | [Concerto](https://open.spotify.com/search/Concerto%20Vinnie%20Moore%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Vinnie%20Moore%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Vinnie%20Moore%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Vinnie%20Moore%20metal%20shred) | Listen for how the guitar fits the band. |
 | [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20Vinnie%20Moore%20metal%20shred) | Focus on phrasing, tone, bends, and how Vinnie Moore shapes the melodic argument. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Vinnie%20Moore%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Vinnie%20Moore%20metal%20shred) | Listen for how the rhythm guitar lays into the groove. |
 | [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Vinnie%20Moore%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Vinnie%20Moore%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Vinnie%20Moore%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Vinnie%20Moore%20metal%20shred) | Listen for how the guitar fits the band. |
 | [Red House](https://open.spotify.com/search/Red%20House%20Vinnie%20Moore%20metal%20shred) | Focus on phrasing, tone, bends, and how Vinnie Moore shapes the melodic argument. |
 
 ## Joe Stump
 
-Joe Stump is a guitarist associated with neoclassical metal, shred, hard rock. Musically, the important traits here are neoclassical shred speed, Baroque-influenced sweep arpeggios, right-hand alternate picking precision. In this ensemble, that language is pointed toward neoclassical shred / metal shred, with Yngwie Malmsteen / Europe as the broader listening world.
+Joe Stump is a guitarist associated with neoclassical metal, shred, hard rock. Musically, the important traits here are neoclassical shred speed, Baroque-influenced sweep arpeggios, right-hand alternate picking precision. In this ensemble: neoclassical shred / metal shred. Related listening: Yngwie Malmsteen / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | metal shred | [Wikipedia][metal-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -130,31 +130,31 @@ Joe Stump is a guitarist associated with neoclassical metal, shred, hard rock. M
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20Joe%20Stump%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [The Gargoyle](https://open.spotify.com/search/The%20Gargoyle%20Joe%20Stump%20metal%20shred) | Listen for how the rhythm guitar lays into the groove. |
 | [Concerto](https://open.spotify.com/search/Concerto%20Joe%20Stump%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Joe%20Stump%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Joe%20Stump%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Scarified](https://open.spotify.com/search/Scarified%20Joe%20Stump%20metal%20shred) | Listen for how the guitar fits the band. |
 | [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20Joe%20Stump%20metal%20shred) | Focus on phrasing, tone, bends, and how Joe Stump shapes the melodic argument. |
-| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Joe%20Stump%20metal%20shred) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Joe%20Stump%20metal%20shred) | Listen for how the rhythm guitar lays into the groove. |
 | [Aja](https://open.spotify.com/search/Aja%20Joe%20Stump%20metal%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Peg](https://open.spotify.com/search/Peg%20Joe%20Stump%20metal%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Joe%20Stump%20metal%20shred) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Joe%20Stump%20metal%20shred) | Listen for how the guitar fits the band. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Joe%20Stump%20metal%20shred) | Focus on phrasing, tone, bends, and how Joe Stump shapes the melodic argument. |
 
 ## Ian Haugland
 
-Ian Haugland is a drummer whose playing helps shape this music. Listen for how the drum part affects neoclassical shred / metal shred: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Yngwie Malmsteen / Europe.
+Ian Haugland is a drummer whose playing helps shape this music. Listen for how the drum part affects neoclassical shred / metal shred: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Yngwie Malmsteen / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | metal shred | [Wikipedia][metal-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -162,7 +162,7 @@ Ian Haugland is a drummer whose playing helps shape this music. Listen for how t
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -179,14 +179,14 @@ Ian Haugland is a drummer whose playing helps shape this music. Listen for how t
 
 ## Jens Johansson
 
-Jens Johansson is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects neoclassical shred / metal shred: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Yngwie Malmsteen / Europe.
+Jens Johansson is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects neoclassical shred / metal shred: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Yngwie Malmsteen / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | metal shred | [Wikipedia][metal-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yngwie Malmsteen / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Yngwie Malmsteen / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -194,19 +194,19 @@ Jens Johansson is a keyboard player whose playing helps shape this music. Listen
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Jet to Jet](https://open.spotify.com/search/Jet%20to%20Jet%20Jens%20Johansson%20metal%20shred) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Far Beyond the Sun](https://open.spotify.com/search/Far%20Beyond%20the%20Sun%20Jens%20Johansson%20metal%20shred) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Rising Force](https://open.spotify.com/search/Rising%20Force%20Jens%20Johansson%20metal%20shred) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20Jens%20Johansson%20metal%20shred) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Mind's Eye](https://open.spotify.com/search/Mind%27s%20Eye%20Jens%20Johansson%20metal%20shred) | Listen for how the keys support and color the arrangement. |
 | [Meltdown](https://open.spotify.com/search/Meltdown%20Jens%20Johansson%20metal%20shred) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Speed Metal Messiah](https://open.spotify.com/search/Speed%20Metal%20Messiah%20Jens%20Johansson%20metal%20shred) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Jens%20Johansson%20metal%20shred) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [No Mystery](https://open.spotify.com/search/No%20Mystery%20Jens%20Johansson%20metal%20shred) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Jens%20Johansson%20metal%20shred) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Jens%20Johansson%20metal%20shred) | Listen for how the keys support and color the arrangement. |
 | [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Jens%20Johansson%20metal%20shred) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## References

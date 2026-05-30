@@ -1,8 +1,8 @@
 # Ensemble: Michel Camilo / Steve Khan orbit
 
-## Pairing Context
+## Context
 
-This music is centered on Michel Camilo / Steve Khan orbit: modern jazz fusion / session. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. Use the listening list as a map for the feel, tone, and vocabulary.
+This music is centered on Michel Camilo / Steve Khan orbit: modern jazz fusion / session. Listen for how the rhythm section, guitar, and harmony work together. Use the recordings below to get a feel for the style.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music is centered on Michel Camilo / Steve Khan orbit: modern jazz fusion /
 
 ## Anthony Jackson
 
-Anthony Jackson is a bassist associated with jazz fusion, session, electric jazz. Musically, the important traits here are six-string range, harmonic depth, advanced rhythmic placement. In this ensemble, that language is pointed toward modern jazz fusion / session, with Michel Camilo / Steve Khan orbit as the broader listening world.
+Anthony Jackson is a bassist associated with jazz fusion, session, electric jazz. Musically, the important traits here are six-string range, harmonic depth, advanced rhythmic placement. In this ensemble: modern jazz fusion / session. Related listening: Michel Camilo / Steve Khan orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Michel Camilo / Steve Khan orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Michel Camilo / Steve Khan orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,7 +33,7 @@ Anthony Jackson is a bassist associated with jazz fusion, session, electric jazz
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -41,23 +41,23 @@ Anthony Jackson is a bassist associated with jazz fusion, session, electric jazz
 | [Caribe](https://open.spotify.com/search/Caribe%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Track the pocket, note length, and how Anthony Jackson makes the harmony feel grounded. |
 | [On Fire](https://open.spotify.com/search/On%20Fire%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Why Not!](https://open.spotify.com/search/Why%20Not%21%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [From Within](https://open.spotify.com/search/From%20Within%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [From Within](https://open.spotify.com/search/From%20Within%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for how the player shapes and attacks each note. |
 | [Island Letter](https://open.spotify.com/search/Island%20Letter%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Peg](https://open.spotify.com/search/Peg%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Track the pocket, note length, and how Anthony Jackson makes the harmony feel grounded. |
 | [Bernadette](https://open.spotify.com/search/Bernadette%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Power](https://open.spotify.com/search/Power%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Power](https://open.spotify.com/search/Power%20Anthony%20Jackson%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for how the player shapes and attacks each note. |
 
 ## Steve Khan
 
-Steve Khan is a guitarist associated with jazz, jazz fusion, post-bop. Musically, the important traits here are jazz chord-melody depth, harmonic sophistication, interactive comping command. In this ensemble, that language is pointed toward modern jazz fusion / session, with Michel Camilo / Steve Khan orbit as the broader listening world.
+Steve Khan is a guitarist associated with jazz, jazz fusion, post-bop. Musically, the important traits here are jazz chord-melody depth, harmonic sophistication, interactive comping command. In this ensemble: modern jazz fusion / session. Related listening: Michel Camilo / Steve Khan orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Michel Camilo / Steve Khan orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Michel Camilo / Steve Khan orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Steve Khan is a guitarist associated with jazz, jazz fusion, post-bop. Musically
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Caribe](https://open.spotify.com/search/Caribe%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Focus on phrasing, tone, bends, and how Steve Khan shapes the melodic argument. |
-| [On Fire](https://open.spotify.com/search/On%20Fire%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [On Fire](https://open.spotify.com/search/On%20Fire%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Why Not!](https://open.spotify.com/search/Why%20Not%21%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [From Within](https://open.spotify.com/search/From%20Within%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Island Letter](https://open.spotify.com/search/Island%20Letter%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Island Letter](https://open.spotify.com/search/Island%20Letter%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for how the guitar fits the band. |
 | [Crossings](https://open.spotify.com/search/Crossings%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Focus on phrasing, tone, bends, and how Steve Khan shapes the melodic argument. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for how the rhythm guitar lays into the groove. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Led Boots](https://open.spotify.com/search/Led%20Boots%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Aja](https://open.spotify.com/search/Aja%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Aja](https://open.spotify.com/search/Aja%20Steve%20Khan%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for how the guitar fits the band. |
 
 ## Steve Gadd
 
-Steve Gadd is a drummer whose playing helps shape this music. Listen for how the drum part affects modern jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Michel Camilo / Steve Khan orbit.
+Steve Gadd is a drummer whose playing helps shape this music. Listen for how the drum part affects modern jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Michel Camilo / Steve Khan orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Michel Camilo / Steve Khan orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Michel Camilo / Steve Khan orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Steve Gadd is a drummer whose playing helps shape this music. Listen for how the
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Steve Gadd is a drummer whose playing helps shape this music. Listen for how the
 
 ## Michel Camilo
 
-Michel Camilo is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Michel Camilo / Steve Khan orbit.
+Michel Camilo is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Michel Camilo / Steve Khan orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Michel Camilo / Steve Khan orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Michel Camilo / Steve Khan orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,16 +129,16 @@ Michel Camilo is a keyboard player whose playing helps shape this music. Listen 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [From Within](https://open.spotify.com/search/From%20Within%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [From Within](https://open.spotify.com/search/From%20Within%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for how the keys support and color the arrangement. |
 | [Island Letter](https://open.spotify.com/search/Island%20Letter%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Crossings](https://open.spotify.com/search/Crossings%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Casa Loco](https://open.spotify.com/search/Casa%20Loco%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [The Green Field](https://open.spotify.com/search/The%20Green%20Field%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Borrowed Time](https://open.spotify.com/search/Borrowed%20Time%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Borrowed Time](https://open.spotify.com/search/Borrowed%20Time%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for how the keys support and color the arrangement. |
 | [You Are the Sunshine of My Life](https://open.spotify.com/search/You%20Are%20the%20Sunshine%20of%20My%20Life%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [As](https://open.spotify.com/search/As%20Michel%20Camilo%20Michel%20Camilo%20/%20Steve%20Khan%20orbit) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
@@ -146,14 +146,14 @@ Michel Camilo is a keyboard player whose playing helps shape this music. Listen 
 
 ## Grover Washington Jr.
 
-Grover Washington Jr. is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Michel Camilo / Steve Khan orbit.
+Grover Washington Jr. is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern jazz fusion / session: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Michel Camilo / Steve Khan orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Michel Camilo / Steve Khan orbit | [Wikipedia][michel-camilo-steve-khan-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Michel Camilo / Steve Khan orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Michel Camilo / Steve Khan orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Grover Washington Jr. is a saxophonist whose playing helps shape this music. Lis
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

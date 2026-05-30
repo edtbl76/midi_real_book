@@ -1,8 +1,8 @@
 # Ensemble: AC/DC
 
-## Pairing Context
+## Context
 
-This music lives in the AC/DC world: hard rock / blues rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from AC/DC / UFO / Aerosmith help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the AC/DC world: hard rock / blues rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from AC/DC / UFO / Aerosmith help give you a feel for the style.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music lives in the AC/DC world: hard rock / blues rock. Listen for how the 
 
 ## Cliff Williams
 
-Cliff Williams is a bassist associated with hard rock, rock. Musically, the important traits here are hard-rock economy, consistency, strict time. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
+Cliff Williams is a bassist associated with hard rock, rock. Musically, the important traits here are hard-rock economy, consistency, strict time. In this ensemble: hard rock / blues rock. Related listening: AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | AC/DC | [Wikipedia][ac-dc-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,16 +33,16 @@ Cliff Williams is a bassist associated with hard rock, rock. Musically, the impo
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Hells Bells](https://open.spotify.com/search/Hells%20Bells%20Cliff%20Williams%20AC/DC) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Hells Bells](https://open.spotify.com/search/Hells%20Bells%20Cliff%20Williams%20AC/DC) | Listen for how the player shapes and attacks each note. |
 | [Riff Raff](https://open.spotify.com/search/Riff%20Raff%20Cliff%20Williams%20AC/DC) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Whole Lotta Rosie](https://open.spotify.com/search/Whole%20Lotta%20Rosie%20Cliff%20Williams%20AC/DC) | Track the pocket, note length, and how Cliff Williams makes the harmony feel grounded. |
 | [Let There Be Rock](https://open.spotify.com/search/Let%20There%20Be%20Rock%20Cliff%20Williams%20AC/DC) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [T.N.T.](https://open.spotify.com/search/T.N.T.%20Cliff%20Williams%20AC/DC) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Sin City](https://open.spotify.com/search/Sin%20City%20Cliff%20Williams%20AC/DC) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Sin City](https://open.spotify.com/search/Sin%20City%20Cliff%20Williams%20AC/DC) | Listen for how the player shapes and attacks each note. |
 | [Thank You (Falettinme Be Mice Elf Agin)](https://open.spotify.com/search/Thank%20You%20%28Falettinme%20Be%20Mice%20Elf%20Agin%29%20Cliff%20Williams%20AC/DC) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Come On, Come Over](https://open.spotify.com/search/Come%20On%2C%20Come%20Over%20Cliff%20Williams%20AC/DC) | Track the pocket, note length, and how Cliff Williams makes the harmony feel grounded. |
 | [Teen Town](https://open.spotify.com/search/Teen%20Town%20Cliff%20Williams%20AC/DC) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
@@ -50,14 +50,14 @@ Cliff Williams is a bassist associated with hard rock, rock. Musically, the impo
 
 ## Angus Young
 
-Angus Young is a guitarist associated with hard rock, rock. Musically, the important traits here are blues-pentatonic rock lead intensity, AC/DC rhythmic vocabulary. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
+Angus Young is a guitarist associated with hard rock, rock. Musically, the important traits here are blues-pentatonic rock lead intensity, AC/DC rhythmic vocabulary. In this ensemble: hard rock / blues rock. Related listening: AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | AC/DC | [Wikipedia][ac-dc-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Angus Young is a guitarist associated with hard rock, rock. Musically, the impor
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Hells Bells](https://open.spotify.com/search/Hells%20Bells%20Angus%20Young%20AC/DC) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Riff Raff](https://open.spotify.com/search/Riff%20Raff%20Angus%20Young%20AC/DC) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Riff Raff](https://open.spotify.com/search/Riff%20Raff%20Angus%20Young%20AC/DC) | Listen for how the guitar fits the band. |
 | [Whole Lotta Rosie](https://open.spotify.com/search/Whole%20Lotta%20Rosie%20Angus%20Young%20AC/DC) | Focus on phrasing, tone, bends, and how Angus Young shapes the melodic argument. |
-| [Let There Be Rock](https://open.spotify.com/search/Let%20There%20Be%20Rock%20Angus%20Young%20AC/DC) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Let There Be Rock](https://open.spotify.com/search/Let%20There%20Be%20Rock%20Angus%20Young%20AC/DC) | Listen for how the rhythm guitar lays into the groove. |
 | [T.N.T.](https://open.spotify.com/search/T.N.T.%20Angus%20Young%20AC/DC) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Sin City](https://open.spotify.com/search/Sin%20City%20Angus%20Young%20AC/DC) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Angus%20Young%20AC/DC) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Angus%20Young%20AC/DC) | Listen for how the guitar fits the band. |
 | [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Angus%20Young%20AC/DC) | Focus on phrasing, tone, bends, and how Angus Young shapes the melodic argument. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Angus%20Young%20AC/DC) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Angus%20Young%20AC/DC) | Listen for how the rhythm guitar lays into the groove. |
 | [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20Angus%20Young%20AC/DC) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Michael Schenker
 
-Michael Schenker is a guitarist associated with hard rock, melodic metal. Musically, the important traits here are melodic hard rock lead vocabulary, natural minor command, expressive vibrato precision. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
+Michael Schenker is a guitarist associated with hard rock, melodic metal. Musically, the important traits here are melodic hard rock lead vocabulary, natural minor command, expressive vibrato precision. In this ensemble: hard rock / blues rock. Related listening: AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | AC/DC | [Wikipedia][ac-dc-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,31 +97,31 @@ Michael Schenker is a guitarist associated with hard rock, melodic metal. Musica
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Riff Raff](https://open.spotify.com/search/Riff%20Raff%20Michael%20Schenker%20AC/DC) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Riff Raff](https://open.spotify.com/search/Riff%20Raff%20Michael%20Schenker%20AC/DC) | Listen for how the guitar fits the band. |
 | [Whole Lotta Rosie](https://open.spotify.com/search/Whole%20Lotta%20Rosie%20Michael%20Schenker%20AC/DC) | Focus on phrasing, tone, bends, and how Michael Schenker shapes the melodic argument. |
-| [Let There Be Rock](https://open.spotify.com/search/Let%20There%20Be%20Rock%20Michael%20Schenker%20AC/DC) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Let There Be Rock](https://open.spotify.com/search/Let%20There%20Be%20Rock%20Michael%20Schenker%20AC/DC) | Listen for how the rhythm guitar lays into the groove. |
 | [T.N.T.](https://open.spotify.com/search/T.N.T.%20Michael%20Schenker%20AC/DC) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Sin City](https://open.spotify.com/search/Sin%20City%20Michael%20Schenker%20AC/DC) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [You Shook Me All Night Long](https://open.spotify.com/search/You%20Shook%20Me%20All%20Night%20Long%20Michael%20Schenker%20AC/DC) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [You Shook Me All Night Long](https://open.spotify.com/search/You%20Shook%20Me%20All%20Night%20Long%20Michael%20Schenker%20AC/DC) | Listen for how the guitar fits the band. |
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Michael%20Schenker%20AC/DC) | Focus on phrasing, tone, bends, and how Michael Schenker shapes the melodic argument. |
-| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Michael%20Schenker%20AC/DC) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Cause We've Ended as Lovers](https://open.spotify.com/search/Cause%20We%27ve%20Ended%20as%20Lovers%20Michael%20Schenker%20AC/DC) | Listen for how the rhythm guitar lays into the groove. |
 | [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Michael%20Schenker%20AC/DC) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Eruption](https://open.spotify.com/search/Eruption%20Michael%20Schenker%20AC/DC) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Joe Perry
 
-Joe Perry is a guitarist associated with rock, blues-rock. Musically, the important traits here are blues-based rock phrasing, Aerosmith rhythm and lead vocabulary. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
+Joe Perry is a guitarist associated with rock, blues-rock. Musically, the important traits here are blues-based rock phrasing, Aerosmith rhythm and lead vocabulary. In this ensemble: hard rock / blues rock. Related listening: AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | AC/DC | [Wikipedia][ac-dc-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ Joe Perry is a guitarist associated with rock, blues-rock. Musically, the import
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Sin City](https://open.spotify.com/search/Sin%20City%20Joe%20Perry%20AC/DC) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [You Shook Me All Night Long](https://open.spotify.com/search/You%20Shook%20Me%20All%20Night%20Long%20Joe%20Perry%20AC/DC) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [You Shook Me All Night Long](https://open.spotify.com/search/You%20Shook%20Me%20All%20Night%20Long%20Joe%20Perry%20AC/DC) | Listen for how the guitar fits the band. |
 | [Back in Black](https://open.spotify.com/search/Back%20in%20Black%20Joe%20Perry%20AC/DC) | Focus on phrasing, tone, bends, and how Joe Perry shapes the melodic argument. |
-| [Highway to Hell](https://open.spotify.com/search/Highway%20to%20Hell%20Joe%20Perry%20AC/DC) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Highway to Hell](https://open.spotify.com/search/Highway%20to%20Hell%20Joe%20Perry%20AC/DC) | Listen for how the rhythm guitar lays into the groove. |
 | [Shoot to Thrill](https://open.spotify.com/search/Shoot%20to%20Thrill%20Joe%20Perry%20AC/DC) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Hells Bells](https://open.spotify.com/search/Hells%20Bells%20Joe%20Perry%20AC/DC) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Joe%20Perry%20AC/DC) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Joe%20Perry%20AC/DC) | Listen for how the guitar fits the band. |
 | [Aja](https://open.spotify.com/search/Aja%20Joe%20Perry%20AC/DC) | Focus on phrasing, tone, bends, and how Joe Perry shapes the melodic argument. |
-| [Peg](https://open.spotify.com/search/Peg%20Joe%20Perry%20AC/DC) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Peg](https://open.spotify.com/search/Peg%20Joe%20Perry%20AC/DC) | Listen for how the rhythm guitar lays into the groove. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Joe%20Perry%20AC/DC) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Phil Rudd
 
-Phil Rudd is a drummer whose playing helps shape this music. Listen for how the drum part affects hard rock / blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is AC/DC / UFO / Aerosmith.
+Phil Rudd is a drummer whose playing helps shape this music. Listen for how the drum part affects hard rock / blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | AC/DC | [Wikipedia][ac-dc-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Phil Rudd is a drummer whose playing helps shape this music. Listen for how the 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

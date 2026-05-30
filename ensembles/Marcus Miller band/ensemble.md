@@ -1,8 +1,8 @@
 # Ensemble: Marcus Miller band
 
-## Pairing Context
+## Context
 
-This music lives in the Marcus Miller band world: jazz fusion / funk. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Miles Davis / David Sanborn / Marcus Miller band help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Marcus Miller band world: jazz fusion / funk. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Miles Davis / David Sanborn / Marcus Miller band help give you a feel for the style.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music lives in the Marcus Miller band world: jazz fusion / funk. Listen for
 
 ## Marcus Miller
 
-Marcus Miller is a bassist associated with jazz fusion, R&B, fusion, session. Musically, the important traits here are elite slap/fingerstyle command and fusion vocabulary. In this ensemble, that language is pointed toward jazz fusion / funk, with Miles Davis / David Sanborn / Marcus Miller band as the broader listening world.
+Marcus Miller is a bassist associated with jazz fusion, R&B, fusion, session. Musically, the important traits here are elite slap/fingerstyle command and fusion vocabulary. In this ensemble: jazz fusion / funk. Related listening: Miles Davis / David Sanborn / Marcus Miller band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Marcus Miller is a bassist associated with jazz fusion, R&B, fusion, session. Mu
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Teen Town](https://open.spotify.com/search/Teen%20Town%20Marcus%20Miller%20Marcus%20Miller%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Cousin John](https://open.spotify.com/search/Cousin%20John%20Marcus%20Miller%20Marcus%20Miller%20band) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Cousin John](https://open.spotify.com/search/Cousin%20John%20Marcus%20Miller%20Marcus%20Miller%20band) | Listen for how the player shapes and attacks each note. |
 | [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Marcus%20Miller%20Marcus%20Miller%20band) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Marcus%20Miller%20Marcus%20Miller%20band) | Track the pocket, note length, and how Marcus Miller makes the harmony feel grounded. |
 | [Power](https://open.spotify.com/search/Power%20Marcus%20Miller%20Marcus%20Miller%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Panther](https://open.spotify.com/search/Panther%20Marcus%20Miller%20Marcus%20Miller%20band) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Marcus%20Miller%20Marcus%20Miller%20band) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Marcus%20Miller%20Marcus%20Miller%20band) | Listen for how the player shapes and attacks each note. |
 | [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Marcus%20Miller%20Marcus%20Miller%20band) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Continuum](https://open.spotify.com/search/Continuum%20Marcus%20Miller%20Marcus%20Miller%20band) | Track the pocket, note length, and how Marcus Miller makes the harmony feel grounded. |
 | [Stratus](https://open.spotify.com/search/Stratus%20Marcus%20Miller%20Marcus%20Miller%20band) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Hiram Bullock
 
-Hiram Bullock is a guitarist associated with jazz, funk, R&B session. Musically, the important traits here are jazz/funk session chord-melody, comping precision. In this ensemble, that language is pointed toward jazz fusion / funk, with Miles Davis / David Sanborn / Marcus Miller band as the broader listening world.
+Hiram Bullock is a guitarist associated with jazz, funk, R&B session. Musically, the important traits here are jazz/funk session chord-melody, comping precision. In this ensemble: jazz fusion / funk. Related listening: Miles Davis / David Sanborn / Marcus Miller band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Hiram Bullock is a guitarist associated with jazz, funk, R&B session. Musically,
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Detroit](https://open.spotify.com/search/Detroit%20Hiram%20Bullock%20Marcus%20Miller%20band) | Focus on phrasing, tone, bends, and how Hiram Bullock shapes the melodic argument. |
-| [Maputo](https://open.spotify.com/search/Maputo%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Maputo](https://open.spotify.com/search/Maputo%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [Teen Town](https://open.spotify.com/search/Teen%20Town%20Hiram%20Bullock%20Marcus%20Miller%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Cousin John](https://open.spotify.com/search/Cousin%20John%20Hiram%20Bullock%20Marcus%20Miller%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Mr. Pastorius](https://open.spotify.com/search/Mr.%20Pastorius%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for how the guitar fits the band. |
 | [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Hiram%20Bullock%20Marcus%20Miller%20band) | Focus on phrasing, tone, bends, and how Hiram Bullock shapes the melodic argument. |
-| [Aja](https://open.spotify.com/search/Aja%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Aja](https://open.spotify.com/search/Aja%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for how the rhythm guitar lays into the groove. |
 | [Peg](https://open.spotify.com/search/Peg%20Hiram%20Bullock%20Marcus%20Miller%20band) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Hiram%20Bullock%20Marcus%20Miller%20band) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Hiram%20Bullock%20Marcus%20Miller%20band) | Listen for how the guitar fits the band. |
 
 ## Poogie Bell
 
-Poogie Bell is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis / David Sanborn / Marcus Miller band.
+Poogie Bell is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Miles Davis / David Sanborn / Marcus Miller band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,7 +97,7 @@ Poogie Bell is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -114,14 +114,14 @@ Poogie Bell is a drummer whose playing helps shape this music. Listen for how th
 
 ## Herbie Hancock
 
-Herbie Hancock is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion / funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis / David Sanborn / Marcus Miller band.
+Herbie Hancock is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion / funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Miles Davis / David Sanborn / Marcus Miller band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,7 +129,7 @@ Herbie Hancock is a keyboard player whose playing helps shape this music. Listen
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -137,23 +137,23 @@ Herbie Hancock is a keyboard player whose playing helps shape this music. Listen
 | [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Herbie%20Hancock%20Marcus%20Miller%20band) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Power](https://open.spotify.com/search/Power%20Herbie%20Hancock%20Marcus%20Miller%20band) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Panther](https://open.spotify.com/search/Panther%20Herbie%20Hancock%20Marcus%20Miller%20band) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Tutu](https://open.spotify.com/search/Tutu%20Herbie%20Hancock%20Marcus%20Miller%20band) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Tutu](https://open.spotify.com/search/Tutu%20Herbie%20Hancock%20Marcus%20Miller%20band) | Listen for how the keys support and color the arrangement. |
 | [Blast](https://open.spotify.com/search/Blast%20Herbie%20Hancock%20Marcus%20Miller%20band) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [As](https://open.spotify.com/search/As%20Herbie%20Hancock%20Marcus%20Miller%20band) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Herbie%20Hancock%20Marcus%20Miller%20band) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Herbie%20Hancock%20Marcus%20Miller%20band) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Herbie%20Hancock%20Marcus%20Miller%20band) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [No Mystery](https://open.spotify.com/search/No%20Mystery%20Herbie%20Hancock%20Marcus%20Miller%20band) | Listen for how the keys support and color the arrangement. |
 
 ## David Sanborn
 
-David Sanborn is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz fusion / funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Miles Davis / David Sanborn / Marcus Miller band.
+David Sanborn is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz fusion / funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Miles Davis / David Sanborn / Marcus Miller band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Marcus Miller band | [Wikipedia][marcus-miller-band-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Miles Davis / David Sanborn / Marcus Miller band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ David Sanborn is a saxophonist whose playing helps shape this music. Listen for 
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

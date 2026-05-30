@@ -1,8 +1,8 @@
 # Ensemble: blues-metal
 
-## Pairing Context
+## Context
 
-This music is centered on blues-metal: neoclassical / blues metal / European hard rock. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Ozzy Osbourne / Rainbow / Scorpions, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on blues-metal: neoclassical / blues metal / European hard rock. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ## Players
 
@@ -20,14 +20,14 @@ This music is centered on blues-metal: neoclassical / blues metal / European har
 
 ## Bob Daisley
 
-Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the important traits here are classic hard-rock/neoclassical support and melodic fills. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the important traits here are classic hard-rock/neoclassical support and melodic fills. In this ensemble: neoclassical / blues metal / European hard rock. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | blues-metal | [Wikipedia][blues-metal-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -35,7 +35,7 @@ Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -43,23 +43,23 @@ Bob Daisley is a bassist associated with hard rock, heavy metal. Musically, the 
 | [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Bob%20Daisley%20blues-metal) | Track the pocket, note length, and how Bob Daisley makes the harmony feel grounded. |
 | [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Bob%20Daisley%20blues-metal) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Crazy Train](https://open.spotify.com/search/Crazy%20Train%20Bob%20Daisley%20blues-metal) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Bob%20Daisley%20blues-metal) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Bob%20Daisley%20blues-metal) | Listen for how the player shapes and attacks each note. |
 | [Out in the Fields](https://open.spotify.com/search/Out%20in%20the%20Fields%20Bob%20Daisley%20blues-metal) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Bob%20Daisley%20blues-metal) | Track the pocket, note length, and how Bob Daisley makes the harmony feel grounded. |
 | [Power](https://open.spotify.com/search/Power%20Bob%20Daisley%20blues-metal) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Bob%20Daisley%20blues-metal) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Bob%20Daisley%20blues-metal) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Bob%20Daisley%20blues-metal) | Listen for how the player shapes and attacks each note. |
 
 ## Randy Rhoads
 
-Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy metal. Musically, the important traits here are neoclassical shred precision, classical training, sweep arpeggios, alternate picking speed. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy metal. Musically, the important traits here are neoclassical shred precision, classical training, sweep arpeggios, alternate picking speed. In this ensemble: neoclassical / blues metal / European hard rock. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | blues-metal | [Wikipedia][blues-metal-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -67,31 +67,31 @@ Randy Rhoads is a guitarist associated with neoclassical metal, hard rock, heavy
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Randy%20Rhoads%20blues-metal) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Randy%20Rhoads%20blues-metal) | Listen for how the guitar fits the band. |
 | [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Randy%20Rhoads%20blues-metal) | Focus on phrasing, tone, bends, and how Randy Rhoads shapes the melodic argument. |
-| [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Randy%20Rhoads%20blues-metal) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Randy%20Rhoads%20blues-metal) | Listen for how the rhythm guitar lays into the groove. |
 | [Crazy Train](https://open.spotify.com/search/Crazy%20Train%20Randy%20Rhoads%20blues-metal) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Randy%20Rhoads%20blues-metal) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Out in the Fields](https://open.spotify.com/search/Out%20in%20the%20Fields%20Randy%20Rhoads%20blues-metal) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Out in the Fields](https://open.spotify.com/search/Out%20in%20the%20Fields%20Randy%20Rhoads%20blues-metal) | Listen for how the guitar fits the band. |
 | [Eruption](https://open.spotify.com/search/Eruption%20Randy%20Rhoads%20blues-metal) | Focus on phrasing, tone, bends, and how Randy Rhoads shapes the melodic argument. |
-| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Randy%20Rhoads%20blues-metal) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Randy%20Rhoads%20blues-metal) | Listen for how the rhythm guitar lays into the groove. |
 | [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Randy%20Rhoads%20blues-metal) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Room 335](https://open.spotify.com/search/Room%20335%20Randy%20Rhoads%20blues-metal) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Gary Moore
 
-Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Musically, the important traits here are blues-rock lead intensity at technical peak, vibrato mastery, neoclassical-influenced phrasing. In this ensemble: neoclassical / blues metal / European hard rock. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | blues-metal | [Wikipedia][blues-metal-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -99,31 +99,31 @@ Gary Moore is a guitarist associated with blues-rock, hard rock, heavy metal. Mu
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Out in the Fields](https://open.spotify.com/search/Out%20in%20the%20Fields%20Gary%20Moore%20blues-metal) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Out in the Fields](https://open.spotify.com/search/Out%20in%20the%20Fields%20Gary%20Moore%20blues-metal) | Listen for how the guitar fits the band. |
 | [Shapes of Things](https://open.spotify.com/search/Shapes%20of%20Things%20Gary%20Moore%20blues-metal) | Focus on phrasing, tone, bends, and how Gary Moore shapes the melodic argument. |
-| [Black Rose](https://open.spotify.com/search/Black%20Rose%20Gary%20Moore%20blues-metal) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Black Rose](https://open.spotify.com/search/Black%20Rose%20Gary%20Moore%20blues-metal) | Listen for how the rhythm guitar lays into the groove. |
 | [Murder in the Skies](https://open.spotify.com/search/Murder%20in%20the%20Skies%20Gary%20Moore%20blues-metal) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Gary%20Moore%20blues-metal) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Gary%20Moore%20blues-metal) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Gary%20Moore%20blues-metal) | Listen for how the guitar fits the band. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Gary%20Moore%20blues-metal) | Focus on phrasing, tone, bends, and how Gary Moore shapes the melodic argument. |
-| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Gary%20Moore%20blues-metal) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Gary%20Moore%20blues-metal) | Listen for how the rhythm guitar lays into the groove. |
 | [Led Boots](https://open.spotify.com/search/Led%20Boots%20Gary%20Moore%20blues-metal) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Aja](https://open.spotify.com/search/Aja%20Gary%20Moore%20blues-metal) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Ritchie Blackmore
 
-Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclassical-influenced. Musically, the important traits here are proto-neoclassical lead, baroque-influenced phrasing, alternate picking precision, foundational metal vocabulary. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclassical-influenced. Musically, the important traits here are proto-neoclassical lead, baroque-influenced phrasing, alternate picking precision, foundational metal vocabulary. In this ensemble: neoclassical / blues metal / European hard rock. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | blues-metal | [Wikipedia][blues-metal-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -131,31 +131,31 @@ Ritchie Blackmore is a guitarist associated with hard rock, heavy metal, neoclas
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Ritchie%20Blackmore%20blues-metal) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Ritchie%20Blackmore%20blues-metal) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Ritchie%20Blackmore%20blues-metal) | Listen for how the guitar fits the band. |
 | [Over the Mountain](https://open.spotify.com/search/Over%20the%20Mountain%20Ritchie%20Blackmore%20blues-metal) | Focus on phrasing, tone, bends, and how Ritchie Blackmore shapes the melodic argument. |
-| [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Ritchie%20Blackmore%20blues-metal) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Mr. Crowley](https://open.spotify.com/search/Mr.%20Crowley%20Ritchie%20Blackmore%20blues-metal) | Listen for how the rhythm guitar lays into the groove. |
 | [Crazy Train](https://open.spotify.com/search/Crazy%20Train%20Ritchie%20Blackmore%20blues-metal) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Ritchie%20Blackmore%20blues-metal) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Room 335](https://open.spotify.com/search/Room%20335%20Ritchie%20Blackmore%20blues-metal) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Ritchie%20Blackmore%20blues-metal) | Listen for how the guitar fits the band. |
 | [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Ritchie%20Blackmore%20blues-metal) | Focus on phrasing, tone, bends, and how Ritchie Blackmore shapes the melodic argument. |
-| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Ritchie%20Blackmore%20blues-metal) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Ritchie%20Blackmore%20blues-metal) | Listen for how the rhythm guitar lays into the groove. |
 | [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Ritchie%20Blackmore%20blues-metal) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Uli Jon Roth
 
-Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psychedelic rock. Musically, the important traits here are proto-neoclassical vocabulary, advanced vibrato, classical phrasing, pioneered neo-shred language. In this ensemble, that language is pointed toward neoclassical / blues metal / European hard rock, with Ozzy Osbourne / Rainbow / Scorpions as the broader listening world.
+Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psychedelic rock. Musically, the important traits here are proto-neoclassical vocabulary, advanced vibrato, classical phrasing, pioneered neo-shred language. In this ensemble: neoclassical / blues metal / European hard rock. Related listening: Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | blues-metal | [Wikipedia][blues-metal-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -163,31 +163,31 @@ Uli Jon Roth is a guitarist associated with neoclassical rock, heavy metal, psyc
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Uli%20Jon%20Roth%20blues-metal) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Out in the Fields](https://open.spotify.com/search/Out%20in%20the%20Fields%20Uli%20Jon%20Roth%20blues-metal) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Out in the Fields](https://open.spotify.com/search/Out%20in%20the%20Fields%20Uli%20Jon%20Roth%20blues-metal) | Listen for how the guitar fits the band. |
 | [Shapes of Things](https://open.spotify.com/search/Shapes%20of%20Things%20Uli%20Jon%20Roth%20blues-metal) | Focus on phrasing, tone, bends, and how Uli Jon Roth shapes the melodic argument. |
-| [Black Rose](https://open.spotify.com/search/Black%20Rose%20Uli%20Jon%20Roth%20blues-metal) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Black Rose](https://open.spotify.com/search/Black%20Rose%20Uli%20Jon%20Roth%20blues-metal) | Listen for how the rhythm guitar lays into the groove. |
 | [Murder in the Skies](https://open.spotify.com/search/Murder%20in%20the%20Skies%20Uli%20Jon%20Roth%20blues-metal) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Uli%20Jon%20Roth%20blues-metal) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Uli%20Jon%20Roth%20blues-metal) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Uli%20Jon%20Roth%20blues-metal) | Listen for how the guitar fits the band. |
 | [Led Boots](https://open.spotify.com/search/Led%20Boots%20Uli%20Jon%20Roth%20blues-metal) | Focus on phrasing, tone, bends, and how Uli Jon Roth shapes the melodic argument. |
-| [Aja](https://open.spotify.com/search/Aja%20Uli%20Jon%20Roth%20blues-metal) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Aja](https://open.spotify.com/search/Aja%20Uli%20Jon%20Roth%20blues-metal) | Listen for how the rhythm guitar lays into the groove. |
 | [Peg](https://open.spotify.com/search/Peg%20Uli%20Jon%20Roth%20blues-metal) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Tommy Aldridge
 
-Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how the drum part affects neoclassical / blues metal / European hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Ozzy Osbourne / Rainbow / Scorpions.
+Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how the drum part affects neoclassical / blues metal / European hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | blues-metal | [Wikipedia][blues-metal-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -195,7 +195,7 @@ Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -212,14 +212,14 @@ Tommy Aldridge is a drummer whose playing helps shape this music. Listen for how
 
 ## Don Airey
 
-Don Airey is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects neoclassical / blues metal / European hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Ozzy Osbourne / Rainbow / Scorpions.
+Don Airey is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects neoclassical / blues metal / European hard rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Ozzy Osbourne / Rainbow / Scorpions.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | blues-metal | [Wikipedia][blues-metal-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Ozzy Osbourne / Rainbow / Scorpions | — | — | Related artists. |
 
 ### Known Gear
 
@@ -227,7 +227,7 @@ Don Airey is a keyboard player whose playing helps shape this music. Listen for 
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -235,12 +235,12 @@ Don Airey is a keyboard player whose playing helps shape this music. Listen for 
 | [Shapes of Things](https://open.spotify.com/search/Shapes%20of%20Things%20Don%20Airey%20blues-metal) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Black Rose](https://open.spotify.com/search/Black%20Rose%20Don%20Airey%20blues-metal) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Murder in the Skies](https://open.spotify.com/search/Murder%20in%20the%20Skies%20Don%20Airey%20blues-metal) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Don%20Airey%20blues-metal) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [I Don't Know](https://open.spotify.com/search/I%20Don%27t%20Know%20Don%20Airey%20blues-metal) | Listen for how the keys support and color the arrangement. |
 | [Flying High Again](https://open.spotify.com/search/Flying%20High%20Again%20Don%20Airey%20blues-metal) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Roundabout](https://open.spotify.com/search/Roundabout%20Don%20Airey%20blues-metal) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Close to the Edge](https://open.spotify.com/search/Close%20to%20the%20Edge%20Don%20Airey%20blues-metal) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Rosanna](https://open.spotify.com/search/Rosanna%20Don%20Airey%20blues-metal) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Don't Stop Believin'](https://open.spotify.com/search/Don%27t%20Stop%20Believin%27%20Don%20Airey%20blues-metal) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Don't Stop Believin'](https://open.spotify.com/search/Don%27t%20Stop%20Believin%27%20Don%20Airey%20blues-metal) | Listen for how the keys support and color the arrangement. |
 
 ## References
 

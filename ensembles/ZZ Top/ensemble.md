@@ -1,8 +1,8 @@
 # Ensemble: ZZ Top
 
-## Pairing Context
+## Context
 
-This music lives in the ZZ Top world: Texas blues rock / modern blues rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from ZZ Top / Texas blues orbit help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the ZZ Top world: Texas blues rock / modern blues rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from ZZ Top / Texas blues orbit help give you a feel for the style.
 
 ## Players
 
@@ -17,14 +17,14 @@ This music lives in the ZZ Top world: Texas blues rock / modern blues rock. List
 
 ## Dusty Hill
 
-Dusty Hill is a bassist associated with blues-rock, rock. Musically, the important traits here are Texas boogie pocket and minimal groove authority. In this ensemble, that language is pointed toward Texas blues rock / modern blues rock, with ZZ Top / Texas blues orbit as the broader listening world.
+Dusty Hill is a bassist associated with blues-rock, rock. Musically, the important traits here are Texas boogie pocket and minimal groove authority. In this ensemble: Texas blues rock / modern blues rock. Related listening: ZZ Top / Texas blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | ZZ Top | [Wikipedia][zz-top-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,31 +32,31 @@ Dusty Hill is a bassist associated with blues-rock, rock. Musically, the importa
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Tush](https://open.spotify.com/search/Tush%20Dusty%20Hill%20ZZ%20Top) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Waitin' for the Bus](https://open.spotify.com/search/Waitin%27%20for%20the%20Bus%20Dusty%20Hill%20ZZ%20Top) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Jesus Just Left Chicago](https://open.spotify.com/search/Jesus%20Just%20Left%20Chicago%20Dusty%20Hill%20ZZ%20Top) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Jesus Just Left Chicago](https://open.spotify.com/search/Jesus%20Just%20Left%20Chicago%20Dusty%20Hill%20ZZ%20Top) | Listen for how the player shapes and attacks each note. |
 | [Cheap Sunglasses](https://open.spotify.com/search/Cheap%20Sunglasses%20Dusty%20Hill%20ZZ%20Top) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20Dusty%20Hill%20ZZ%20Top) | Track the pocket, note length, and how Dusty Hill grounds the harmony. |
 | [Gimme All Your Lovin'](https://open.spotify.com/search/Gimme%20All%20Your%20Lovin%27%20Dusty%20Hill%20ZZ%20Top) | Focus on movement between chord roots, anticipations, and section lift. |
 | [Sharp Dressed Man](https://open.spotify.com/search/Sharp%20Dressed%20Man%20Dusty%20Hill%20ZZ%20Top) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Tube Snake Boogie](https://open.spotify.com/search/Tube%20Snake%20Boogie%20Dusty%20Hill%20ZZ%20Top) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Tube Snake Boogie](https://open.spotify.com/search/Tube%20Snake%20Boogie%20Dusty%20Hill%20ZZ%20Top) | Listen for how the player shapes and attacks each note. |
 | [I Thank You](https://open.spotify.com/search/I%20Thank%20You%20Dusty%20Hill%20ZZ%20Top) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Beer Drinkers & Hell Raisers](https://open.spotify.com/search/Beer%20Drinkers%20%26%20Hell%20Raisers%20Dusty%20Hill%20ZZ%20Top) | Track the pocket, note length, and how Dusty Hill grounds the harmony. |
 
 ## Billy Gibbons
 
-Billy Gibbons is a guitarist associated with blues-rock, rock. Musically, the important traits here are blues-rock tone mastery, pentatonic vocabulary, expressive vibrato. In this ensemble, that language is pointed toward Texas blues rock / modern blues rock, with ZZ Top / Texas blues orbit as the broader listening world.
+Billy Gibbons is a guitarist associated with blues-rock, rock. Musically, the important traits here are blues-rock tone mastery, pentatonic vocabulary, expressive vibrato. In this ensemble: Texas blues rock / modern blues rock. Related listening: ZZ Top / Texas blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | ZZ Top | [Wikipedia][zz-top-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,16 +64,16 @@ Billy Gibbons is a guitarist associated with blues-rock, rock. Musically, the im
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Cheap Sunglasses](https://open.spotify.com/search/Cheap%20Sunglasses%20Billy%20Gibbons%20ZZ%20Top) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Cheap Sunglasses](https://open.spotify.com/search/Cheap%20Sunglasses%20Billy%20Gibbons%20ZZ%20Top) | Listen for comping choices and the way guitar defines the band sound. |
 | [Just Got Paid](https://open.spotify.com/search/Just%20Got%20Paid%20Billy%20Gibbons%20ZZ%20Top) | Focus on phrasing, tone, bends, and how Billy Gibbons shapes the melodic argument. |
 | [Gimme All Your Lovin'](https://open.spotify.com/search/Gimme%20All%20Your%20Lovin%27%20Billy%20Gibbons%20ZZ%20Top) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Sharp Dressed Man](https://open.spotify.com/search/Sharp%20Dressed%20Man%20Billy%20Gibbons%20ZZ%20Top) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Tube Snake Boogie](https://open.spotify.com/search/Tube%20Snake%20Boogie%20Billy%20Gibbons%20ZZ%20Top) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [I Thank You](https://open.spotify.com/search/I%20Thank%20You%20Billy%20Gibbons%20ZZ%20Top) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [I Thank You](https://open.spotify.com/search/I%20Thank%20You%20Billy%20Gibbons%20ZZ%20Top) | Listen for comping choices and the way guitar defines the band sound. |
 | [Beer Drinkers & Hell Raisers](https://open.spotify.com/search/Beer%20Drinkers%20%26%20Hell%20Raisers%20Billy%20Gibbons%20ZZ%20Top) | Focus on phrasing, tone, bends, and how Billy Gibbons shapes the melodic argument. |
 | [Pearl Necklace](https://open.spotify.com/search/Pearl%20Necklace%20Billy%20Gibbons%20ZZ%20Top) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Legs](https://open.spotify.com/search/Legs%20Billy%20Gibbons%20ZZ%20Top) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
@@ -81,14 +81,14 @@ Billy Gibbons is a guitarist associated with blues-rock, rock. Musically, the im
 
 ## Joe Bonamassa
 
-Joe Bonamassa is a guitarist associated with blues-rock, hard rock, blues. Musically, the important traits here are blues-rock execution at high technical level, wide vocabulary, peer respect. In this ensemble, that language is pointed toward Texas blues rock / modern blues rock, with ZZ Top / Texas blues orbit as the broader listening world.
+Joe Bonamassa is a guitarist associated with blues-rock, hard rock, blues. Musically, the important traits here are blues-rock execution at high technical level, wide vocabulary, peer respect. In this ensemble: Texas blues rock / modern blues rock. Related listening: ZZ Top / Texas blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | ZZ Top | [Wikipedia][zz-top-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,7 +96,7 @@ Joe Bonamassa is a guitarist associated with blues-rock, hard rock, blues. Music
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -104,23 +104,23 @@ Joe Bonamassa is a guitarist associated with blues-rock, hard rock, blues. Music
 | [Pearl Necklace](https://open.spotify.com/search/Pearl%20Necklace%20Joe%20Bonamassa%20ZZ%20Top) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [Legs](https://open.spotify.com/search/Legs%20Joe%20Bonamassa%20ZZ%20Top) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Got Me Under Pressure](https://open.spotify.com/search/Got%20Me%20Under%20Pressure%20Joe%20Bonamassa%20ZZ%20Top) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Heard It on the X](https://open.spotify.com/search/Heard%20It%20on%20the%20X%20Joe%20Bonamassa%20ZZ%20Top) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Heard It on the X](https://open.spotify.com/search/Heard%20It%20on%20the%20X%20Joe%20Bonamassa%20ZZ%20Top) | Listen for comping choices and the way guitar defines the band sound. |
 | [Blue Jean Blues](https://open.spotify.com/search/Blue%20Jean%20Blues%20Joe%20Bonamassa%20ZZ%20Top) | Focus on phrasing, tone, bends, and how Joe Bonamassa shapes the melodic argument. |
 | [Arrested for Driving While Blind](https://open.spotify.com/search/Arrested%20for%20Driving%20While%20Blind%20Joe%20Bonamassa%20ZZ%20Top) | Listen for voicings, muting, accents, and the rhythm-guitar pocket. |
 | [I'm Bad, I'm Nationwide](https://open.spotify.com/search/I%27m%20Bad%2C%20I%27m%20Nationwide%20Joe%20Bonamassa%20ZZ%20Top) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Francine](https://open.spotify.com/search/Francine%20Joe%20Bonamassa%20ZZ%20Top) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Brown Sugar](https://open.spotify.com/search/Brown%20Sugar%20Joe%20Bonamassa%20ZZ%20Top) | Listen for comping choices and the way guitar defines the ensemble color. |
+| [Brown Sugar](https://open.spotify.com/search/Brown%20Sugar%20Joe%20Bonamassa%20ZZ%20Top) | Listen for comping choices and the way guitar defines the band sound. |
 
 ## Frank Beard
 
-Frank Beard is a drummer whose playing helps shape this music. Listen for how the drum part affects Texas blues rock / modern blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is ZZ Top / Texas blues orbit.
+Frank Beard is a drummer whose playing helps shape this music. Listen for how the drum part affects Texas blues rock / modern blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is ZZ Top / Texas blues orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | ZZ Top | [Wikipedia][zz-top-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | ZZ Top / Texas blues orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | ZZ Top / Texas blues orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,7 +128,7 @@ Frank Beard is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

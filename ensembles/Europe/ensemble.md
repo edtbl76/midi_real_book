@@ -1,8 +1,8 @@
 # Ensemble: Europe
 
-## Pairing Context
+## Context
 
-This music lives in the Europe world: 80s hard rock / melodic metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Dokken / Winger / Europe help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Europe world: 80s hard rock / melodic metal. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Dokken / Winger / Europe help give you a feel for the style.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music lives in the Europe world: 80s hard rock / melodic metal. Listen for 
 
 ## Jeff Pilson
 
-Jeff Pilson is a bassist associated with hard rock, heavy metal. Musically, the important traits here are 80s hard-rock drive and melodic support. In this ensemble, that language is pointed toward 80s hard rock / melodic metal, with Dokken / Winger / Europe as the broader listening world.
+Jeff Pilson is a bassist associated with hard rock, heavy metal. Musically, the important traits here are 80s hard-rock drive and melodic support. In this ensemble: 80s hard rock / melodic metal. Related listening: Dokken / Winger / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Dokken / Winger / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Dokken / Winger / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,16 +33,16 @@ Jeff Pilson is a bassist associated with hard rock, heavy metal. Musically, the 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Ready or Not](https://open.spotify.com/search/Ready%20or%20Not%20Jeff%20Pilson%20Europe) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Ready or Not](https://open.spotify.com/search/Ready%20or%20Not%20Jeff%20Pilson%20Europe) | Listen for how the player shapes and attacks each note. |
 | [Prisoners in Paradise](https://open.spotify.com/search/Prisoners%20in%20Paradise%20Jeff%20Pilson%20Europe) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [The Final Countdown](https://open.spotify.com/search/The%20Final%20Countdown%20Jeff%20Pilson%20Europe) | Track the pocket, note length, and how Jeff Pilson makes the harmony feel grounded. |
 | [Scream of Anger](https://open.spotify.com/search/Scream%20of%20Anger%20Jeff%20Pilson%20Europe) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Rock the Night](https://open.spotify.com/search/Rock%20the%20Night%20Jeff%20Pilson%20Europe) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Carrie](https://open.spotify.com/search/Carrie%20Jeff%20Pilson%20Europe) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Carrie](https://open.spotify.com/search/Carrie%20Jeff%20Pilson%20Europe) | Listen for how the player shapes and attacks each note. |
 | [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Jeff%20Pilson%20Europe) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Jeff%20Pilson%20Europe) | Track the pocket, note length, and how Jeff Pilson makes the harmony feel grounded. |
 | [Hair](https://open.spotify.com/search/Hair%20Jeff%20Pilson%20Europe) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
@@ -50,14 +50,14 @@ Jeff Pilson is a bassist associated with hard rock, heavy metal. Musically, the 
 
 ## George Lynch
 
-George Lynch is a guitarist associated with hard rock, heavy metal, shred. Musically, the important traits here are right-hand alternate picking shred, pentatonic-outside vocabulary, aggressive precision and speed. In this ensemble, that language is pointed toward 80s hard rock / melodic metal, with Dokken / Winger / Europe as the broader listening world.
+George Lynch is a guitarist associated with hard rock, heavy metal, shred. Musically, the important traits here are right-hand alternate picking shred, pentatonic-outside vocabulary, aggressive precision and speed. In this ensemble: 80s hard rock / melodic metal. Related listening: Dokken / Winger / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Dokken / Winger / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Dokken / Winger / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ George Lynch is a guitarist associated with hard rock, heavy metal, shred. Music
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Cherokee](https://open.spotify.com/search/Cherokee%20George%20Lynch%20Europe) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Cherokee](https://open.spotify.com/search/Cherokee%20George%20Lynch%20Europe) | Listen for how the guitar fits the band. |
 | [Superstitious](https://open.spotify.com/search/Superstitious%20George%20Lynch%20Europe) | Focus on phrasing, tone, bends, and how George Lynch shapes the melodic argument. |
-| [Seven Doors Hotel](https://open.spotify.com/search/Seven%20Doors%20Hotel%20George%20Lynch%20Europe) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Seven Doors Hotel](https://open.spotify.com/search/Seven%20Doors%20Hotel%20George%20Lynch%20Europe) | Listen for how the rhythm guitar lays into the groove. |
 | [Ninja](https://open.spotify.com/search/Ninja%20George%20Lynch%20Europe) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Ready or Not](https://open.spotify.com/search/Ready%20or%20Not%20George%20Lynch%20Europe) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Prisoners in Paradise](https://open.spotify.com/search/Prisoners%20in%20Paradise%20George%20Lynch%20Europe) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Prisoners in Paradise](https://open.spotify.com/search/Prisoners%20in%20Paradise%20George%20Lynch%20Europe) | Listen for how the guitar fits the band. |
 | [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20George%20Lynch%20Europe) | Focus on phrasing, tone, bends, and how George Lynch shapes the melodic argument. |
-| [Red House](https://open.spotify.com/search/Red%20House%20George%20Lynch%20Europe) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Red House](https://open.spotify.com/search/Red%20House%20George%20Lynch%20Europe) | Listen for how the rhythm guitar lays into the groove. |
 | [La Grange](https://open.spotify.com/search/La%20Grange%20George%20Lynch%20Europe) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20George%20Lynch%20Europe) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Reb Beach
 
-Reb Beach is a guitarist associated with hard rock, rock fusion. Musically, the important traits here are legato fluency, fusion-rock melodic precision, clean high-articulation phrasing. In this ensemble, that language is pointed toward 80s hard rock / melodic metal, with Dokken / Winger / Europe as the broader listening world.
+Reb Beach is a guitarist associated with hard rock, rock fusion. Musically, the important traits here are legato fluency, fusion-rock melodic precision, clean high-articulation phrasing. In this ensemble: 80s hard rock / melodic metal. Related listening: Dokken / Winger / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Dokken / Winger / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Dokken / Winger / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,31 +97,31 @@ Reb Beach is a guitarist associated with hard rock, rock fusion. Musically, the 
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Rock the Night](https://open.spotify.com/search/Rock%20the%20Night%20Reb%20Beach%20Europe) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Carrie](https://open.spotify.com/search/Carrie%20Reb%20Beach%20Europe) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Cherokee](https://open.spotify.com/search/Cherokee%20Reb%20Beach%20Europe) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Cherokee](https://open.spotify.com/search/Cherokee%20Reb%20Beach%20Europe) | Listen for how the guitar fits the band. |
 | [Superstitious](https://open.spotify.com/search/Superstitious%20Reb%20Beach%20Europe) | Focus on phrasing, tone, bends, and how Reb Beach shapes the melodic argument. |
-| [Seven Doors Hotel](https://open.spotify.com/search/Seven%20Doors%20Hotel%20Reb%20Beach%20Europe) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Seven Doors Hotel](https://open.spotify.com/search/Seven%20Doors%20Hotel%20Reb%20Beach%20Europe) | Listen for how the rhythm guitar lays into the groove. |
 | [Ninja](https://open.spotify.com/search/Ninja%20Reb%20Beach%20Europe) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Reb%20Beach%20Europe) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Reb%20Beach%20Europe) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Reb%20Beach%20Europe) | Listen for how the guitar fits the band. |
 | [Red House](https://open.spotify.com/search/Red%20House%20Reb%20Beach%20Europe) | Focus on phrasing, tone, bends, and how Reb Beach shapes the melodic argument. |
-| [La Grange](https://open.spotify.com/search/La%20Grange%20Reb%20Beach%20Europe) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [La Grange](https://open.spotify.com/search/La%20Grange%20Reb%20Beach%20Europe) | Listen for how the rhythm guitar lays into the groove. |
 
 ## John Norum
 
-John Norum is a guitarist associated with hard rock, melodic metal. Musically, the important traits here are melodic hard rock lead precision, alternate picking speed and articulation, expressive vibrato. In this ensemble, that language is pointed toward 80s hard rock / melodic metal, with Dokken / Winger / Europe as the broader listening world.
+John Norum is a guitarist associated with hard rock, melodic metal. Musically, the important traits here are melodic hard rock lead precision, alternate picking speed and articulation, expressive vibrato. In this ensemble: 80s hard rock / melodic metal. Related listening: Dokken / Winger / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Dokken / Winger / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Dokken / Winger / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ John Norum is a guitarist associated with hard rock, melodic metal. Musically, t
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Cherokee](https://open.spotify.com/search/Cherokee%20John%20Norum%20Europe) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Cherokee](https://open.spotify.com/search/Cherokee%20John%20Norum%20Europe) | Listen for how the guitar fits the band. |
 | [Superstitious](https://open.spotify.com/search/Superstitious%20John%20Norum%20Europe) | Focus on phrasing, tone, bends, and how John Norum shapes the melodic argument. |
-| [Seven Doors Hotel](https://open.spotify.com/search/Seven%20Doors%20Hotel%20John%20Norum%20Europe) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Seven Doors Hotel](https://open.spotify.com/search/Seven%20Doors%20Hotel%20John%20Norum%20Europe) | Listen for how the rhythm guitar lays into the groove. |
 | [Ninja](https://open.spotify.com/search/Ninja%20John%20Norum%20Europe) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Ready or Not](https://open.spotify.com/search/Ready%20or%20Not%20John%20Norum%20Europe) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Prisoners in Paradise](https://open.spotify.com/search/Prisoners%20in%20Paradise%20John%20Norum%20Europe) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Prisoners in Paradise](https://open.spotify.com/search/Prisoners%20in%20Paradise%20John%20Norum%20Europe) | Listen for how the guitar fits the band. |
 | [Scarified](https://open.spotify.com/search/Scarified%20John%20Norum%20Europe) | Focus on phrasing, tone, bends, and how John Norum shapes the melodic argument. |
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20John%20Norum%20Europe) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20John%20Norum%20Europe) | Listen for how the rhythm guitar lays into the groove. |
 | [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20John%20Norum%20Europe) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Red House](https://open.spotify.com/search/Red%20House%20John%20Norum%20Europe) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Mick Brown
 
-Mick Brown is a drummer whose playing helps shape this music. Listen for how the drum part affects 80s hard rock / melodic metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Dokken / Winger / Europe.
+Mick Brown is a drummer whose playing helps shape this music. Listen for how the drum part affects 80s hard rock / melodic metal: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Dokken / Winger / Europe.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Europe | [Wikipedia][europe-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Dokken / Winger / Europe | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Dokken / Winger / Europe | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Mick Brown is a drummer whose playing helps shape this music. Listen for how the
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

@@ -1,8 +1,8 @@
 # Ensemble: modern funk rhythm
 
-## Pairing Context
+## Context
 
-This music is centered on modern funk rhythm: pop funk / modern funk. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Level 42 / Vulfpeck orbit, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on modern funk rhythm: pop funk / modern funk. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Level 42 / Vulfpeck orbit.
 
 ## Players
 
@@ -17,14 +17,14 @@ This music is centered on modern funk rhythm: pop funk / modern funk. Listen for
 
 ## Mark King
 
-Mark King is a bassist associated with funk, pop-funk, jazz fusion. Musically, the important traits here are machine-like slap speed, endurance, pop-funk precision. In this ensemble, that language is pointed toward pop funk / modern funk, with Level 42 / Vulfpeck orbit as the broader listening world.
+Mark King is a bassist associated with funk, pop-funk, jazz fusion. Musically, the important traits here are machine-like slap speed, endurance, pop-funk precision. In this ensemble: pop funk / modern funk. Related listening: Level 42 / Vulfpeck orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Level 42 / Vulfpeck orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Level 42 / Vulfpeck orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -32,31 +32,31 @@ Mark King is a bassist associated with funk, pop-funk, jazz fusion. Musically, t
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Back Pocket](https://open.spotify.com/search/Back%20Pocket%20Mark%20King%20modern%20funk%20rhythm) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Cosmic Sans](https://open.spotify.com/search/Cosmic%20Sans%20Mark%20King%20modern%20funk%20rhythm) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Cosmic Sans](https://open.spotify.com/search/Cosmic%20Sans%20Mark%20King%20modern%20funk%20rhythm) | Listen for how the player shapes and attacks each note. |
 | [Meditation](https://open.spotify.com/search/Meditation%20Mark%20King%20modern%20funk%20rhythm) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Dean Town](https://open.spotify.com/search/Dean%20Town%20Mark%20King%20modern%20funk%20rhythm) | Track the pocket, note length, and how Mark King makes the harmony feel grounded. |
 | [Cory Wong](https://open.spotify.com/search/Cory%20Wong%20Mark%20King%20modern%20funk%20rhythm) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [1612](https://open.spotify.com/search/1612%20Mark%20King%20modern%20funk%20rhythm) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Power](https://open.spotify.com/search/Power%20Mark%20King%20modern%20funk%20rhythm) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Power](https://open.spotify.com/search/Power%20Mark%20King%20modern%20funk%20rhythm) | Listen for how the player shapes and attacks each note. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Mark%20King%20modern%20funk%20rhythm) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Mark%20King%20modern%20funk%20rhythm) | Track the pocket, note length, and how Mark King makes the harmony feel grounded. |
 | [Continuum](https://open.spotify.com/search/Continuum%20Mark%20King%20modern%20funk%20rhythm) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Cory Wong
 
-Cory Wong is a guitarist associated with funk, pop, neo-soul. Musically, the important traits here are right-hand percussive funk precision, rhythmic accuracy, clean articulation. In this ensemble, that language is pointed toward pop funk / modern funk, with Level 42 / Vulfpeck orbit as the broader listening world.
+Cory Wong is a guitarist associated with funk, pop, neo-soul. Musically, the important traits here are right-hand percussive funk precision, rhythmic accuracy, clean articulation. In this ensemble: pop funk / modern funk. Related listening: Level 42 / Vulfpeck orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Level 42 / Vulfpeck orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Level 42 / Vulfpeck orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -64,31 +64,31 @@ Cory Wong is a guitarist associated with funk, pop, neo-soul. Musically, the imp
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Wait for the Moment](https://open.spotify.com/search/Wait%20for%20the%20Moment%20Cory%20Wong%20modern%20funk%20rhythm) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Wait for the Moment](https://open.spotify.com/search/Wait%20for%20the%20Moment%20Cory%20Wong%20modern%20funk%20rhythm) | Listen for how the rhythm guitar lays into the groove. |
 | [Back Pocket](https://open.spotify.com/search/Back%20Pocket%20Cory%20Wong%20modern%20funk%20rhythm) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Cosmic Sans](https://open.spotify.com/search/Cosmic%20Sans%20Cory%20Wong%20modern%20funk%20rhythm) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Meditation](https://open.spotify.com/search/Meditation%20Cory%20Wong%20modern%20funk%20rhythm) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Meditation](https://open.spotify.com/search/Meditation%20Cory%20Wong%20modern%20funk%20rhythm) | Listen for how the guitar fits the band. |
 | [Dean Town](https://open.spotify.com/search/Dean%20Town%20Cory%20Wong%20modern%20funk%20rhythm) | Focus on phrasing, tone, bends, and how Cory Wong shapes the melodic argument. |
-| [Cory Wong](https://open.spotify.com/search/Cory%20Wong%20Cory%20Wong%20modern%20funk%20rhythm) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Cory Wong](https://open.spotify.com/search/Cory%20Wong%20Cory%20Wong%20modern%20funk%20rhythm) | Listen for how the rhythm guitar lays into the groove. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Cory%20Wong%20modern%20funk%20rhythm) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Cory%20Wong%20modern%20funk%20rhythm) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Cory%20Wong%20modern%20funk%20rhythm) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Cory%20Wong%20modern%20funk%20rhythm) | Listen for how the guitar fits the band. |
 | [Aja](https://open.spotify.com/search/Aja%20Cory%20Wong%20modern%20funk%20rhythm) | Focus on phrasing, tone, bends, and how Cory Wong shapes the melodic argument. |
 
 ## Phil Gould
 
-Phil Gould is a drummer whose playing helps shape this music. Listen for how the drum part affects pop funk / modern funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Level 42 / Vulfpeck orbit.
+Phil Gould is a drummer whose playing helps shape this music. Listen for how the drum part affects pop funk / modern funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Level 42 / Vulfpeck orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Level 42 / Vulfpeck orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Level 42 / Vulfpeck orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -96,7 +96,7 @@ Phil Gould is a drummer whose playing helps shape this music. Listen for how the
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -113,14 +113,14 @@ Phil Gould is a drummer whose playing helps shape this music. Listen for how the
 
 ## Mike Lindup
 
-Mike Lindup is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects pop funk / modern funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Level 42 / Vulfpeck orbit.
+Mike Lindup is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects pop funk / modern funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Level 42 / Vulfpeck orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | modern funk rhythm | [Wikipedia][modern-funk-rhythm-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Level 42 / Vulfpeck orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Level 42 / Vulfpeck orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -128,16 +128,16 @@ Mike Lindup is a keyboard player whose playing helps shape this music. Listen fo
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Lunchtime](https://open.spotify.com/search/Lunchtime%20Mike%20Lindup%20modern%20funk%20rhythm) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Lunchtime](https://open.spotify.com/search/Lunchtime%20Mike%20Lindup%20modern%20funk%20rhythm) | Listen for how the keys support and color the arrangement. |
 | [Disco Ulysses](https://open.spotify.com/search/Disco%20Ulysses%20Mike%20Lindup%20modern%20funk%20rhythm) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Beastly](https://open.spotify.com/search/Beastly%20Mike%20Lindup%20modern%20funk%20rhythm) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Wait for the Moment](https://open.spotify.com/search/Wait%20for%20the%20Moment%20Mike%20Lindup%20modern%20funk%20rhythm) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Back Pocket](https://open.spotify.com/search/Back%20Pocket%20Mike%20Lindup%20modern%20funk%20rhythm) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Cosmic Sans](https://open.spotify.com/search/Cosmic%20Sans%20Mike%20Lindup%20modern%20funk%20rhythm) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Cosmic Sans](https://open.spotify.com/search/Cosmic%20Sans%20Mike%20Lindup%20modern%20funk%20rhythm) | Listen for how the keys support and color the arrangement. |
 | [Peg](https://open.spotify.com/search/Peg%20Mike%20Lindup%20modern%20funk%20rhythm) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Riders on the Storm](https://open.spotify.com/search/Riders%20on%20the%20Storm%20Mike%20Lindup%20modern%20funk%20rhythm) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Frankenstein](https://open.spotify.com/search/Frankenstein%20Mike%20Lindup%20modern%20funk%20rhythm) | Listen for harmonic color: extensions, inversions, and movement under the melody. |

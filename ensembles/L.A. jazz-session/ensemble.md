@@ -1,8 +1,8 @@
 # Ensemble: L.A. jazz-session
 
-## Pairing Context
+## Context
 
-This music is centered on L.A. jazz-session: session / pop. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. The nearby listening world is Wrecking Crew / Capitol Records session orbit, which gives you a map for the feel, tone, and vocabulary.
+This music is centered on L.A. jazz-session: session / pop. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Wrecking Crew / Capitol Records session orbit.
 
 ## Players
 
@@ -19,14 +19,14 @@ This music is centered on L.A. jazz-session: session / pop. Listen for the music
 
 ## Carol Kaye
 
-Carol Kaye is a bassist associated with session, pop, R&B, rock. Musically, the important traits here are elite session reading, pick control, and stylistic fluency. In this ensemble, that language is pointed toward session / pop, with Wrecking Crew / Capitol Records session orbit as the broader listening world.
+Carol Kaye is a bassist associated with session, pop, R&B, rock. Musically, the important traits here are elite session reading, pick control, and stylistic fluency. In this ensemble: session / pop. Related listening: Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | L.A. jazz-session | [Wikipedia][l-a-jazz-session-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,31 +34,31 @@ Carol Kaye is a bassist associated with session, pop, R&B, rock. Musically, the 
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20Carol%20Kaye%20L.A.%20jazz-session) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for how the player shapes and attacks each note. |
 | [The Shadow of Your Smile](https://open.spotify.com/search/The%20Shadow%20of%20Your%20Smile%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20Carol%20Kaye%20L.A.%20jazz-session) | Track the pocket, note length, and how Carol Kaye makes the harmony feel grounded. |
 | [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20Carol%20Kaye%20L.A.%20jazz-session) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Peg](https://open.spotify.com/search/Peg%20Carol%20Kaye%20L.A.%20jazz-session) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Peg](https://open.spotify.com/search/Peg%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for how the player shapes and attacks each note. |
 | [Bernadette](https://open.spotify.com/search/Bernadette%20Carol%20Kaye%20L.A.%20jazz-session) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Carol%20Kaye%20L.A.%20jazz-session) | Track the pocket, note length, and how Carol Kaye makes the harmony feel grounded. |
 | [Power](https://open.spotify.com/search/Power%20Carol%20Kaye%20L.A.%20jazz-session) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 
 ## Tommy Tedesco
 
-Tommy Tedesco is a guitarist associated with jazz, session, studio. Musically, the important traits here are session Hollywood reading precision, stylistic versatility, clean execution. In this ensemble, that language is pointed toward session / pop, with Wrecking Crew / Capitol Records session orbit as the broader listening world.
+Tommy Tedesco is a guitarist associated with jazz, session, studio. Musically, the important traits here are session Hollywood reading precision, stylistic versatility, clean execution. In this ensemble: session / pop. Related listening: Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | L.A. jazz-session | [Wikipedia][l-a-jazz-session-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -66,31 +66,31 @@ Tommy Tedesco is a guitarist associated with jazz, session, studio. Musically, t
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Tommy%20Tedesco%20L.A.%20jazz-session) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for how the guitar fits the band. |
 | [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Tommy%20Tedesco%20L.A.%20jazz-session) | Focus on phrasing, tone, bends, and how Tommy Tedesco shapes the melodic argument. |
-| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Somethin' Stupid](https://open.spotify.com/search/Somethin%27%20Stupid%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for how the rhythm guitar lays into the groove. |
 | [Mission: Impossible Theme](https://open.spotify.com/search/Mission%3A%20Impossible%20Theme%20Tommy%20Tedesco%20L.A.%20jazz-session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Batman Theme](https://open.spotify.com/search/Batman%20Theme%20Tommy%20Tedesco%20L.A.%20jazz-session) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Peg](https://open.spotify.com/search/Peg%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Peg](https://open.spotify.com/search/Peg%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for how the guitar fits the band. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Tommy%20Tedesco%20L.A.%20jazz-session) | Focus on phrasing, tone, bends, and how Tommy Tedesco shapes the melodic argument. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Tommy%20Tedesco%20L.A.%20jazz-session) | Listen for how the rhythm guitar lays into the groove. |
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Tommy%20Tedesco%20L.A.%20jazz-session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Barney Kessel
 
-Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musically, the important traits here are swing/bebop session vocabulary, chord melody, bluesy jazz phrasing, big-band guitar authority. In this ensemble, that language is pointed toward session / pop, with Wrecking Crew / Capitol Records session orbit as the broader listening world.
+Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musically, the important traits here are swing/bebop session vocabulary, chord melody, bluesy jazz phrasing, big-band guitar authority. In this ensemble: session / pop. Related listening: Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | L.A. jazz-session | [Wikipedia][l-a-jazz-session-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -98,31 +98,31 @@ Barney Kessel is a guitarist associated with jazz, swing, bebop, session. Musica
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20Barney%20Kessel%20L.A.%20jazz-session) | Focus on phrasing, tone, bends, and how Barney Kessel shapes the melodic argument. |
-| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for how the rhythm guitar lays into the groove. |
 | [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20Barney%20Kessel%20L.A.%20jazz-session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Barney%20Kessel%20L.A.%20jazz-session) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for how the guitar fits the band. |
 | [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Barney%20Kessel%20L.A.%20jazz-session) | Focus on phrasing, tone, bends, and how Barney Kessel shapes the melodic argument. |
-| [Room 335](https://open.spotify.com/search/Room%20335%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for how the rhythm guitar lays into the groove. |
 | [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Barney%20Kessel%20L.A.%20jazz-session) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20Barney%20Kessel%20L.A.%20jazz-session) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20Barney%20Kessel%20L.A.%20jazz-session) | Listen for how the guitar fits the band. |
 
 ## Hal Blaine
 
-Hal Blaine is a drummer whose playing helps shape this music. Listen for how the drum part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Wrecking Crew / Capitol Records session orbit.
+Hal Blaine is a drummer whose playing helps shape this music. Listen for how the drum part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | L.A. jazz-session | [Wikipedia][l-a-jazz-session-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -130,7 +130,7 @@ Hal Blaine is a drummer whose playing helps shape this music. Listen for how the
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -147,14 +147,14 @@ Hal Blaine is a drummer whose playing helps shape this music. Listen for how the
 
 ## Leon Russell
 
-Leon Russell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Wrecking Crew / Capitol Records session orbit.
+Leon Russell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | L.A. jazz-session | [Wikipedia][l-a-jazz-session-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -162,31 +162,31 @@ Leon Russell is a keyboard player whose playing helps shape this music. Listen f
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [The Pink Panther Theme](https://open.spotify.com/search/The%20Pink%20Panther%20Theme%20Leon%20Russell%20L.A.%20jazz-session) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [These Boots Are Made for Walkin'](https://open.spotify.com/search/These%20Boots%20Are%20Made%20for%20Walkin%27%20Leon%20Russell%20L.A.%20jazz-session) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Wichita Lineman](https://open.spotify.com/search/Wichita%20Lineman%20Leon%20Russell%20L.A.%20jazz-session) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Leon%20Russell%20L.A.%20jazz-session) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Good Vibrations](https://open.spotify.com/search/Good%20Vibrations%20Leon%20Russell%20L.A.%20jazz-session) | Listen for how the keys support and color the arrangement. |
 | [Mrs. Robinson](https://open.spotify.com/search/Mrs.%20Robinson%20Leon%20Russell%20L.A.%20jazz-session) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [The Beat Goes On](https://open.spotify.com/search/The%20Beat%20Goes%20On%20Leon%20Russell%20L.A.%20jazz-session) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Leon%20Russell%20L.A.%20jazz-session) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [As](https://open.spotify.com/search/As%20Leon%20Russell%20L.A.%20jazz-session) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Leon%20Russell%20L.A.%20jazz-session) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Leon%20Russell%20L.A.%20jazz-session) | Listen for how the keys support and color the arrangement. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Leon%20Russell%20L.A.%20jazz-session) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## Plas Johnson
 
-Plas Johnson is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Wrecking Crew / Capitol Records session orbit.
+Plas Johnson is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects session / pop: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Wrecking Crew / Capitol Records session orbit.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | L.A. jazz-session | [Wikipedia][l-a-jazz-session-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Wrecking Crew / Capitol Records session orbit | — | — | Related artists. |
 
 ### Known Gear
 
@@ -194,7 +194,7 @@ Plas Johnson is a saxophonist whose playing helps shape this music. Listen for h
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

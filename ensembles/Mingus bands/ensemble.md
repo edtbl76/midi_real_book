@@ -1,8 +1,8 @@
 # Ensemble: Mingus bands
 
-## Pairing Context
+## Context
 
-This music is centered on Mingus bands: modern jazz / hard bop / blues. Listen for the musical conversation: how the rhythm section moves, how the guitar or lead voice answers it, and how the harmony gives the groove its color. Use the listening list as a map for the feel, tone, and vocabulary.
+This music is centered on Mingus bands: modern jazz / hard bop / blues. Listen for how the rhythm section, guitar, and harmony work together. Use the recordings below to get a feel for the style.
 
 ## Players
 
@@ -19,14 +19,14 @@ This music is centered on Mingus bands: modern jazz / hard bop / blues. Listen f
 
 ## Charles Mingus
 
-Charles Mingus is a bassist associated with modern jazz, hard bop, blues, gospel-influenced jazz. Musically, the important traits here are aggressive walking lines, blues/gospel harmony, counterpoint, pedal figures, compositional bass authority. In this ensemble, that language is pointed toward modern jazz / hard bop / blues, with Mingus bands as the broader listening world.
+Charles Mingus is a bassist associated with modern jazz, hard bop, blues, gospel-influenced jazz. Musically, the important traits here are aggressive walking lines, blues/gospel harmony, counterpoint, pedal figures, compositional bass authority. In this ensemble: modern jazz / hard bop / blues. Related listening: Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mingus bands | [Wikipedia][mingus-bands-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -34,16 +34,16 @@ Charles Mingus is a bassist associated with modern jazz, hard bop, blues, gospel
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Ecclusiastics](https://open.spotify.com/search/Ecclusiastics%20Charles%20Mingus%20Mingus%20bands) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Ecclusiastics](https://open.spotify.com/search/Ecclusiastics%20Charles%20Mingus%20Mingus%20bands) | Listen for how the player shapes and attacks each note. |
 | [Hora Decubitus](https://open.spotify.com/search/Hora%20Decubitus%20Charles%20Mingus%20Mingus%20bands) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/search/Goodbye%20Pork%20Pie%20Hat%20Charles%20Mingus%20Mingus%20bands) | Track the pocket, note length, and how Charles Mingus makes the harmony feel grounded. |
 | [Haitian Fight Song](https://open.spotify.com/search/Haitian%20Fight%20Song%20Charles%20Mingus%20Mingus%20bands) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Better Git It in Your Soul](https://open.spotify.com/search/Better%20Git%20It%20in%20Your%20Soul%20Charles%20Mingus%20Mingus%20bands) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Moanin'](https://open.spotify.com/search/Moanin%27%20Charles%20Mingus%20Mingus%20bands) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Moanin'](https://open.spotify.com/search/Moanin%27%20Charles%20Mingus%20Mingus%20bands) | Listen for how the player shapes and attacks each note. |
 | [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Charles%20Mingus%20Mingus%20bands) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Power](https://open.spotify.com/search/Power%20Charles%20Mingus%20Mingus%20bands) | Track the pocket, note length, and how Charles Mingus makes the harmony feel grounded. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Charles%20Mingus%20Mingus%20bands) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
@@ -51,14 +51,14 @@ Charles Mingus is a bassist associated with modern jazz, hard bop, blues, gospel
 
 ## Jim Hall
 
-Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz. Musically, the important traits here are chamber-jazz counterpoint, interactive comping, melodic restraint, advanced harmonic clarity. In this ensemble, that language is pointed toward modern jazz / hard bop / blues, with Mingus bands as the broader listening world.
+Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz. Musically, the important traits here are chamber-jazz counterpoint, interactive comping, melodic restraint, advanced harmonic clarity. In this ensemble: modern jazz / hard bop / blues. Related listening: Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mingus bands | [Wikipedia][mingus-bands-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -66,31 +66,31 @@ Jim Hall is a guitarist associated with jazz, cool jazz, post-bop, chamber jazz.
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Fables of Faubus](https://open.spotify.com/search/Fables%20of%20Faubus%20Jim%20Hall%20Mingus%20bands) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Fables of Faubus](https://open.spotify.com/search/Fables%20of%20Faubus%20Jim%20Hall%20Mingus%20bands) | Listen for how the guitar fits the band. |
 | [Boogie Stop Shuffle](https://open.spotify.com/search/Boogie%20Stop%20Shuffle%20Jim%20Hall%20Mingus%20bands) | Focus on phrasing, tone, bends, and how Jim Hall shapes the melodic argument. |
-| [Wednesday Night Prayer Meeting](https://open.spotify.com/search/Wednesday%20Night%20Prayer%20Meeting%20Jim%20Hall%20Mingus%20bands) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Wednesday Night Prayer Meeting](https://open.spotify.com/search/Wednesday%20Night%20Prayer%20Meeting%20Jim%20Hall%20Mingus%20bands) | Listen for how the rhythm guitar lays into the groove. |
 | [Pithecanthropus Erectus](https://open.spotify.com/search/Pithecanthropus%20Erectus%20Jim%20Hall%20Mingus%20bands) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Ecclusiastics](https://open.spotify.com/search/Ecclusiastics%20Jim%20Hall%20Mingus%20bands) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Hora Decubitus](https://open.spotify.com/search/Hora%20Decubitus%20Jim%20Hall%20Mingus%20bands) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Hora Decubitus](https://open.spotify.com/search/Hora%20Decubitus%20Jim%20Hall%20Mingus%20bands) | Listen for how the guitar fits the band. |
 | [Eruption](https://open.spotify.com/search/Eruption%20Jim%20Hall%20Mingus%20bands) | Focus on phrasing, tone, bends, and how Jim Hall shapes the melodic argument. |
-| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Jim%20Hall%20Mingus%20bands) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Jim%20Hall%20Mingus%20bands) | Listen for how the rhythm guitar lays into the groove. |
 | [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Jim%20Hall%20Mingus%20bands) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Room 335](https://open.spotify.com/search/Room%20335%20Jim%20Hall%20Mingus%20bands) | Use this for lead construction: entrances, development, vibrato, and release. |
 
 ## Kenny Burrell
 
-Kenny Burrell is a guitarist associated with jazz, blues, hard bop, soul jazz. Musically, the important traits here are blues-jazz authority, hard-bop phrasing, warm chord melody, earthy swing vocabulary. In this ensemble, that language is pointed toward modern jazz / hard bop / blues, with Mingus bands as the broader listening world.
+Kenny Burrell is a guitarist associated with jazz, blues, hard bop, soul jazz. Musically, the important traits here are blues-jazz authority, hard-bop phrasing, warm chord melody, earthy swing vocabulary. In this ensemble: modern jazz / hard bop / blues. Related listening: Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mingus bands | [Wikipedia][mingus-bands-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -98,31 +98,31 @@ Kenny Burrell is a guitarist associated with jazz, blues, hard bop, soul jazz. M
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Ecclusiastics](https://open.spotify.com/search/Ecclusiastics%20Kenny%20Burrell%20Mingus%20bands) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Hora Decubitus](https://open.spotify.com/search/Hora%20Decubitus%20Kenny%20Burrell%20Mingus%20bands) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Hora Decubitus](https://open.spotify.com/search/Hora%20Decubitus%20Kenny%20Burrell%20Mingus%20bands) | Listen for how the guitar fits the band. |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/search/Goodbye%20Pork%20Pie%20Hat%20Kenny%20Burrell%20Mingus%20bands) | Focus on phrasing, tone, bends, and how Kenny Burrell shapes the melodic argument. |
-| [Haitian Fight Song](https://open.spotify.com/search/Haitian%20Fight%20Song%20Kenny%20Burrell%20Mingus%20bands) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Haitian Fight Song](https://open.spotify.com/search/Haitian%20Fight%20Song%20Kenny%20Burrell%20Mingus%20bands) | Listen for how the rhythm guitar lays into the groove. |
 | [Better Git It in Your Soul](https://open.spotify.com/search/Better%20Git%20It%20in%20Your%20Soul%20Kenny%20Burrell%20Mingus%20bands) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Moanin'](https://open.spotify.com/search/Moanin%27%20Kenny%20Burrell%20Mingus%20bands) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Eruption](https://open.spotify.com/search/Eruption%20Kenny%20Burrell%20Mingus%20bands) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Eruption](https://open.spotify.com/search/Eruption%20Kenny%20Burrell%20Mingus%20bands) | Listen for how the guitar fits the band. |
 | [Little Wing](https://open.spotify.com/search/Little%20Wing%20Kenny%20Burrell%20Mingus%20bands) | Focus on phrasing, tone, bends, and how Kenny Burrell shapes the melodic argument. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Kenny%20Burrell%20Mingus%20bands) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Kenny%20Burrell%20Mingus%20bands) | Listen for how the rhythm guitar lays into the groove. |
 | [Room 335](https://open.spotify.com/search/Room%20335%20Kenny%20Burrell%20Mingus%20bands) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Max Roach
 
-Max Roach is a drummer whose playing helps shape this music. Listen for how the drum part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mingus bands.
+Max Roach is a drummer whose playing helps shape this music. Listen for how the drum part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mingus bands | [Wikipedia][mingus-bands-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -130,7 +130,7 @@ Max Roach is a drummer whose playing helps shape this music. Listen for how the 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -147,14 +147,14 @@ Max Roach is a drummer whose playing helps shape this music. Listen for how the 
 
 ## Jaki Byard
 
-Jaki Byard is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mingus bands.
+Jaki Byard is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mingus bands | [Wikipedia][mingus-bands-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -162,31 +162,31 @@ Jaki Byard is a keyboard player whose playing helps shape this music. Listen for
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Goodbye Pork Pie Hat](https://open.spotify.com/search/Goodbye%20Pork%20Pie%20Hat%20Jaki%20Byard%20Mingus%20bands) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Haitian Fight Song](https://open.spotify.com/search/Haitian%20Fight%20Song%20Jaki%20Byard%20Mingus%20bands) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Better Git It in Your Soul](https://open.spotify.com/search/Better%20Git%20It%20in%20Your%20Soul%20Jaki%20Byard%20Mingus%20bands) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Moanin'](https://open.spotify.com/search/Moanin%27%20Jaki%20Byard%20Mingus%20bands) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Moanin'](https://open.spotify.com/search/Moanin%27%20Jaki%20Byard%20Mingus%20bands) | Listen for how the keys support and color the arrangement. |
 | [Fables of Faubus](https://open.spotify.com/search/Fables%20of%20Faubus%20Jaki%20Byard%20Mingus%20bands) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Boogie Stop Shuffle](https://open.spotify.com/search/Boogie%20Stop%20Shuffle%20Jaki%20Byard%20Mingus%20bands) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Aja](https://open.spotify.com/search/Aja%20Jaki%20Byard%20Mingus%20bands) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Peg](https://open.spotify.com/search/Peg%20Jaki%20Byard%20Mingus%20bands) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Riders on the Storm](https://open.spotify.com/search/Riders%20on%20the%20Storm%20Jaki%20Byard%20Mingus%20bands) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Riders on the Storm](https://open.spotify.com/search/Riders%20on%20the%20Storm%20Jaki%20Byard%20Mingus%20bands) | Listen for how the keys support and color the arrangement. |
 | [Frankenstein](https://open.spotify.com/search/Frankenstein%20Jaki%20Byard%20Mingus%20bands) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 
 ## Eric Dolphy
 
-Eric Dolphy is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Mingus bands.
+Eric Dolphy is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects modern jazz / hard bop / blues: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Mingus bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mingus bands | [Wikipedia][mingus-bands-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Mingus bands | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Mingus bands | — | — | Related artists. |
 
 ### Known Gear
 
@@ -194,7 +194,7 @@ Eric Dolphy is a saxophonist whose playing helps shape this music. Listen for ho
 |---|---|
 | Saxophone | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

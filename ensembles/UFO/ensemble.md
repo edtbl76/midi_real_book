@@ -1,8 +1,8 @@
 # Ensemble: UFO
 
-## Pairing Context
+## Context
 
-This music lives in the UFO world: hard rock / blues rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from AC/DC / UFO / Aerosmith help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the UFO world: hard rock / blues rock. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from AC/DC / UFO / Aerosmith help give you a feel for the style.
 
 ## Players
 
@@ -18,14 +18,14 @@ This music lives in the UFO world: hard rock / blues rock. Listen for how the pl
 
 ## Cliff Williams
 
-Cliff Williams is a bassist associated with hard rock, rock. Musically, the important traits here are hard-rock economy, consistency, strict time. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
+Cliff Williams is a bassist associated with hard rock, rock. Musically, the important traits here are hard-rock economy, consistency, strict time. In this ensemble: hard rock / blues rock. Related listening: AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | UFO | [Wikipedia][ufo-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Related artists. |
 
 ### Known Gear
 
@@ -33,31 +33,31 @@ Cliff Williams is a bassist associated with hard rock, rock. Musically, the impo
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Rock Bottom](https://open.spotify.com/search/Rock%20Bottom%20Cliff%20Williams%20UFO) | Track the pocket, note length, and how Cliff Williams makes the harmony feel grounded. |
 | [Doctor Doctor](https://open.spotify.com/search/Doctor%20Doctor%20Cliff%20Williams%20UFO) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Lights Out](https://open.spotify.com/search/Lights%20Out%20Cliff%20Williams%20UFO) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Only You Can Rock Me](https://open.spotify.com/search/Only%20You%20Can%20Rock%20Me%20Cliff%20Williams%20UFO) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Only You Can Rock Me](https://open.spotify.com/search/Only%20You%20Can%20Rock%20Me%20Cliff%20Williams%20UFO) | Listen for how the player shapes and attacks each note. |
 | [Too Hot to Handle](https://open.spotify.com/search/Too%20Hot%20to%20Handle%20Cliff%20Williams%20UFO) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [Love to Love](https://open.spotify.com/search/Love%20to%20Love%20Cliff%20Williams%20UFO) | Track the pocket, note length, and how Cliff Williams makes the harmony feel grounded. |
 | [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Cliff%20Williams%20UFO) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Cliff%20Williams%20UFO) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Cliff%20Williams%20UFO) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Cliff%20Williams%20UFO) | Listen for how the player shapes and attacks each note. |
 | [YYZ](https://open.spotify.com/search/YYZ%20Cliff%20Williams%20UFO) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 
 ## Angus Young
 
-Angus Young is a guitarist associated with hard rock, rock. Musically, the important traits here are blues-pentatonic rock lead intensity, AC/DC rhythmic vocabulary. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
+Angus Young is a guitarist associated with hard rock, rock. Musically, the important traits here are blues-pentatonic rock lead intensity, AC/DC rhythmic vocabulary. In this ensemble: hard rock / blues rock. Related listening: AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | UFO | [Wikipedia][ufo-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Related artists. |
 
 ### Known Gear
 
@@ -65,31 +65,31 @@ Angus Young is a guitarist associated with hard rock, rock. Musically, the impor
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Rock Bottom](https://open.spotify.com/search/Rock%20Bottom%20Angus%20Young%20UFO) | Focus on phrasing, tone, bends, and how Angus Young shapes the melodic argument. |
-| [Doctor Doctor](https://open.spotify.com/search/Doctor%20Doctor%20Angus%20Young%20UFO) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Doctor Doctor](https://open.spotify.com/search/Doctor%20Doctor%20Angus%20Young%20UFO) | Listen for how the rhythm guitar lays into the groove. |
 | [Lights Out](https://open.spotify.com/search/Lights%20Out%20Angus%20Young%20UFO) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Only You Can Rock Me](https://open.spotify.com/search/Only%20You%20Can%20Rock%20Me%20Angus%20Young%20UFO) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Too Hot to Handle](https://open.spotify.com/search/Too%20Hot%20to%20Handle%20Angus%20Young%20UFO) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Too Hot to Handle](https://open.spotify.com/search/Too%20Hot%20to%20Handle%20Angus%20Young%20UFO) | Listen for how the guitar fits the band. |
 | [Love to Love](https://open.spotify.com/search/Love%20to%20Love%20Angus%20Young%20UFO) | Focus on phrasing, tone, bends, and how Angus Young shapes the melodic argument. |
-| [La Grange](https://open.spotify.com/search/La%20Grange%20Angus%20Young%20UFO) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [La Grange](https://open.spotify.com/search/La%20Grange%20Angus%20Young%20UFO) | Listen for how the rhythm guitar lays into the groove. |
 | [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Angus%20Young%20UFO) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Angus%20Young%20UFO) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Angus%20Young%20UFO) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Angus%20Young%20UFO) | Listen for how the guitar fits the band. |
 
 ## Michael Schenker
 
-Michael Schenker is a guitarist associated with hard rock, melodic metal. Musically, the important traits here are melodic hard rock lead vocabulary, natural minor command, expressive vibrato precision. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
+Michael Schenker is a guitarist associated with hard rock, melodic metal. Musically, the important traits here are melodic hard rock lead vocabulary, natural minor command, expressive vibrato precision. In this ensemble: hard rock / blues rock. Related listening: AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | UFO | [Wikipedia][ufo-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Related artists. |
 
 ### Known Gear
 
@@ -97,31 +97,31 @@ Michael Schenker is a guitarist associated with hard rock, melodic metal. Musica
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Let It Roll](https://open.spotify.com/search/Let%20It%20Roll%20Michael%20Schenker%20UFO) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [This Kid's](https://open.spotify.com/search/This%20Kid%27s%20Michael%20Schenker%20UFO) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [This Kid's](https://open.spotify.com/search/This%20Kid%27s%20Michael%20Schenker%20UFO) | Listen for how the guitar fits the band. |
 | [Rock Bottom](https://open.spotify.com/search/Rock%20Bottom%20Michael%20Schenker%20UFO) | Focus on phrasing, tone, bends, and how Michael Schenker shapes the melodic argument. |
-| [Doctor Doctor](https://open.spotify.com/search/Doctor%20Doctor%20Michael%20Schenker%20UFO) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Doctor Doctor](https://open.spotify.com/search/Doctor%20Doctor%20Michael%20Schenker%20UFO) | Listen for how the rhythm guitar lays into the groove. |
 | [Lights Out](https://open.spotify.com/search/Lights%20Out%20Michael%20Schenker%20UFO) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Only You Can Rock Me](https://open.spotify.com/search/Only%20You%20Can%20Rock%20Me%20Michael%20Schenker%20UFO) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Michael%20Schenker%20UFO) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Still Got the Blues](https://open.spotify.com/search/Still%20Got%20the%20Blues%20Michael%20Schenker%20UFO) | Listen for how the guitar fits the band. |
 | [Freeway Jam](https://open.spotify.com/search/Freeway%20Jam%20Michael%20Schenker%20UFO) | Focus on phrasing, tone, bends, and how Michael Schenker shapes the melodic argument. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Michael%20Schenker%20UFO) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Michael%20Schenker%20UFO) | Listen for how the rhythm guitar lays into the groove. |
 | [Aja](https://open.spotify.com/search/Aja%20Michael%20Schenker%20UFO) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Joe Perry
 
-Joe Perry is a guitarist associated with rock, blues-rock. Musically, the important traits here are blues-based rock phrasing, Aerosmith rhythm and lead vocabulary. In this ensemble, that language is pointed toward hard rock / blues rock, with AC/DC / UFO / Aerosmith as the broader listening world.
+Joe Perry is a guitarist associated with rock, blues-rock. Musically, the important traits here are blues-based rock phrasing, Aerosmith rhythm and lead vocabulary. In this ensemble: hard rock / blues rock. Related listening: AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | UFO | [Wikipedia][ufo-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Related artists. |
 
 ### Known Gear
 
@@ -129,31 +129,31 @@ Joe Perry is a guitarist associated with rock, blues-rock. Musically, the import
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Natural Thing](https://open.spotify.com/search/Natural%20Thing%20Joe%20Perry%20UFO) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Natural Thing](https://open.spotify.com/search/Natural%20Thing%20Joe%20Perry%20UFO) | Listen for how the rhythm guitar lays into the groove. |
 | [Shoot Shoot](https://open.spotify.com/search/Shoot%20Shoot%20Joe%20Perry%20UFO) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Let It Roll](https://open.spotify.com/search/Let%20It%20Roll%20Joe%20Perry%20UFO) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [This Kid's](https://open.spotify.com/search/This%20Kid%27s%20Joe%20Perry%20UFO) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [This Kid's](https://open.spotify.com/search/This%20Kid%27s%20Joe%20Perry%20UFO) | Listen for how the guitar fits the band. |
 | [Rock Bottom](https://open.spotify.com/search/Rock%20Bottom%20Joe%20Perry%20UFO) | Focus on phrasing, tone, bends, and how Joe Perry shapes the melodic argument. |
-| [Doctor Doctor](https://open.spotify.com/search/Doctor%20Doctor%20Joe%20Perry%20UFO) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Doctor Doctor](https://open.spotify.com/search/Doctor%20Doctor%20Joe%20Perry%20UFO) | Listen for how the rhythm guitar lays into the groove. |
 | [Peg](https://open.spotify.com/search/Peg%20Joe%20Perry%20UFO) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Joe%20Perry%20UFO) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Joe%20Perry%20UFO) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Joe%20Perry%20UFO) | Listen for how the guitar fits the band. |
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Joe%20Perry%20UFO) | Focus on phrasing, tone, bends, and how Joe Perry shapes the melodic argument. |
 
 ## Phil Rudd
 
-Phil Rudd is a drummer whose playing helps shape this music. Listen for how the drum part affects hard rock / blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is AC/DC / UFO / Aerosmith.
+Phil Rudd is a drummer whose playing helps shape this music. Listen for how the drum part affects hard rock / blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is AC/DC / UFO / Aerosmith.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | UFO | [Wikipedia][ufo-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | AC/DC / UFO / Aerosmith | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | AC/DC / UFO / Aerosmith | — | — | Related artists. |
 
 ### Known Gear
 
@@ -161,7 +161,7 @@ Phil Rudd is a drummer whose playing helps shape this music. Listen for how the 
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|

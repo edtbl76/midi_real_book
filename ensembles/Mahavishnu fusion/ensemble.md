@@ -1,8 +1,8 @@
 # Ensemble: Mahavishnu fusion
 
-## Pairing Context
+## Context
 
-This music lives in the Mahavishnu fusion world: jazz fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band help frame the vocabulary and show how this kind of ensemble moves.
+This music lives in the Mahavishnu fusion world: jazz fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band help give you a feel for the style.
 
 ## Players
 
@@ -21,14 +21,14 @@ This music lives in the Mahavishnu fusion world: jazz fusion. Listen for how the
 
 ## Stanley Clarke
 
-Stanley Clarke is a bassist associated with jazz fusion, acoustic jazz, fusion rock. Musically, the important traits here are electric/acoustic fusion virtuosity, thumb technique, high-register facility. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
+Stanley Clarke is a bassist associated with jazz fusion, acoustic jazz, fusion rock. Musically, the important traits here are electric/acoustic fusion virtuosity, thumb technique, high-register facility. In this ensemble: jazz fusion. Related listening: Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu fusion | [Wikipedia][mahavishnu-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -36,7 +36,7 @@ Stanley Clarke is a bassist associated with jazz fusion, acoustic jazz, fusion r
 |---|---|
 | Bass | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -44,23 +44,23 @@ Stanley Clarke is a bassist associated with jazz fusion, acoustic jazz, fusion r
 | [You Know You Know](https://open.spotify.com/search/You%20Know%20You%20Know%20Stanley%20Clarke%20Mahavishnu%20fusion) | Track the pocket, note length, and how Stanley Clarke makes the harmony feel grounded. |
 | [Lila's Dance](https://open.spotify.com/search/Lila%27s%20Dance%20Stanley%20Clarke%20Mahavishnu%20fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [Hymn to Him](https://open.spotify.com/search/Hymn%20to%20Him%20Stanley%20Clarke%20Mahavishnu%20fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [School Days](https://open.spotify.com/search/School%20Days%20Stanley%20Clarke%20Mahavishnu%20fusion) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [School Days](https://open.spotify.com/search/School%20Days%20Stanley%20Clarke%20Mahavishnu%20fusion) | Listen for how the player shapes and attacks each note. |
 | [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Stanley%20Clarke%20Mahavishnu%20fusion) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
 | [YYZ](https://open.spotify.com/search/YYZ%20Stanley%20Clarke%20Mahavishnu%20fusion) | Track the pocket, note length, and how Stanley Clarke makes the harmony feel grounded. |
 | [Roundabout](https://open.spotify.com/search/Roundabout%20Stanley%20Clarke%20Mahavishnu%20fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
 | [The Real Me](https://open.spotify.com/search/The%20Real%20Me%20Stanley%20Clarke%20Mahavishnu%20fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Hysteria](https://open.spotify.com/search/Hysteria%20Stanley%20Clarke%20Mahavishnu%20fusion) | Use this to hear articulation choices: muting, sustain, attack, and placement. |
+| [Hysteria](https://open.spotify.com/search/Hysteria%20Stanley%20Clarke%20Mahavishnu%20fusion) | Listen for how the player shapes and attacks each note. |
 
 ## John McLaughlin
 
-John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
+John McLaughlin is a guitarist associated with jazz fusion, Indian classical fusion, jazz, flamenco-influenced. Musically, the important traits here are flat-pick velocity, modal/harmonic complexity, odd-meter precision, jazz-Indian fusion language. In this ensemble: jazz fusion. Related listening: Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu fusion | [Wikipedia][mahavishnu-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -68,31 +68,31 @@ John McLaughlin is a guitarist associated with jazz fusion, Indian classical fus
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [School Days](https://open.spotify.com/search/School%20Days%20John%20McLaughlin%20Mahavishnu%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20John%20McLaughlin%20Mahavishnu%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20John%20McLaughlin%20Mahavishnu%20fusion) | Listen for how the guitar fits the band. |
 | [Meeting of the Spirits](https://open.spotify.com/search/Meeting%20of%20the%20Spirits%20John%20McLaughlin%20Mahavishnu%20fusion) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20John%20McLaughlin%20Mahavishnu%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20John%20McLaughlin%20Mahavishnu%20fusion) | Listen for how the rhythm guitar lays into the groove. |
 | [Noonward Race](https://open.spotify.com/search/Noonward%20Race%20John%20McLaughlin%20Mahavishnu%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [The Dance of Maya](https://open.spotify.com/search/The%20Dance%20of%20Maya%20John%20McLaughlin%20Mahavishnu%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Room 335](https://open.spotify.com/search/Room%20335%20John%20McLaughlin%20Mahavishnu%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Room 335](https://open.spotify.com/search/Room%20335%20John%20McLaughlin%20Mahavishnu%20fusion) | Listen for how the guitar fits the band. |
 | [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20John%20McLaughlin%20Mahavishnu%20fusion) | Focus on phrasing, tone, bends, and how John McLaughlin shapes the melodic argument. |
-| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20John%20McLaughlin%20Mahavishnu%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Race with Devil on Spanish Highway](https://open.spotify.com/search/Race%20with%20Devil%20on%20Spanish%20Highway%20John%20McLaughlin%20Mahavishnu%20fusion) | Listen for how the rhythm guitar lays into the groove. |
 | [The Messiah Will Come Again](https://open.spotify.com/search/The%20Messiah%20Will%20Come%20Again%20John%20McLaughlin%20Mahavishnu%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 
 ## Al Di Meola
 
-Al Di Meola is a guitarist associated with jazz fusion, flamenco, Latin jazz. Musically, the important traits here are elite flatpick velocity, flamenco/jazz precision, alternate-picked scalar command, complex rhythmic language. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
+Al Di Meola is a guitarist associated with jazz fusion, flamenco, Latin jazz. Musically, the important traits here are elite flatpick velocity, flamenco/jazz precision, alternate-picked scalar command, complex rhythmic language. In this ensemble: jazz fusion. Related listening: Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu fusion | [Wikipedia][mahavishnu-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -100,31 +100,31 @@ Al Di Meola is a guitarist associated with jazz fusion, flamenco, Latin jazz. Mu
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Listen for how the rhythm guitar lays into the groove. |
 | [Noonward Race](https://open.spotify.com/search/Noonward%20Race%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [The Dance of Maya](https://open.spotify.com/search/The%20Dance%20of%20Maya%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Vital Transformation](https://open.spotify.com/search/Vital%20Transformation%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Vital Transformation](https://open.spotify.com/search/Vital%20Transformation%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Listen for how the guitar fits the band. |
 | [You Know You Know](https://open.spotify.com/search/You%20Know%20You%20Know%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Focus on phrasing, tone, bends, and how Al Di Meola shapes the melodic argument. |
-| [Lila's Dance](https://open.spotify.com/search/Lila%27s%20Dance%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Lila's Dance](https://open.spotify.com/search/Lila%27s%20Dance%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Listen for how the rhythm guitar lays into the groove. |
 | [Scarified](https://open.spotify.com/search/Scarified%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Listen for how the guitar fits the band. |
 | [Red House](https://open.spotify.com/search/Red%20House%20Al%20Di%20Meola%20Mahavishnu%20fusion) | Focus on phrasing, tone, bends, and how Al Di Meola shapes the melodic argument. |
 
 ## Bill Connors
 
-Bill Connors is a guitarist associated with jazz fusion, avant-garde, progressive rock. Musically, the important traits here are avant-garde jazz intervals, RTF-era fusion abstraction, classical-influenced technical language. In this ensemble, that language is pointed toward jazz fusion, with Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band as the broader listening world.
+Bill Connors is a guitarist associated with jazz fusion, avant-garde, progressive rock. Musically, the important traits here are avant-garde jazz intervals, RTF-era fusion abstraction, classical-influenced technical language. In this ensemble: jazz fusion. Related listening: Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu fusion | [Wikipedia][mahavishnu-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -132,31 +132,31 @@ Bill Connors is a guitarist associated with jazz fusion, avant-garde, progressiv
 |---|---|
 | Guitar | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Noonward Race](https://open.spotify.com/search/Noonward%20Race%20Bill%20Connors%20Mahavishnu%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [The Dance of Maya](https://open.spotify.com/search/The%20Dance%20of%20Maya%20Bill%20Connors%20Mahavishnu%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Vital Transformation](https://open.spotify.com/search/Vital%20Transformation%20Bill%20Connors%20Mahavishnu%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Vital Transformation](https://open.spotify.com/search/Vital%20Transformation%20Bill%20Connors%20Mahavishnu%20fusion) | Listen for how the guitar fits the band. |
 | [You Know You Know](https://open.spotify.com/search/You%20Know%20You%20Know%20Bill%20Connors%20Mahavishnu%20fusion) | Focus on phrasing, tone, bends, and how Bill Connors shapes the melodic argument. |
-| [Lila's Dance](https://open.spotify.com/search/Lila%27s%20Dance%20Bill%20Connors%20Mahavishnu%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Lila's Dance](https://open.spotify.com/search/Lila%27s%20Dance%20Bill%20Connors%20Mahavishnu%20fusion) | Listen for how the rhythm guitar lays into the groove. |
 | [Hymn to Him](https://open.spotify.com/search/Hymn%20to%20Him%20Bill%20Connors%20Mahavishnu%20fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
 | [Little Wing](https://open.spotify.com/search/Little%20Wing%20Bill%20Connors%20Mahavishnu%20fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Bill%20Connors%20Mahavishnu%20fusion) | Listen for idiomatic comping and the way the guitar defines the ensemble color. |
+| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Bill%20Connors%20Mahavishnu%20fusion) | Listen for how the guitar fits the band. |
 | [Room 335](https://open.spotify.com/search/Room%20335%20Bill%20Connors%20Mahavishnu%20fusion) | Focus on phrasing, tone, bends, and how Bill Connors shapes the melodic argument. |
-| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Bill%20Connors%20Mahavishnu%20fusion) | Listen for the rhythm-guitar vocabulary: voicings, muting, accents, and space. |
+| [Bright Size Life](https://open.spotify.com/search/Bright%20Size%20Life%20Bill%20Connors%20Mahavishnu%20fusion) | Listen for how the rhythm guitar lays into the groove. |
 
 ## Lenny White
 
-Lenny White is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
+Lenny White is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu fusion | [Wikipedia][mahavishnu-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -164,7 +164,7 @@ Lenny White is a drummer whose playing helps shape this music. Listen for how th
 |---|---|
 | Drums | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
@@ -181,14 +181,14 @@ Lenny White is a drummer whose playing helps shape this music. Listen for how th
 
 ## Chick Corea
 
-Chick Corea is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
+Chick Corea is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu fusion | [Wikipedia][mahavishnu-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -196,31 +196,31 @@ Chick Corea is a keyboard player whose playing helps shape this music. Listen fo
 |---|---|
 | Keyboards | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Birds of Fire](https://open.spotify.com/search/Birds%20of%20Fire%20Chick%20Corea%20Mahavishnu%20fusion) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Noonward Race](https://open.spotify.com/search/Noonward%20Race%20Chick%20Corea%20Mahavishnu%20fusion) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [The Dance of Maya](https://open.spotify.com/search/The%20Dance%20of%20Maya%20Chick%20Corea%20Mahavishnu%20fusion) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [The Dance of Maya](https://open.spotify.com/search/The%20Dance%20of%20Maya%20Chick%20Corea%20Mahavishnu%20fusion) | Listen for how the keys support and color the arrangement. |
 | [Vital Transformation](https://open.spotify.com/search/Vital%20Transformation%20Chick%20Corea%20Mahavishnu%20fusion) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [You Know You Know](https://open.spotify.com/search/You%20Know%20You%20Know%20Chick%20Corea%20Mahavishnu%20fusion) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 | [Lila's Dance](https://open.spotify.com/search/Lila%27s%20Dance%20Chick%20Corea%20Mahavishnu%20fusion) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
 | [Spain](https://open.spotify.com/search/Spain%20Chick%20Corea%20Mahavishnu%20fusion) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Birdland](https://open.spotify.com/search/Birdland%20Chick%20Corea%20Mahavishnu%20fusion) | Use this for comping vocabulary, synth texture, and arrangement support. |
+| [Birdland](https://open.spotify.com/search/Birdland%20Chick%20Corea%20Mahavishnu%20fusion) | Listen for how the keys support and color the arrangement. |
 | [Chameleon](https://open.spotify.com/search/Chameleon%20Chick%20Corea%20Mahavishnu%20fusion) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
 | [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Chick%20Corea%20Mahavishnu%20fusion) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
 
 ## Jean-Luc Ponty
 
-Jean-Luc Ponty is a violinist whose playing helps shape this music. Listen for how the violin part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
+Jean-Luc Ponty is a violinist whose playing helps shape this music. Listen for how the violin part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu fusion | [Wikipedia][mahavishnu-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -228,31 +228,31 @@ Jean-Luc Ponty is a violinist whose playing helps shape this music. Listen for h
 |---|---|
 | Violin | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
 | [Vital Transformation](https://open.spotify.com/search/Vital%20Transformation%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Listen for how the violin functions as lead voice without losing ensemble balance. |
-| [You Know You Know](https://open.spotify.com/search/You%20Know%20You%20Know%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [You Know You Know](https://open.spotify.com/search/You%20Know%20You%20Know%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Focus on sustain, attack, ornament, and how the violin changes the band sound. |
 | [Lila's Dance](https://open.spotify.com/search/Lila%27s%20Dance%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Listen for long-line phrasing against denser rhythm-section motion. |
 | [Hymn to Him](https://open.spotify.com/search/Hymn%20to%20Him%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
 | [School Days](https://open.spotify.com/search/School%20Days%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Use this for modal color, melodic contour, and textural contrast. |
 | [Vulcan Worlds](https://open.spotify.com/search/Vulcan%20Worlds%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Listen for how the violin functions as lead voice without losing ensemble balance. |
-| [The Dance of Maya](https://open.spotify.com/search/The%20Dance%20of%20Maya%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Focus on sustain, attack, ornament, and how the violin changes the ensemble color. |
+| [The Dance of Maya](https://open.spotify.com/search/The%20Dance%20of%20Maya%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Focus on sustain, attack, ornament, and how the violin changes the band sound. |
 | [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Listen for long-line phrasing against denser rhythm-section motion. |
 | [Caesar's Palace Blues](https://open.spotify.com/search/Caesar%27s%20Palace%20Blues%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Track how bowed or electric-violin articulation answers the guitar vocabulary. |
 | [One Word](https://open.spotify.com/search/One%20Word%20Jean-Luc%20Ponty%20Mahavishnu%20fusion) | Use this for modal color, melodic contour, and textural contrast. |
 
 ## Airto Moreira
 
-Airto Moreira is a percussionist whose playing helps shape this music. Listen for how the percussion part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The broader listening world is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
+Airto Moreira is a percussionist whose playing helps shape this music. Listen for how the percussion part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
 | Ensemble focus | Mahavishnu fusion | [Wikipedia][mahavishnu-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Adjacent artists, bands, or scenes for comparison. |
+| Broader work | Return to Forever / Mahavishnu Orchestra / Stanley Clarke Band | — | — | Related artists. |
 
 ### Known Gear
 
@@ -260,7 +260,7 @@ Airto Moreira is a percussionist whose playing helps shape this music. Listen fo
 |---|---|
 | Percussion | Associated instruments and touring/studio tools. |
 
-### 10 Idiomatic Performances
+### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
