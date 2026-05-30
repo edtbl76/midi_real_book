@@ -93,7 +93,20 @@ body.sidebar-collapsed .sidebar { transform: translateX(-100%); }
 .sidebar h2 { margin: 34px 0 10px; font-size: 1rem; color: var(--side-ink); }
 .sidebar a { color: var(--side-ink); text-decoration: none; }
 .sidebar a:hover { color: white; text-decoration: underline; }
-.back-link { display: inline-flex; margin-bottom: 18px; color: var(--side-muted) !important; font-size: .9rem; }
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 18px;
+  padding: 7px 12px;
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  color: var(--accent) !important;
+  font-size: .9rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+.back-link:hover { background: var(--accent); color: var(--bg) !important; }
 .nav-group { border-top: 1px solid rgba(255,255,255,.14); padding-top: 12px; margin-top: 12px; }
 .nav-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
 .nav-list a { display: block; padding: 6px 8px; border-radius: 4px; color: var(--side-muted); }
