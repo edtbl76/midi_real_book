@@ -38,7 +38,9 @@
       const q = search.value.trim().toLowerCase();
       let visible = 0;
       cards.forEach(function (card) {
-        const show = !q || card.textContent.toLowerCase().includes(q);
+        const show = !q ||
+          card.textContent.toLowerCase().includes(q) ||
+          (card.dataset.players || '').toLowerCase().includes(q);
         card.hidden = !show;
         if (show) visible += 1;
       });

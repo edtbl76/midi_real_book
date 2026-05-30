@@ -25,7 +25,7 @@ permalink: index.html
       </div>
       <nav class="record-grid" aria-label="Ensemble records">
         {% for page in collections.ensemble | sortByName %}
-        <a class="record-card" data-record-card href="{{ page.url }}">{{ page.data.ensembleName }}</a>
+        <a class="record-card" data-record-card href="{{ page.url }}" data-players="{{ page.data.players | join(',') }}">{{ page.data.ensembleName }}</a>
         {% endfor %}
       </nav>
     </main>

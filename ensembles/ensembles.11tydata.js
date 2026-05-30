@@ -1,4 +1,5 @@
 const path = require("path");
+const fs = require("fs");
 
 function slugify(name) {
   return name
@@ -21,6 +22,13 @@ module.exports = {
     permalink: (data) => {
       const dir = path.basename(path.dirname(data.page.inputPath));
       return `ensembles/${slugify(dir)}.html`;
+    },
+    players: (data) => {
+      const md = fs.readFileSync(data.page.inputPath, "utf-8");
+      const system = new Set(["context", "players", "references"]);
+      return (md.match(/^## (.+)$/gm) || [])
+        .map((m) => m.replace(/^## /, "").trim())
+        .filter((n) => !system.has(n.toLowerCase()));
     },
   },
 };
