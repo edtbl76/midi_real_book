@@ -1,4 +1,10 @@
 (function () {
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.addEventListener('controllerchange', function () {
+      window.location.reload();
+    });
+  }
+
   const toggle = document.querySelector('[data-sidebar-toggle]');
   if (toggle) {
     const isMobile = function () { return window.matchMedia('(max-width: 860px)').matches; };
