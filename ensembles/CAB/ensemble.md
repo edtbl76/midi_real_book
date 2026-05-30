@@ -2,14 +2,14 @@
 
 ## Context
 
-This music lives in the CAB world: jazz fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from CAB / Return to Forever help give you a feel for the style.
+CAB was a jazz-fusion project led by bassist Bunny Brunel, with the name variously standing for Chambers/Abene/Brunel or reflecting its rotating all-star cast. The group released four studio albums between 1998 and 2003 on Tone Center Records, blending post-fusion groove with neoclassical shred and extended harmonic vocabulary. Personnel shifted across albums, with Dennis Chambers anchoring the drum chair throughout and Tony MacAlpine, Jon Finn, and Chick Corea appearing across different records.
 
 ## Players
 
 | Player | Instrument / Role | Wikipedia | Website |
 |---|---|---|---|
 | [Bunny Brunel](#bunny-brunel) | Bass | [Wikipedia][bunny-brunel-wiki] | — |
-| [Tony MacAlpine](#tony-macalpine) | Guitar | [Wikipedia][tony-macalpine-wiki] | — |
+| [Tony MacAlpine](#tony-macalpine) | Guitar / Keyboards | [Wikipedia][tony-macalpine-wiki] | — |
 | [Jon Finn](#jon-finn) | Guitar | [Wikipedia][jon-finn-wiki] | — |
 | [Dennis Chambers](#dennis-chambers) | Drums | [Wikipedia][dennis-chambers-wiki] | — |
 | [Chick Corea](#chick-corea) | Keyboards | [Wikipedia][chick-corea-wiki] | — |
@@ -18,163 +18,185 @@ This music lives in the CAB world: jazz fusion. Listen for how the players build
 
 ## Bunny Brunel
 
-Bunny Brunel is a bassist associated with jazz fusion, fusion. Musically, the important traits here are electric jazz-fusion fluidity and harmonic movement. In this ensemble: jazz fusion. Related listening: CAB / Return to Forever.
+Bunny Brunel (b. 1954) is a French electric bassist whose fluid legato phrasing and harmonic sophistication placed him at the center of jazz-fusion circles in the late 1970s and beyond. He worked closely with Chick Corea during the period surrounding "My Spanish Heart" and "The Mad Hatter," and later with Herbie Hancock, before founding CAB as a vehicle for collaborative all-star fusion.
 
 ### Timeline
 
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
+| Period | Band / Collaborator | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | CAB / Return to Forever | — | — | Related artists. |
+| 1976–1978 | Chick Corea | [Wikipedia][chick-corea-wiki] | — | Featured on "My Spanish Heart" and "The Mad Hatter." |
+| 1979 | Solo | — | — | Debut solo album "Touch" (1979). |
+| 1985 | Solo | — | — | "Ivanhoe" solo album. |
+| 1998 | Solo / CAB | [Wikipedia][cab-wiki] | — | Released "JazzFunk" solo and co-founded CAB. |
+| 1998–2003 | CAB | [Wikipedia][cab-wiki] | — | Leader on all four CAB studio albums. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | — |
+| Bass | Bunny Brunel signature Carvin bass |
+| Amplification | — |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [For Joe](https://open.spotify.com/search/For%20Joe%20Bunny%20Brunel%20CAB) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Alphonse](https://open.spotify.com/search/Alphonse%20Bunny%20Brunel%20CAB) | Listen for how the player shapes and attacks each note. |
-| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20Bunny%20Brunel%20CAB) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Cab](https://open.spotify.com/search/Cab%20Bunny%20Brunel%20CAB) | Track the pocket, note length, and how Bunny Brunel makes the harmony feel grounded. |
-| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20Bunny%20Brunel%20CAB) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Bernard](https://open.spotify.com/search/Bernard%20Bunny%20Brunel%20CAB) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Run for Cover](https://open.spotify.com/search/Run%20for%20Cover%20Bunny%20Brunel%20CAB) | Listen for how the player shapes and attacks each note. |
-| [Peg](https://open.spotify.com/search/Peg%20Bunny%20Brunel%20CAB) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Bernadette](https://open.spotify.com/search/Bernadette%20Bunny%20Brunel%20CAB) | Track the pocket, note length, and how Bunny Brunel makes the harmony feel grounded. |
-| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Bunny%20Brunel%20CAB) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [For Joe](https://open.spotify.com/search/For%20Joe%20Bunny%20Brunel%20CAB) | Brunel's bass carries the harmonic weight while staying locked with Chambers — note how he ornaments roots without cluttering the lower register. |
+| [Alphonse](https://open.spotify.com/search/Alphonse%20Bunny%20Brunel%20CAB) | A showcase for his legato left-hand technique; the bass melody reads more like a frontline horn than a rhythm instrument. |
+| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20Bunny%20Brunel%20CAB) | Listen for how Brunel walks through shifting tonality without anchoring to simple roots — the line implies chord extensions throughout. |
+| [Cab](https://open.spotify.com/search/Cab%20Bunny%20Brunel%20CAB) | The title track highlights his rhythmic precision alongside Chambers; note how the two lock on syncopated figures without losing pocket. |
+| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20Bunny%20Brunel%20CAB) | A funkier side of Brunel — the bass riff is the hook, and the space between notes is as deliberate as the notes themselves. |
+| [No Turning Back](https://open.spotify.com/search/No%20Turning%20Back%20CAB%202) | From CAB 2, this track shows Brunel pushing into aggressive fusion territory, driving beneath MacAlpine's lines. |
+| [Chromatic Fantasy](https://open.spotify.com/search/Chromatic%20Fantasy%20CAB%20Bunny%20Brunel) | Bach's harmonic logic transplanted into fusion — Brunel navigates the chromatic movement with the precision the title demands. |
+| [Touch](https://open.spotify.com/search/Touch%20Bunny%20Brunel%201979) | His 1979 solo debut shows the post-RTF influence directly — melodic, lyrical basslines over fusion harmony. |
+| [My Spanish Heart](https://open.spotify.com/search/My%20Spanish%20Heart%20Chick%20Corea%201976) | Context for where Brunel came from — his early work with Corea established his harmonic language. |
+| [The Mad Hatter](https://open.spotify.com/search/The%20Mad%20Hatter%20Chick%20Corea%201978) | Brunel's basswork on this Corea record sits between jazz lyricism and fusion muscularity, a balance that defines his entire approach. |
 
 ## Tony MacAlpine
 
-Tony MacAlpine is a guitarist associated with neoclassical metal, jazz fusion, rock. Musically, the important traits here are neoclassical/fusion sweep arpeggios, scalar command, classical piano foundation, harmonic depth. In this ensemble: jazz fusion. Related listening: CAB / Return to Forever.
+Tony MacAlpine (b. 1960) is a guitarist and classically trained pianist who emerged from Shrapnel Records' neoclassical shred movement in the mid-1980s. His keyboard training shapes his guitar phrasing — scalar passages and voice-leading choices carry the logic of a pianist — and he brought both instruments to CAB, appearing on multiple albums in the series.
 
 ### Timeline
 
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
+| Period | Band / Collaborator | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | CAB / Return to Forever | — | — | Related artists. |
+| 1986 | Solo | [Wikipedia][tony-macalpine-wiki] | — | Debut "Edge of Insanity" on Shrapnel Records. |
+| 1987 | Solo | — | — | "Maximum Security" (1987). |
+| 1990 | Solo | — | — | "Eyes of the World" (1990). |
+| 1993 | Solo | — | — | "Madness" (1993). |
+| 1998–2003 | CAB | [Wikipedia][cab-wiki] | — | Guitar and keyboards across CAB albums. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | — |
+| Guitar | Ibanez signature guitars |
+| Amplification | Mesa/Boogie |
+| Piano / Keys | Steinway grand piano; various synthesizers |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Jam & Toast](https://open.spotify.com/search/Jam%20%26%20Toast%20Tony%20MacAlpine%20CAB) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Tony Mac](https://open.spotify.com/search/Tony%20Mac%20Tony%20MacAlpine%20CAB) | Listen for how the guitar fits the band. |
-| [Miso Soup](https://open.spotify.com/search/Miso%20Soup%20Tony%20MacAlpine%20CAB) | Focus on phrasing, tone, bends, and how Tony MacAlpine shapes the melodic argument. |
-| [Katputli](https://open.spotify.com/search/Katputli%20Tony%20MacAlpine%20CAB) | Listen for how the rhythm guitar lays into the groove. |
-| [For Joe](https://open.spotify.com/search/For%20Joe%20Tony%20MacAlpine%20CAB) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Alphonse](https://open.spotify.com/search/Alphonse%20Tony%20MacAlpine%20CAB) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Tony%20MacAlpine%20CAB) | Listen for how the guitar fits the band. |
-| [Europa](https://open.spotify.com/search/Europa%20Tony%20MacAlpine%20CAB) | Focus on phrasing, tone, bends, and how Tony MacAlpine shapes the melodic argument. |
-| [Sultans of Swing](https://open.spotify.com/search/Sultans%20of%20Swing%20Tony%20MacAlpine%20CAB) | Listen for how the rhythm guitar lays into the groove. |
-| [Crossroads](https://open.spotify.com/search/Crossroads%20Tony%20MacAlpine%20CAB) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Hundreds of Thousands](https://open.spotify.com/search/Hundreds%20of%20Thousands%20Tony%20MacAlpine) | His debut statement: sweep arpeggios delivered with the voice-leading logic of a classical pianist, not a rock player. |
+| [Wheel of Fortune](https://open.spotify.com/search/Wheel%20of%20Fortune%20Tony%20MacAlpine%20Edge%20of%20Insanity) | Notice how the melodic phrasing mirrors keyboard fingering — MacAlpine thinks in hand positions even on guitar. |
+| [Maximum Security](https://open.spotify.com/search/Maximum%20Security%20Tony%20MacAlpine%201987) | The title track from his second album; heavier and more aggressive but the harmonic framework stays classical. |
+| [Tears of Sahara](https://open.spotify.com/search/Tears%20of%20Sahara%20Tony%20MacAlpine) | A lyrical slow track that shows his melodic patience — long phrases developed over shifting harmony. |
+| [Eyes of the World](https://open.spotify.com/search/Eyes%20of%20the%20World%20Tony%20MacAlpine%201990) | The harmonic palette widens here; listen for jazz-inflected chord movements underneath the shred surface. |
+| [Crystal Eyes](https://open.spotify.com/search/Crystal%20Eyes%20Tony%20MacAlpine%20Eyes%20of%20the%20World) | Piano-forward track that shows the other half of MacAlpine's identity — his classical keyboard voice without the guitar. |
+| [Premonition](https://open.spotify.com/search/Premonition%20Tony%20MacAlpine%20Eyes%20of%20the%20World) | Dense harmonic movement under a single-note guitar melody — the rhythm guitar voicings are the story here. |
+| [No Turning Back](https://open.spotify.com/search/No%20Turning%20Back%20CAB%202%20Tony%20MacAlpine) | From CAB 2 — MacAlpine in a fusion context, trading with Finn and reacting to Chambers' groove in real time. |
+| [Chromatic Fantasy](https://open.spotify.com/search/Chromatic%20Fantasy%20CAB%20Tony%20MacAlpine) | His reading of Bach's BWV 903 in the CAB context: neoclassical integrity preserved inside a fusion ensemble. |
+| [Madness](https://open.spotify.com/search/Madness%20Tony%20MacAlpine%201993) | The most compositionally ambitious of his solo records — listen for how structure and improvisation are balanced track by track. |
 
 ## Jon Finn
 
-Jon Finn is a guitarist associated with neoclassical rock, jazz fusion, shred. Musically, the important traits here are neoclassical/jazz fusion shred, sweep arpeggios, harmonic sophistication, high-velocity articulation. In this ensemble: jazz fusion. Related listening: CAB / Return to Forever.
+Jon Finn is a Boston-based guitarist and longtime Berklee College of Music faculty member whose playing combines neoclassical melodic logic with jazz-fusion command. He appeared on the CAB album series alongside Bunny Brunel and Dennis Chambers, and has led the Jon Finn Group on his own records.
 
 ### Timeline
 
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
+| Period | Band / Collaborator | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | CAB / Return to Forever | — | — | Related artists. |
+| 1998 | Jon Finn Group | — | — | "Don't Look So Surprised" (1998). |
+| 1998–2003 | CAB | [Wikipedia][cab-wiki] | — | Guitar across CAB albums. |
+| 2005 | Jon Finn Group | — | — | "Wicked" (2005). |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
 | Guitar | — |
+| Amplification | — |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Bernard](https://open.spotify.com/search/Bernard%20Jon%20Finn%20CAB) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Jam & Toast](https://open.spotify.com/search/Jam%20%26%20Toast%20Jon%20Finn%20CAB) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Tony Mac](https://open.spotify.com/search/Tony%20Mac%20Jon%20Finn%20CAB) | Listen for how the guitar fits the band. |
-| [Miso Soup](https://open.spotify.com/search/Miso%20Soup%20Jon%20Finn%20CAB) | Focus on phrasing, tone, bends, and how Jon Finn shapes the melodic argument. |
-| [Katputli](https://open.spotify.com/search/Katputli%20Jon%20Finn%20CAB) | Listen for how the rhythm guitar lays into the groove. |
-| [For Joe](https://open.spotify.com/search/For%20Joe%20Jon%20Finn%20CAB) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Jon%20Finn%20CAB) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Jon%20Finn%20CAB) | Listen for how the guitar fits the band. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Jon%20Finn%20CAB) | Focus on phrasing, tone, bends, and how Jon Finn shapes the melodic argument. |
-| [Red House](https://open.spotify.com/search/Red%20House%20Jon%20Finn%20CAB) | Listen for how the rhythm guitar lays into the groove. |
+| [For Joe](https://open.spotify.com/search/For%20Joe%20Jon%20Finn%20CAB) | Finn's phrasing against the ensemble — track how he leaves space for Brunel rather than filling every bar. |
+| [Alphonse](https://open.spotify.com/search/Alphonse%20Jon%20Finn%20CAB) | Listen for his melodic construction: phrases that have a beginning, development, and clear endpoint. |
+| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20Jon%20Finn%20CAB) | Focus on how Finn navigates the harmonic movement — the passing tones he chooses reveal his jazz foundation. |
+| [Cab](https://open.spotify.com/search/Cab%20Jon%20Finn%20CAB) | The title track puts both guitarists in a tight ensemble context; notice how Finn's tone sits in the mix differently from MacAlpine's. |
+| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20Jon%20Finn%20CAB) | A funkier track — Finn's comping is as instructive as his lead work, matching the rhythmic vocabulary of the groove. |
+| [No Turning Back](https://open.spotify.com/search/No%20Turning%20Back%20CAB%202%20Jon%20Finn) | From CAB 2; listen for the guitar interplay between Finn and MacAlpine — two different melodic philosophies sharing a track. |
+| [Bernard](https://open.spotify.com/search/Bernard%20Jon%20Finn%20CAB) | Track how Finn's solos are shaped around the song form rather than running freely over the changes. |
+| [Don't Look So Surprised](https://open.spotify.com/search/Don%27t%20Look%20So%20Surprised%20Jon%20Finn%20Group) | His own record, his own band — the compositional voice is clearer here than in the all-star CAB context. |
+| [Wicked](https://open.spotify.com/search/Wicked%20Jon%20Finn%20Group%202005) | From his 2005 solo release; heavier production than the first record but the Berklee harmonic vocabulary is constant. |
+| [Chromatic Fantasy](https://open.spotify.com/search/Chromatic%20Fantasy%20CAB%20Jon%20Finn) | The Bach arrangement puts Finn in direct dialogue with MacAlpine over complex voice-leading — both players' classical awareness is on display. |
 
 ## Dennis Chambers
 
-Dennis Chambers is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is CAB / Return to Forever.
+Dennis Chambers (b. 1959) is one of the most influential drummers in funk and jazz-fusion, known for combining raw power with razor-sharp subdivision and independence. He spent formative years in Parliament-Funkadelic, then became a key player for John Scofield, Santana, and the power-fusion trio Niacin before anchoring the drum chair on all four CAB albums.
 
 ### Timeline
 
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
+| Period | Band / Collaborator | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | CAB / Return to Forever | — | — | Related artists. |
+| Late 1970s | Parliament-Funkadelic | [Wikipedia][parliament-wiki] | — | Foundational funk drumming in the P-Funk collective. |
+| 1987–1990 | John Scofield | [Wikipedia][scofield-wiki] | — | "Blue Matter," "Loud Jazz," "Flat Out," "Pick Hits Live." |
+| 1992–1994 | Santana | [Wikipedia][santana-wiki] | — | Appeared on "Milagro" (1992) and "Brothers" (1994). |
+| 1996–2000 | Niacin | — | — | Power trio with Billy Sheehan and John Novello; "Niacin" (1996), "High Bias" (1997), "Organik" (2000). |
+| 1998–2003 | CAB | [Wikipedia][cab-wiki] | — | Drums on all four CAB albums. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Drums | — |
+| Drums | DW Drums |
+| Cymbals | Zildjian |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [For Joe](https://open.spotify.com/search/For%20Joe%20Dennis%20Chambers%20CAB) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Alphonse](https://open.spotify.com/search/Alphonse%20Dennis%20Chambers%20CAB) | Use this for groove architecture rather than just surface-level chops. |
-| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20Dennis%20Chambers%20CAB) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Cab](https://open.spotify.com/search/Cab%20Dennis%20Chambers%20CAB) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20Dennis%20Chambers%20CAB) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Bernard](https://open.spotify.com/search/Bernard%20Dennis%20Chambers%20CAB) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Bleed](https://open.spotify.com/search/Bleed%20Dennis%20Chambers%20CAB) | Use this for groove architecture rather than just surface-level chops. |
-| [Schism](https://open.spotify.com/search/Schism%20Dennis%20Chambers%20CAB) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [In the Dead of Night](https://open.spotify.com/search/In%20the%20Dead%20of%20Night%20Dennis%20Chambers%20CAB) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Seven Days](https://open.spotify.com/search/Seven%20Days%20Dennis%20Chambers%20CAB) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
+| [Blue Matter](https://open.spotify.com/search/Blue%20Matter%20John%20Scofield%201987) | Chambers in a jazz-funk context — the groove is deep but the independence and accent placement are unmistakably his. |
+| [Loud Jazz](https://open.spotify.com/search/Loud%20Jazz%20John%20Scofield%201988) | Live intensity with Scofield; listen for how Chambers adjusts density phrase by phrase without breaking the underlying pulse. |
+| [Flat Out](https://open.spotify.com/search/Flat%20Out%20John%20Scofield%201988) | His ride cymbal work here is the lesson — subdivision is locked but the ghost notes and hi-hat interplay keep it elastic. |
+| [Niacin](https://open.spotify.com/search/Niacin%201996%20Chambers) | With Billy Sheehan's bass driving hard, Chambers meets that energy without crowding it — power in service of the pocket. |
+| [High Bias](https://open.spotify.com/search/High%20Bias%20Niacin%201997) | A harder Niacin track; note how his kick and snare accents frame Sheehan's bass rather than simply following it. |
+| [Organik](https://open.spotify.com/search/Organik%20Niacin%202000) | The most fusion-oriented Niacin album; Chambers opens up more melodic drumming without losing the funk foundation. |
+| [For Joe](https://open.spotify.com/search/For%20Joe%20Dennis%20Chambers%20CAB) | In the CAB setting — his snare placement and ghost note density define the track's character as much as any melody. |
+| [No Turning Back](https://open.spotify.com/search/No%20Turning%20Back%20CAB%202%20Dennis%20Chambers) | CAB 2 track: Chambers navigates the odd-metered sections with the same confidence he brings to straight-ahead funk. |
+| [Chromatic Fantasy](https://open.spotify.com/search/Chromatic%20Fantasy%20CAB%20Dennis%20Chambers) | Bach at fusion tempos — Chambers holds the architecture together while MacAlpine and Finn exchange neoclassical lines. |
+| [I Love You Much Too Much](https://open.spotify.com/search/I%20Love%20You%20Much%20Too%20Much%20Santana%20Brothers) | From Santana's "Brothers" (1994) — a different context, but the same commanding pulse and tone. |
 
 ## Chick Corea
 
-Chick Corea is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is CAB / Return to Forever.
+Chick Corea (1941–2021) was one of the defining pianists in jazz history, winning 23 Grammy Awards across a career spanning more than six decades. He played on Miles Davis's landmark electric records, co-founded Return to Forever in multiple configurations, and maintained a parallel solo career exploring everything from bebop to chamber music. His connection to Bunny Brunel from the mid-1970s brought him into the CAB orbit.
 
 ### Timeline
 
-| Period | Bands / Collaborators | Wikipedia | Website | Notes |
+| Period | Band / Collaborator | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | CAB | [Wikipedia][cab-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | CAB / Return to Forever | — | — | Related artists. |
+| 1968 | Solo | [Wikipedia][chick-corea-wiki] | — | "Now He Sings, Now He Sobs" — acoustic piano trio masterwork. |
+| 1969–1970 | Miles Davis | [Wikipedia][miles-davis-wiki] | — | "In a Silent Way," "Bitches Brew." |
+| 1972–1973 | Return to Forever | [Wikipedia][rtf-wiki] | — | "Light as a Feather" (1972), "Hymn of the Seventh Galaxy" (1973). |
+| 1973–1976 | Return to Forever (electric) | [Wikipedia][rtf-wiki] | — | "Romantic Warrior" (1976), fusion/rock era. |
+| 1976 | Solo | — | — | "My Spanish Heart" (1976), featuring Bunny Brunel on some tracks. |
+| 1978 | Solo | — | — | "The Mad Hatter" (1978). |
+| 1998–2003 | CAB | [Wikipedia][cab-wiki] | — | Keyboards on CAB albums. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | — |
+| Piano | Yamaha grand piano |
+| Electric Piano | Fender Rhodes |
+| Synthesizers | Various (ARP, Minimoog in earlier eras) |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [For Joe](https://open.spotify.com/search/For%20Joe%20Chick%20Corea%20CAB) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Alphonse](https://open.spotify.com/search/Alphonse%20Chick%20Corea%20CAB) | Listen for how the keys support and color the arrangement. |
-| [Blue Mondo](https://open.spotify.com/search/Blue%20Mondo%20Chick%20Corea%20CAB) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [Cab](https://open.spotify.com/search/Cab%20Chick%20Corea%20CAB) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [One for Stern](https://open.spotify.com/search/One%20for%20Stern%20Chick%20Corea%20CAB) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [Bernard](https://open.spotify.com/search/Bernard%20Chick%20Corea%20CAB) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Carry On Wayward Son](https://open.spotify.com/search/Carry%20On%20Wayward%20Son%20Chick%20Corea%20CAB) | Listen for how the keys support and color the arrangement. |
-| [Karn Evil 9](https://open.spotify.com/search/Karn%20Evil%209%20Chick%20Corea%20CAB) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [Spain](https://open.spotify.com/search/Spain%20Chick%20Corea%20CAB) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [Birdland](https://open.spotify.com/search/Birdland%20Chick%20Corea%20CAB) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
+| [Now He Sings, Now He Sobs](https://open.spotify.com/search/Now%20He%20Sings%20Now%20He%20Sobs%20Chick%20Corea%201968) | The acoustic foundation of everything that follows — his voicings, time feel, and harmonic language fully formed at 27. |
+| [Spain](https://open.spotify.com/search/Spain%20Return%20to%20Forever%20Light%20as%20a%20Feather) | The most recognized composition of his career; the piano introduction is a lesson in creating tension before the melody arrives. |
+| [500 Miles High](https://open.spotify.com/search/500%20Miles%20High%20Return%20to%20Forever%20Light%20as%20a%20Feather) | Focus on how Corea voices chords under Flora Purim's melody — every harmonic choice serves the song without decoration. |
+| [La Fiesta](https://open.spotify.com/search/La%20Fiesta%20Return%20to%20Forever%201973) | Longer form, full ensemble — Corea's piano is both structural and improvisational, holding the map while exploring freely. |
+| [Romantic Warrior](https://open.spotify.com/search/Romantic%20Warrior%20Return%20to%20Forever%201976) | The electric/rock-fusion era: synthesizer textures and electric piano in a prog-adjacent context very different from the acoustic trio work. |
+| [My Spanish Heart](https://open.spotify.com/search/My%20Spanish%20Heart%20Chick%20Corea%201976) | A pivotal solo record connecting Spanish-tinged harmony to fusion production — this is where the Brunel connection begins. |
+| [The Mad Hatter](https://open.spotify.com/search/The%20Mad%20Hatter%20Chick%20Corea%201978) | Conceptually ambitious, harmonically rich — Corea treating the album as an extended compositional statement rather than a collection of tracks. |
+| [Armando's Rhumba](https://open.spotify.com/search/Armando%27s%20Rhumba%20Chick%20Corea) | A characteristic Corea move: Afro-Cuban rhythmic logic fused with jazz harmony; the left hand carries a clave feel underneath complex chord movement. |
+| [Crystal Silence](https://open.spotify.com/search/Crystal%20Silence%20Chick%20Corea%20Gary%20Burton%201973) | The duo record with Gary Burton — Corea without a rhythm section, every note chosen for maximum information. |
+| [Nite Sprite](https://open.spotify.com/search/Nite%20Sprite%20Chick%20Corea%201977) | From the trio with Dave Holland and Barry Altschul — post-bop angularity and free-jazz openness side by side with bebop discipline. |
 
 ## References
 
@@ -183,4 +205,9 @@ Chick Corea is a keyboard player whose playing helps shape this music. Listen fo
 [jon-finn-wiki]: https://en.wikipedia.org/wiki/Jon_Finn
 [dennis-chambers-wiki]: https://en.wikipedia.org/wiki/Dennis_Chambers
 [chick-corea-wiki]: https://en.wikipedia.org/wiki/Chick_Corea
-[cab-wiki]: https://en.wikipedia.org/wiki/CAB
+[cab-wiki]: https://en.wikipedia.org/wiki/CAB_(band)
+[parliament-wiki]: https://en.wikipedia.org/wiki/Parliament-Funkadelic
+[scofield-wiki]: https://en.wikipedia.org/wiki/John_Scofield
+[santana-wiki]: https://en.wikipedia.org/wiki/Santana_(band)
+[miles-davis-wiki]: https://en.wikipedia.org/wiki/Miles_Davis
+[rtf-wiki]: https://en.wikipedia.org/wiki/Return_to_Forever

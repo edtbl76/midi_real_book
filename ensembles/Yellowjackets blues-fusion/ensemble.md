@@ -2,7 +2,7 @@
 
 ## Context
 
-This music lives in the Yellowjackets blues-fusion world: jazz fusion / blues fusion. Listen for how the players build the feel together: the groove, the guitar tone, the accents, and the space between parts. Related sounds from Yellowjackets help give you a feel for the style.
+The Yellowjackets were formed in 1977 by Robben Ford, Russell Ferrante, Jimmy Haslip, and Ricky Lawson, emerging from the Los Angeles fusion scene. After Ford departed in 1983, the group evolved into a piano-led quartet and later added Bob Mintzer on tenor saxophone in 1990, shifting toward a more compositionally sophisticated sound that blended jazz harmony with funk grooves and blues feeling. Will Kennedy replaced Lawson on drums in 1988, completing the classic post-Ford lineup that recorded the band's most celebrated work.
 
 ## Players
 
@@ -18,78 +18,79 @@ This music lives in the Yellowjackets blues-fusion world: jazz fusion / blues fu
 
 ## Jimmy Haslip
 
-Jimmy Haslip is a bassist associated with jazz fusion, fusion. Musically, the important traits here are polished fusion technique and intervallic language. In this ensemble: jazz fusion / blues fusion. Related listening: Yellowjackets.
+Jimmy Haslip (b. 1951) is a founding member and bassist of the Yellowjackets, present on every album from the 1981 debut onward. He is known for his fretless bass work, melodic approach to bass lines, and the ability to function as both rhythmic anchor and melodic voice within a fusion context. His Pedulla fretless tone is one of the defining sounds of the band's identity.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yellowjackets | — | — | Related artists. |
+| 1981–present | Yellowjackets | [Wikipedia][yellowjackets-wiki] | — | Founding bassist; all studio albums. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | — |
+| Bass | Pedulla fretless bass, Fender Jazz Bass |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Greenhouse](https://open.spotify.com/search/Greenhouse%20Jimmy%20Haslip%20Yellowjackets%20blues-fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Freedomland](https://open.spotify.com/search/Freedomland%20Jimmy%20Haslip%20Yellowjackets%20blues-fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Geraldine](https://open.spotify.com/search/Geraldine%20Jimmy%20Haslip%20Yellowjackets%20blues-fusion) | Listen for how the player shapes and attacks each note. |
-| [Runferyerlife](https://open.spotify.com/search/Runferyerlife%20Jimmy%20Haslip%20Yellowjackets%20blues-fusion) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Revelation](https://open.spotify.com/search/Revelation%20Jimmy%20Haslip%20Yellowjackets%20blues-fusion) | Track the pocket, note length, and how Jimmy Haslip makes the harmony feel grounded. |
-| [Matinee Idol](https://open.spotify.com/search/Matinee%20Idol%20Jimmy%20Haslip%20Yellowjackets%20blues-fusion) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Jimmy%20Haslip%20Yellowjackets%20blues-fusion) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [A Remark You Made](https://open.spotify.com/search/A%20Remark%20You%20Made%20Jimmy%20Haslip%20Yellowjackets%20blues-fusion) | Listen for how the player shapes and attacks each note. |
-| [Continuum](https://open.spotify.com/search/Continuum%20Jimmy%20Haslip%20Yellowjackets%20blues-fusion) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Stratus](https://open.spotify.com/search/Stratus%20Jimmy%20Haslip%20Yellowjackets%20blues-fusion) | Track the pocket, note length, and how Jimmy Haslip makes the harmony feel grounded. |
+| [Matinée Idol](https://open.spotify.com/search/Matin%C3%A9e%20Idol%20Yellowjackets%201981) | Listen for his fretless tone on the debut — melodic and warm, already establishing the bass-as-voice approach. |
+| [Caravan](https://open.spotify.com/search/Caravan%20Yellowjackets%201981) | Track how he navigates the jazz standard's changes with a fretless fluency that blurs the line between bass and horn. |
+| [Alcazar](https://open.spotify.com/search/Alcazar%20Yellowjackets%20Mirage%20a%20Trois) | Focus on his melodic invention on this Mirage à Trois track — he moves through the form with confidence and clarity. |
+| [The Spin](https://open.spotify.com/search/The%20Spin%20Yellowjackets%201989) | Listen for how his bass line anchors an energetic ensemble arrangement while still contributing melodic interest. |
+| [Greenhouse](https://open.spotify.com/search/Greenhouse%20Yellowjackets%201991) | Track his fretless sliding between notes — the portamento becomes a compositional element, not just an effect. |
+| [Like a River](https://open.spotify.com/search/Like%20a%20River%20Yellowjackets%201992) | Focus on how he locks with Kennedy's drums while remaining melodically independent — the rhythm section as ensemble. |
+| [Run for Your Life](https://open.spotify.com/search/Run%20for%20Your%20Life%20Yellowjackets%201994) | Listen for the driving, percussive side of his playing as the groove tightens on this up-tempo track. |
+| [Club Nocturne](https://open.spotify.com/search/Club%20Nocturne%20Yellowjackets%201997) | Track how his bass functions as the harmonic foundation under Mintzer's sax and Ferrante's keys in a three-voice texture. |
+| [Mint Jam](https://open.spotify.com/search/Mint%20Jam%20Yellowjackets%202002) | Listen for his live bass tone and the way he adjusts his dynamics to match the energy of a live ensemble. |
+| [Revelation](https://open.spotify.com/search/Revelation%20Yellowjackets) | Focus on his note choices within the chord changes — each bass note supports the harmony without merely doubling the root. |
 
 ## Robben Ford
 
-Robben Ford is a guitarist associated with blues-jazz, jazz-influenced rock, blues. Musically, the important traits here are blues-jazz fusion phrasing, chord-melody sophistication, refined tone control. In this ensemble: jazz fusion / blues fusion. Related listening: Yellowjackets.
+Robben Ford (b. 1951) co-founded the Yellowjackets in 1977 and appeared on the band's first two albums before departing in 1983 to pursue his solo career. In the Yellowjackets context, he brought the blues-jazz guitar voice that gave the early band its fusion identity. His solo work — including Talk to Your Daughter (1988), Handful of Blues (1995), and Tiger Walk (1997) — continued to develop that blues-jazz synthesis across a long career with his Blue Line band.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yellowjackets | — | — | Related artists. |
+| 1972–1976 | L.A. Express (Tom Scott) | [Wikipedia][la-express-wiki] | — | National exposure; session and touring work. |
+| 1977–1983 | Yellowjackets | [Wikipedia][yellowjackets-wiki] | — | Co-founder; Yellowjackets (1981) and Mirage à Trois (1983). |
+| 1984 | Miles Davis | [Wikipedia][miles-davis-wiki] | — | Appeared on Decoy (1984). |
+| 1988–present | Robben Ford solo | [Wikipedia][robben-ford-wiki] | — | Talk to Your Daughter onward; Blue Line, Handful of Blues, Tiger Walk, etc. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | — |
+| Guitar | 1959 Gibson ES-335 (primary) |
+| Amplification | Dumble amp (primary) |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Revelation](https://open.spotify.com/search/Revelation%20Robben%20Ford%20Yellowjackets%20blues-fusion) | Focus on phrasing, tone, bends, and how Robben Ford shapes the melodic argument. |
-| [Matinee Idol](https://open.spotify.com/search/Matinee%20Idol%20Robben%20Ford%20Yellowjackets%20blues-fusion) | Listen for how the rhythm guitar lays into the groove. |
-| [Downtown](https://open.spotify.com/search/Downtown%20Robben%20Ford%20Yellowjackets%20blues-fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [The Spin](https://open.spotify.com/search/The%20Spin%20Robben%20Ford%20Yellowjackets%20blues-fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Imperial Strut](https://open.spotify.com/search/Imperial%20Strut%20Robben%20Ford%20Yellowjackets%20blues-fusion) | Listen for how the guitar fits the band. |
-| [Claire's Closet](https://open.spotify.com/search/Claire%27s%20Closet%20Robben%20Ford%20Yellowjackets%20blues-fusion) | Focus on phrasing, tone, bends, and how Robben Ford shapes the melodic argument. |
-| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Robben%20Ford%20Yellowjackets%20blues-fusion) | Listen for how the rhythm guitar lays into the groove. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Robben%20Ford%20Yellowjackets%20blues-fusion) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Robben%20Ford%20Yellowjackets%20blues-fusion) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Robben%20Ford%20Yellowjackets%20blues-fusion) | Listen for how the guitar fits the band. |
+| [Matinée Idol](https://open.spotify.com/search/Matin%C3%A9e%20Idol%20Yellowjackets%201981) | Ford's blues-jazz guitar voice in its early fusion setting — listen for how his phrasing contrasts with Ferrante's keyboard harmony. |
+| [Caravan](https://open.spotify.com/search/Caravan%20Yellowjackets%201981) | Track how he re-voices a jazz standard inside a fusion arrangement, using chord melody ideas to frame the head. |
+| [Alcazar](https://open.spotify.com/search/Alcazar%20Yellowjackets%20Mirage%20a%20Trois) | His final Yellowjackets album; listen for the blues inflections he brings to the fusion compositional framework. |
+| [Talk to Your Daughter](https://open.spotify.com/search/Talk%20to%20Your%20Daughter%20Robben%20Ford%201988) | The solo career centerpiece — study his phrasing, tone, and how he builds a blues argument from sparse beginnings. |
+| [Chinatown](https://open.spotify.com/search/Chinatown%20Robben%20Ford%20Handful%20of%20Blues) | Focus on slow-blues economy: vocal bends, vibrato control, and the Dumble tone at its most expressive. |
+| [Help the Poor](https://open.spotify.com/search/Help%20the%20Poor%20Robben%20Ford%20Handful%20of%20Blues) | Track his tone control — how he darkens and brightens within a single solo without changing pickup or setting. |
+| [Rugged Road](https://open.spotify.com/search/Rugged%20Road%20Robben%20Ford%20Mystic%20Mile) | Listen for the jazz-inflected chord melody idea he introduces at the top of the form on this Mystic Mile track. |
+| [Start It Up](https://open.spotify.com/search/Start%20It%20Up%20Robben%20Ford%20Blue%20Line) | Focus on his funk-influenced rhythm work and the seamless transition between comping and soloing. |
+| [Cannonball Shuffle](https://open.spotify.com/search/Cannonball%20Shuffle%20Robben%20Ford%20Tiger%20Walk) | Study the shuffle feel and note placement — he sits back slightly without losing rhythmic drive. |
+| [Indianola](https://open.spotify.com/search/Indianola%20Robben%20Ford%20Keep%20on%20Running) | Listen for his melodic development over a minor blues — each phrase answers the one before it. |
 
 ## Will Kennedy
 
-Will Kennedy is a drummer whose playing helps shape this music. Listen for how the drum part affects jazz fusion / blues fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Yellowjackets.
+Will Kennedy joined the Yellowjackets in 1988, replacing Ricky Lawson, and has been the band's drummer ever since. He is the rhythmic engine behind the group's most acclaimed period, spanning Politics (1988) through Mint Jam (2002) and beyond. His style blends fusion precision with funk pocket, and he manages dynamic range across extended ensemble pieces with a discipline that keeps complex arrangements from feeling mechanical.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yellowjackets | — | — | Related artists. |
+| 1988–present | Yellowjackets | [Wikipedia][yellowjackets-wiki] | — | Politics (1988) onward; all subsequent studio and live albums. |
 
 ### Known Gear
 
@@ -101,86 +102,87 @@ Will Kennedy is a drummer whose playing helps shape this music. Listen for how t
 
 | Song | Why Listen |
 |---|---|
-| [Greenhouse](https://open.spotify.com/search/Greenhouse%20Will%20Kennedy%20Yellowjackets%20blues-fusion) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Freedomland](https://open.spotify.com/search/Freedomland%20Will%20Kennedy%20Yellowjackets%20blues-fusion) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Geraldine](https://open.spotify.com/search/Geraldine%20Will%20Kennedy%20Yellowjackets%20blues-fusion) | Use this for groove architecture rather than just surface-level chops. |
-| [Runferyerlife](https://open.spotify.com/search/Runferyerlife%20Will%20Kennedy%20Yellowjackets%20blues-fusion) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Revelation](https://open.spotify.com/search/Revelation%20Will%20Kennedy%20Yellowjackets%20blues-fusion) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Matinee Idol](https://open.spotify.com/search/Matinee%20Idol%20Will%20Kennedy%20Yellowjackets%20blues-fusion) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Seven Days](https://open.spotify.com/search/Seven%20Days%20Will%20Kennedy%20Yellowjackets%20blues-fusion) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [50 Ways to Leave Your Lover](https://open.spotify.com/search/50%20Ways%20to%20Leave%20Your%20Lover%20Will%20Kennedy%20Yellowjackets%20blues-fusion) | Use this for groove architecture rather than just surface-level chops. |
-| [Sing Sing Sing](https://open.spotify.com/search/Sing%20Sing%20Sing%20Will%20Kennedy%20Yellowjackets%20blues-fusion) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Take Five](https://open.spotify.com/search/Take%20Five%20Will%20Kennedy%20Yellowjackets%20blues-fusion) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Politics](https://open.spotify.com/search/Politics%20Yellowjackets%201988) | His first album with the band — listen for how he establishes his identity immediately, blending funk and fusion. |
+| [The Spin](https://open.spotify.com/search/The%20Spin%20Yellowjackets%201989) | Track his hi-hat work and how it creates forward momentum inside a shifting ensemble arrangement. |
+| [Greenhouse](https://open.spotify.com/search/Greenhouse%20Yellowjackets%201991) | Listen for the interplay between his bass drum pattern and Haslip's fretless lines — they lock without mirroring. |
+| [Like a River](https://open.spotify.com/search/Like%20a%20River%20Yellowjackets%201992) | Focus on how he adjusts density and dynamics as the arrangement breathes through composed and improvised sections. |
+| [Run for Your Life](https://open.spotify.com/search/Run%20for%20Your%20Life%20Yellowjackets%201994) | Track his driving up-tempo work here — groove-forward and percussive without sacrificing musicality. |
+| [Club Nocturne](https://open.spotify.com/search/Club%20Nocturne%20Yellowjackets%201997) | Listen for his ability to frame Mintzer's sax and Ferrante's keys simultaneously — the drums as arrangement tool. |
+| [Mint Jam](https://open.spotify.com/search/Mint%20Jam%20Yellowjackets%202002) | Focus on his live performance energy and how he raises and drops the intensity of the ensemble across a long set. |
+| [Freedomland](https://open.spotify.com/search/Freedomland%20Yellowjackets) | Track the transitions: fills, pushes, section setups, and how he announces formal changes without being obvious. |
+| [Geraldine](https://open.spotify.com/search/Geraldine%20Yellowjackets) | Listen for dynamic control and how he changes density without losing pulse on a groove-based track. |
+| [Runferyerlife](https://open.spotify.com/search/Runferyerlife%20Yellowjackets) | Focus on time feel and subdivision — he handles rhythmic complexity without making it feel effortful. |
 
 ## Russell Ferrante
 
-Russell Ferrante is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects jazz fusion / blues fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Yellowjackets.
+Russell Ferrante (b. 1952) is a founding Yellowjackets member and has been the band's primary composer and keyboard voice across every album from 1981 to the present. His playing draws on jazz piano tradition, synthesizer orchestration, and Fender Rhodes warmth. After Ford's departure in 1983, Ferrante became the band's central musical voice, composing most of the material and directing the harmonic language of the group.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yellowjackets | — | — | Related artists. |
+| 1981–present | Yellowjackets | [Wikipedia][yellowjackets-wiki] | — | Founding member and primary composer; all studio albums. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | — |
+| Keyboards | Yamaha grand piano, Fender Rhodes, synthesizers |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Geraldine](https://open.spotify.com/search/Geraldine%20Russell%20Ferrante%20Yellowjackets%20blues-fusion) | Listen for how the keys support and color the arrangement. |
-| [Runferyerlife](https://open.spotify.com/search/Runferyerlife%20Russell%20Ferrante%20Yellowjackets%20blues-fusion) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [Revelation](https://open.spotify.com/search/Revelation%20Russell%20Ferrante%20Yellowjackets%20blues-fusion) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [Matinee Idol](https://open.spotify.com/search/Matinee%20Idol%20Russell%20Ferrante%20Yellowjackets%20blues-fusion) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [Downtown](https://open.spotify.com/search/Downtown%20Russell%20Ferrante%20Yellowjackets%20blues-fusion) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [The Spin](https://open.spotify.com/search/The%20Spin%20Russell%20Ferrante%20Yellowjackets%20blues-fusion) | Listen for how the keys support and color the arrangement. |
-| [Karn Evil 9](https://open.spotify.com/search/Karn%20Evil%209%20Russell%20Ferrante%20Yellowjackets%20blues-fusion) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [Spain](https://open.spotify.com/search/Spain%20Russell%20Ferrante%20Yellowjackets%20blues-fusion) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [Birdland](https://open.spotify.com/search/Birdland%20Russell%20Ferrante%20Yellowjackets%20blues-fusion) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [Chameleon](https://open.spotify.com/search/Chameleon%20Russell%20Ferrante%20Yellowjackets%20blues-fusion) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Matinée Idol](https://open.spotify.com/search/Matin%C3%A9e%20Idol%20Yellowjackets%201981) | Listen for his Rhodes voicings on the debut — warm, open, and harmonically rich from the very start. |
+| [Caravan](https://open.spotify.com/search/Caravan%20Yellowjackets%201981) | Focus on how he re-harmonizes the standard's changes from the keyboard chair, guiding the ensemble through the form. |
+| [Alcazar](https://open.spotify.com/search/Alcazar%20Yellowjackets%20Mirage%20a%20Trois) | Track his compositional voice on Mirage à Trois — the harmonic framework is more ambitious than the debut. |
+| [The Spin](https://open.spotify.com/search/The%20Spin%20Yellowjackets%201989) | Listen for how his voicings create space for the ensemble rather than filling every frequency. |
+| [Greenhouse](https://open.spotify.com/search/Greenhouse%20Yellowjackets%201991) | Focus on the synthesizer orchestration and how it blends with Haslip's fretless bass in the title track. |
+| [Like a River](https://open.spotify.com/search/Like%20a%20River%20Yellowjackets%201992) | Track his piano tone and the way his left-hand comping supports the groove while his right hand adds harmonic color. |
+| [Run for Your Life](https://open.spotify.com/search/Run%20for%20Your%20Life%20Yellowjackets%201994) | Listen for how his keyboard part alternates between rhythmic and atmospheric roles as the arrangement demands. |
+| [Club Nocturne](https://open.spotify.com/search/Club%20Nocturne%20Yellowjackets%201997) | Focus on his voicings against Mintzer's sax — he leaves space above and below the horn without losing harmonic identity. |
+| [Mint Jam](https://open.spotify.com/search/Mint%20Jam%20Yellowjackets%202002) | Track how he adjusts his keyboard role in a live context — more percussive and responsive than on studio recordings. |
+| [Four Corners](https://open.spotify.com/search/Four%20Corners%20Yellowjackets%201987) | Listen for harmonic color and inversions — extensions and movement under the melody that define his compositional style. |
 
 ## Bob Mintzer
 
-Bob Mintzer is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects jazz fusion / blues fusion: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Yellowjackets.
+Bob Mintzer (b. 1953) joined the Yellowjackets as their tenor saxophonist in 1990, appearing from Greenhouse (1991) onward. He also leads the Bob Mintzer Big Band, with recordings including Departure (1992), One Music (2001), and Old School / New Lessons (2007). His saxophone voice — informed by bebop, post-bop, and big band writing — deepened the Yellowjackets' harmonic palette and gave the group a new melodic lead voice to write around.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Yellowjackets blues-fusion | [Wikipedia][yellowjackets-blues-fusion-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Yellowjackets | — | — | Related artists. |
+| 1990–present | Yellowjackets | [Wikipedia][yellowjackets-wiki] | — | Greenhouse (1991) onward; all subsequent albums. |
+| Ongoing | Bob Mintzer Big Band | [Wikipedia][bob-mintzer-wiki] | — | Departure (1992), One Music (2001), Old School / New Lessons (2007). |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | — |
+| Saxophone | Selmer tenor saxophone |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Downtown](https://open.spotify.com/search/Downtown%20Bob%20Mintzer%20Yellowjackets%20blues-fusion) | Track how the saxophone line changes the ensemble from groove to conversation. |
-| [The Spin](https://open.spotify.com/search/The%20Spin%20Bob%20Mintzer%20Yellowjackets%20blues-fusion) | Use this for tone, attack, and phrase endings inside the idiom. |
-| [Imperial Strut](https://open.spotify.com/search/Imperial%20Strut%20Bob%20Mintzer%20Yellowjackets%20blues-fusion) | Listen for melodic contrast against bass and guitar figures. |
-| [Claire's Closet](https://open.spotify.com/search/Claire%27s%20Closet%20Bob%20Mintzer%20Yellowjackets%20blues-fusion) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
-| [Greenhouse](https://open.spotify.com/search/Greenhouse%20Bob%20Mintzer%20Yellowjackets%20blues-fusion) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
-| [Freedomland](https://open.spotify.com/search/Freedomland%20Bob%20Mintzer%20Yellowjackets%20blues-fusion) | Track how the saxophone line changes the ensemble from groove to conversation. |
-| [Giant Steps](https://open.spotify.com/search/Giant%20Steps%20Bob%20Mintzer%20Yellowjackets%20blues-fusion) | Use this for tone, attack, and phrase endings inside the idiom. |
-| [A Love Supreme, Pt. I: Acknowledgement](https://open.spotify.com/search/A%20Love%20Supreme%2C%20Pt.%20I%3A%20Acknowledgement%20Bob%20Mintzer%20Yellowjackets%20blues-fusion) | Listen for melodic contrast against bass and guitar figures. |
-| [So What](https://open.spotify.com/search/So%20What%20Bob%20Mintzer%20Yellowjackets%20blues-fusion) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
-| [Impressions](https://open.spotify.com/search/Impressions%20Bob%20Mintzer%20Yellowjackets%20blues-fusion) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
+| [Greenhouse](https://open.spotify.com/search/Greenhouse%20Yellowjackets%201991) | His debut with the band — listen for how his tenor integrates immediately into the ensemble's harmonic language. |
+| [Like a River](https://open.spotify.com/search/Like%20a%20River%20Yellowjackets%201992) | Focus on his tone and phrase shape — full and warm in the middle register, with long arcs that float above the groove. |
+| [Run for Your Life](https://open.spotify.com/search/Run%20for%20Your%20Life%20Yellowjackets%201994) | Track how he navigates the up-tempo form: his note choice is bebop-informed but his phrasing remains blues-inflected. |
+| [Club Nocturne](https://open.spotify.com/search/Club%20Nocturne%20Yellowjackets%201997) | Listen for his interplay with Ferrante's keyboards — two melodic voices responding to each other across the arrangement. |
+| [Mint Jam](https://open.spotify.com/search/Mint%20Jam%20Yellowjackets%202002) | Focus on his live improvisation and how his solos develop across extended sections without losing motivic coherence. |
+| [Departure](https://open.spotify.com/search/Departure%20Bob%20Mintzer%20Big%20Band%201992) | Track the difference between his ensemble and solo voice — how he writes for big band and then solos within it. |
+| [One Music](https://open.spotify.com/search/One%20Music%20Bob%20Mintzer%20Big%20Band%202001) | Listen for his compositional approach to big band writing — dense textures and open solo space alternating throughout. |
+| [Old School / New Lessons](https://open.spotify.com/search/Old%20School%20New%20Lessons%20Bob%20Mintzer%20Big%20Band%202007) | Focus on tone control and articulation — the clarity of each note is a product of precise breath support and reed voicing. |
+| [Freedomland](https://open.spotify.com/search/Freedomland%20Yellowjackets) | Listen for blues language in a fusion context — enclosures, chromaticism, and motivic development over the groove. |
+| [Geraldine](https://open.spotify.com/search/Geraldine%20Yellowjackets) | Track how he uses space within phrases — what he doesn't play defines the shape of his lines as much as what he does. |
 
 ## References
 
 [jimmy-haslip-wiki]: https://en.wikipedia.org/wiki/Jimmy_Haslip
 [robben-ford-wiki]: https://en.wikipedia.org/wiki/Robben_Ford
-[will-kennedy-wiki]: https://en.wikipedia.org/wiki/Will_Kennedy
+[will-kennedy-wiki]: https://en.wikipedia.org/wiki/Will_Kennedy_(musician)
 [russell-ferrante-wiki]: https://en.wikipedia.org/wiki/Russell_Ferrante
 [bob-mintzer-wiki]: https://en.wikipedia.org/wiki/Bob_Mintzer
-[yellowjackets-blues-fusion-wiki]: https://en.wikipedia.org/wiki/Yellowjackets_blues-fusion
+[yellowjackets-wiki]: https://en.wikipedia.org/wiki/Yellowjackets_(band)
+[la-express-wiki]: https://en.wikipedia.org/wiki/L.A._Express
+[miles-davis-wiki]: https://en.wikipedia.org/wiki/Miles_Davis
