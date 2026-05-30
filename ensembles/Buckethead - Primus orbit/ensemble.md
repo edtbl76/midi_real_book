@@ -2,7 +2,7 @@
 
 ## Context
 
-This music is centered on Buckethead / Primus orbit: avant-garde / punk-funk. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Primus.
+This ensemble clusters around the avant-garde punk-funk world that Primus built in the early 1990s, with Buckethead as a recurring collaborator and Bernie Worrell and Skerik representing the P-Funk/jazz-noise end of the same scene. Les Claypool's idiosyncratic bass runs the ensemble; Larry LaLonde adds dissonant noise-guitar counterpoint; Tim Alexander's drumming is precise and heavy. Buckethead joined Primus briefly as a touring guitarist in 1994–1995. Worrell and Skerik expand the harmonic and textural palette toward funk and free jazz.
 
 ## Players
 
@@ -19,110 +19,118 @@ This music is centered on Buckethead / Primus orbit: avant-garde / punk-funk. Li
 
 ## Les Claypool
 
-Les Claypool is a bassist associated with rock, alternative, avant-garde, funk. Musically, the important traits here are idiosyncratic slap/tap/chordal technique and rhythmic independence. In this ensemble: avant-garde / punk-funk. Related listening: Primus.
+Les Claypool (b. 1963) is the bassist, vocalist, and primary composer of Primus. His playing combines slap, tap, chord-melody, and rhythmic independence in a style so personal that it functions as a lead instrument even when he is playing a bass role. He is also the central visual and lyrical personality of the band, known for absurdist storytelling. Outside Primus he leads Oysterhead (with Trey Anastasio and Stewart Copeland) and Les Claypool's Fearless Flying Frog Brigade.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Related artists. |
+| 1984–present | Primus | [Wikipedia][les-claypool-wiki] | — | *Frizzle Fry* (1990), *Sailing the Seas of Cheese* (1991), *Pork Soda* (1993), *Tales from the Punchbowl* (1995) |
+| 2000–2001 | Oysterhead | — | — | *The Grand Pecking Order* (2001) with Trey Anastasio and Stewart Copeland |
+| 2001–2006 | Frog Brigade | — | — | Jam/improv side project |
+| 2016 | Primus & the Chocolate Factory | — | — | *Primus & the Chocolate Factory* (2014) |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Bass | — |
+| Bass | Carl Thompson custom basses (piccolo and standard scale), Fender basses |
+| Effects | Envelope filters, chorus, distortion for slap tone |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Les%20Claypool%20Buckethead%20/%20Primus%20orbit) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Les%20Claypool%20Buckethead%20/%20Primus%20orbit) | Track the pocket, note length, and how Les Claypool makes the harmony feel grounded. |
-| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Les%20Claypool%20Buckethead%20/%20Primus%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Les%20Claypool%20Buckethead%20/%20Primus%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Les%20Claypool%20Buckethead%20/%20Primus%20orbit) | Listen for how the player shapes and attacks each note. |
-| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Les%20Claypool%20Buckethead%20/%20Primus%20orbit) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Good Times](https://open.spotify.com/search/Good%20Times%20Les%20Claypool%20Buckethead%20/%20Primus%20orbit) | Track the pocket, note length, and how Les Claypool makes the harmony feel grounded. |
-| [Forget Me Nots](https://open.spotify.com/search/Forget%20Me%20Nots%20Les%20Claypool%20Buckethead%20/%20Primus%20orbit) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [I Want You Back](https://open.spotify.com/search/I%20Want%20You%20Back%20Les%20Claypool%20Buckethead%20/%20Primus%20orbit) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [What Is Hip?](https://open.spotify.com/search/What%20Is%20Hip%3F%20Les%20Claypool%20Buckethead%20/%20Primus%20orbit) | Listen for how the player shapes and attacks each note. |
+| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Primus) | Slap technique at the extreme: hear how each ghost note and pop lands in the pocket. |
+| [Jerry Was a Race Car Driver](https://open.spotify.com/search/Jerry%20Was%20a%20Race%20Car%20Driver%20Primus) | Aggressive fingerstyle locking with Tim Alexander; study the tension between groove and chaos. |
+| [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Primus) | Early Primus: the bass line *is* the melody, the chord progression, and the hook. |
+| [My Name Is Mud](https://open.spotify.com/search/My%20Name%20Is%20Mud%20Primus) | Muted, percussive approach; listen for how dead notes and silence define the groove. |
+| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Primus) | Funky Carl Thompson piccolo bass: different register, same absurdist pocket. |
+| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Primus) | Slow burn where Claypool's sustain and note choice carry more weight than speed. |
+| [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Primus) | Bass sits back into the arrangement; study how he supports a more atmospheric sound. |
+| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Primus) | Country-punk feel; hear how he modifies tone and attack for a different genre. |
+| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Primus) | Solo bass opening; this is Claypool as a solo voice before the ensemble enters. |
+| [DMV](https://open.spotify.com/search/DMV%20Primus) | Odd-meter bass riffing; track how the groove lands on unusual subdivisions without losing feel. |
 
 ## Larry LaLonde
 
-Larry LaLonde is a guitarist associated with progressive metal, avant-garde, death metal. Musically, the important traits here are avant-garde rock technique, aggressive dissonance, noise-influenced harmonic vocabulary. In this ensemble: avant-garde / punk-funk. Related listening: Primus.
+Larry LaLonde (b. 1968) is the guitarist of Primus. Before joining, he played in Possessed (early death metal) and was a student of Joe Satriani, giving him technical fluency that he largely suppresses in service of noise, dissonance, and avant-garde texture within Primus. His role is not to solo prominently but to create angular, noise-influenced guitar parts that contrast with Claypool's bass.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Related artists. |
+| 1985–1986 | Possessed | [Wikipedia][larry-lalonde-wiki] | — | *Seven Churches* (1985) — early death metal |
+| 1989–present | Primus | — | — | All major Primus albums |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | — |
+| Guitar | Hamer guitars, various models |
+| Effects | Extensive effects chain for noise and texture; whammy, delays, chorus |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [My Name Is Mud](https://open.spotify.com/search/My%20Name%20Is%20Mud%20Larry%20LaLonde%20Buckethead%20/%20Primus%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [DMV](https://open.spotify.com/search/DMV%20Larry%20LaLonde%20Buckethead%20/%20Primus%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Larry%20LaLonde%20Buckethead%20/%20Primus%20orbit) | Listen for how the guitar fits the band. |
-| [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Larry%20LaLonde%20Buckethead%20/%20Primus%20orbit) | Focus on phrasing, tone, bends, and how Larry LaLonde shapes the melodic argument. |
-| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Larry%20LaLonde%20Buckethead%20/%20Primus%20orbit) | Listen for how the rhythm guitar lays into the groove. |
-| [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Larry%20LaLonde%20Buckethead%20/%20Primus%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Led Boots](https://open.spotify.com/search/Led%20Boots%20Larry%20LaLonde%20Buckethead%20/%20Primus%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Aja](https://open.spotify.com/search/Aja%20Larry%20LaLonde%20Buckethead%20/%20Primus%20orbit) | Listen for how the guitar fits the band. |
-| [Peg](https://open.spotify.com/search/Peg%20Larry%20LaLonde%20Buckethead%20/%20Primus%20orbit) | Focus on phrasing, tone, bends, and how Larry LaLonde shapes the melodic argument. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Larry%20LaLonde%20Buckethead%20/%20Primus%20orbit) | Listen for how the rhythm guitar lays into the groove. |
+| [My Name Is Mud](https://open.spotify.com/search/My%20Name%20Is%20Mud%20Primus) | LaLonde's guitar is dissonant smear over Claypool's groove; hear how he avoids the obvious. |
+| [DMV](https://open.spotify.com/search/DMV%20Primus) | Angular riff construction in an odd time feel: study how he functions as a noise texture. |
+| [Jerry Was a Race Car Driver](https://open.spotify.com/search/Jerry%20Was%20a%20Race%20Car%20Driver%20Primus) | Guitar nearly disappears into the rhythm section; deliberate anti-solo approach. |
+| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Primus) | Wiry, trebly rhythm guitar reinforcing Claypool without competing with him. |
+| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Primus) | Slow, menacing chord work; listen for how tension is built through static dissonance. |
+| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Primus) | Guitar plays minimal funk-noise stabs; study how he creates color without a melody. |
+| [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Primus) | Early Primus; LaLonde's chromatic noise-rock vocabulary placed against a bass-driven song. |
+| [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Primus) | More open, atmospheric role: hear how he creates space rather than filling it. |
+| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Primus) | Country-parodied tone but still noise-influenced; track how he bends genre without losing character. |
+| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Primus) | Minimal guitar presence; study absence as a tool — LaLonde knows when not to play. |
 
 ## Buckethead
 
-Buckethead is a guitarist associated with metal, funk, experimental, progressive rock. Musically, the important traits here are extraordinary technical range, ultra-high-speed alternate picking, nunchuk-tap vocabulary, genre-spanning command. In this ensemble: avant-garde / punk-funk. Related listening: Primus.
+Buckethead (b. 1969) joined Primus as a touring guitarist in 1994–1995, and the connection to the Primus world is also stylistic: both share avant-garde, funk, and aggressive technical approaches. He performs in a white KFC bucket and Michael Myers mask. His solo output spans thousands of releases and nearly every genre. His technique includes ultra-high-speed alternate picking, sweep picking, two-handed tapping, and expressive ballad playing.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Related artists. |
+| 1992–present | Solo (Pike series) | [Wikipedia][buckethead-wiki] | — | *Giant Robot* (1994), *Crime Slunk Scene* (2006), hundreds of Pike albums |
+| 1994–1995 | Primus | — | — | Touring guitarist |
+| 2000–2004 | Guns N' Roses | — | — | Featured on *Chinese Democracy* |
+| 2004 | Bucket of Bernie Brains | — | — | Collaboration with Bernie Worrell |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | — |
+| Guitar | Custom Gibson Les Paul (white, modified), custom instruments |
+| Effects | Digitech Whammy pedal, Boss effects |
+| Amps | Marshall and Mesa/Boogie |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Buckethead%20Buckethead%20/%20Primus%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Buckethead%20Buckethead%20/%20Primus%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Buckethead%20Buckethead%20/%20Primus%20orbit) | Listen for how the guitar fits the band. |
-| [Jerry Was a Race Car Driver](https://open.spotify.com/search/Jerry%20Was%20a%20Race%20Car%20Driver%20Buckethead%20Buckethead%20/%20Primus%20orbit) | Focus on phrasing, tone, bends, and how Buckethead shapes the melodic argument. |
-| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Buckethead%20Buckethead%20/%20Primus%20orbit) | Listen for how the rhythm guitar lays into the groove. |
-| [My Name Is Mud](https://open.spotify.com/search/My%20Name%20Is%20Mud%20Buckethead%20Buckethead%20/%20Primus%20orbit) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Buckethead%20Buckethead%20/%20Primus%20orbit) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Buckethead%20Buckethead%20/%20Primus%20orbit) | Listen for how the guitar fits the band. |
-| [For the Love of God](https://open.spotify.com/search/For%20the%20Love%20of%20God%20Buckethead%20Buckethead%20/%20Primus%20orbit) | Focus on phrasing, tone, bends, and how Buckethead shapes the melodic argument. |
-| [Blue Bossa](https://open.spotify.com/search/Blue%20Bossa%20Buckethead%20Buckethead%20/%20Primus%20orbit) | Listen for how the rhythm guitar lays into the groove. |
+| [Soothsayer](https://open.spotify.com/search/Soothsayer%20Buckethead) | Patient melodic build over ten minutes; study how he earns the shred ending through restraint. |
+| [Nottingham Lace](https://open.spotify.com/search/Nottingham%20Lace%20Buckethead) | Funk-metal with Whammy washes; hear how he blends aggression and groove. |
+| [Jordan](https://open.spotify.com/search/Jordan%20Buckethead) | Alternate-picking endurance test; the Guitar Hero II track and a clean speed benchmark. |
+| [Binge and Grab](https://open.spotify.com/search/Binge%20and%20Grab%20Buckethead) | Closest to the Primus aesthetic: heavy groove, noise guitar stabs, and slap-funk interaction. |
+| [Padmasana](https://open.spotify.com/search/Padmasana%20Buckethead) | Ambient fingerstyle from *Electric Tears* (2002); the opposite end of his range from Jordan. |
+| [The Ballad of Buckethead](https://open.spotify.com/search/The%20Ballad%20of%20Buckethead%20Buckethead) | Early-career shred ballad from *Bucketheadland 2* (1994); blues roots in a high-speed frame. |
+| [Worms for the Garden](https://open.spotify.com/search/Worms%20for%20the%20Garden%20Buckethead) | Groove-focused funk-metal from *Pepper's Ghost* (2007); hear how he locks to a groove. |
+| [Big Sur Moon](https://open.spotify.com/search/Big%20Sur%20Moon%20Buckethead) | Clean-tone melodic piece; note choice and space rather than technique. |
+| [Sail on Soothsayer](https://open.spotify.com/search/Sail%20on%20Soothsayer%20Buckethead) | Extended improvisation; study phrase pacing and how he varies intensity over a long form. |
+| [Spokes for the Wheel of Torment](https://open.spotify.com/search/Spokes%20for%20the%20Wheel%20of%20Torment%20Buckethead) | Death-metal extreme; picking mechanics under maximum tempo pressure. |
 
 ## Tim Alexander
 
-Tim Alexander is a drummer whose playing helps shape this music. Listen for how the drum part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Primus.
+Tim Alexander (b. 1965) is the drummer of Primus and one of the key reasons the band can function as a power trio despite a bassist who is constantly doing three things at once. His playing is precise, heavy, and not flashy — he locks the groove so Claypool's bass acrobatics have a floor to stand on. He has also played with Blind Illusion and other Bay Area heavy bands.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Related artists. |
+| 1990–1996 | Primus | [Wikipedia][tim-alexander-wiki] | — | *Sailing the Seas of Cheese* (1991), *Pork Soda* (1993), *Tales from the Punchbowl* (1995) |
+| 2003–present | Primus (returned) | — | — | *Green Naugahyde* (2011), *Primus & the Chocolate Factory* (2014) |
 
 ### Known Gear
 
@@ -134,87 +142,92 @@ Tim Alexander is a drummer whose playing helps shape this music. Listen for how 
 
 | Song | Why Listen |
 |---|---|
-| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Tim%20Alexander%20Buckethead%20/%20Primus%20orbit) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Jerry Was a Race Car Driver](https://open.spotify.com/search/Jerry%20Was%20a%20Race%20Car%20Driver%20Tim%20Alexander%20Buckethead%20/%20Primus%20orbit) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Tim%20Alexander%20Buckethead%20/%20Primus%20orbit) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [My Name Is Mud](https://open.spotify.com/search/My%20Name%20Is%20Mud%20Tim%20Alexander%20Buckethead%20/%20Primus%20orbit) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [DMV](https://open.spotify.com/search/DMV%20Tim%20Alexander%20Buckethead%20/%20Primus%20orbit) | Use this for groove architecture rather than just surface-level chops. |
-| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Tim%20Alexander%20Buckethead%20/%20Primus%20orbit) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Sing Sing Sing](https://open.spotify.com/search/Sing%20Sing%20Sing%20Tim%20Alexander%20Buckethead%20/%20Primus%20orbit) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [Take Five](https://open.spotify.com/search/Take%20Five%20Tim%20Alexander%20Buckethead%20/%20Primus%20orbit) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Good Times Bad Times](https://open.spotify.com/search/Good%20Times%20Bad%20Times%20Tim%20Alexander%20Buckethead%20/%20Primus%20orbit) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Hot for Teacher](https://open.spotify.com/search/Hot%20for%20Teacher%20Tim%20Alexander%20Buckethead%20/%20Primus%20orbit) | Use this for groove architecture rather than just surface-level chops. |
+| [Jerry Was a Race Car Driver](https://open.spotify.com/search/Jerry%20Was%20a%20Race%20Car%20Driver%20Primus) | Aggressive unison kick-and-bass locking; hear how the drum part amplifies Claypool's riff. |
+| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Primus) | Steady hi-hat foundation beneath explosive Claypool slap; the floor that makes the ceiling possible. |
+| [My Name Is Mud](https://open.spotify.com/search/My%20Name%20Is%20Mud%20Primus) | Heavy half-time feel with precise snare placement; listen for how he sets up each lyric section. |
+| [DMV](https://open.spotify.com/search/DMV%20Primus) | Odd-meter groove at a slow tempo; harder than it sounds to keep the pulse without rushing. |
+| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Primus) | Funky hi-hat pattern shifts under a driving bass; track how cymbal choice changes the feel. |
+| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Primus) | Slow, menacing groove; listen for how restraint and space create tension better than fills. |
+| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Primus) | Enters after Claypool's solo intro; study how he sets tempo and feel from a cold start. |
+| [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Primus) | Early Primus pocket with more swing influence; Tim's feel is looser here than later. |
+| [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Primus) | Brushes and lighter touch in an atmospheric track; study dynamic adaptation. |
+| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Primus) | Country-punk shuffle feel; Tim shifting from heavy to light without losing authority. |
 
 ## Bernie Worrell
 
-Bernie Worrell is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Primus.
+Bernie Worrell (1944–2016) was the founding keyboardist of Parliament-Funkadelic and one of the architects of P-Funk's sound. He introduced the Minimoog bass synth to funk, creating sounds that redefined what keyboards could do in a groove context. Late in his career he collaborated with Buckethead on the "Bucket of Bernie Brains" project (2004), which connects him to this orbit. He was equally at home in funk, avant-garde, and rock contexts.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Related artists. |
+| 1968–1980 | Parliament-Funkadelic | [Wikipedia][bernie-worrell-wiki] | — | Core architect of P-Funk sound; Minimoog bass lines on *Mothership Connection* (1975), *One Nation Under a Groove* (1978) |
+| 1981–present | Talking Heads | — | — | Live and studio keyboards |
+| 1986–present | Solo and collaboration | — | — | Multiple solo albums; session work across rock, jazz, and avant-garde |
+| 2004 | Bucket of Bernie Brains | — | — | Collaboration with Buckethead |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | — |
+| Keyboards | Minimoog (his signature P-Funk bass synth sound), Hammond B3, Fender Rhodes |
+| Synths | ARP Odyssey, various vintage polysynths |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [DMV](https://open.spotify.com/search/DMV%20Bernie%20Worrell%20Buckethead%20/%20Primus%20orbit) | Listen for how the keys support and color the arrangement. |
-| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Bernie%20Worrell%20Buckethead%20/%20Primus%20orbit) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Bernie%20Worrell%20Buckethead%20/%20Primus%20orbit) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Bernie%20Worrell%20Buckethead%20/%20Primus%20orbit) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Bernie%20Worrell%20Buckethead%20/%20Primus%20orbit) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Bernie%20Worrell%20Buckethead%20/%20Primus%20orbit) | Listen for how the keys support and color the arrangement. |
-| [Got a Match?](https://open.spotify.com/search/Got%20a%20Match%3F%20Bernie%20Worrell%20Buckethead%20/%20Primus%20orbit) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [Tutu](https://open.spotify.com/search/Tutu%20Bernie%20Worrell%20Buckethead%20/%20Primus%20orbit) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [Africa](https://open.spotify.com/search/Africa%20Bernie%20Worrell%20Buckethead%20/%20Primus%20orbit) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [Baba O'Riley](https://open.spotify.com/search/Baba%20O%27Riley%20Bernie%20Worrell%20Buckethead%20/%20Primus%20orbit) | Track how the keys share space with guitar and bass without blurring the groove. |
+| [Flash Light](https://open.spotify.com/search/Flash%20Light%20Parliament) | The Minimoog bass line that defined P-Funk's approach to low-end; keyboards replacing the bass guitar. |
+| [Mothership Connection (Star Child)](https://open.spotify.com/search/Mothership%20Connection%20Parliament) | Worrell's synth pads and piano punctuation underneath George Clinton's call-and-response. |
+| [Give Up the Funk](https://open.spotify.com/search/Give%20Up%20the%20Funk%20Parliament) | Keyboard stabs and counter-melodies inside a full ensemble; hear how he avoids crowding. |
+| [One Nation Under a Groove](https://open.spotify.com/search/One%20Nation%20Under%20a%20Groove%20Funkadelic) | Tight keyboard rhythm comping over a moving groove; study his chord placement and voicing density. |
+| [Cosmic Slop](https://open.spotify.com/search/Cosmic%20Slop%20Funkadelic) | Organ-driven psychedelic funk; B3 tone and registration against a heavy rhythm section. |
+| [P-Funk (Wants to Get Funked Up)](https://open.spotify.com/search/P-Funk%20Wants%20to%20Get%20Funked%20Up%20Parliament) | Worrell's synth colors the arrangement continuously; study his role as textural glue. |
+| [Maggot Brain](https://open.spotify.com/search/Maggot%20Brain%20Funkadelic) | Minimalist organ wash behind Eddie Hazel's guitar; restraint as a keyboard approach. |
+| [Up for the Down Stroke](https://open.spotify.com/search/Up%20for%20the%20Down%20Stroke%20Parliament) | Early Parliament; piano and clavinet work before the full Minimoog era. |
+| [Aqua Boogie](https://open.spotify.com/search/Aqua%20Boogie%20Parliament) | Bass synth anchoring a complex funk arrangement; the Minimoog as the rhythmic and harmonic foundation. |
+| [Standing on the Verge of Getting It On](https://open.spotify.com/search/Standing%20on%20the%20Verge%20Funkadelic) | Heavy organ-rock Funkadelic context; Worrell bridges rock and soul in the same voicings. |
 
 ## Skerik
 
-Skerik is a saxophonist whose playing helps shape this music. Listen for how the saxophone part affects avant-garde / punk-funk: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Primus.
+Skerik (b. 1967, Seattle) is a tenor saxophonist associated with the avant-garde jazz, noise, and jam scenes. He has played with Les Claypool (Frog Brigade, various projects), Critters Buggin, Garage a Trois, and numerous improvised-music ensembles. His sound ranges from bebop-literate to free noise, and he functions as a disruptive soloist capable of turning a groove into a free-jazz event.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | Buckethead / Primus orbit | [Wikipedia][buckethead-primus-orbit-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Primus | — | — | Related artists. |
+| 1990s–present | Critters Buggin | [Wikipedia][skerik-wiki] | — | Noise/improv collective |
+| 2001–2006 | Les Claypool's Frog Brigade | — | — | *Live Frogs* sets and tours |
+| 2000s–present | Garage a Trois | — | — | Trio with Marco Benevento and Mike Dillon |
+| Various | Session and live | — | — | Work with Medeski Martin & Wood, Stanton Moore, and others |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Saxophone | — |
+| Saxophone | Tenor saxophone (primary); some alto |
+| Effects | Occasional effects processing for noise texture |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Those Damned Blue-Collar Tweekers](https://open.spotify.com/search/Those%20Damned%20Blue-Collar%20Tweekers%20Skerik%20Buckethead%20/%20Primus%20orbit) | Listen for melodic contrast against bass and guitar figures. |
-| [John the Fisherman](https://open.spotify.com/search/John%20the%20Fisherman%20Skerik%20Buckethead%20/%20Primus%20orbit) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
-| [Harold of the Rocks](https://open.spotify.com/search/Harold%20of%20the%20Rocks%20Skerik%20Buckethead%20/%20Primus%20orbit) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
-| [Southbound Pachyderm](https://open.spotify.com/search/Southbound%20Pachyderm%20Skerik%20Buckethead%20/%20Primus%20orbit) | Track how the saxophone line changes the ensemble from groove to conversation. |
-| [Wynona's Big Brown Beaver](https://open.spotify.com/search/Wynona%27s%20Big%20Brown%20Beaver%20Skerik%20Buckethead%20/%20Primus%20orbit) | Use this for tone, attack, and phrase endings inside the idiom. |
-| [Mr. Krinkle](https://open.spotify.com/search/Mr.%20Krinkle%20Skerik%20Buckethead%20/%20Primus%20orbit) | Listen for melodic contrast against bass and guitar figures. |
-| [Mr. P.C.](https://open.spotify.com/search/Mr.%20P.C.%20Skerik%20Buckethead%20/%20Primus%20orbit) | Focus on phrasing, breath shape, articulation, and how the horn answers the rhythm section. |
-| [The Chicken](https://open.spotify.com/search/The%20Chicken%20Skerik%20Buckethead%20/%20Primus%20orbit) | Listen for blues language, enclosure, motivic development, and rhythmic placement. |
-| [Pick Up the Pieces](https://open.spotify.com/search/Pick%20Up%20the%20Pieces%20Skerik%20Buckethead%20/%20Primus%20orbit) | Track how the saxophone line changes the ensemble from groove to conversation. |
-| [Mercy, Mercy, Mercy](https://open.spotify.com/search/Mercy%2C%20Mercy%2C%20Mercy%20Skerik%20Buckethead%20/%20Primus%20orbit) | Use this for tone, attack, and phrase endings inside the idiom. |
+| [David Makalaster](https://open.spotify.com/search/David%20Makalaster%20Les%20Claypool%20Frog%20Brigade) | Skerik in Frog Brigade context: hear how a free-jazz tenor voice fits a Claypool groove. |
+| [Soulful Strut](https://open.spotify.com/search/Soulful%20Strut%20Skerik) | Soul/funk phrasing; listen for how he stays inside the idiom while adding improvised edges. |
+| [Attack of the Porcupine](https://open.spotify.com/search/Attack%20of%20the%20Porcupine%20Critters%20Buggin) | Critters Buggin noise-jazz; maximum freedom, study how phrases are shaped without a chord map. |
+| [Moon Song](https://open.spotify.com/search/Moon%20Song%20Skerik) | Melodic ballad approach; listen for breath control and sustain in a slower context. |
+| [Frog Brigade Live Vol. 1](https://open.spotify.com/search/Skerik%20Frog%20Brigade%20Live) | Extended live improvisation with Claypool; study interaction between bass and horn over long form. |
+| [Yo Soy tu Maestro](https://open.spotify.com/search/Yo%20Soy%20tu%20Maestro%20Garage%20a%20Trois) | Garage a Trois: three-way conversation, minimal chords, maximum texture. |
+| [Twistin' My Sobriety](https://open.spotify.com/search/Twistin%20My%20Sobriety%20Skerik) | Blues-funk vocabulary inside a modern noise context; enclosure and motivic development. |
+| [Up on Cripple Creek](https://open.spotify.com/search/Up%20on%20Cripple%20Creek%20Les%20Claypool%20Frog%20Brigade) | Classic song recontextualized; hear how Skerik plays against a familiar melody. |
+| [Tidal](https://open.spotify.com/search/Tidal%20Critters%20Buggin) | Free improvisation; track how tension and release are managed without chord changes. |
+| [Little Faces](https://open.spotify.com/search/Little%20Faces%20Skerik%20Garage%20a%20Trois) | Garage a Trois; soprano/tenor articulation against percussion and keys with no bass guitar. |
 
 ## References
 
 [les-claypool-wiki]: https://en.wikipedia.org/wiki/Les_Claypool
 [larry-lalonde-wiki]: https://en.wikipedia.org/wiki/Larry_LaLonde
 [buckethead-wiki]: https://en.wikipedia.org/wiki/Buckethead
-[tim-alexander-wiki]: https://en.wikipedia.org/wiki/Tim_Alexander
+[tim-alexander-wiki]: https://en.wikipedia.org/wiki/Tim_Alexander_(drummer)
 [bernie-worrell-wiki]: https://en.wikipedia.org/wiki/Bernie_Worrell
 [skerik-wiki]: https://en.wikipedia.org/wiki/Skerik
-[buckethead-primus-orbit-wiki]: https://en.wikipedia.org/wiki/Buckethead_/_Primus_orbit

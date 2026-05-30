@@ -2,7 +2,7 @@
 
 ## Context
 
-This music is centered on blues-rock shred: Texas blues rock. Listen for how the rhythm section, guitar, and harmony work together. Related listening: Stevie Ray Vaughan / Arc Angels.
+This ensemble centers on the Texas blues-rock tradition and the Austin guitar scene of the 1980s and 1990s. Stevie Ray Vaughan anchors the ensemble as the primary blues voice — his combination of extreme-gauge strings, Hendrix influence, and physical intensity defined a generation of blues-rock. Eric Johnson represents the adjacent Austin scene with a more fusion- and tone-conscious approach, while Blues Saraceno brings a Shrapnel Records shred background to the same Texas stylistic territory. Chris Layton and Reese Wynans were Vaughan's own rhythm section in Double Trouble, and Kyle Brock was part of the Arc Angels band that carried forward the Double Trouble tradition after Vaughan's death.
 
 ## Players
 
@@ -19,14 +19,14 @@ This music is centered on blues-rock shred: Texas blues rock. Listen for how the
 
 ## Kyle Brock
 
-Kyle Brock is a bassist associated with blues-rock, Texas blues, fusion. Musically, the important traits here are Texas blues-rock/fusion support and clean trio pocket. In this ensemble: Texas blues rock. Related listening: Stevie Ray Vaughan / Arc Angels.
+Kyle Brock is a bassist associated with blues-rock. He was one of the founding members of the Arc Angels — the Austin supergroup formed after Stevie Ray Vaughan's death in 1990, featuring Doyle Bramhall II and Charlie Sexton — and recorded the band's self-titled debut album in 1992. His groove-forward approach serves the blues-rock idiom directly.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | blues-rock shred | [Wikipedia][blues-rock-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related artists. |
+| 1992–1994 | Arc Angels | [Wikipedia][arc-angels-wiki] | — | Founding bassist on the self-titled debut. |
+| Various | Austin session / live work | — | — | Part of the broader Austin blues-rock community. |
 
 ### Known Gear
 
@@ -38,123 +38,132 @@ Kyle Brock is a bassist associated with blues-rock, Texas blues, fusion. Musical
 
 | Song | Why Listen |
 |---|---|
-| [Remember When](https://open.spotify.com/search/Remember%20When%20Kyle%20Brock%20blues-rock%20shred) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Full Tank](https://open.spotify.com/search/Full%20Tank%20Kyle%20Brock%20blues-rock%20shred) | Listen for how the player shapes and attacks each note. |
-| [Dirty Boy](https://open.spotify.com/search/Dirty%20Boy%20Kyle%20Brock%20blues-rock%20shred) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Kyle%20Brock%20blues-rock%20shred) | Track the pocket, note length, and how Kyle Brock makes the harmony feel grounded. |
-| [Zap](https://open.spotify.com/search/Zap%20Kyle%20Brock%20blues-rock%20shred) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
-| [Trademark](https://open.spotify.com/search/Trademark%20Kyle%20Brock%20blues-rock%20shred) | Listen for how the low end supports the drummer without crowding the arrangement. |
-| [Tommy the Cat](https://open.spotify.com/search/Tommy%20the%20Cat%20Kyle%20Brock%20blues-rock%20shred) | Listen for how the player shapes and attacks each note. |
-| [Higher Ground](https://open.spotify.com/search/Higher%20Ground%20Kyle%20Brock%20blues-rock%20shred) | Listen for fills that answer the vocal or guitar while keeping the groove stable. |
-| [Hair](https://open.spotify.com/search/Hair%20Kyle%20Brock%20blues-rock%20shred) | Track the pocket, note length, and how Kyle Brock makes the harmony feel grounded. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Kyle%20Brock%20blues-rock%20shred) | Focus on the bass movement between chord roots, anticipations, and chorus lift. |
+| [Living in a Dream](https://open.spotify.com/search/Living%20in%20a%20Dream%20Arc%20Angels) | Arc Angels — listen for how the bass sits in the pocket under twin blues guitars without over-filling. |
+| [Sent by Angels](https://open.spotify.com/search/Sent%20by%20Angels%20Arc%20Angels) | Track how Brock's bass movement supports the vocal melody rather than simply doubling the root. |
+| [Painted on the Sky](https://open.spotify.com/search/Painted%20on%20the%20Sky%20Arc%20Angels) | Mid-tempo groove — focus on note length and how the pocket locks with the kick drum. |
+| [Bring It Home](https://open.spotify.com/search/Bring%20It%20Home%20Arc%20Angels) | Slow blues — listen for how bass dynamics change between verse and chorus without leaving the groove. |
+| [Shape I'm In](https://open.spotify.com/search/Shape%20I%27m%20In%20Arc%20Angels) | Up-tempo blues-rock — study bass movement between chord changes in a moving progression. |
+| [Love Is Enough](https://open.spotify.com/search/Love%20Is%20Enough%20Arc%20Angels) | Listen for how the bass creates space for the dual guitar arrangement above it. |
+| [Chains of Saints](https://open.spotify.com/search/Chains%20of%20Saints%20Arc%20Angels) | Track how root-fifth movement gives a simple harmonic framework its bottom-end authority. |
+| [Pray for Tomorrow](https://open.spotify.com/search/Pray%20for%20Tomorrow%20Arc%20Angels) | Hear the bass driving a slow, atmospheric blues track from behind — minimal but essential. |
+| [Very Last Time](https://open.spotify.com/search/Very%20Last%20Time%20Arc%20Angels) | Study bass fills during turnarounds — how much space is used, how much is left open. |
+| [Living in a Dream (Live)](https://open.spotify.com/search/Living%20in%20a%20Dream%20Arc%20Angels%20live) | A live version — listen for how the groove changes feel in a concert setting. |
 
 ## Stevie Ray Vaughan
 
-Stevie Ray Vaughan is a guitarist associated with blues, blues-rock. Musically, the important traits here are Texas blues intensity, hybrid picking/thumb-wraparound technique, string-bending power under extreme tension. In this ensemble: Texas blues rock. Related listening: Stevie Ray Vaughan / Arc Angels.
+Stevie Ray Vaughan is a guitarist associated with Texas blues and blues-rock. He used extremely heavy strings (.013s tuned to Eb) and a physically aggressive thumb-wraparound fretting technique to generate a sound of unusual power and sustain. His 1983 debut *Texas Flood* brought Texas blues back to mainstream attention, and his five studio albums remain defining documents of the genre. He died in a helicopter crash in 1990.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | blues-rock shred | [Wikipedia][blues-rock-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related artists. |
+| 1978–1983 | Various Austin bands; Triple Threat Revue | — | — | Austin development years. |
+| 1982 | David Bowie | [Wikipedia][david-bowie-wiki] | — | Played on *Let's Dance*. |
+| 1983–1990 | Double Trouble | [Wikipedia][double-trouble-wiki] | — | Five studio albums; *Texas Flood* through *In Step*. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | — |
+| Guitar | 1963 Fender Stratocaster ("Number One" — composite of several Strats) |
+| Strings | GHS .013-.058 tuned to Eb |
+| Amplifier | Dumble Overdrive Special; Vibroverb; Super Reverb |
+| Effects | Ibanez TS808 Tube Screamer; Vox wah |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [The River Song](https://open.spotify.com/search/The%20River%20Song%20Stevie%20Ray%20Vaughan%20blues-rock%20shred) | Listen for how the rhythm guitar lays into the groove. |
-| [Remember When](https://open.spotify.com/search/Remember%20When%20Stevie%20Ray%20Vaughan%20blues-rock%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Full Tank](https://open.spotify.com/search/Full%20Tank%20Stevie%20Ray%20Vaughan%20blues-rock%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Dirty Boy](https://open.spotify.com/search/Dirty%20Boy%20Stevie%20Ray%20Vaughan%20blues-rock%20shred) | Listen for how the guitar fits the band. |
-| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Stevie%20Ray%20Vaughan%20blues-rock%20shred) | Focus on phrasing, tone, bends, and how Stevie Ray Vaughan shapes the melodic argument. |
-| [Zap](https://open.spotify.com/search/Zap%20Stevie%20Ray%20Vaughan%20blues-rock%20shred) | Listen for how the rhythm guitar lays into the groove. |
-| [Aja](https://open.spotify.com/search/Aja%20Stevie%20Ray%20Vaughan%20blues-rock%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Peg](https://open.spotify.com/search/Peg%20Stevie%20Ray%20Vaughan%20blues-rock%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Rio Funk](https://open.spotify.com/search/Rio%20Funk%20Stevie%20Ray%20Vaughan%20blues-rock%20shred) | Listen for how the guitar fits the band. |
-| [Actual Proof](https://open.spotify.com/search/Actual%20Proof%20Stevie%20Ray%20Vaughan%20blues-rock%20shred) | Focus on phrasing, tone, bends, and how Stevie Ray Vaughan shapes the melodic argument. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Stevie%20Ray%20Vaughan) | A slow blues at the core of his catalog — focus on vibrato width, string-bending attack, and note sustain. |
+| [Pride and Joy](https://open.spotify.com/search/Pride%20and%20Joy%20Stevie%20Ray%20Vaughan) | Shuffling Chicago-blues groove — listen for how rhythm guitar and lead guitar occupy the same part simultaneously. |
+| [Couldn't Stand the Weather](https://open.spotify.com/search/Couldn%27t%20Stand%20the%20Weather%20Stevie%20Ray%20Vaughan) | Aggressive, high-energy track — study attack intensity and how he sustains energy across a long solo. |
+| [Voodoo Child (Slight Return)](https://open.spotify.com/search/Voodoo%20Child%20Stevie%20Ray%20Vaughan) | Hendrix cover — hear how he transforms the original while maintaining his own vocabulary. |
+| [Lenny](https://open.spotify.com/search/Lenny%20Stevie%20Ray%20Vaughan) | Instrumental ballad — focus on chord-melody playing and how the guitar tells the complete harmonic story alone. |
+| [Riviera Paradise](https://open.spotify.com/search/Riviera%20Paradise%20Stevie%20Ray%20Vaughan) | Long-form jazz-inflected instrumental from *In Step* — hear how his vocabulary extends beyond strict blues. |
+| [The House Is Rockin'](https://open.spotify.com/search/The%20House%20Is%20Rockin%27%20Stevie%20Ray%20Vaughan) | Fast boogie — study right-hand energy and rhythmic drive. |
+| [Love Struck Baby](https://open.spotify.com/search/Love%20Struck%20Baby%20Stevie%20Ray%20Vaughan) | Rockabilly-influenced — listen for how he navigates a different rhythmic vocabulary from his standard blues feel. |
+| [Scuttle Buttin'](https://open.spotify.com/search/Scuttle%20Buttin%27%20Stevie%20Ray%20Vaughan) | High-tempo instrumental opener from *Couldn't Stand the Weather* — right-hand precision under extreme speed. |
+| [Life Without You](https://open.spotify.com/search/Life%20Without%20You%20Stevie%20Ray%20Vaughan) | Slow blues ballad — one of his most emotionally direct performances. |
 
 ## Eric Johnson
 
-Eric Johnson is a guitarist associated with rock, fusion, blues-influenced. Musically, the important traits here are violin-tone picking precision, pentatonic/fusion articulation, right-hand cleanliness. In this ensemble: Texas blues rock. Related listening: Stevie Ray Vaughan / Arc Angels.
+Eric Johnson is a guitarist associated with rock, fusion-influenced rock, and blues. His right-hand picking precision and attention to tone (he is famously meticulous about battery brands and cable quality) produce a "violin tone" that is distinctive across any speed or genre. His 1990 album *Ah Via Musicom* produced "Cliffs of Dover," which remains one of the best-known American guitar-instrumental recordings.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | blues-rock shred | [Wikipedia][blues-rock-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related artists. |
+| 1970s | Electromagnets | — | — | Austin fusion band. |
+| 1986 | *Tones* (solo debut) | — | — | First proper solo album. |
+| 1990 | *Ah Via Musicom* | — | — | Grammy-winning album; "Cliffs of Dover." |
+| 2005 | G3 tours | — | — | Toured alongside Satriani and Vai. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | — |
+| Guitar | 1954 Fender Stratocaster; Gibson ES-335 |
+| Amplifier | Marshall 100W; Fender Vibroverb; various vintage combos |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Venus Isle](https://open.spotify.com/search/Venus%20Isle%20Eric%20Johnson%20blues-rock%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Righteous](https://open.spotify.com/search/Righteous%20Eric%20Johnson%20blues-rock%20shred) | Listen for how the guitar fits the band. |
-| [Never Look Back](https://open.spotify.com/search/Never%20Look%20Back%20Eric%20Johnson%20blues-rock%20shred) | Focus on phrasing, tone, bends, and how Eric Johnson shapes the melodic argument. |
-| [The River Song](https://open.spotify.com/search/The%20River%20Song%20Eric%20Johnson%20blues-rock%20shred) | Listen for how the rhythm guitar lays into the groove. |
-| [Remember When](https://open.spotify.com/search/Remember%20When%20Eric%20Johnson%20blues-rock%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Full Tank](https://open.spotify.com/search/Full%20Tank%20Eric%20Johnson%20blues-rock%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Eric%20Johnson%20blues-rock%20shred) | Listen for how the guitar fits the band. |
-| [Eruption](https://open.spotify.com/search/Eruption%20Eric%20Johnson%20blues-rock%20shred) | Focus on phrasing, tone, bends, and how Eric Johnson shapes the melodic argument. |
-| [Little Wing](https://open.spotify.com/search/Little%20Wing%20Eric%20Johnson%20blues-rock%20shred) | Listen for how the rhythm guitar lays into the groove. |
-| [Kid Charlemagne](https://open.spotify.com/search/Kid%20Charlemagne%20Eric%20Johnson%20blues-rock%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Eric%20Johnson) | The definitive Eric Johnson track — listen for the "violin tone" and how clean pentatonic lines flow at high tempo. |
+| [Trademark](https://open.spotify.com/search/Trademark%20Eric%20Johnson) | From *Ah Via Musicom* — study how he alternates between fast scalar runs and spacious melodic phrasing. |
+| [Ah Via Musicom](https://open.spotify.com/search/Ah%20Via%20Musicom%20Eric%20Johnson) | Title track — heavy riff-based structure with fusion-influenced lead playing above it. |
+| [Righteous](https://open.spotify.com/search/Righteous%20Eric%20Johnson) | Slow blues groove — listen for how his tone changes character in a legato, sustain-heavy context. |
+| [Venus Isle](https://open.spotify.com/search/Venus%20Isle%20Eric%20Johnson) | From the 1996 album — long-form instrumental showing his compositional approach. |
+| [Zap](https://open.spotify.com/search/Zap%20Eric%20Johnson) | Aggressive, fast track — study right-hand picking articulation at high velocity. |
+| [Song for George](https://open.spotify.com/search/Song%20for%20George%20Eric%20Johnson) | A tribute to George Harrison — hearing his restrained, lyrical side. |
+| [Nothing Can Keep Me from You](https://open.spotify.com/search/Nothing%20Can%20Keep%20Me%20from%20You%20Eric%20Johnson) | A vocal track showing the pop-song side of his writing alongside guitar work. |
+| [Desert Rose](https://open.spotify.com/search/Desert%20Rose%20Eric%20Johnson) | From *Tones* — early recording showing the fusion/jazz-rock roots of his vocabulary. |
+| [East Wes](https://open.spotify.com/search/East%20Wes%20Eric%20Johnson) | A tribute to Wes Montgomery — hear how his jazz vocabulary operates when explicitly stated. |
 
 ## Blues Saraceno
 
-Blues Saraceno is a guitarist associated with neoclassical rock, shred, rock. Musically, the important traits here are neoclassical shred vocabulary, Shrapnel-era speed and precision, classical phrasing. In this ensemble: Texas blues rock. Related listening: Stevie Ray Vaughan / Arc Angels.
+Blues Saraceno is a guitarist associated with neoclassical rock and shred. He was signed to Shrapnel Records in the late 1980s while still a teenager and released several albums in the shred/neoclassical style. Later in his career he shifted to more stripped-down, rootsy blues-rock, developing a distinct second identity as a producer and songwriter. His early Shrapnel-era records document the technical vocabulary of that scene.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | blues-rock shred | [Wikipedia][blues-rock-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related artists. |
+| 1988–1992 | Shrapnel Records (solo) | [Wikipedia][shrapnel-records-wiki] | — | *Never Look Back*, *Hairpick* — neoclassical shred albums. |
+| 2000s–present | Solo (roots/blues) | — | — | Shifted to stripped-down blues-rock and songwriting. |
+| Various | Poison (touring) | [Wikipedia][poison-band-wiki] | — | Filled in as touring guitarist for Poison. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Guitar | — |
+| Guitar | Various Stratocaster models |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Full Tank](https://open.spotify.com/search/Full%20Tank%20Blues%20Saraceno%20blues-rock%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Dirty Boy](https://open.spotify.com/search/Dirty%20Boy%20Blues%20Saraceno%20blues-rock%20shred) | Listen for how the guitar fits the band. |
-| [Cliffs of Dover](https://open.spotify.com/search/Cliffs%20of%20Dover%20Blues%20Saraceno%20blues-rock%20shred) | Focus on phrasing, tone, bends, and how Blues Saraceno shapes the melodic argument. |
-| [Zap](https://open.spotify.com/search/Zap%20Blues%20Saraceno%20blues-rock%20shred) | Listen for how the rhythm guitar lays into the groove. |
-| [Trademark](https://open.spotify.com/search/Trademark%20Blues%20Saraceno%20blues-rock%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
-| [Venus Isle](https://open.spotify.com/search/Venus%20Isle%20Blues%20Saraceno%20blues-rock%20shred) | Use this for lead construction: entrances, development, vibrato, and release. |
-| [Comfortably Numb](https://open.spotify.com/search/Comfortably%20Numb%20Blues%20Saraceno%20blues-rock%20shred) | Listen for how the guitar fits the band. |
-| [Black Star](https://open.spotify.com/search/Black%20Star%20Blues%20Saraceno%20blues-rock%20shred) | Focus on phrasing, tone, bends, and how Blues Saraceno shapes the melodic argument. |
-| [Tender Surrender](https://open.spotify.com/search/Tender%20Surrender%20Blues%20Saraceno%20blues-rock%20shred) | Listen for how the rhythm guitar lays into the groove. |
-| [Scarified](https://open.spotify.com/search/Scarified%20Blues%20Saraceno%20blues-rock%20shred) | Track how the guitar line interacts with bass motion instead of just sitting on top. |
+| [Never Look Back](https://open.spotify.com/search/Never%20Look%20Back%20Blues%20Saraceno) | From his debut Shrapnel album — listen for how Shrapnel-era shred vocabulary applies to a blues-rock structure. |
+| [Hairpick](https://open.spotify.com/search/Hairpick%20Blues%20Saraceno) | Title track of his second album — alternate picking precision at high tempo. |
+| [Nightmare](https://open.spotify.com/search/Nightmare%20Blues%20Saraceno) | Heavy neoclassical-influenced riffing with sweep arpeggios in the solo. |
+| [Right On](https://open.spotify.com/search/Right%20On%20Blues%20Saraceno) | A fusion-influenced track showing the jazz side of his Shrapnel-era vocabulary. |
+| [Blues for You](https://open.spotify.com/search/Blues%20for%20You%20Blues%20Saraceno) | From his later blues-era work — hear the stylistic shift to more rootsy playing. |
+| [Dark and Dirty Mile](https://open.spotify.com/search/Dark%20and%20Dirty%20Mile%20Blues%20Saraceno) | Stripped-down blues-rock from his roots period — note how technique serves the song rather than the showcase. |
+| [Train Song](https://open.spotify.com/search/Train%20Song%20Blues%20Saraceno) | Acoustic-influenced; slower, more melodic approach from the mature period. |
+| [Take It Out on Me](https://open.spotify.com/search/Take%20It%20Out%20on%20Me%20Blues%20Saraceno) | Study how blues vocabulary changes when the production is stripped back to guitar, bass, and drums. |
+| [Dirty](https://open.spotify.com/search/Dirty%20Blues%20Saraceno) | A raw, riff-based track from the later blues period — different character from the Shrapnel era. |
+| [Damnation](https://open.spotify.com/search/Damnation%20Blues%20Saraceno) | Heavier track from the Shrapnel years — listen for how he constructs a solo over a metal-adjacent framework. |
 
 ## Chris Layton
 
-Chris Layton is a drummer whose playing helps shape this music. Listen for how the drum part affects Texas blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Stevie Ray Vaughan / Arc Angels.
+Chris Layton is a drummer associated with blues-rock. He was the drummer for Stevie Ray Vaughan's band Double Trouble from its formation through Vaughan's death in 1990, appearing on every studio album. His style is built around a powerful Texas shuffle feel and precise placement of fills around Vaughan's improvisation.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | blues-rock shred | [Wikipedia][blues-rock-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related artists. |
+| 1975–1990 | Double Trouble (Stevie Ray Vaughan) | [Wikipedia][double-trouble-wiki] | — | All five Vaughan studio albums; the full catalog. |
+| 1992–1994 | Arc Angels | [Wikipedia][arc-angels-wiki] | — | Post-Vaughan supergroup with Doyle Bramhall II and Charlie Sexton. |
+| 1994–present | Various (solo / session) | — | — | Continued touring and session work in Austin. |
 
 ### Known Gear
 
@@ -166,55 +175,60 @@ Chris Layton is a drummer whose playing helps shape this music. Listen for how t
 
 | Song | Why Listen |
 |---|---|
-| [Zap](https://open.spotify.com/search/Zap%20Chris%20Layton%20blues-rock%20shred) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Trademark](https://open.spotify.com/search/Trademark%20Chris%20Layton%20blues-rock%20shred) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Venus Isle](https://open.spotify.com/search/Venus%20Isle%20Chris%20Layton%20blues-rock%20shred) | Use this for groove architecture rather than just surface-level chops. |
-| [Righteous](https://open.spotify.com/search/Righteous%20Chris%20Layton%20blues-rock%20shred) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [Never Look Back](https://open.spotify.com/search/Never%20Look%20Back%20Chris%20Layton%20blues-rock%20shred) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
-| [The River Song](https://open.spotify.com/search/The%20River%20Song%20Chris%20Layton%20blues-rock%20shred) | Listen for how the drum part frames the bass line and sets the ensemble weight. |
-| [Samba de Orfeu](https://open.spotify.com/search/Samba%20de%20Orfeu%20Chris%20Layton%20blues-rock%20shred) | Track the transitions: fills, pushes, setups, and how sections are announced. |
-| [Superstition](https://open.spotify.com/search/Superstition%20Chris%20Layton%20blues-rock%20shred) | Use this for groove architecture rather than just surface-level chops. |
-| [Babylon Sisters](https://open.spotify.com/search/Babylon%20Sisters%20Chris%20Layton%20blues-rock%20shred) | Listen for dynamic control and how the drummer changes density without losing pulse. |
-| [One Word](https://open.spotify.com/search/One%20Word%20Chris%20Layton%20blues-rock%20shred) | Focus on time feel, subdivision, cymbal placement, and fill discipline. |
+| [Pride and Joy](https://open.spotify.com/search/Pride%20and%20Joy%20Stevie%20Ray%20Vaughan) | Classic SRV shuffle — study how Layton's hi-hat and rim work creates the Texas shuffle feel without being rigidly metronomic. |
+| [Texas Flood](https://open.spotify.com/search/Texas%20Flood%20Stevie%20Ray%20Vaughan) | Slow blues — listen for how drum density decreases in ballad territory while still driving the feel. |
+| [Couldn't Stand the Weather](https://open.spotify.com/search/Couldn%27t%20Stand%20the%20Weather%20Stevie%20Ray%20Vaughan) | A more aggressive track — how fills are positioned to push Vaughan's solo entrances. |
+| [Scuttle Buttin'](https://open.spotify.com/search/Scuttle%20Buttin%27%20Stevie%20Ray%20Vaughan) | Very fast boogie — study how he maintains the groove at a tempo that could easily become chaotic. |
+| [The House Is Rockin'](https://open.spotify.com/search/The%20House%20Is%20Rockin%27%20Stevie%20Ray%20Vaughan) | Rock-oriented shuffle — how he adapts the feel to a more modern, aggressive context. |
+| [Cold Shot](https://open.spotify.com/search/Cold%20Shot%20Stevie%20Ray%20Vaughan) | Mid-tempo groove — listen for hi-hat closure patterns and how the kick interacts with the bass. |
+| [Riviera Paradise](https://open.spotify.com/search/Riviera%20Paradise%20Stevie%20Ray%20Vaughan) | Long-form jazz-blues instrumental — how he plays a very different feel from the shuffle tracks. |
+| [Life Without You](https://open.spotify.com/search/Life%20Without%20You%20Stevie%20Ray%20Vaughan) | Slow ballad — study how minimal, open drumming creates emotional space. |
+| [Living in a Dream](https://open.spotify.com/search/Living%20in%20a%20Dream%20Arc%20Angels) | Arc Angels — hear how his style adapted to a different band context after Vaughan. |
+| [Tightrope](https://open.spotify.com/search/Tightrope%20Stevie%20Ray%20Vaughan) | From *In Step* — a funk-influenced groove track showing range within the blues-rock idiom. |
 
 ## Reese Wynans
 
-Reese Wynans is a keyboard player whose playing helps shape this music. Listen for how the keyboard part affects Texas blues rock: the feel, the arrangement, the transitions, and the conversation with the bass and guitar. The related listening is Stevie Ray Vaughan / Arc Angels.
+Reese Wynans is a keyboard player associated with blues-rock and soul. He joined Double Trouble in 1985, expanding the band from a trio to a quartet and appearing on *Soul to Soul* and *In Step*. His Hammond B3 and Fender Rhodes work added harmonic depth and classic soul-organ texture to the Vaughan sound without overwhelming the guitar-centric arrangements.
 
 ### Timeline
 
 | Period | Bands / Collaborators | Wikipedia | Website | Notes |
 |---|---|---|---|---|
-| Ensemble focus | blues-rock shred | [Wikipedia][blues-rock-shred-wiki] | — | Main musical setting for this ensemble. |
-| Broader work | Stevie Ray Vaughan / Arc Angels | — | — | Related artists. |
+| 1985–1990 | Double Trouble (Stevie Ray Vaughan) | [Wikipedia][double-trouble-wiki] | — | Joined for *Soul to Soul* (1985) and *In Step* (1989). |
+| 1992 | Arc Angels | [Wikipedia][arc-angels-wiki] | — | Contributed keyboard work to the Arc Angels project. |
+| Various | Session and solo work | — | — | Continued career in Austin and Nashville. |
 
 ### Known Gear
 
 | Category | Gear |
 |---|---|
-| Keyboards | — |
+| Keyboards | Hammond B3; Fender Rhodes |
 
 ### 10 Key Recordings
 
 | Song | Why Listen |
 |---|---|
-| [Righteous](https://open.spotify.com/search/Righteous%20Reese%20Wynans%20blues-rock%20shred) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [Never Look Back](https://open.spotify.com/search/Never%20Look%20Back%20Reese%20Wynans%20blues-rock%20shred) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [The River Song](https://open.spotify.com/search/The%20River%20Song%20Reese%20Wynans%20blues-rock%20shred) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [Remember When](https://open.spotify.com/search/Remember%20When%20Reese%20Wynans%20blues-rock%20shred) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [Full Tank](https://open.spotify.com/search/Full%20Tank%20Reese%20Wynans%20blues-rock%20shred) | Listen for how the keys support and color the arrangement. |
-| [Dirty Boy](https://open.spotify.com/search/Dirty%20Boy%20Reese%20Wynans%20blues-rock%20shred) | Listen for the keyboard role as both harmonic map and melodic counterweight. |
-| [The Way It Is](https://open.spotify.com/search/The%20Way%20It%20Is%20Reese%20Wynans%20blues-rock%20shred) | Focus on voicings, pads, hooks, and how the keyboard part glues the arrangement. |
-| [You Are the Sunshine of My Life](https://open.spotify.com/search/You%20Are%20the%20Sunshine%20of%20My%20Life%20Reese%20Wynans%20blues-rock%20shred) | Listen for harmonic color: extensions, inversions, and movement under the melody. |
-| [Sir Duke](https://open.spotify.com/search/Sir%20Duke%20Reese%20Wynans%20blues-rock%20shred) | Track how the keys share space with guitar and bass without blurring the groove. |
-| [As](https://open.spotify.com/search/As%20Reese%20Wynans%20blues-rock%20shred) | Listen for how the keys support and color the arrangement. |
+| [Say What!](https://open.spotify.com/search/Say%20What%20Stevie%20Ray%20Vaughan%20Soul%20to%20Soul) | From *Soul to Soul* (first album with Wynans) — listen for how the organ fills space without crowding the guitar. |
+| [Change It](https://open.spotify.com/search/Change%20It%20Stevie%20Ray%20Vaughan) | A soul-blues groove — track how Rhodes voicings set the harmonic backdrop for Vaughan's lead. |
+| [Lookin' Out the Window](https://open.spotify.com/search/Lookin%27%20Out%20the%20Window%20Stevie%20Ray%20Vaughan) | From *Soul to Soul* — study how Wynans comps behind a vocal without taking melodic attention away from it. |
+| [Tightrope](https://open.spotify.com/search/Tightrope%20Stevie%20Ray%20Vaughan) | Funk groove from *In Step* — listen for how the keyboard part creates a rhythmic layer alongside the rhythm guitar. |
+| [Let Me Love You Baby](https://open.spotify.com/search/Let%20Me%20Love%20You%20Baby%20Stevie%20Ray%20Vaughan) | Traditional blues structure — hear how organ punctuation interacts with guitar in call-and-response. |
+| [Crossfire](https://open.spotify.com/search/Crossfire%20Stevie%20Ray%20Vaughan) | From *In Step* — the most commercial SRV track; listen for keyboard's role in supporting the song's structure. |
+| [Riviera Paradise](https://open.spotify.com/search/Riviera%20Paradise%20Stevie%20Ray%20Vaughan) | Long-form jazz-blues instrumental — how Wynans handles an extended, spacious arrangement. |
+| [Wall of Denial](https://open.spotify.com/search/Wall%20of%20Denial%20Stevie%20Ray%20Vaughan) | A heavier *In Step* track — study keyboard texture in a dense, layered arrangement. |
+| [Scratch-N-Sniff](https://open.spotify.com/search/Scratch-N-Sniff%20Stevie%20Ray%20Vaughan) | From *Soul to Soul* — a rhythmically active track showing how Wynans locks with the rhythm section. |
+| [You'll Be Mine](https://open.spotify.com/search/You%27ll%20Be%20Mine%20Stevie%20Ray%20Vaughan) | Shuffle groove — traditional soul-blues keyboard role in a straightforward blues format. |
 
 ## References
 
 [kyle-brock-wiki]: https://en.wikipedia.org/wiki/Kyle_Brock
 [stevie-ray-vaughan-wiki]: https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan
-[eric-johnson-wiki]: https://en.wikipedia.org/wiki/Eric_Johnson
+[eric-johnson-wiki]: https://en.wikipedia.org/wiki/Eric_Johnson_(musician)
 [blues-saraceno-wiki]: https://en.wikipedia.org/wiki/Blues_Saraceno
 [chris-layton-wiki]: https://en.wikipedia.org/wiki/Chris_Layton
 [reese-wynans-wiki]: https://en.wikipedia.org/wiki/Reese_Wynans
-[blues-rock-shred-wiki]: https://en.wikipedia.org/wiki/blues-rock_shred
+[arc-angels-wiki]: https://en.wikipedia.org/wiki/Arc_Angels
+[double-trouble-wiki]: https://en.wikipedia.org/wiki/Double_Trouble_(band)
+[david-bowie-wiki]: https://en.wikipedia.org/wiki/David_Bowie
+[shrapnel-records-wiki]: https://en.wikipedia.org/wiki/Shrapnel_Records
+[poison-band-wiki]: https://en.wikipedia.org/wiki/Poison_(American_band)
