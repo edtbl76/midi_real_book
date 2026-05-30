@@ -80,3 +80,6 @@ fabric.properties
 
 /docs/superpowers/
 /.firebase/hosting.cHVibGlj.cache
+/node_modules/
+/public/ensembles/
+/public/index.html

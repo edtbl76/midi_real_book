@@ -1,0 +1,35 @@
+---
+permalink: index.html
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MIDI Real Book</title>
+  <link rel="stylesheet" href="site.css">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="apple-touch-icon" href="/icons/icon-180.png">
+  <meta name="theme-color" content="#5dadec">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="home-header">
+      <h1>MIDI Real Book</h1>
+      <p>Ensemble records for the MIDI Real Book. Browse the players, timelines, gear, and key recordings.</p>
+    </header>
+    <main class="home-main">
+      <div class="home-tools">
+        <input class="search-box" data-record-search type="search" placeholder="Search ensembles" aria-label="Search ensembles">
+        <span class="count" data-record-count>{{ collections.ensemble | length }} ensembles</span>
+      </div>
+      <nav class="record-grid" aria-label="Ensemble records">
+        {% for page in collections.ensemble | sortByName %}
+        <a class="record-card" data-record-card href="{{ page.url }}">{{ page.data.ensembleName }}</a>
+        {% endfor %}
+      </nav>
+    </main>
+  </div>
+  <script src="site.js"></script>
+</body>
+</html>

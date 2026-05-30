@@ -1,0 +1,29 @@
+{
+  "name": "midi_real_book",
+  "version": "1.0.0",
+  "description": "MIDI Real Book — a static reference site for ensemble study. Each record covers players, context, timeline, gear, and key recordings.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edtbl76/etudes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/edtbl76/etudes/issues"
+  },
+  "homepage": "https://github.com/edtbl76/etudes#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "markdown-it-anchor": "^8.6.7"
+  }
+}
