@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>MIDI Real Book</title>
   <link rel="stylesheet" href="site.css">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="apple-touch-icon" href="/icons/icon-180.png">
+  <meta name="theme-color" content="#0f766e">
 </head>
 <body>
   <div class="site-shell">
@@ -150,5 +153,10 @@
     </main>
   </div>
   <script src="site.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js');
+    }
+  </script>
 </body>
 </html>
